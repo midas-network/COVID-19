@@ -1,0 +1,42 @@
+Novel Coronavirus – Republic of Korea (ex-China)
+
+Disease outbreak news 
+21 January 2020
+
+On 20 January 2020, National IHR Focal Point (NFP) for Republic of Korea reported the first case of novel coronavirus in the Republic of Korea. The case is a 35-year-old female, Chinese national, residing in Wuhan, Hubei province in China.
+
+The case-patient had developed fever, chill, and muscle pain on 18 January while in Wuhan. She visited a local hospital in Wuhan and was initially diagnosed with a cold. On 19 January , the case-patient was detected with fever (38.3 °C) upon arrival at the Incheon International Airport. The case-patient was transferred to a national designated isolation hospital for testing and treatment. She was tested positive for pancoronavirus reverse transcriptase-polymerase chain reaction (RT-PCR) assay, and subsequently was confirmed positive for novel coronavirus (2019-nCoV) on 20 January by sequencing at the Korea Centers for Disease Control and Prevention (KCDC). Upon detection, the patient had chills, runny nose, and muscle pain.
+
+The case-patient did not report visiting any markets, including Huanan Seafood Wholesale Market, nor did she have known contact with confirmed 2019-nCoV cases or wild animals in Wuhan city.
+
+The case-patient is currently under isolation, receiving treatment and is in a stable condition.
+
+Public health response
+
+Contact tracing and other epidemiological investigation are underway;
+The government of the Republic of Korea has scaled up the national alert level from Blue (Level 1) to Yellow (Level 2 out of 4-level national crisis management system);
+The Republic of Korea health authority has strengthened surveillance for pneumonia cases in health facilities nationwide since 3 January 2020;
+Quarantine and screening measures have been enhanced for travelers from Wuhan at the point of entries (PoE) since 3 January 2020;
+Public risk communication has been enhanced.
+WHO risk assessment
+
+This is the fourth internationally exported case of 2019-nCoV from Wuhan City, China by travelers. Since the initial report of cases on 31 December 2019, and as of 20 January 2020, 278 laboratory-confirmed cases of 2019-nCoV infection including six deaths were reported to WHO globally from China, two cases from Thailand, one case from Japan, and one case from the Republic of Korea. In China, 51 are severe cases, and 12 cases are critically ill. They are all under isolation treatment at designated medical institutions in Wuhan. Among the cases reported in China, 14 cases have been reported from Guangdong province, five from Beijing municipality and one from Shanghai municipality.
+
+The source of the outbreak is still under investigation in Wuhan City. Preliminary investigations have identified environmental samples positive for nCoV in Huanan Seafood Wholesale Market in Wuhan City, however some laboratory-confirmed patients did not report visiting this market. Cases continue to be reported from Wuhan City, and from other provinces in China. Additional investigations are needed to determine how the patients were infected, the extent of human-to-human transmission, the clinical spectrum of disease, and the geographic range of infection.
+
+WHO advice
+
+It is prudent to remind populations and health workers of the basic principles to reduce the general risk of transmission of acute respiratory infections by following the below mentioned measures:
+
+Avoiding close contact with people suffering from acute respiratory infections;
+Frequent hand-washing, especially after direct contact with ill people or their environment;
+Avoiding unprotected contact with farm or wild animals;
+People with symptoms of acute respiratory infection should practice cough etiquette (maintain distance, cover coughs and sneezes with disposable tissues or clothing, and wash hands);
+Within healthcare facilities, enhance standard infection prevention and control practices in hospitals, especially in emergency departments.
+WHO does not recommend any specific health measures for travelers. In case of symptoms suggestive of acute respiratory illness either during or after travel, the travelers are encouraged to seek medical attention and share their travel history with their health care provider. Health authorities should work with travel, transport and tourism sectors to provide travelers with information to reduce the general risk of acute respiratory infections via travel health clinics, travel agencies, conveyance operators and at points of entry.
+
+WHO has provided interim guidance for novel coronaviruses
+
+WHO advises against the application of any travel or trade restrictions on Korea based on the information currently available on this event.
+
+Source:https://www.who.int/csr/don/21-january-2020-novel-coronavirus-republic-of-korea-ex-china/en/
