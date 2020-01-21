@@ -1,0 +1,39 @@
+Novel Coronavirus – Thailand (ex-China)
+
+Disease outbreak news 
+14 January 2020
+
+On 13 January 2020, the Ministry of Public Health (MoPH), Thailand reported the first imported case of lab-confirmed novel coronavirus (2019-nCoV) from Wuhan, Hubei Province, China.
+
+The case is a 61-year-old Chinese woman living in Wuhan City, Hubei Province, China. On 5 January 2020, she developed fever with chills, sore throat and headache. On 8 January 2020, she took a direct flight to Thailand from Wuhan City together with five family members in a tour group of 16 people. The traveler with febrile illness was detected on the same day by thermal surveillance at Suvarnabhumi Airport (BKK), Thailand, and was hospitalized the same day. After temperature check and initial assessment, she was transferred to the hospital for further investigations and treatment.
+
+The patient’s full exposure history is under investigation. She reported a history of visiting a local fresh market in Wuhan on regular basis prior to the onset of illness on 5 January 2020; however, she did not report visiting the Huanan South China Seafood Market from where most of the cases were detected. Samples tested positive for coronaviruses by reverse transcriptase-polymerase chain reaction (RT-PCR) on 12 January 2020. The genomic sequencing analysis performed by Emerging Infectious Diseases Health Science Center, the Thai Red Cross Society (EID-TRC) and the Thai National Institute of Health (Thai NIH), Department of Medical Sciences confirmed that the patient was infected with the novel coronavirus (2019-nCoV) which was isolated in Wuhan, China (for more information, please see the Disease Outbreak News published on 12 January 2020).
+
+As of this writing, the patient is in a stable condition and in hospital.
+
+Public health response
+
+The Ministry of Public Health Thailand implemented measures for screening travelers from Wuhan city on 3 January 2020 at Suvarnabhumi Airport, Don Mueang, Phuket and Chiang Mai airports, and activated enhanced surveillance at public and private hospitals. Since the identification of the case on 5 January 2019, Thai health authorities have taken the following measures:
+
+Eight febrile travelers were detected by a thermo-scan at Suvarnabhumi Airport. They have been isolated and tested, and none of them have been confirmed with 2019-nCov infection.
+A total of 182 contacts were identified and are being monitored. The contacts were fellow passengers as well as members of the same tour group. Only one contact developed respiratory symptoms and the PCR test of throat swab yields positive for Respiratory Syncytial Virus (RSV).
+Risk communication guidance has been shared with the public and a hotline has been established by the Department of Disease Control for people returning from the affected area in China with related symptoms.
+The Ministry of Public Health of Thailand has international-standard diagnosis and medical care, and is closely coordinating with WHO and related departments for the potential response measures.
+
+WHO risk assessment
+
+This is the first exported case of novel coronavirus from Wuhan city, China. Since the initial report of cases in Wuhan city on 31 December 2019, 41 cases have a preliminary diagnosis of 2019-nCoV infection, including 1 death in a person with severe underlying medical conditions (for more information, please see the Disease Outbreak News published on 12 January 2020).
+
+As the traveler did not report having visited the market linked to most of the other cases, it is vital that investigations continue to identify the source of infection. To date, China has not reported any cases of infection among healthcare workers or contacts of the cases. Based on the available information there is no clear evidence of human-to-human transmission. No additional cases have been detected since 3 January 2020 in China.
+
+Additional investigation is needed to ascertain the presence of human-to-human transmission, modes of transmission, common source of exposure and the presence of asymptomatic or mildly symptomatic cases that are undetected. It is critical to review all available information to fully understand the potential transmissibility among humans.
+
+WHO advice
+
+Health authorities should work with travel, transport and tourism sectors to provide travelers with information to reduce the general risk of acute respiratory infections via travel health clinics, travel agencies, conveyance operators and at points of entry.
+
+WHO has provided interim guidance for novel coronaviruses .
+
+WHO advises against the application of any travel or trade restrictions on Thailand based on the information currently available on this event.
+
+Source: https://www.who.int/csr/don/14-january-2020-novel-coronavirus-thailand-ex-china/en/
