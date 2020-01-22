@@ -15,6 +15,6 @@ This folder contains case reports and briefings as well as general briefings fro
 ## Wiki
 We are posting relevant links here.  Currently, we link to sequencing resources (Nextstrain, NCBI Genbank) and repositories of official reports.
 
-## Conventions
+## Details
 - All dates in file and folder names indicate date of publication
 - Google Translate was used for machine translation. Machine translated webpages and pdfs were translated in Google Chrome and saved.
