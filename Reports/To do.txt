@@ -1,6 +1,5 @@
-Finish pulling Wuhan briefings
-Get China briefings - see promed for links
-Watch for CDC announcement
-Check promed for other official announcements
+Regular/Daily Briefings:
+- China: http://www.nhc.gov.cn/yjb/s2907/new_list.shtml
+- Hubei Province: http://wjw.hubei.gov.cn/fbjd/dtyw/
 
-To consider: metadata? Data tables?
+22 Jan 2020 - Wuhan local health commission announced that all briefings would go through Hubei Province rather than the local commission.
