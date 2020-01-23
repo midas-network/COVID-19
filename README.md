@@ -10,7 +10,8 @@ This folder contains guidance documents, including case management, laboratory t
 ### Reports
 This folder contains case reports and briefings as well as general briefings from health authorities. Reports of countermeasures are also included.
 
-### Research - This is a catchall that should maybe be renamed?
+### Manuscripts
+This folder contains related manuscripts and pre-prints.
 
 ### Wiki
 We are posting relevant links here.  Currently, we link to sequencing resources (Nextstrain, NCBI Genbank) and sources of official reports.
