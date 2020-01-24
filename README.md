@@ -1,4 +1,6 @@
-# Repository for Wuhan Coronavirus
+# 2019 novel coronavirus/Wuhan coronavirus repository
+This repository will be used to share publicly available data, reports, and other publications related to Wuhan coronavirus. 
+
 
 ## Navigation
 ### Comment
