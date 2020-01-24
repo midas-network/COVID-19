@@ -14,7 +14,7 @@ This folder contains case reports and briefings as well as general briefings fro
 This folder contains related manuscripts and pre-prints.
 
 ### Wiki
-We are posting relevant links here.  Currently, we link to sequencing resources (Nextstrain, NCBI Genbank) and sources of official reports.
+We are posting relevant links here, including data and code,   sequencing resources (Nextstrain, NCBI Genbank), and sources of official reports.
 
 ### Details
 - All dates in file and folder names indicate date of publication
