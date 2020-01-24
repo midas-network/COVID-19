@@ -6,6 +6,9 @@ This repository will be used to share publicly available data, reports, and othe
 ### Comment
 This folder contains relevant editorials, commentaries, and letters to the editor.
 
+### Data
+Links to publicly available, aggregated data and contributions from collaborators.
+
 ### Guidance
 This folder contains guidance documents, including case management, laboratory testing, and surveillance definitions. Documents are currently categorized by issuing body. Interim documents will be updated when necessary.
 
