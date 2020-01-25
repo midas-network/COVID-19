@@ -1,6 +1,8 @@
 # 2019 novel coronavirus/Wuhan coronavirus repository
 This repository will be used to share publicly available data, reports, and other publications related to Wuhan coronavirus. 
 
+## For Contributors
+Contribution instructions [are available here](https://github.com/midas-network/Wuhan-CoV/blob/master/Contribution%20Instructions.md). Conventions [are available here](https://github.com/midas-network/Wuhan-CoV/blob/master/Conventions.md).
 
 ## Navigation
 ### Comment
@@ -16,11 +18,7 @@ This folder contains guidance documents, including case management, laboratory t
 This folder contains case reports and briefings as well as general briefings from health authorities. Reports of countermeasures are also included.
 
 ### Manuscripts
-This folder contains related manuscripts and pre-prints.
+Manuscripts and preprints -- To facilitate preprints or request review of your own, vist Outbreak Science's [Rapid PREreview Platform](https://outbreaksci.prereview.org)
 
 ### Wiki
-We are posting relevant links here, including data and code,   sequencing resources (Nextstrain, NCBI Genbank), and sources of official reports.
-
-### Details
-- All dates in file and folder names indicate date of publication
-- Google Translate was used for machine translation. Machine translated webpages and pdfs were translated in Google Chrome and saved.
+Relevant links, including data and code, sequencing resources, and sources of official reports.
