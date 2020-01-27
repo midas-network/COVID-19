@@ -1,6 +1,6 @@
 # Data dictionary
 
-This document describes a standardized format for sharing data related to the 2019 Wuhan coronavirus outbreak. The initial aim is to convert all data from public reports into a standardized and easily accessible format as a comma separated values (csv) file. Any tabular or non-tabular data may be captured in this format.
+This document describes a standardized format for sharing data related to the 2019 novel coronavirus outbreak. The initial aim is to convert all data from public reports into a standardized and easily accessible format as a comma separated values (csv) file. Any tabular or non-tabular data may be captured in this format.
 
 ## Directory conventions
 
@@ -20,7 +20,7 @@ The first, a report data file will be created for each report assimilated. The l
 
 ## Report data files
 
-Each csv file should represent data from a single report, whether that report has no tables, a single table, or multiple tables. Each line in the file should represent a numerical value from that report with relevant time, location, and data type information. The name of each csv file should have the same name as the 'short_name' for the report type followed by and underscore and the 'report_date' (described below), e.g. ***OUR EXAMPLE HERE.  Original:  e.g. 'COES_Microcephaly_2016-01-03.csv'****
+Each csv file should represent data from a single report, whether that report has no tables, a single table, or multiple tables. Each line in the file should represent a numerical value from that report with relevant time, location, and data type information. The name of each csv file should have the same name as the 'short_name' for the report type followed by and underscore and the 'report_date' (described below), e.g. ***OUR EXAMPLE HERE.  Original:  e.g. 'COES_Microcephaly_2016-01-03.csv'***
 
 Across all fields, do not use any white spaces (spaces or tabs) or commas. Use only ASCII characters (not ASCII extended).
 
