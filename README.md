@@ -1,8 +1,8 @@
-# 2019 novel coronavirus/Wuhan coronavirus repository
-This repository will be used to share publicly available data, reports, and other publications related to Wuhan coronavirus. 
+# 2019 novel coronavirus repository
+This repository will be used to share publicly available data, reports, and other publications related to the 2019 novel coronavirus. 
 
 ## For Contributors
-Contribution instructions [are available here](https://github.com/midas-network/Wuhan-CoV/blob/master/Contribution%20Instructions.md). Conventions [are available here](https://github.com/midas-network/Wuhan-CoV/blob/master/Conventions.md).
+Contribution instructions [are available here](https://github.com/midas-network/Wuhan-CoV/blob/master/how_to_contribute.md), with data dictionary [ available here](https://github.com/midas-network/Wuhan-CoV/blob/master/data_dictionary.md).
 
 ## Navigation
 ### Comment
