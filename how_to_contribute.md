@@ -1,11 +1,11 @@
-# Contributing to the MIDAS 2019 Wuhan coronavirus repo 
+# Contributing to the MIDAS 2019 nCoV repo 
   
 ## GitHub
 ### Create GitHub account & fork midasnetwork/Wuhan-Cov  
 1. Create a GitHub account and log in through: https://github.com
 2. Go to CDC Zika Repo: https://github.com/midasnetwork/Wuhan-Cov 
 3. On the upper right corner, click on **Fork**.  
-   **You have now forked the MIDAS 2019 Wuhan coronavirus repo into your github account.**  
+   **You have now forked the MIDAS 2019 nCoV repo into your github account.**  
   
   ***
   
@@ -21,14 +21,14 @@
      + This request will be reviewed and merged by owner.  
      + Note: All changes must be made from YOUR repo fork.  
      + Click on the green **Pull Request** button.  
-     + Owners of the cdc zika repo will verify and merge your changes to the original repo
+     + Owners of the MIDAS nCoV repo will verify and merge your changes to the original repo
   
   ***     
        
 ## Git  
 ### Configure Git locally (using Windows)  
   Git must be installed on your computer.  
-  You must have a GitHub account active and the forked zika repo in your account.  
+  You must have a GitHub account active and the forked nCoV repo in your account.  
   
 1. Open Git Bash  
 2. Change directory to where you will clone your repo to configure Git:  
@@ -37,7 +37,7 @@
      + `git config --global user.email "YOUR_EMAIL"`  
      + `git config --global credential.helper wincred` <--for https credentials  
 4. Clone your fork locally:  
-     + `git clone https://github.com/YOUR_USERNAME/zika.git` <-- you are cloning *your* fork.  
+     + `git clone https://github.com/YOUR_USERNAME/Wuhan-CoV.git` <-- you are cloning *your* fork.  
      + Within your current directory, a new directory will be created locally. This is your cloned fork.  
   
   ***
