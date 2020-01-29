@@ -1,0 +1,1 @@
+* [**Preparedness and proactive infection control measures against the emerging Wuhan coronavirus pneumonia in China.** Cheng VCC, Wong S-C, To KKW, Ho PL and Yuen K-Y. J Hosp Infect. 2020; S0195-6701(20)30034-7.](https://doi.org/10.1016/j.jhin.2020.01.010)

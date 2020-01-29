@@ -1,1 +1,1 @@
-
+* [**A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster.** Chan JF-W, Yuan S, Kok K-H, To KK-W, Chu H, Yang J, Xing F, Liu J, Yip CC-Y, Poon RW-S, Tsoi H-W, Lo SK-F, Chan K-H, Poon VK-M, Chan W-M, Ip JD, Cai J-P, Cheng VC-C, Chen H, Hui CK-M and Yuen K-Y. Lancet. 2020; S0140-6736(20)30154-9.](https://doi.org/10.1016/s0140-6736(20)30154-9)

@@ -1,0 +1,1 @@
+* [**Pneumonia of Unknown Etiology in Wuhan, China: Potential for International Spread Via Commercial Air Travel.** Bogoch II, Watts A, Thomas-Bachli A, Huber C, Kraemer MUG and Khan K. J Travel Med. 2020; taaa008.](https://doi.org/10.1093/jtm/taaa008)
