@@ -1,6 +1,6 @@
 ## Collection Metadata
 
-| Metadata element  | Value |
+| Element  | Value |
 | ------------- | ------------- |
 | ID |line_listings_nihfogarty |
 | Title (English)  | nCoV line listings from DXY.cn maintained by NIH Fogarty  |
