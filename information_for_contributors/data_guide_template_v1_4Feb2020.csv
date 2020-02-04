@@ -1,0 +1,12 @@
+Fieldname (columns),Description,Example
+collection_ID,ID number of the collection for which the data guide was made,line_listings_nihfogarty
+data_field_code,"Unique ID for the data field being described, made up of an abbreviation of the collection name and a sequential number",LLN1
+data_field_name,"Name of the data field, or variable",reporting date
+full_name_en,"Full name of the data field in English, as close to the source document as possible",reporting date
+full_name_original,"Full name of the data field in the original source language, identical to the source document",reporting date
+description,Description of the data field,Date of broadcast on DXY.cn
+format,Format of the data field,"Text, numeric, date"
+unit,"Unit of the data field, or variable",Days
+information_update_date,Date on which the data guide was last updated,2/3/2020
+informatin_update_person,Name of the person who last updated the data guide,Wilbert van Panhuis
+information_update_email,Email of the person who last updated,wgvanpanhuis@gmail.com

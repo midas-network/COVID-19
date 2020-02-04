@@ -1,0 +1,20 @@
+Fieldname,Description
+int_id,Unique internal identifier of the file
+category,"Type of document (outbreak update, model report, news report, other report, guideline, pre-print, peer-reviewed manuscript)"
+filename,Name of file
+filetype,"Type of file: PDF, Word, Text, other"
+path_repository,Path of file in the repository
+ext_id,Unique identifier of the file
+ext_id_type,"Type of identifier (DOI, ArXiv ID, other)"
+title_en,Title in English
+title_original,Title in original language
+author_name,Name of author(s) or organization who created the file
+creator_contact,Contact information for author(s) or organization who created the file
+publisher,Name of person or organization who pulbished the file
+publication_date,Date at which the file was published
+publication_venue,"Venue of publication (journal name, pre-print server, etc.)"
+description,Description of the publication
+URL_original,URL of the original source of the file
+updated_date,Date on which the record was last updated
+lastupdated_person,"Name, affiliation, and ID (ORCID, Publon ID, other) of person who last updated the record"
+lastupdated_email,Email of the person who last updated the record

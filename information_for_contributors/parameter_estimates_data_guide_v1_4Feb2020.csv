@@ -3,7 +3,9 @@ id,unique identififer of estimate,text
 name,"name of the estimate, selected from list of standard names",text
 abbreviation,abbreviation of estimate (selected from list of standard abbreviations),text
 units,units of the estimate,text
-location,location for which the estimate has been made,text
+country,country for which the estimate has been made,text
+location_name,name of location for which the estimate has been made,text
+location_type,"type of location for which the estimate has been made (e.g., city, province, county, etc.)",text
 start_date,start date of the time interval for which the estimate has been made,date
 end_date,end date of the time interval for which the estimate has been made,date
 value,estimate value,numeric
@@ -18,6 +20,8 @@ date_publication,date the estimate was published,date
 type_publication,"type of publiation in which the estimate was published (report, pre-print, peer-reviewed, Github, dashboard, etc.)",text
 title_publication,title of the publication in which the estimate was published,text
 authors,authors who pulbished the estimate,text
+id_publication,unique identifier for the publication,text
+id_type,"type of identifier for the publication (DOI, ArXiv ID, other)",text
 publication_URL,URL to the publication in which the estimate was published,text
 entry_date,date the estimate was entered in the estimate sheet,date
 entry_person,name of the person who entered the estimate in the estimate sheet,text
