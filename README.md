@@ -18,6 +18,9 @@ This folder contains guidance documents, including case management, laboratory t
 This folder contains case reports and briefings as well as general briefings from health authorities. Reports of countermeasures are also included.
 
 
+# Parameter estimates
+## [Parameter Estimates 2019 Novel Coronavirus](https://github.com/midas-network/2019-ncov/tree/master/parameter_estimates/2019_novel_coronavirus)
+
 ### Pre-prints
 
 ### Modeling
