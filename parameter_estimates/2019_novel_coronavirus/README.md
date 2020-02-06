@@ -6,5 +6,5 @@
 
 |Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|
-|4000|1000|9700|China|Wuhan City|2020-01-18|2020-01-18|2020-01-22|[Imperial College](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/2019-nCoV-outbreak-report-22-01-2020.pdf|
+|4000|1000|9700|China|Wuhan City|2020-01-18|2020-01-18|2020-01-22|[Imperial College](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/2019-nCoV-outbreak-report-22-01-2020.pdf)|
 |5900|2900|10500|China|Wuhan City|2020-01-23|2020-01-23|2020-01-24|[Mobs-lab](https://www.mobs-lab.org/uploads/6/7/8/7/6787877/wuhan_novel_coronavirus_jan24.pdf)|
