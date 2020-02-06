@@ -1,4 +1,4 @@
-[Data Guide for Parameter Estimates](https://github.com/midas-network/2019-ncov/blob/master/information_for_contributors/parameter_estimates_data_guide_v1_4Feb2020.csv)
+[Data Guide for Parameter Estimates](https://github.com/midas-network/2019-ncov/blob/master/information_for_contributors/parameter_estimates_data_guide_v1_4Feb2020.csv)  
 [List of Parameters](https://github.com/midas-network/2019-ncov/blob/master/information_for_contributors/parameter_list_v1.0_4Feb2020.csv)
 
 # Transmission
