@@ -12,5 +12,5 @@
 ## Basic reproduction number
 |Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|
-|0.3|0.17|0.44|China|Wuhan City|2020-01-18|2019-12-31|2020-01-22|[University of Hong Kong](https://eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.3.2000044#r16)|
-|2.2|1.4|3.8|China|Wuhan City|2020-01-18|2019-12-31|2020-01-23|[University of Bern](https://www.biorxiv.org/content/10.1101/2020.01.23.917351v1.full.pdf)|
+|0.3|0.17|0.44|China|Wuhan City|2019-12-31|2020-01-18|2020-01-22|[University of Hong Kong](https://eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.3.2000044#r16)|
+|2.2|1.4|3.8|China|Wuhan City|2019-12-31|2020-01-18|2020-01-23|[University of Bern](https://www.biorxiv.org/content/10.1101/2020.01.23.917351v1.full.pdf)|
