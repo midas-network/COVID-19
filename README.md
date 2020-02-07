@@ -37,13 +37,13 @@ Many people have contributed to the creation of this repository and of its conte
 ## Contact Information
 For any questions or comments related to this repository, submit an [issue](https://github.com/midas-network/2019-ncov/issues) or contact the MIDAS Coordination Center. 
 
-[MIDAS Coordination Center](https://midasnetwork.us/mcc/)
-University of Pittsburgh
-A737 Public Health
-130 DeSoto Street
-Pittsburgh PA 15261
-United States
-Tel: +1 412-624-7693
+[MIDAS Coordination Center](https://midasnetwork.us/mcc/)  
+University of Pittsburgh  
+A737 Public Health  
+130 DeSoto Street  
+Pittsburgh PA 15261  
+United States  
+Tel: +1 412-624-7693  
 Email: questions@midasnetwork.us
 
 
