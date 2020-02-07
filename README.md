@@ -2,84 +2,48 @@
 This repository serves as central platoform to share resources relevant for modeling of the 2019-nCoV outbreak. The repository was created by the [IDAS Coordination Center (MCC)](https://midasnetwork.us/mcc/), who will continue to maintain it in collaboration with the broader modeling community. Community members are encouraged to contribute resources to the repository and thus support the overall 2019-nCoV research effort. 
 
 ## Data
-All data sources relevant for 2019-nCoV modeling can be uploaded/found here. Data are uploaded by the MCC and by community members. Data can be in many different formats and levels of curation. Sets of related data files are presented as "collections". For example, a collection can be a set of related outbreak situation updates from a country, a set of time-stamped backup files, or another set of related files. Each collection has its own metadata, data guide, and location dictionary that maps geographic locations listed in the collection to international standards. Data includes many different types of data, including:
-* Case data in line listing or count format, outbreak situation reports, and other sources of case data
-*
+All data sources relevant for 2019-nCoV modeling can be uploaded/found here, including case count data and line listings. Data are uploaded by the MCC and by community members. Data can be in many different formats and levels of curation. Sets of related data files are presented as "collections". For example, a collection can be a set of related outbreak situation updates from a country, a set of time-stamped backup files, or another set of related files. Each collection has its own metadata, data guide, and location dictionary that maps geographic locations listed in the collection to international standards.
+
+# Most recently added data
+* List here
 
 ## Parameter estimates
-## [Parameter Estimates 2019 Novel Coronavirus](https://github.com/midas-network/2019-ncov/tree/master/parameter_estimates/2019_novel_coronavirus)
+Once CSV file with estimates for epidemiological parameters relevant for nCoV modeling extracted from a variety of sources including preliminary model reports, pre-prints, and peer-reviewed publications. For each parameter, metadata are also extracted. Parameter estimates are extracted by a team of curators from the MIDAS Coordination Center and others, and reviewed by community members (list here) for accuracy. A subset of the CSV file is displayed in a readme file.
 
-## For Contributors
-Contribution instructions [are available here](https://github.com/midas-network/Wuhan-CoV/blob/master/how_to_contribute.md), with data dictionary [ available here](https://github.com/midas-network/Wuhan-CoV/blob/master/data_dictionary.md).
+# [Parameter Estimates 2019 Novel Coronavirus](https://github.com/midas-network/2019-ncov/tree/master/parameter_estimates/2019_novel_coronavirus)
 
-## Navigation
-### Comment
-This folder contains relevant editorials, commentaries, and letters to the editor.
+# Parameter Estimates for SARS
+# Parameter Estimates for MERS
+# Parameter Estimates for Seasonal influenza
 
-### Data
-Links to publicly available, aggregated data and contributions from collaborators.
+## Algorithms & Visualizations
+Source code and/or links to algorithms for data-processing and modeling will be included in this section together with relevant metadata. Links and metadata for visualizations and dashboards related to 2019-nCoV are also listed. 
 
-### Guidance
-This folder contains guidance documents, including case management, laboratory testing, and surveillance definitions. Documents are currently categorized by issuing body. Interim documents will be updated when necessary.
+# Most recently added items
+* List here
 
-### Reports
-This folder contains case reports and briefings as well as general briefings from health authorities. Reports of countermeasures are also included.
+## Documents
+All documents relevant to 2019-nCoV can be posted in this section. Documents are mostly organized by country or by topic. Pre-prints and peer-reviewd manuscripts are posted with links to external webpages while all other documents are stored in this repository and internal links to those documents are listed. Documents include:
+* Report, inlcuding outbreak situation reports/updates, modeling reports and other "grey literature"
+* Pre-prints and peer-reviewed publications, organized by topic
+* Guidelines by WHO, China, and US CDC related to 2019-nCoV
 
+## Information for Contributors
+Anybody can contribute to this repository through pull requests. Community members are encouraged to contribute new data and findings, and help make this repository increasingly complete and useful. This section include detailed instructions for pull requests and templates for metadata, data guides, and other files formats and content standards. 
 
-# Parameter estimates
+## Information for Users
+Many people have contributed to the creation of this repository and of its content. Please cite the creators of data or other content listed in the respective metadata, if you use any of their contributions. Also cite this repository as the source for those contributions as per the following suggested citation: "Creators of object, name of object, Retrieved from: MIDAS 2019 Novel Coronavirus Github Repository, URL. Accessed date"
 
+## Contact Information
+For any questions or comments related to this repository, submit an [issue](https://github.com/midas-network/2019-ncov/issues) or contact the MIDAS Coordination Center. 
 
-### Pre-prints
-
-### Modeling
-* [**A mathematical model for simulating the transmission of Wuhan novel Coronavirus.** Chen T, Rui J, Wang Q, Zhao Z, Cui J-A and Yin L. bioRxiv. 2020; 2020.01.19.911669.](https://doi.org/10.1101/2020.01.19.911669)
-
-* [**Potential for global spread of a novel coronavirus from China.** Bogoch II, Watts A, Thomas-Bachli A, Huber C, Kraemer MUG and Khan K. J Travel Med. 2020; taaa011.](https://doi.org/10.1093/jtm/taaa011)
-
-* [**The incubation period of 2019-nCoV infections among travellers from Wuhan, China.** Backer JA, Klinkenberg D and Wallinga J. medRxiv. 2020; 2020.01.27.20018986.](https://doi.org/10.1101/2020.01.27.20018986)
-
-### Genetics
-* [**The 2019-new coronavirus epidemic: evidence for virus evolution.** Benvenuto D, Giovannetti M, Ciccozzi A, Spoto S, Angeletti S and Ciccozzi M. bioRxiv. 2020; 2020.01.24.915157.](https://doi.org/10.1101/2020.01.24.915157)
-
-* [**Emerging coronaviruses: genome structure, replication, and pathogenesis.** Chen Y, Liu Q and Guo D. J Med Virol. 2020; 10.1002/jmv.25681.](https://doi.org/10.1002/jmv.25681)
-
-* **Genomic and protein structure modelling analysis depicts the origin and infectivity of 2019-nCoV, a new coronavirus which caused a pneumonia outbreak in Wuhan, China.** Dong N, Yang X, Ye L, Chen K, Chan EW-C, Yang M and Chen S. bioRxiv. 2020; 2020.01.20.913368.
-	+ [Version 1](https://www.biorxiv.org/content/10.1101/2020.01.20.913368v1.article-info)
-	+ [Version 2](https://doi.org/10.1101/2020.01.20.913368)
-
-* [**Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting Wuhan.** Chan JF-W, Kok K-H, Zhu Z, Chu H, To KK-W, Yuan S and Yuen K-Y. Emerg Microbes Infect. 2020; 9: 221-236.](https://doi.org/10.1080/22221751.2020.1719902)
+[MIDAS Coordination Center](https://midasnetwork.us/mcc/)
+University of Pittsburgh
+A737 Public Health
+130 DeSoto Street
+Pittsburgh PA 15261
+United States
+Tel: +1 412-624-7693
+Email: questions@midasnetwork.us
 
 
-
-### Manuscripts
-Manuscripts and preprints -- To facilitate preprints or request review of your own, vist Outbreak Science's [Rapid PREreview Platform](https://outbreaksci.prereview.org)
-
-#### Clinical Practice
-* [**Preparedness and proactive infection control measures against the emerging Wuhan coronavirus pneumonia in China.** Cheng VCC, Wong S-C, To KKW, Ho PL and Yuen K-Y. J Hosp Infect. 2020; S0195-6701(20)30034-7.](https://doi.org/10.1016/j.jhin.2020.01.010)
-
-#### Clinical Trial
-
-#### Commentaries
-* [**A novel coronavirus outbreak of global health concern.** Wang C, Horby PW, Hayden FG and Gao GF. Lancet (London, England). 2020; S0140-6736(20)30185-9.](https://doi.org/10.1016/S0140-6736(20)30185-9)
-
-* [**The continuing 2019-nCoV epidemic threat of novel coronaviruses to global health - The latest 2019 novel coronavirus outbreak in Wuhan, China.** Hui DS, I Azhar E, Madani TA, Ntoumi F, Kock R, Dar O, Ippolito G, McHugh TD, Memish ZA, Drosten C, Zumla A and Petersen E. Int J Infect Dis. 2020; 91: 264-266.](https://doi.org/10.1016/j.ijid.2020.01.009)
-
-* [**Data sharing and outbreaks: best practice exemplified.** Heymann DL. The Lancet.](https://doi.org/10.1016/S0140-6736(20)30184-7)
-
-* [**Emerging understandings of 2019-nCoV.** The L. The Lancet.](https://doi.org/10.1016/S0140-6736(20)30186-0)
-
-* [**Outbreak of Pneumonia of Unknown Etiology in Wuhan China: the Mystery and the Miracle.** Lu H, Stratton CW and Tang Y-W. Journal of medical virology. 2020; 10.1002/jmv.25678.](https://doi.org/10.1002/jmv.25678)
-
-* [**Pneumonia of Unknown Etiology in Wuhan, China: Potential for International Spread Via Commercial Air Travel.** Bogoch II, Watts A, Thomas-Bachli A, Huber C, Kraemer MUG and Khan K. J Travel Med. 2020; taaa008.](https://doi.org/10.1093/jtm/taaa008)
-
-#### Modeling
-
-#### Laboratory studies
-
-#### Outbreak reports
-* [**A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster.** Chan JF-W, Yuan S, Kok K-H, To KK-W, Chu H, Yang J, Xing F, Liu J, Yip CC-Y, Poon RW-S, Tsoi H-W, Lo SK-F, Chan K-H, Poon VK-M, Chan W-M, Ip JD, Cai J-P, Cheng VC-C, Chen H, Hui CK-M and Yuen K-Y. Lancet. 2020; S0140-6736(20)30154-9.](https://doi.org/10.1016/s0140-6736(20)30154-9)
-
-
-
-### Wiki
-Relevant links, including data and code, sequencing resources, and sources of official reports.
