@@ -1,5 +1,13 @@
-# 2019 novel coronavirus repository
-This repository will be used to share publicly available data, reports, and other publications related to the 2019 novel coronavirus. 
+# MIDAS 2019 Novel Coronavirus Repository
+This repository serves as central platoform to share resources relevant for modeling of the 2019-nCoV outbreak. The repository was created by the [IDAS Coordination Center (MCC)](https://midasnetwork.us/mcc/), who will continue to maintain it in collaboration with the broader modeling community. Community members are encouraged to contribute resources to the repository and thus support the overall 2019-nCoV research effort. 
+
+## Data
+All data sources relevant for 2019-nCoV modeling can be uploaded/found here. Data are uploaded by the MCC and by community members. Data can be in many different formats and levels of curation. Sets of related data files are presented as "collections". For example, a collection can be a set of related outbreak situation updates from a country, a set of time-stamped backup files, or another set of related files. Each collection has its own metadata, data guide, and location dictionary that maps geographic locations listed in the collection to international standards. Data includes many different types of data, including:
+* Case data in line listing or count format, outbreak situation reports, and other sources of case data
+*
+
+## Parameter estimates
+## [Parameter Estimates 2019 Novel Coronavirus](https://github.com/midas-network/2019-ncov/tree/master/parameter_estimates/2019_novel_coronavirus)
 
 ## For Contributors
 Contribution instructions [are available here](https://github.com/midas-network/Wuhan-CoV/blob/master/how_to_contribute.md), with data dictionary [ available here](https://github.com/midas-network/Wuhan-CoV/blob/master/data_dictionary.md).
@@ -19,7 +27,7 @@ This folder contains case reports and briefings as well as general briefings fro
 
 
 # Parameter estimates
-## [Parameter Estimates 2019 Novel Coronavirus](https://github.com/midas-network/2019-ncov/tree/master/parameter_estimates/2019_novel_coronavirus)
+
 
 ### Pre-prints
 
