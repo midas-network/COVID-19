@@ -24,7 +24,7 @@ Source code and/or links to algorithms for data-processing and modeling will be 
 
 ## Documents
 All documents relevant to 2019-nCoV can be posted in this section. Documents are mostly organized by country or by topic. Pre-prints and peer-reviewd manuscripts are posted with links to external webpages while all other documents are stored in this repository and internal links to those documents are listed. Documents include:
-* Report, inlcuding outbreak situation reports/updates, modeling reports and other "grey literature"
+* Reports, inlcuding outbreak situation reports/updates, modeling reports and other "grey literature"
 * Pre-prints and peer-reviewed publications, organized by topic
 * Guidelines by WHO, China, and US CDC related to 2019-nCoV
 
