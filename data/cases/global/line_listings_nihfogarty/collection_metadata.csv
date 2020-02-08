@@ -1,7 +1,8 @@
 collection_ID,line_listings_nihfogarty
 collection_title_en,nCoV line listings from DXY.cn maintained by NIH Fogarty
 collection_title_original,Kudos to DXY.cn
-collection_path_repository,2019-ncov\case_counts\line_listings_nihfogarty
+collection_path_repository,2019-ncov\data\cases\global\line_listings_nihfogarty
+collection_language,English
 collection_creator_name,"Kaiyuan Sun, NIH Fogarty"
 collection_creator_contact,contact.sunky@gmail.com
 collection_publisher,"Kaiyuan Sun, NIH Fogarty"
@@ -10,13 +11,14 @@ collection_URL_original,https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxu
 collection_format,Google Sheet 
 collection_number_files,<list names of files in the collection>
 collection_members,0
-collection_first_report_date,1/20/2020
-collection_last_report_date,1/30/2020
+collection_first_report_date,2020-01-20
+collection_last_report_date,2020-01-30
 collection_license,NA
 collection_access,Google Sheet that can be downloaded
 related_object_id,NA
 related_object_path,NA
 relation_description,NA
-collection_lastupdated_date,2/1/2020
+curation_notes,NA
+collection_lastupdated_date,2020-02-08
 collection_lastupdated_person,"Wilbert van Panhuis, University of Pittsburgh, ORCID 0000-0002-7278-9982"
 collection_lastupdated_email,wgvanpanhuis@gmail.com

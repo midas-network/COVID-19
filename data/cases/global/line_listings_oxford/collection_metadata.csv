@@ -1,7 +1,8 @@
 collection_ID,line_listings_oxford
 collection_title_en,nCoV line listings from various sources maintained by Oxford and others
 collection_title_original,nCoV2019_2020_line_list_open
-collection_path_repository,2019-ncov\case_counts\line_listings_oxford
+collection_path_repository,2019-ncov\data\cases\global\line_listings_oxford
+collection_language,English
 collection_creator_name.1,Bernando Gutierrez
 collection_creator_name.2,Sarah Hill
 collection_creator_name.3,Moritz Kraemer
@@ -34,13 +35,14 @@ collection_URL_original,https://docs.google.com/spreadsheets/d/1itaohdPiAeniCXNl
 collection_format,Google Sheet 
 collection_number_files,<list names of files in the collection>
 collection_members,0
-collection_first_report_date,1/21/2020
-collection_last_report_date,2/3/2020
+collection_first_report_date,2020-01-21
+collection_last_report_date,2020-02-03
 collection_license,NA
 collection_access,Google Sheet that can be downloaded
 related_object_id,line_listings_oxford_github
 related_object_path,2019-ncov\case_counts\line_listings_oxford_github
 relation_description,Github repository that stores versions of the Google Sheet as csv files. The Google Sheet data appreas to be ahead of the Github equivalent csv files. 
-collection_lastupdated_date,2/3/2020
+curation_notes,NA
+collection_lastupdated_date,2020-02-08
 collection_lastupdated_person,"Wilbert van Panhuis, University of Pittsburgh, ORCID 0000-0002-7278-9982"
 collection_lastupdated_email,wgvanpanhuis@gmail.com
