@@ -33,16 +33,43 @@ collection_publisher,Creators
 collection_description,"2019 Novel Coronavirus line listings reported inside and outside Hubai province obtained from a variety of sources including BNO news, Weibo, and other news and governmental sources from China and abroad. Data are entered by a group of volunteers and de-duplication occurs based on a statistical algorithm that checks the probability of a case being a duplicate. Cases are flagged as being almost certainly not a duplicate. "
 collection_URL_original,https://docs.google.com/spreadsheets/d/1itaohdPiAeniCXNlntNztZ_oRvjh0HsGuJXUJWET008/edit#gid=0
 collection_format,Google Sheet 
-collection_number_files,<list names of files in the collection>
-collection_members,0
-collection_first_report_date,2020-01-21
-collection_last_report_date,2020-02-03
+collection_number_files,28
+collection_members.1,2020_01_27_1800EST_linelist_Hubei_Oxford
+collection_members.2,2020_01_27_1800EST_linelist_outside_Hubei_Oxford
+collection_members.3,2020_01_28_1800EST_linelist_Hubei_Oxford
+collection_members.4,2020_01_28_1800EST_linelist_outside_Hubei_Oxford
+collection_members.5,2020_01_29_1800EST_linelist_Hubei_Oxford
+collection_members.6,2020_01_29_1800EST_linelist_outside_Hubei_Oxford
+collection_members.7,2020_01_30_1800EST_linelist_Hubei_Oxford
+collection_members.8,2020_01_30_1800EST_linelist_outside_Hubei_Oxford
+collection_members.9,2020_01_31_1800EST_linelist_Hubei_Oxford
+collection_members.10,2020_01_31_1800EST_linelist_outside_Hubei_Oxford
+collection_members.11,2020_02_01_1800EST_linelist_Hubei_Oxford
+collection_members.12,2020_02_01_1800EST_linelist_outside_Hubei_Oxford
+collection_members.13,2020_02_02_1800EST_linelist_Hubei_Oxford
+collection_members.14,2020_02_02_1800EST_linelist_outside_Hubei_Oxford
+collection_members.15,2020_02_03_1800EST_linelist_Hubei_Oxford
+collection_members.16,2020_02_03_1800EST_linelist_outside_Hubei_Oxford
+collection_members.17,2020_02_04_1800EST_linelist_Hubei_Oxford
+collection_members.18,2020_02_04_1800EST_linelist_outside_Hubei_Oxford
+collection_members.19,2020_02_05_1800EST_linelist_Hubei_Oxford
+collection_members.20,2020_02_05_1800EST_linelist_outside_Hubei_Oxford
+collection_members.21,2020_02_06_1800EST_linelist_Hubei_Oxford
+collection_members.22,2020_02_06_1800EST_linelist_outside_Hubei_Oxford
+collection_members.23,2020_02_07_1800EST_linelist_Hubei_Oxford
+collection_members.24,2020_02_07_1800EST_linelist_outside_Hubei_Oxford
+collection_members.25,2020_02_08_1800EST_linelist_Hubei_Oxford
+collection_members.26,2020_02_08_1800EST_linelist_outside_Hubei_Oxford
+collection_members.27,2020_02_09_1800EST_linelist_Hubei_Oxford
+collection_members.28,2020_02_09_1800EST_linelist_outside_Hubei_Oxford
+collection_first_report_date,2020-01-27
+collection_last_report_date,2020-02-09
 collection_license,NA
 collection_access,Google Sheet that can be downloaded
 related_object_id,line_listings_oxford_github
 related_object_path,2019-ncov\case_counts\line_listings_oxford_github
 relation_description,Github repository that stores versions of the Google Sheet as csv files. The Google Sheet data appreas to be ahead of the Github equivalent csv files. 
 curation_notes,NA
-collection_lastupdated_date,2020-02-08
-collection_lastupdated_person,"Wilbert van Panhuis, University of Pittsburgh, ORCID 0000-0002-7278-9982"
-collection_lastupdated_email,wgvanpanhuis@gmail.com
+collection_lastupdated_date,2020-02-10
+collection_lastupdated_person,"Lucie Contamin, University of Pittsburgh, ORCID 0000-0001-5797-1279"
+collection_lastupdated_email,contamin@pitt.edu
