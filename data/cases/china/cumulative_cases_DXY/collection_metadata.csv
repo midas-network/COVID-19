@@ -1,0 +1,30 @@
+collection_ID,cumulative_cases_DXY
+collection_title_en,Number of cumulative cases by Chinese prefecture from DXY.cn
+collection_title_original,Number of cumulative cases by Chinese prefecture from DXY.cn
+collection_path_repository,2019-ncov\data\cases\china\cumulative_cases_DXY
+collection_language,English
+collection_creator_name.1,DXY.cn
+collection_creator_contact.1,
+collection_publisher,DXY.cn
+collection_description,"2019 Novel Coronavirus cumulative cases daily reported by prefecture level  from the website DXY.cn which collect public data from National Health Commission, provincial health commission, provincial governments, Hong Kong official channel, Macao official channel and Taiwan official channel. The data are extracted everyday at 16:00 EST. The name of the prefecture, province and country are translated by using Google Translate."
+collection_URL_original, https://ncov.dxy.cn/ncovh5/view/pneumonia
+collection_format,csv
+collection_number_files,7
+collection_members.1,table_getAreaStat_en_2020-02-04.csv
+collection_members.2,table_getAreaStat_en_2020-02-05.csv
+collection_members.3,table_getAreaStat_en_2020-02-06.csv
+collection_members.4,table_getAreaStat_en_2020-02-07.csv
+collection_members.5,table_getAreaStat_en_2020-02-08.csv
+collection_members.6,table_getAreaStat_en_2020-02-09.csv
+collection_members.7,table_getAreaStat_en_2020-02-10.csv
+collection_first_report_date,2020-02-04
+collection_last_report_date,2020-02-10
+collection_license,NA
+collection_access,HTML files that can be viewed and read
+related_object_id,
+related_object_path,
+relation_description,
+curation_notes,"Some place names might need to be translated in English, quality check in process"
+collection_lastupdated_date,2020-02-10
+collection_lastupdated_person,"Lucie Contamin, University of Pittsburgh, ORCID 0000-0001-5797-1279"
+collection_lastupdated_email,contamin@pitt.edu

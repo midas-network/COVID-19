@@ -1,0 +1,449 @@
+﻿provinceName,provinceShortName,cityName,confirmedCount,suspectedCount,curedCount,deadCount,comment,locationId
+"Hubei Province","Hubei","NA",22112,0,867,618,,420000
+"Hubei Province","Hubei","Wuhan",11618,0,542,478,"NA",420100
+"Hubei Province","Hubei","Xiaogan",2141,0,30,25,"NA",420900
+"Hubei Province","Hubei","Huanggang",1897,0,81,32,"NA",421100
+"Hubei Province","Hubei","Suizhou",915,0,9,9,"NA",421300
+"Hubei Province","Hubei","Jingzhou",885,0,24,10,"NA",421000
+"Hubei Province","Hubei","Xiangyang",838,0,30,3,"NA",420600
+"Hubei Province","Hubei","Yellowstone",635,0,40,2,"NA",420200
+"Hubei Province","Hubei","Yichang",610,0,15,7,"NA",420500
+"Hubei Province","Hubei","Jingmen",553,0,24,17,"NA",420800
+"Hubei Province","Hubei","Ezhou",471,0,9,18,"NA",420700
+"Hubei Province","Hubei","Xianning",443,0,8,1,"NA",421200
+"Hubei Province","Hubei","Shiyan",395,0,28,0,"NA",420300
+"Hubei Province","Hubei","Xiantao",307,0,11,5,"NA",429004
+"Hubei Province","Hubei","Tianmen",163,0,1,10,"NA",429006
+"Hubei Province","Hubei","Enshi",157,0,13,0,"NA",422800
+"Hubei Province","Hubei","Qianjiang",74,0,0,1,"NA",429005
+"Hubei Province","Hubei","Shennongjia Forest District",10,0,2,0,"NA",429021
+"Guangdong Province","Guangdong","NA",1034,0,88,1,,440000
+"Guangdong Province","Guangdong","Shenzhen",339,0,31,0,"NA",440300
+"Guangdong Province","Guangdong","Guangzhou",285,0,21,0,"NA",440100
+"Guangdong Province","Guangdong","Zhuhai",76,0,4,0,"NA",440400
+"Guangdong Province","Guangdong","Foshan",59,0,4,0,"NA",440600
+"Guangdong Province","Guangdong","Dongguan",53,0,1,0,"NA",441900
+"Guangdong Province","Guangdong","Zhongshan",46,0,6,0,"NA",442000
+"Guangdong Province","Guangdong","Huizhou",39,0,1,0,"NA",441300
+"Guangdong Province","Guangdong","Shantou",22,0,3,0,"NA",440500
+"Guangdong Province","Guangdong","Zhanjiang",20,0,4,0,"NA",440800
+"Guangdong Province","Guangdong","Zhaoqing",14,0,1,1,"NA",441200
+"Guangdong Province","Guangdong","Jiangmen",14,0,1,0,"NA",440700
+"Guangdong Province","Guangdong","Yangjiang",13,0,1,0,"NA",441700
+"Guangdong Province","Guangdong","Meizhou",12,0,4,0,"NA",441400
+"Guangdong Province","Guangdong","Qingyuan",10,0,3,0,"NA",441800
+"Guangdong Province","Guangdong","Jieyang",7,0,0,0,"NA",445200
+"Guangdong Province","Guangdong","Shaoguan",6,0,1,0,"NA",440200
+"Guangdong Province","Guangdong","Maoming",6,0,1,0,"NA",440900
+"Guangdong Province","Guangdong","Shanwei",5,0,1,0,"NA",441500
+"Guangdong Province","Guangdong","Chaozhou",5,0,0,0,"NA",445100
+"Guangdong Province","Guangdong","Heyuan",3,0,0,0,"NA",441600
+"Zhejiang Province","Zhejiang","NA",1006,0,123,0,,330000
+"Zhejiang Province","Zhejiang","Wenzhou",421,0,49,0,"NA",330300
+"Zhejiang Province","Zhejiang","Hangzhou",156,0,18,0,"NA",330100
+"Zhejiang Province","Zhejiang","Ningbo",136,0,12,0,"NA",330200
+"Zhejiang Province","Zhejiang","Taizhou",129,0,17,0,"NA",331000
+"Zhejiang Province","Zhejiang","Jinhua",48,0,9,0,"NA",330700
+"Zhejiang Province","Zhejiang","Jiaxing",35,0,1,0,"NA",330400
+"Zhejiang Province","Zhejiang","Shaoxing",34,0,5,0,"NA",330600
+"Zhejiang Province","Zhejiang","Lishui",16,0,3,0,"NA",331100
+"Zhejiang Province","Zhejiang","Luzhou",15,0,3,0,"NA",330800
+"Zhejiang Province","Zhejiang","Huzhou",9,0,1,0,"NA",330500
+"Zhejiang Province","Zhejiang","Zhoushan",7,0,5,0,"NA",330900
+"Henan Province","Henan","NA",914,0,86,3,参考卫健委统计口径，部分县区与地级市合并,410000
+"Henan Province","Henan","Xinyang",176,0,15,0,"NA",411500
+"Henan Province","Henan","Nanyang",118,0,6,2,"NA",411300
+"Henan Province","Henan","Zhengzhou",112,0,25,0,"NA",410100
+"Henan Province","Henan","Zhumadian",106,0,4,0,"NA",411700
+"Henan Province","Henan","Shangqiu",72,0,5,0,"NA",411400
+"Henan Province","Henan","Zhoukou",60,0,10,0,"NA",411600
+"Henan Province","Henan","Pingdingshan",46,0,1,0,"NA",410400
+"Henan Province","Henan","Xinxiang",41,0,4,0,"NA",410700
+"Henan Province","Henan","Anyang",40,0,2,0,"NA",410500
+"Henan Province","Henan","Xu Chang",28,0,0,0,"NA",411000
+"Henan Province","Henan","Luohe",26,0,4,0,"NA",411100
+"Henan Province","Henan","Luoyang",24,0,2,0,"NA",410300
+"Henan Province","Henan","Kaifeng",20,0,1,0,"NA",410200
+"Henan Province","Henan","Jiaozuo",18,0,1,0,"NA",410800
+"Henan Province","Henan","Hebi",11,0,0,0,"NA",410600
+"Henan Province","Henan","Sanmenxia",7,0,2,0,"NA",411200
+"Henan Province","Henan","Liyang",5,0,0,0,"NA",410900
+"Henan Province","Henan","Jiyuan",4,0,0,0,"NA",419001
+"Henan Province","Henan","Area to be identified",0,0,4,1,"NA",0
+"Hunan Province","Hunan","NA",772,0,112,0,,430000
+"Hunan Province","Hunan","Changsha",190,0,18,0,"NA",430100
+"Hunan Province","Hunan","Yue Yang",107,0,4,0,"NA",430600
+"Hunan Province","Hunan","Shao Yang",83,0,12,0,"NA",430500
+"Hunan Province","Hunan","Changde",64,0,14,0,"NA",430700
+"Hunan Province","Hunan","Lou Di",53,0,4,0,"NA",431300
+"Hunan Province","Hunan","Zhuzhou",46,0,7,0,"NA",430200
+"Hunan Province","Hunan","Hengyang",43,0,11,0,"NA",430400
+"Hunan Province","Hunan","Yiyang",43,0,6,0,"NA",430900
+"Hunan Province","Hunan","Yongzhou",38,0,10,0,"NA",431100
+"Hunan Province","Hunan","Huaihua",38,0,10,0,"NA",431200
+"Hunan Province","Hunan","Luzhou",29,0,6,0,"NA",431000
+"Hunan Province","Hunan","Xiangtan",25,0,7,0,"NA",430300
+"Hunan Province","Hunan","Xiangxi Autonomous Prefecture",8,0,1,0,"NA",433100
+"Hunan Province","Hunan","Zhangjiajie",5,0,2,0,"NA",430800
+"Anhui Province","Anhui","NA",665,0,47,0,,340000
+"Anhui Province","Anhui","Hefei",115,0,9,0,"NA",340100
+"Anhui Province","Anhui","Fuyang",105,0,9,0,"NA",341200
+"Anhui Province","Anhui","Bengbu",88,0,1,0,"NA",340300
+"Anhui Province","Anhui","Luzhou",72,0,5,0,"NA",341600
+"Anhui Province","Anhui","Anqing",66,0,6,0,"NA",340800
+"Anhui Province","Anhui","Lu'an",41,0,1,0,"NA",341500
+"Anhui Province","Anhui","Maanshan",30,0,0,0,"NA",340500
+"Anhui Province","Anhui","Wuhu",27,0,3,0,"NA",340200
+"Anhui Province","Anhui","Suzhou",27,0,0,0,"NA",341300
+"Anhui Province","Anhui","Tongling",22,0,5,0,"NA",340700
+"Anhui Province","Anhui","Huaibei",22,0,0,0,"NA",340600
+"Anhui Province","Anhui","Huainan",14,0,2,0,"NA",340400
+"Anhui Province","Anhui","Luzhou",11,0,2,0,"NA",341100
+"Anhui Province","Anhui","Chizhou",11,0,1,0,"NA",341700
+"Anhui Province","Anhui","Huangshan",9,0,1,0,"NA",341000
+"Anhui Province","Anhui","Xuancheng",5,0,2,0,"NA",341800
+"Jiangxi Province","Jiangxi","NA",661,0,45,0,,360000
+"Jiangxi Province","Jiangxi","Nanchang",162,0,14,0,"NA",360100
+"Jiangxi Province","Jiangxi","Jiujiang",95,0,5,0,"NA",360400
+"Jiangxi Province","Jiangxi","Xinyu",87,0,5,0,"NA",360500
+"Jiangxi Province","Jiangxi","Shangrao",86,0,5,0,"NA",361100
+"Jiangxi Province","Jiangxi","Yichun",62,0,4,0,"NA",360900
+"Jiangxi Province","Jiangxi","Ganzhou",59,0,2,0,"NA",360700
+"Jiangxi Province","Jiangxi","Fuzhou",56,0,7,0,"NA",361000
+"Jiangxi Province","Jiangxi","Pingxiang",24,0,1,0,"NA",360300
+"Jiangxi Province","Jiangxi","Gian",16,0,1,0,"NA",360800
+"Jiangxi Province","Jiangxi","Yingtan",10,0,0,0,"NA",360600
+"Jiangxi Province","Jiangxi","Jingdezhen",4,0,1,0,"NA",360200
+"Chongqing","Chongqing","NA",415,0,31,2,,500000
+"Chongqing","Chongqing","Wanzhou District",74,0,4,1,"NA",500101
+"Chongqing","Chongqing","Yunyang County",20,0,5,0,"NA",500235
+"Chongqing","Chongqing","Jiulongpo District",19,0,0,1,"NA",500107
+"Chongqing","Chongqing","Jiangbei District",19,0,1,0,"NA",500105
+"Chongqing","Chongqing","Yuzhong District",19,0,0,0,"NA",500103
+"Chongqing","Chongqing","Kaizhou District",18,0,2,0,"NA",500154
+"Chongqing","Chongqing","Dianjiang County",17,0,1,0,"NA",500231
+"Chongqing","Chongqing","Zhongxian",16,0,1,0,"NA",500233
+"Chongqing","Chongqing","Hechuan District",16,0,1,0,"NA",500117
+"Chongqing","Chongqing","Liangjiang New District",14,0,0,0,"NA",-1
+"Chongqing","Chongqing","Qijiang District",14,0,0,0,"NA",500110
+"Chongqing","Chongqing","Taonan District",13,0,0,0,"NA",500152
+"Chongqing","Chongqing","Yu Bei District",12,0,2,0,"NA",500112
+"Chongqing","Chongqing","Changshou District",12,0,2,0,"NA",500115
+"Chongqing","Chongqing","Shizhu County",12,0,0,0,"NA",500240
+"Chongqing","Chongqing","Fengjie County",12,0,1,0,"NA",500236
+"Chongqing","Chongqing","Wuxi County",11,0,1,0,"NA",500238
+"Chongqing","Chongqing","Fengdu County",9,0,1,0,"NA",500230
+"Chongqing","Chongqing","Dazu District",9,0,0,0,"NA",500111
+"Chongqing","Chongqing","Laoshan District",8,0,0,0,"NA",500120
+"Chongqing","Chongqing","Wushan County",8,0,4,0,"NA",500237
+"Chongqing","Chongqing","South Bank area",8,0,0,0,"NA",500108
+"Chongqing","Chongqing","Rongchang District",8,0,0,0,"NA",500153
+"Chongqing","Chongqing","Dadukou District",7,0,1,0,"NA",500104
+"Chongqing","Chongqing","Tongliang District",7,0,0,0,"NA",500151
+"Chongqing","Chongqing","Jiangjin District",4,0,1,0,"NA",500116
+"Chongqing","Chongqing","High-tech Zone",4,0,0,0,"NA",0
+"Chongqing","Chongqing","Liangping District",4,0,0,0,"NA",500155
+"Chongqing","Chongqing","Fuling District",3,0,0,0,"NA",500102
+"Chongqing","Chongqing","Banan District",3,0,0,0,"NA",500113
+"Chongqing","Chongqing","Yongchuan District",3,0,1,0,"NA",500118
+"Chongqing","Chongqing","Chengkou County",2,0,1,0,"NA",500229
+"Chongqing","Chongqing","Qianjiang District",2,0,0,0,"NA",500114
+"Chongqing","Chongqing","Shapingba District",2,0,0,0,"NA",500106
+"Chongqing","Chongqing","Pengshui County",2,0,0,0,"NA",500243
+"Chongqing","Chongqing","Xiushan County",1,0,1,0,"NA",500241
+"Chongqing","Chongqing","Wulong District",1,0,0,0,"NA",500156
+"Chongqing","Chongqing","Liyang",1,0,0,0,"NA",500242
+"Chongqing","Chongqing","Wansheng Economic Development Zone",1,0,0,0,"NA",0
+"Jiangsu Province","Jiangsu","NA",408,0,43,0,,320000
+"Jiangsu Province","Jiangsu","Suzhou",69,0,4,0,"NA",320500
+"Jiangsu Province","Jiangsu","Nanjing",57,0,15,0,"NA",320100
+"Jiangsu Province","Jiangsu","Xuzhou",49,0,3,0,"NA",320300
+"Jiangsu Province","Jiangsu","Huaian",37,0,2,0,"NA",320800
+"Jiangsu Province","Jiangsu","Wuxi",31,0,1,0,"NA",320200
+"Jiangsu Province","Jiangsu","Nantong",29,0,2,0,"NA",320600
+"Jiangsu Province","Jiangsu","Changzhou",29,0,5,0,"NA",320400
+"Jiangsu Province","Jiangsu","Taizhou",29,0,3,0,"NA",321200
+"Jiangsu Province","Jiangsu","Lianyungang",24,0,2,0,"NA",320700
+"Jiangsu Province","Jiangsu","Yangzhou",17,0,2,0,"NA",321000
+"Jiangsu Province","Jiangsu","Yancheng",16,0,3,0,"NA",320900
+"Jiangsu Province","Jiangsu","Suqian",12,0,0,0,"NA",321300
+"Jiangsu Province","Jiangsu","Zhenjiang",9,0,1,0,"NA",321100
+"Shandong Province","Shandong","NA",386,0,37,0,,370000
+"Shandong Province","Shandong","Qingdao",44,0,5,0,"NA",370200
+"Shandong Province","Shandong","Jinan",41,0,3,0,"NA",370100
+"Shandong Province","Shandong","Linyi",35,0,3,0,"NA",371300
+"Shandong Province","Shandong","Jining",35,0,7,0,"NA",370800
+"Shandong Province","Shandong","Yantai",34,0,2,0,"NA",370600
+"Shandong Province","Shandong","Weihai",31,0,5,0,"NA",371000
+"Shandong Province","Shandong","Weifang",27,0,0,0,"NA",370700
+"Shandong Province","Shandong","Texas",27,0,2,0,"NA",371400
+"Shandong Province","Shandong","Liaocheng",20,0,1,0,"NA",371500
+"Shandong Province","Shandong","Taian",20,0,1,0,"NA",370900
+"Shandong Province","Shandong","Zaozhuang",19,0,0,0,"NA",370400
+"Shandong Province","Shandong","Zibo",15,0,1,0,"NA",370300
+"Shandong Province","Shandong","sunshine",14,0,2,0,"NA",371100
+"Shandong Province","Shandong","Heze",13,0,2,0,"NA",371700
+"Shandong Province","Shandong","Binzhou",11,0,3,0,"NA",371600
+"Sichuan Province","Sichuan","NA",344,0,42,1,,510000
+"Sichuan Province","Sichuan","Chengdu",102,0,25,1,"NA",510100
+"Sichuan Province","Sichuan","Nanchong",30,0,2,0,"NA",511300
+"Sichuan Province","Sichuan","Guang'an",27,0,2,0,"NA",511600
+"Sichuan Province","Sichuan","Dazhou",23,0,4,0,"NA",511700
+"Sichuan Province","Sichuan","Bazhong",20,0,1,0,"NA",511900
+"Sichuan Province","Sichuan","Mianyang",19,0,2,0,"NA",510700
+"Sichuan Province","Sichuan","Neijiang",17,0,1,0,"NA",511000
+"Sichuan Province","Sichuan","Ganzi Prefecture",17,0,0,0,"NA",513300
+"Sichuan Province","Sichuan","Luzhou",13,0,0,0,"NA",510500
+"Sichuan Province","Sichuan","Deyang",12,0,0,0,"NA",510600
+"Sichuan Province","Sichuan","Panzhihua",11,0,1,0,"NA",510400
+"Sichuan Province","Sichuan","Zigong",9,0,1,0,"NA",510300
+"Sichuan Province","Sichuan","Yibin",9,0,0,0,"NA",511500
+"Sichuan Province","Sichuan","Liangshan Prefecture",7,0,0,0,"NA",513400
+"Sichuan Province","Sichuan","Yaan",6,0,0,0,"NA",511800
+"Sichuan Province","Sichuan","Guangyuan",6,0,0,0,"NA",510800
+"Sichuan Province","Sichuan","Suining",5,0,2,0,"NA",510900
+"Sichuan Province","Sichuan","Meishan",5,0,1,0,"NA",511400
+"Sichuan Province","Sichuan","Leshan",3,0,0,0,"NA",511100
+"Sichuan Province","Sichuan","Ziyang",2,0,0,0,"NA",512000
+"Sichuan Province","Sichuan","Aba",1,0,0,0,"NA",513200
+"Beijing","Beijing","NA",297,0,33,1,,110000
+"Beijing","Beijing","Chaoyang District",51,0,0,0,"NA",110105
+"Beijing","Beijing","Haidian District",47,0,0,0,"NA",110108
+"Beijing","Beijing","Xicheng District",36,0,0,0,"NA",110102
+"Beijing","Beijing","Daxing District",34,0,2,0,"NA",110115
+"Beijing","Beijing","Foreigners coming to Beijing",24,0,2,0,"NA",-1
+"Beijing","Beijing","Fengtai District",22,0,0,0,"NA",110106
+"Beijing","Beijing","Changping District",17,0,0,0,"NA",110114
+"Beijing","Beijing","Tongzhou District",14,0,0,0,"NA",110112
+"Beijing","Beijing","Shijingshan District",13,0,0,0,"NA",110107
+"Beijing","Beijing","Fangshan District",13,0,0,0,"NA",110111
+"Beijing","Beijing","Shunyi District",8,0,0,0,"NA",110113
+"Beijing","Beijing","Dongcheng Area",7,0,0,0,"NA",110101
+"Beijing","Beijing","Huairou District",7,0,0,0,"NA",110116
+"Beijing","Beijing","Mentougou District",3,0,0,0,"NA",110109
+"Beijing","Beijing","Yanqing District",1,0,0,0,"NA",110119
+"Beijing","Beijing","Area to be identified",0,0,29,1,"NA",0
+"Shanghai","Shanghai","NA",277,166,30,1,新增治愈5，治愈数据统一归属上海公卫临床中心，暂无具体分区,310000
+"Shanghai","Shanghai","Foreigners coming to Shanghai",93,0,14,1,"NA",-1
+"Shanghai","Shanghai","Pudong New Area",52,0,6,0,"NA",310115
+"Shanghai","Shanghai","Baoshan District",16,0,0,0,"NA",310113
+"Shanghai","Shanghai","Xuhui District",16,0,0,0,"NA",310104
+"Shanghai","Shanghai","Jing'an District",15,0,2,0,"NA",310106
+"Shanghai","Shanghai","Songjiang District",13,0,0,0,"NA",310117
+"Shanghai","Shanghai","Minhang District",12,0,1,0,"NA",310112
+"Shanghai","Shanghai","Changning District",11,0,0,0,"NA",310105
+"Shanghai","Shanghai","Fengxian District",9,0,0,0,"NA",310120
+"Shanghai","Shanghai","Hongkou District",7,0,0,0,"NA",310109
+"Shanghai","Shanghai","Yangpu District",7,0,0,0,"NA",310110
+"Shanghai","Shanghai","Putuo District",7,0,0,0,"NA",310107
+"Shanghai","Shanghai","Qingpu District",5,0,1,0,"NA",310118
+"Shanghai","Shanghai","Huangpu District",5,0,1,0,"NA",310101
+"Shanghai","Shanghai","Jiading District",5,0,0,0,"NA",310114
+"Shanghai","Shanghai","Jinshan District",2,0,0,0,"NA",310116
+"Shanghai","Shanghai","Chongming District",2,0,0,0,"NA",310151
+"Heilongjiang Province","Heilongjiang","NA",277,0,12,3,,230000
+"Heilongjiang Province","Heilongjiang","Harbin",94,0,9,0,"NA",230100
+"Heilongjiang Province","Heilongjiang","Suihua",39,0,1,2,"NA",231200
+"Heilongjiang Province","Heilongjiang","Shuangyashan",36,0,1,0,"NA",230500
+"Heilongjiang Province","Heilongjiang","Jixi",29,0,0,0,"NA",230300
+"Heilongjiang Province","Heilongjiang","Qiqihar",27,0,0,0,"NA",230200
+"Heilongjiang Province","Heilongjiang","Daqing",13,0,0,1,"NA",230600
+"Heilongjiang Province","Heilongjiang","Jiamusi",13,0,1,0,"NA",230800
+"Heilongjiang Province","Heilongjiang","Mudanjiang",11,0,0,0,"NA",231000
+"Heilongjiang Province","Heilongjiang","Qitaihe",10,0,0,0,"NA",230900
+"Heilongjiang Province","Heilongjiang","Daxinganling",2,0,0,0,"NA",232700
+"Heilongjiang Province","Heilongjiang","Hegang",2,0,0,0,"NA",230400
+"Heilongjiang Province","Heilongjiang","Heihe",1,0,0,0,"NA",231100
+"Fujian Province","Fujian","NA",224,0,20,0,,350000
+"Fujian Province","Fujian","Fuzhou",57,0,7,0,"NA",350100
+"Fujian Province","Fujian","Putian",44,0,1,0,"NA",350300
+"Fujian Province","Fujian","Quanzhou",40,0,4,0,"NA",350500
+"Fujian Province","Fujian","Xiamen",23,0,2,0,"NA",350200
+"Fujian Province","Fujian","Ningde",16,0,4,0,"NA",350900
+"Fujian Province","Fujian","Zhangzhou",16,0,1,0,"NA",350600
+"Fujian Province","Fujian","Nanping",12,0,1,0,"NA",350700
+"Fujian Province","Fujian","Sanming",12,0,0,0,"NA",350400
+"Fujian Province","Fujian","Longyan",4,0,0,0,"NA",350800
+"Shaanxi Province","Shaanxi","NA",184,0,17,0,,610000
+"Shaanxi Province","Shaanxi","Xi'an",80,0,9,0,"NA",610100
+"Shaanxi Province","Shaanxi","Ankang",21,0,1,0,"NA",610900
+"Shaanxi Province","Shaanxi","Hanzhong",21,0,0,0,"NA",610700
+"Shaanxi Province","Shaanxi","Xianyang",15,0,1,0,"NA",610400
+"Shaanxi Province","Shaanxi","Baoji",12,0,2,0,"NA",610300
+"Shaanxi Province","Shaanxi","Weinan",9,0,0,0,"NA",610500
+"Shaanxi Province","Shaanxi","Tongchuan",8,0,3,0,"NA",610200
+"Shaanxi Province","Shaanxi","Yan'an",7,0,0,0,"NA",610600
+"Shaanxi Province","Shaanxi","Shangluo",7,0,1,0,"NA",611000
+"Shaanxi Province","Shaanxi","Yulin",2,0,0,0,"NA",610800
+"Shaanxi Province","Shaanxi","Hancheng",1,0,0,0,"NA",610581
+"Shaanxi Province","Shaanxi","Yang Ling",1,0,0,0,"NA",0
+"Guangxi Zhuang Autonomous Region","Guangxi","NA",172,0,17,0,,450000
+"Guangxi Zhuang Autonomous Region","Guangxi","Nanning",31,0,0,0,"NA",450100
+"Guangxi Zhuang Autonomous Region","Guangxi","North Sea",31,0,2,0,"NA",450500
+"Guangxi Zhuang Autonomous Region","Guangxi","Guilin",28,0,5,0,"NA",450300
+"Guangxi Zhuang Autonomous Region","Guangxi","Liuzhou",20,0,3,0,"NA",450200
+"Guangxi Zhuang Autonomous Region","Guangxi","Fangchenggang",15,0,1,0,"NA",450600
+"Guangxi Zhuang Autonomous Region","Guangxi","Hechi",11,0,0,0,"NA",451200
+"Guangxi Zhuang Autonomous Region","Guangxi","Yulin",8,0,1,0,"NA",450900
+"Guangxi Zhuang Autonomous Region","Guangxi","Guigang",7,0,0,0,"NA",450800
+"Guangxi Zhuang Autonomous Region","Guangxi","Qinzhou",7,0,0,0,"NA",450700
+"Guangxi Zhuang Autonomous Region","Guangxi","Wuzhou",5,0,2,0,"NA",450400
+"Guangxi Zhuang Autonomous Region","Guangxi","Hezhou",4,0,0,0,"NA",451100
+"Guangxi Zhuang Autonomous Region","Guangxi","Baise",3,0,0,0,"NA",451000
+"Guangxi Zhuang Autonomous Region","Guangxi","guest",1,0,0,0,"NA",451300
+"Guangxi Zhuang Autonomous Region","Guangxi","Area to be identified",0,0,3,0,"NA",0
+"Hebei Province","Hebei","NA",172,0,22,1,,130000
+"Hebei Province","Hebei","Shijiazhuang",24,0,3,0,"NA",130100
+"Hebei Province","Hebei","Cangzhou",23,0,4,1,"NA",130900
+"Hebei Province","Hebei","Handan",22,0,2,0,"NA",130400
+"Hebei Province","Hebei","Xingtai",20,0,2,0,"NA",130500
+"Hebei Province","Hebei","Tangshan",19,0,2,0,"NA",130200
+"Hebei Province","Hebei","Baoding",18,0,4,0,"NA",130600
+"Hebei Province","Hebei","Langfang",15,0,4,0,"NA",131000
+"Hebei Province","Hebei","Zhangjiakou",13,0,1,0,"NA",130700
+"Hebei Province","Hebei","Hengshui",7,0,0,0,"NA",131100
+"Hebei Province","Hebei","Chengde",6,0,0,0,"NA",130800
+"Hebei Province","Hebei","Qinhuangdao",5,0,0,0,"NA",130300
+"Yunnan Province","Yunnan","NA",136,0,13,0,,530000
+"Yunnan Province","Yunnan","Kunming",41,0,2,0,"NA",530100
+"Yunnan Province","Yunnan","Xishuangbanna",15,0,2,0,"NA",532800
+"Yunnan Province","Yunnan","Yuxi",13,0,2,0,"NA",530400
+"Yunnan Province","Yunnan","Dali",11,0,2,0,"NA",532901
+"Yunnan Province","Yunnan","Qu Jing",10,0,1,0,"NA",530300
+"Yunnan Province","Yunnan","Zhaotong",10,0,1,0,"NA",530600
+"Yunnan Province","Yunnan","Baoshan",9,0,0,0,"NA",530500
+"Yunnan Province","Yunnan","Lijiang",7,0,1,0,"NA",530700
+"Yunnan Province","Yunnan","Red river",5,0,1,0,"NA",532500
+"Yunnan Province","Yunnan","Dehong",5,0,0,0,"NA",533100
+"Yunnan Province","Yunnan","Pu'er",4,0,0,0,"NA",530800
+"Yunnan Province","Yunnan","Chuxiong",4,0,0,0,"NA",532301
+"Yunnan Province","Yunnan","Lincang",1,0,0,0,"NA",530900
+"Yunnan Province","Yunnan","Wenshan",1,0,0,0,"NA",532601
+"Yunnan Province","Yunnan","Area to be identified",0,0,1,0,"NA",0
+"Hainan","Hainan","NA",117,0,10,2,,460000
+"Hainan","Hainan","Sanya",34,0,8,1,"NA",460200
+"Hainan","Hainan","Haikou",21,0,2,0,"NA",460100
+"Hainan","Hainan","Wanning",12,0,0,0,"NA",469006
+"Hainan","Hainan","Luzhou",11,0,0,0,"NA",460400
+"Hainan","Hainan","Chengmai",7,0,0,1,"NA",469023
+"Hainan","Hainan","Qionghai",6,0,0,0,"NA",469002
+"Hainan","Hainan","Lingao",5,0,0,0,"NA",469024
+"Hainan","Hainan","Lingshui",4,0,0,0,"NA",469028
+"Hainan","Hainan","Changjiang",4,0,0,0,"NA",469026
+"Hainan","Hainan","East",3,0,0,0,"NA",469007
+"Hainan","Hainan","Ding'an",3,0,0,0,"NA",469021
+"Hainan","Hainan","Wenchang",3,0,0,0,"NA",469005
+"Hainan","Hainan","Baoting",2,0,0,0,"NA",0
+"Hainan","Hainan","Qiongzhong",1,0,0,0,"NA",469030
+"Hainan","Hainan","Ledong",1,0,0,0,"NA",469027
+"Liaoning Province","Liaoning","NA",99,0,7,0,,210000
+"Liaoning Province","Liaoning","Shenyang",25,0,2,0,"NA",210100
+"Liaoning Province","Liaoning","Dalian",14,0,3,0,"NA",210200
+"Liaoning Province","Liaoning","Panjin",11,0,0,0,"NA",211100
+"Liaoning Province","Liaoning","Huludao",9,0,0,0,"NA",211400
+"Liaoning Province","Liaoning","Jinzhou",8,0,1,0,"NA",210700
+"Liaoning Province","Liaoning","Dandong",7,0,1,0,"NA",210600
+"Liaoning Province","Liaoning","Fuxin",7,0,0,0,"NA",210900
+"Liaoning Province","Liaoning","Chaoyang",6,0,0,0,"NA",211300
+"Liaoning Province","Liaoning","Benxi",3,0,0,0,"NA",210500
+"Liaoning Province","Liaoning","Tieling",3,0,0,0,"NA",211200
+"Liaoning Province","Liaoning","Anshan",3,0,0,0,"NA",210300
+"Liaoning Province","Liaoning","Liaoyang",2,0,0,0,"NA",211000
+"Liaoning Province","Liaoning","Yingkou",1,0,0,0,"NA",210800
+"Shanxi Province","Shanxi","NA",96,0,15,0,,140000
+"Shanxi Province","Shanxi","Jinzhong",27,0,5,0,"NA",140700
+"Shanxi Province","Shanxi","Yuncheng",17,0,1,0,"NA",140800
+"Shanxi Province","Shanxi","Taiyuan",11,0,1,0,"NA",140100
+"Shanxi Province","Shanxi","Datong",9,0,3,0,"NA",140200
+"Shanxi Province","Shanxi","Jincheng",8,0,0,0,"NA",140500
+"Shanxi Province","Shanxi","Lu Liang",6,0,3,0,"NA",141100
+"Shanxi Province","Shanxi","Changzhi",5,0,0,0,"NA",140400
+"Shanxi Province","Shanxi","Yangquan",4,0,0,0,"NA",140300
+"Shanxi Province","Shanxi","Shuozhou",4,0,1,0,"NA",140600
+"Shanxi Province","Shanxi","Xinzhou",3,0,0,0,"NA",140900
+"Shanxi Province","Shanxi","Linfen",2,0,1,0,"NA",141000
+"Guizhou Province","Guizhou","NA",81,0,6,1,,520000
+"Guizhou Province","Guizhou","Guiyang",18,0,1,0,"NA",520100
+"Guizhou Province","Guizhou","Bijie",17,0,0,0,"NA",520500
+"Guizhou Province","Guizhou","Zunyi",12,0,0,0,"NA",520300
+"Guizhou Province","Guizhou","Liupanshui",9,0,0,1,"NA",520200
+"Guizhou Province","Guizhou","Qiannan Prefecture",7,0,3,0,"NA",522700
+"Guizhou Province","Guizhou","Tongren",6,0,2,0,"NA",520600
+"Guizhou Province","Guizhou","Qiandongnan Prefecture",5,0,0,0,"NA",522600
+"Guizhou Province","Guizhou","Anshun",4,0,0,0,"NA",520400
+"Guizhou Province","Guizhou","Qianxinan Prefecture",3,0,0,0,"NA",522300
+"Tianjin","Tianjin","NA",81,0,2,1,,120000
+"Tianjin","Tianjin","Baodi District",23,0,0,1,"NA",120115
+"Tianjin","Tianjin","Hedong District",10,0,0,0,"NA",120102
+"Tianjin","Tianjin","Hebei District",10,0,0,0,"NA",120105
+"Tianjin","Tianjin","Heping District",6,0,0,0,"NA",120101
+"Tianjin","Tianjin","Foreign visitors",6,0,0,0,"NA",0
+"Tianjin","Tianjin","Hexi District",4,0,0,0,"NA",120103
+"Tianjin","Tianjin","Ninghe District",4,0,0,0,"NA",120117
+"Tianjin","Tianjin","Xiqing District",4,0,0,0,"NA",120111
+"Tianjin","Tianjin","Dongli District",4,0,0,0,"NA",120110
+"Tianjin","Tianjin","Nankai District",3,0,0,0,"NA",120104
+"Tianjin","Tianjin","Binhai New Area",3,0,0,0,"NA",120116
+"Tianjin","Tianjin","Hongqiao District",2,0,1,0,"NA",120106
+"Tianjin","Tianjin","Jinnan District",1,0,0,0,"NA",120112
+"Tianjin","Tianjin","Beichen District",1,0,0,0,"NA",120113
+"Tianjin","Tianjin","Area to be identified",0,0,1,0,"NA",0
+"Gansu province","Gansu","NA",67,0,9,0,,620000
+"Gansu province","Gansu","Lanzhou",32,0,5,0,"NA",620100
+"Gansu province","Gansu","Tianshui",10,0,1,0,"NA",620500
+"Gansu province","Gansu","Dingxi",5,0,1,0,"NA",621100
+"Gansu province","Gansu","Longnan",4,0,0,0,"NA",621200
+"Gansu province","Gansu","silver",4,0,0,0,"NA",620400
+"Gansu province","Gansu","Linxia",3,0,2,0,"NA",622901
+"Gansu province","Gansu","Gannan",3,0,0,0,"NA",623000
+"Gansu province","Gansu","Zhang Ye",2,0,0,0,"NA",620700
+"Gansu province","Gansu","Qingyang",2,0,0,0,"NA",621000
+"Gansu province","Gansu","Jinchang",1,0,0,0,"NA",620300
+"Gansu province","Gansu","Pingliang",1,0,0,0,"NA",620800
+"Jilin Province","Jilin","NA",65,0,4,1,,220000
+"Jilin Province","Jilin","Changchun",32,0,1,0,"NA",220100
+"Jilin Province","Jilin","Siping",10,0,0,1,"NA",220300
+"Jilin Province","Jilin","Jilin City",5,0,2,0,"NA",220200
+"Jilin Province","Jilin","Yanbian",5,0,0,0,"NA",222400
+"Jilin Province","Jilin","Liaoyuan",5,0,0,0,"NA",220400
+"Jilin Province","Jilin","Gongzhuling",4,0,1,0,"NA",220381
+"Jilin Province","Jilin","Matsubara",2,0,0,0,"NA",220700
+"Jilin Province","Jilin","Tonghua",2,0,0,0,"NA",220500
+"Inner Mongolia Autonomous Region","Inner Mongolia","NA",50,0,5,0,,150000
+"Inner Mongolia Autonomous Region","Inner Mongolia","Ordos",11,0,2,0,"NA",150600
+"Inner Mongolia Autonomous Region","Inner Mongolia","Baotou",9,0,0,0,"NA",150200
+"Inner Mongolia Autonomous Region","Inner Mongolia","Hohhot",7,0,0,0,"NA",150100
+"Inner Mongolia Autonomous Region","Inner Mongolia","Hulunbuir",5,0,1,0,"NA",150700
+"Inner Mongolia Autonomous Region","Inner Mongolia","Bayannur",4,0,0,0,"NA",150800
+"Inner Mongolia Autonomous Region","Inner Mongolia","Chifeng",4,0,1,0,"NA",150400
+"Inner Mongolia Autonomous Region","Inner Mongolia","Ulanchabu",3,0,0,0,"NA",150900
+"Inner Mongolia Autonomous Region","Inner Mongolia","Xilin Gol League",2,0,1,0,"NA",152500
+"Inner Mongolia Autonomous Region","Inner Mongolia","Tongliao",2,0,0,0,"NA",150500
+"Inner Mongolia Autonomous Region","Inner Mongolia","Wuhai",2,0,0,0,"NA",150300
+"Inner Mongolia Autonomous Region","Inner Mongolia","Xing'an League",1,0,0,0,"NA",152200
+"Ningxia Hui Autonomous Region","Ningxia","NA",43,0,5,0,,640000
+"Ningxia Hui Autonomous Region","Ningxia","Yinchuan",27,0,3,0,"NA",640100
+"Ningxia Hui Autonomous Region","Ningxia","Wu Zhong",9,0,0,0,"NA",640300
+"Ningxia Hui Autonomous Region","Ningxia","Zhongwei",3,0,0,0,"NA",640500
+"Ningxia Hui Autonomous Region","Ningxia","Guyuan",2,0,2,0,"NA",640400
+"Ningxia Hui Autonomous Region","Ningxia","Ningdong Management Committee",1,0,0,0,"NA",0
+"Ningxia Hui Autonomous Region","Ningxia","Shizuishan",1,0,0,0,"NA",640200
+"Xinjiang Uygur Autonomous Region","Xinjiang","NA",39,0,0,0,,650000
+"Xinjiang Uygur Autonomous Region","Xinjiang","Urumqi",18,0,0,0,"NA",650100
+"Xinjiang Uygur Autonomous Region","Xinjiang","Ili",9,0,0,0,"NA",654000
+"Xinjiang Uygur Autonomous Region","Xinjiang","兵团第九师",4,0,0,0,"NA",0
+"Xinjiang Uygur Autonomous Region","Xinjiang","Changji",2,0,0,0,"NA",652301
+"Xinjiang Uygur Autonomous Region","Xinjiang","Turpan",1,0,0,0,"NA",650400
+"Xinjiang Uygur Autonomous Region","Xinjiang","兵团第七师",1,0,0,0,"NA",0
+"Xinjiang Uygur Autonomous Region","Xinjiang","兵团第八师石河子市",1,0,0,0,"NA",0
+"Xinjiang Uygur Autonomous Region","Xinjiang","Aksu",1,0,0,0,"NA",652901
+"Xinjiang Uygur Autonomous Region","Xinjiang","兵团第六师五家渠市",1,0,0,0,"NA",0
+"Xinjiang Uygur Autonomous Region","Xinjiang","Bazhou",1,0,0,0,"NA",511902
+"Hong Kong","Hong Kong","NA",25,0,0,1,,810000
+"Qinghai Province","Qinghai","NA",18,0,3,0,,630000
+"Qinghai Province","Qinghai","Xining",15,0,3,0,"NA",630100
+"Qinghai Province","Qinghai","Haibei State",3,0,0,0,"NA",632200
+"Taiwan","Taiwan","NA",16,0,1,0,,710000
+"Macao","Macao","NA",10,0,1,0,,820000
+"Tibet Autonomous Region","Tibet","NA",1,0,0,0,,540000
+"Tibet Autonomous Region","Tibet","Lhasa",1,0,0,0,"NA",540100
