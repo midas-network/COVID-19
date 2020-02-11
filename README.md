@@ -1,6 +1,9 @@
 # MIDAS 2019 Novel Coronavirus Repository
 This repository serves as central platform to share resources relevant for modeling of the COVID-19 outbreak. The [MIDAS Coordination Center (MCC)](https://midasnetwork.us/mcc/) has created and will maintain it in collaboration with the broader modeling community. Community members are encouraged to contribute resources to the repository and thus support the overall COVID-19 research effort. See [Information for Contributors](https://github.com/midas-network/COVID-19/wiki/Information-for-Contributors) for guidance on how to contribute material. Contact questions@midasnetwork.us for any questions or ideas for improvements, or to send/request any material to be included. 
 
+## MIDAS 2019 Novel Coronavirus Mailing List
+The MIDAS Coordination Center maintains a dedicated mailing list for updates and news about COVID-19 modeling research. To join the mailing list, please email questions@midasnetwork.us. 
+
 ## [Data](https://github.com/midas-network/COVID-19/wiki/Data)
 All data sources relevant for COVID-19 modeling can be uploaded/found here, including case count data and line listings. Data are uploaded by the MCC and by community members. Data can be in many different formats and levels of curation. Sets of related data files are presented as "collections". For example, a collection can be a set of related outbreak situation updates from a country, a set of time-stamped backup files, or another set of related files. Each collection has its own metadata, data guide, and location dictionary that maps geographic locations listed in the collection to international standards. See [Information for Contributors](https://github.com/midas-network/COVID-19/wiki/Information-for-Contributors) for the most recent metadata and data guide templates. 
 
