@@ -13,8 +13,8 @@ Once CSV file with estimates for epidemiological parameters relevant for nCoV mo
 ### Parameter Estimates for MERS
 ### Parameter Estimates for Seasonal influenza
 
-## [Algorithms & Visualizations](https://github.com/midas-network/2019-ncov/wiki/Algorithms-&-Visualizations)
-Source code and/or links to algorithms for data-processing and modeling will be included in this section together with relevant metadata. Links and metadata for visualizations and dashboards related to 2019-nCoV are also listed. 
+## [Software Tools](https://github.com/midas-network/2019-ncov/wiki/Software Tools)
+Source code and/or links to algorithms for data-processing, modeling, and visualizations will be included in this section together with relevant metadata. Links and metadata for visualizations and dashboards related to 2019-nCoV are also listed. 
 
 ## [Documents](https://github.com/midas-network/2019-ncov/wiki/Documents)
 All documents relevant to 2019-nCoV can be posted in this section. Documents are mostly organized by country or by topic. Pre-prints and peer-reviewd manuscripts are posted with links to external webpages while all other documents are stored in this repository and internal links to those documents are listed. Documents include:
