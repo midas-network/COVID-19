@@ -23,6 +23,7 @@ authors,authors who pulbished the estimate,text
 id_publication,unique identifier for the publication,text
 id_type,"type of identifier for the publication (DOI, ArXiv ID, other)",text
 publication_URL,URL to the publication in which the estimate was published,text
+curation_notes,Notes about the entry by the person who entered the estimate,text
 entry_date,date the estimate was entered in the estimate sheet,date
 entry_person,name of the person who entered the estimate in the estimate sheet,text
 entry_email,email of the person who entered the estimate in the estimate sheet,text
