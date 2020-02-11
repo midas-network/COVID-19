@@ -2,7 +2,7 @@ Fieldname,Description
 collection_ID,sitreps_JHU_CHS
 collection_title_en,nCoV-2019 Situation Reports from Johns Hopkins University Center for Health Security
 collection_title_original,nCoV-2019
-collection_path_repository,2019-ncov\Documents\Reports\model_reports\international\JHU_CHS
+collection_path_repository,2019-ncov\Documents\Reports\outbreak_reports\global\JHU_CHS
 collection_language,English
 collection_creator_name,"Caitlin Rivers, Johns Hopkins University"
 collection_creator_contact,crivers6@jhu.edu
