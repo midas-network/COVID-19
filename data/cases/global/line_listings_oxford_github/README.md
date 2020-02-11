@@ -2,7 +2,7 @@
 |---|---|
 |collection_title_en|Github repository with nCoV line listings from various sources and data processing codemaintained by Oxford and others |
 |collection_title_original|nCoV2019|
-|collection_path_repository|2019-ncov\data\cases\global\line_listings_oxford_github|
+|collection_path_repository|COVID-19\data\cases\global\line_listings_oxford_github|
 |collection_language|English|
 |collection_creator_name.1|Bernando Gutierrez|
 |collection_creator_name.2|Sarah Hill|
@@ -41,7 +41,7 @@
 |collection_license|NA|
 |collection_access|Open Github repository that can be downloaded|
 |related_object_id|line_listings_oxford|
-|related_object_path|2019-ncov\case_counts\line_listings_oxford|
+|related_object_path|COVID-19\case_counts\line_listings_oxford|
 |relation_description|Google sheet that contains the latest data. Versions of the Google Sheet data are stored as csv files in the Github repository. It appears the Google Sheet is more up to date than the Github repository csv equivalent files. |
 |curation_notes|NA|
 |collection_lastupdated_date|2020-02-08|
