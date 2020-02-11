@@ -1,0 +1,25 @@
+Fieldname,Description,Example
+collection_ID,Unique identifier of the collection,line_listings_nihfogarty
+collection_title_en,Title of the collection of files in English,nCoV line listings from DXY.cn maintained by NIH Fogarty
+collection_title_original,"Original title of the collection of filfes, in original language, per original source",Kudos to DXY.cn
+collection_path_repository,Path of collection in the repository,2019-ncov\case_counts\line_listings_nihfogarty
+collection_language,Language of collection content,English
+collection_creator_name,Organization or people who created the collection,"Kaiyuan Sun, NIH Fogarty"
+collection_creator_contact,Contact information for creator of the collection,contact.sunky@gmail.com
+collection_publisher,Organization or people who published the collection online,"Kaiyuan Sun, NIH Fogarty"
+collection_description,Description of the collection,2019 Novel Coronavirus line listings obtained exclusively from DXY.cn by manual data entry. DXY.cn (D?ngXi?ngYuán) is an online community for medical professionals and news sharing of medical importance. DXY.cn provides a curated list of broadcasts for 2019 nCoV case reports from official Chinese sources: https://3g.dxy.cn/newh5/view/pneumonia    
+collection_URL_original,URL of the original source of the collection,https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/edit#gid=1187587451
+collection_format,File format of the collection members,Google Sheet 
+collection_number_files,Number of files in the collection,0
+collection_members,List of members (files) in the collection,<list names of files in the collection>
+collection_first_report_date,Date of the first reported case in the data collection (as yyyy-mm-dd),2020-01-20
+collection_last_report_date,Date of the last reported case in the data collection (as yyyy-mm-dd),2020-01-30
+collection_license,License describing conditions for use/distribution of files in the collection,NA
+collection_access,Access protocol (how can files be accessed from the source),Google Sheet that can be downloaded
+related_object_id,Collection of file related to this collection,
+related_object_path,Path to the related object in the repository,
+relation_description,Description of the relationship of the related object and this collection,
+curation _notes,Notes related to curation of the collection,
+collection_lastupdated_date,Date on which the collection was last updated (as yyyy-mm-dd),2020-02-01
+collection_lastupdated_person,"Name, affiliation, and ID (ORCID, Publon ID, other) of person who last updated the collection","Wilbert van Panhuis, University of Pittsburgh, ORCID 0000-0002-7278-9982"
+collection_lastupdated_email,Email of the person who last updated the collection,wgvanpanhuis@gmail.com
