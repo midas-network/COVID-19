@@ -34,14 +34,15 @@ collection_members.21,situation-no31-030263.pdf
 collection_members.22,situation-no32-040263.pdf
 collection_members.23,situation-no33-050263.pdf
 collection_members.24,situation-no34-060263.pdf
+collection_members.25,situation-no35-070263.pdf
 collection_first_report_date,2020-01-14
-collection_last_report_date,2020-02-06
+collection_last_report_date,2020-02-07
 collection_license,NA
 collection_access,PDF download links
-related_object_id,NA
-related_object_path,NA
-relation_description,NA
+related_object_id,moh_situation_updates_TH
+related_object_path,2019-ncov\data\cases\thailand\moh_situation_updates_TH
+relation_description,Thai version of files
 curation _notes,NA
-collection_lastupdated_date,2020-02-08
-collection_lastupdated_person,Wilbert van Panhuis
-collection_lastupdated_email,wgvanpanhuis@gmail.com
+collection_lastupdated_date,2020-02-11
+collection_lastupdated_person,Anne Cross
+collection_lastupdated_email,anne.cross@pitt.edu
