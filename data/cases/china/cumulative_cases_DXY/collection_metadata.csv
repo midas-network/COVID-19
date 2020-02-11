@@ -1,7 +1,7 @@
-collection_ID,cumulative_cases_DXY
+collection_ID,cumulative_cases_dxy
 collection_title_en,Number of cumulative cases by Chinese prefecture from DXY.cn
 collection_title_original,Number of cumulative cases by Chinese prefecture from DXY.cn
-collection_path_repository,2019-ncov\data\cases\china\cumulative_cases_DXY
+collection_path_repository,2019-ncov\data\cases\china\cumulative_cases_dxy
 collection_language,English
 collection_creator_name.1,DXY.cn
 collection_creator_contact.1,
@@ -25,6 +25,6 @@ related_object_id,
 related_object_path,
 relation_description,
 curation_notes,"Some place names might need to be translated in English, quality check in process"
-collection_lastupdated_date,2020-02-10
+collection_lastupdated_date,2020-02-11
 collection_lastupdated_person,"Lucie Contamin, University of Pittsburgh, ORCID 0000-0001-5797-1279"
 collection_lastupdated_email,contamin@pitt.edu
