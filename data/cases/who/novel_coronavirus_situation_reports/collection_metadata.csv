@@ -1,42 +1,42 @@
-collection_ID,novel_coronavirus_situation_reports,
-collection_title_en,Novel Coronavirus (2019-nCoV) situation reports,
-collection_title_original,Novel Coronavirus (2019-nCoV) situation reports,
-collection_path_repository,2019-ncov\data\cases\who\novel_coronavirus_situation_reports,
-collection_language,English,
-collection_creator_name,World Health Organization,
-collection_creator_contact,NA,
-collection_publisher,World Health Organization,
-collection_description,"Daily summary of global number of nCoV cases, per province in China and by country, including cases with travel history to China. Reports include guidance on response and update on response activities. Report format and content changes over time. Reports may be replaced by updated versions with error corrections, indicated by ""Erratum"" in the title or a -v2, or v3 , etc. in the file name.",
-collection_URL_original,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports,
-collection_format,PDF narrative and tables,
-collection_number_files,19,
-collection_members.1,20200121-sitrep-1-2019-ncov.pdf,
-collection_members.2,20200122-sitrep-2-2019-ncov.pdf,
-collection_members.3,20200123-sitrep-3-2019-ncov.pdf,
-collection_members.4,20200124-sitrep-4-2019-ncov.pdf,
-collection_members.5,20200125-sitrep-5-2019-ncov.pdf,
-collection_members.6,20200126-sitrep-6-2019--ncov.pdf,
-collection_members.7,20200127-sitrep-7-2019--ncov.pdf,
-collection_members.8,20200128-sitrep-8-ncov-cleared.pdf,
-collection_members.9,20200129-sitrep-9-ncov-v2.pdf,
-collection_members.10,20200130-sitrep-10-ncov.pdf,
-collection_members.11,20200131-sitrep-11-ncov.pdf,
-collection_members.12,20200201-sitrep-12-ncov.pdf,
-collection_members.13,20200202-sitrep-13-ncov-v3.pdf,
-collection_members.14,20200203-sitrep-14-ncov.pdf,
-collection_members.15,20200204-sitrep-15-ncov.pdf,
-collection_members.16,20200205-sitrep-16-ncov.pdf,
-collection_members.17,20200206-sitrep-17-ncov.pdf,
-collection_members.18,20200207-sitrep-18-ncov.pdf,
-collection_members.19,20200208-sitrep-19-ncov.pdf,
-collection_first_report_date,2020-01-21,
-collection_last_report_date,2020-02-08,
-collection_license,NA,
-collection_access,Download links to PDF reports,
-related_object_id,NA,
-related_object_path,NA,
-relation_description,NA,
-curation _notes,NA,
-collection_lastupdated_date,2020-02-08,
-collection_lastupdated_person,"Wilbert van Panhuis, University of Pittsburgh",
-collection_lastupdated_email,wgvanpanhuis@gmail.com,
+collection_ID;novel_coronavirus_situation_reports
+collection_title_en;Novel Coronavirus (2019-nCoV) situation reports
+collection_title_original;Novel Coronavirus (2019-nCoV) situation reports
+collection_path_repository;COVID-19\data\cases\who\novel_coronavirus_situation_reports
+collection_language;English
+collection_creator_name;World Health Organization
+collection_creator_contact;NA
+collection_publisher;World Health Organization
+collection_description;"Daily summary of global number of nCoV cases, per province in China and by country, including cases with travel history to China. Reports include guidance on response and update on response activities. Report format and content changes over time. Reports may be replaced by updated versions with error corrections, indicated by ""Erratum"" in the title or a -v2, or v3 , etc. in the file name."
+collection_URL_original;https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports
+collection_format;PDF narrative and tables
+collection_number_files;19
+collection_members.1;20200121-sitrep-1-2019-ncov.pdf
+collection_members.2;20200122-sitrep-2-2019-ncov.pdf
+collection_members.3;20200123-sitrep-3-2019-ncov.pdf
+collection_members.4;20200124-sitrep-4-2019-ncov.pdf
+collection_members.5;20200125-sitrep-5-2019-ncov.pdf
+collection_members.6;20200126-sitrep-6-2019--ncov.pdf
+collection_members.7;20200127-sitrep-7-2019--ncov.pdf
+collection_members.8;20200128-sitrep-8-ncov-cleared.pdf
+collection_members.9;20200129-sitrep-9-ncov-v2.pdf
+collection_members.10;20200130-sitrep-10-ncov.pdf
+collection_members.11;20200131-sitrep-11-ncov.pdf
+collection_members.12;20200201-sitrep-12-ncov.pdf
+collection_members.13;20200202-sitrep-13-ncov-v3.pdf
+collection_members.14;20200203-sitrep-14-ncov.pdf
+collection_members.15;20200204-sitrep-15-ncov.pdf
+collection_members.16;20200205-sitrep-16-ncov.pdf
+collection_members.17;20200206-sitrep-17-ncov.pdf
+collection_members.18;20200207-sitrep-18-ncov.pdf
+collection_members.19;20200208-sitrep-19-ncov.pdf
+collection_first_report_date;2020-01-21
+collection_last_report_date;2020-02-08
+collection_license;NA
+collection_access;Download links to PDF reports
+related_object_id;NA
+related_object_path;NA
+relation_description;NA
+curation _notes;NA
+collection_lastupdated_date;2020-02-08
+collection_lastupdated_person;Wilbert van Panhuis, University of Pittsburgh
+collection_lastupdated_email;wgvanpanhuis@gmail.com

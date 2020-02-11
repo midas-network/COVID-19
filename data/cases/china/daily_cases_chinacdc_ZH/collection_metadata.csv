@@ -1,53 +1,53 @@
-﻿collection_ID,daily_cases_chinacdc_ZH
-collection_title_en,Distribution of new coronavirus pneumonia
-collection_title_original,新型冠状病毒肺炎疫情分布
-collection_path_repository,2019-ncov\data\cases\china\daily_cases_chinacdc_ZH
-collection_language,Chinese
-collection_creator_name,China CDC
-collection_creator_contact,NA
-collection_publisher,China CDC
-collection_description,"2019 Novel Coronavirus cumulative cases daily reported by province. Data source is the National Health and provincial health committees, including Hong Kong, Macao and Taiwan. The data are extracted everyday at 16:04 EST."
-collection_URL_original,http://2019ncov.chinacdc.cn/2019-nCoV/
-collection_format,CSV
-collection_number_files,30
-collection_members.1,2020-01-10_zh.csv
-collection_members.2,2020-01-11_zh.csv
-collection_members.3,2020-01-12_zh.csv
-collection_members.4,2020-01-13_zh.csv
-collection_members.5,2020-01-14_zh.csv
-collection_members.6,2020-01-16_zh.csv
-collection_members.7,2020-01-17_zh.csv
-collection_members.8,2020-01-18_zh.csv
-collection_members.9,2020-01-19_zh.csv
-collection_members.10,2020-01-20_zh.csv
-collection_members.11,2020-01-21_zh.csv
-collection_members.12,2020-01-22_zh.csv
-collection_members.13,2020-01-23_zh.csv
-collection_members.14,2020-01-24_zh.csv
-collection_members.15,2020-01-25_zh.csv
-collection_members.16,2020-01-26_zh.csv
-collection_members.17,2020-01-27_zh.csv
-collection_members.18,2020-01-28_zh.csv
-collection_members.19,2020-01-29_zh.csv
-collection_members.20,2020-01-30_zh.csv
-collection_members.21,2020-01-31_zh.csv
-collection_members.22,2020-02-01_zh.csv
-collection_members.23,2020-02-02_zh.csv
-collection_members.24,2020-02-03_zh.csv
-collection_members.25,2020-02-04_zh.csv
-collection_members.26,2020-02-05_zh.csv
-collection_members.27,2020-02-06_zh.csv
-collection_members.28,2020-02-07_zh.csv
-collection_members.29,2020-02-08_zh.csv
-collection_members.30,2020-02-09_zh.csv
-collection_first_report_date,2020-01-10
-collection_last_report_date,2020-02-09
-collection_license,NA
-collection_access,Web page that can be viewed and read
-related_object_id,daily_cases_chinacdc_EN
-related_object_path,2019-ncov\data\cases\china\daily_cases_chinacdc_EN
-relation_description,English translation of files
-curation _notes,
-collection_lastupdated_date,2020-02-11
-collection_lastupdated_person,Anne Cross
-collection_lastupdated_email,anne.cross@pitt.edu
+collection_ID;daily_cases_chinacdc_ZH
+collection_title_en;Distribution of new coronavirus pneumonia
+collection_title_original;新型冠状病毒肺炎疫情分布
+collection_path_repository;COVID-19\data\cases\china\daily_cases_chinacdc_ZH
+collection_language;Chinese
+collection_creator_name;China CDC
+collection_creator_contact;NA
+collection_publisher;China CDC
+collection_description;2019 Novel Coronavirus cumulative cases daily reported by province. Data source is the National Health and provincial health committees, including Hong Kong, Macao and Taiwan. The data are extracted everyday at 16:04 EST.
+collection_URL_original;http://2019ncov.chinacdc.cn/2019-nCoV/
+collection_format;CSV
+collection_number_files;30
+collection_members.1;2020-01-10_zh.csv
+collection_members.2;2020-01-11_zh.csv
+collection_members.3;2020-01-12_zh.csv
+collection_members.4;2020-01-13_zh.csv
+collection_members.5;2020-01-14_zh.csv
+collection_members.6;2020-01-16_zh.csv
+collection_members.7;2020-01-17_zh.csv
+collection_members.8;2020-01-18_zh.csv
+collection_members.9;2020-01-19_zh.csv
+collection_members.10;2020-01-20_zh.csv
+collection_members.11;2020-01-21_zh.csv
+collection_members.12;2020-01-22_zh.csv
+collection_members.13;2020-01-23_zh.csv
+collection_members.14;2020-01-24_zh.csv
+collection_members.15;2020-01-25_zh.csv
+collection_members.16;2020-01-26_zh.csv
+collection_members.17;2020-01-27_zh.csv
+collection_members.18;2020-01-28_zh.csv
+collection_members.19;2020-01-29_zh.csv
+collection_members.20;2020-01-30_zh.csv
+collection_members.21;2020-01-31_zh.csv
+collection_members.22;2020-02-01_zh.csv
+collection_members.23;2020-02-02_zh.csv
+collection_members.24;2020-02-03_zh.csv
+collection_members.25;2020-02-04_zh.csv
+collection_members.26;2020-02-05_zh.csv
+collection_members.27;2020-02-06_zh.csv
+collection_members.28;2020-02-07_zh.csv
+collection_members.29;2020-02-08_zh.csv
+collection_members.30;2020-02-09_zh.csv
+collection_first_report_date;2020-01-10
+collection_last_report_date;2020-02-09
+collection_license;NA
+collection_access;Web page that can be viewed and read
+related_object_id;daily_cases_chinacdc_EN
+related_object_path;COVID-19\data\cases\china\daily_cases_chinacdc_EN
+relation_description;English translation of files
+curation _notes;
+collection_lastupdated_date;2020-02-11
+collection_lastupdated_person;Anne Cross
+collection_lastupdated_email;anne.cross@pitt.edu

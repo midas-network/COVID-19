@@ -1,75 +1,75 @@
-collection_ID;line_listings_oxford
-collection_title_en;nCoV line listings from various sources maintained by Oxford and others
-collection_title_original;nCoV2019_2020_line_list_open
-collection_path_repository;2019-ncov\data\cases\global\line_listings_oxford
-collection_language;English
-collection_creator_name.1;Bernando Gutierrez
-collection_creator_name.2;Sarah Hill
-collection_creator_name.3;Moritz Kraemer
-collection_creator_name.4;Sabrina Li
-collection_creator_name.5;Alyssa Loskill
-collection_creator_name.6;Sumiko Mekaru
-collection_creator_name.7;David Pigott
-collection_creator_name.8;Sam Scarpino
-collection_creator_name.9;Kara Sewalk
-collection_creator_name.10;Lin Wang
-collection_creator_name.11;Jessie Wu
-collection_creator_name.12;Bo Xu
-collection_creator_name.13;Alexander Zabreski
-collection_creator_contact.1;bernardo.gutierrez@zoo.ox.ac.uk
-collection_creator_contact.2;sarah.hill@zoo.ox.ac.uk
-collection_creator_contact.3;moritz.kraemer@zoo.ox.ac.uk
-collection_creator_contact.4;sabrina.li@ouce.ox.ac.uk
-collection_creator_contact.5;aloskill@bu.edu
-collection_creator_contact.6;srmekaru@gmail.com
-collection_creator_contact.7;pigottdm@uw.edu
-collection_creator_contact.8;s.scarpino@northeastern.edu
-collection_creator_contact.9;Kara.Sewalk@childrens.harvard.edu
-collection_creator_contact.10;lin.wang@pasteur.fr
-collection_creator_contact.11;chiehhsi.wu@gmail.com
-collection_creator_contact.12;xu-b15@mails.tsinghua.edu.cn
-collection_creator_contact.13;NA
-collection_publisher;Creators
-collection_description;2019 Novel Coronavirus line listings reported inside and outside Hubai province obtained from a variety of sources including BNO news, Weibo, and other news and governmental sources from China and abroad. Data are entered by a group of volunteers and de-duplication occurs based on a statistical algorithm that checks the probability of a case being a duplicate. Cases are flagged as being almost certainly not a duplicate. 
-collection_URL_original;https://docs.google.com/spreadsheets/d/1itaohdPiAeniCXNlntNztZ_oRvjh0HsGuJXUJWET008/edit#gid=0
-collection_format;Google Sheet 
-collection_number_files;28
-collection_members.1;2020_01_27_1800EST_linelist_Hubei_Oxford
-collection_members.2;2020_01_27_1800EST_linelist_outside_Hubei_Oxford
-collection_members.3;2020_01_28_1800EST_linelist_Hubei_Oxford
-collection_members.4;2020_01_28_1800EST_linelist_outside_Hubei_Oxford
-collection_members.5;2020_01_29_1800EST_linelist_Hubei_Oxford
-collection_members.6;2020_01_29_1800EST_linelist_outside_Hubei_Oxford
-collection_members.7;2020_01_30_1800EST_linelist_Hubei_Oxford
-collection_members.8;2020_01_30_1800EST_linelist_outside_Hubei_Oxford
-collection_members.9;2020_01_31_1800EST_linelist_Hubei_Oxford
-collection_members.10;2020_01_31_1800EST_linelist_outside_Hubei_Oxford
-collection_members.11;2020_02_01_1800EST_linelist_Hubei_Oxford
-collection_members.12;2020_02_01_1800EST_linelist_outside_Hubei_Oxford
-collection_members.13;2020_02_02_1800EST_linelist_Hubei_Oxford
-collection_members.14;2020_02_02_1800EST_linelist_outside_Hubei_Oxford
-collection_members.15;2020_02_03_1800EST_linelist_Hubei_Oxford
-collection_members.16;2020_02_03_1800EST_linelist_outside_Hubei_Oxford
-collection_members.17;2020_02_04_1800EST_linelist_Hubei_Oxford
-collection_members.18;2020_02_04_1800EST_linelist_outside_Hubei_Oxford
-collection_members.19;2020_02_05_1800EST_linelist_Hubei_Oxford
-collection_members.20;2020_02_05_1800EST_linelist_outside_Hubei_Oxford
-collection_members.21;2020_02_06_1800EST_linelist_Hubei_Oxford
-collection_members.22;2020_02_06_1800EST_linelist_outside_Hubei_Oxford
-collection_members.23;2020_02_07_1800EST_linelist_Hubei_Oxford
-collection_members.24;2020_02_07_1800EST_linelist_outside_Hubei_Oxford
-collection_members.25;2020_02_08_1800EST_linelist_Hubei_Oxford
-collection_members.26;2020_02_08_1800EST_linelist_outside_Hubei_Oxford
-collection_members.27;2020_02_09_1800EST_linelist_Hubei_Oxford
-collection_members.28;2020_02_09_1800EST_linelist_outside_Hubei_Oxford
-collection_first_report_date;2020-01-12
-collection_last_report_date;2020-02-09
-collection_license;NA
-collection_access;Google Sheet that can be downloaded
-related_object_id;line_listings_oxford_github
-related_object_path;2019-ncov\case_counts\line_listings_oxford_github
-relation_description;Github repository that stores versions of the Google Sheet as csv files. The Google Sheet data appreas to be ahead of the Github equivalent csv files. 
-curation_notes;NA
-collection_lastupdated_date;2020-02-10
-collection_lastupdated_person;Lucie Contamin, University of Pittsburgh, ORCID 0000-0001-5797-1279
-collection_lastupdated_email;contamin@pitt.edu
+collection_ID;line_listings_oxford;;
+collection_title_en;nCoV line listings from various sources maintained by Oxford and others;;
+collection_title_original;nCoV2019_2020_line_list_open;;
+collection_path_repository;COVID-19\data\cases\global\line_listings_oxford;;
+collection_language;English;;
+collection_creator_name.1;Bernando Gutierrez;;
+collection_creator_name.2;Sarah Hill;;
+collection_creator_name.3;Moritz Kraemer;;
+collection_creator_name.4;Sabrina Li;;
+collection_creator_name.5;Alyssa Loskill;;
+collection_creator_name.6;Sumiko Mekaru;;
+collection_creator_name.7;David Pigott;;
+collection_creator_name.8;Sam Scarpino;;
+collection_creator_name.9;Kara Sewalk;;
+collection_creator_name.10;Lin Wang;;
+collection_creator_name.11;Jessie Wu;;
+collection_creator_name.12;Bo Xu;;
+collection_creator_name.13;Alexander Zabreski;;
+collection_creator_contact.1;bernardo.gutierrez@zoo.ox.ac.uk;;
+collection_creator_contact.2;sarah.hill@zoo.ox.ac.uk;;
+collection_creator_contact.3;moritz.kraemer@zoo.ox.ac.uk;;
+collection_creator_contact.4;sabrina.li@ouce.ox.ac.uk;;
+collection_creator_contact.5;aloskill@bu.edu;;
+collection_creator_contact.6;srmekaru@gmail.com;;
+collection_creator_contact.7;pigottdm@uw.edu;;
+collection_creator_contact.8;s.scarpino@northeastern.edu;;
+collection_creator_contact.9;Kara.Sewalk@childrens.harvard.edu;;
+collection_creator_contact.10;lin.wang@pasteur.fr;;
+collection_creator_contact.11;chiehhsi.wu@gmail.com;;
+collection_creator_contact.12;xu-b15@mails.tsinghua.edu.cn;;
+collection_creator_contact.13;NA;;
+collection_publisher;Creators;;
+collection_description;2019 Novel Coronavirus line listings reported inside and outside Hubai province obtained from a variety of sources including BNO news; Weibo; and other news and governmental sources from China and abroad. Data are entered by a group of volunteers and de-duplication occurs based on a statistical algorithm that checks the probability of a case being a duplicate. Cases are flagged as being almost certainly not a duplicate. 
+collection_URL_original;https://docs.google.com/spreadsheets/d/1itaohdPiAeniCXNlntNztZ_oRvjh0HsGuJXUJWET008/edit#gid=0;;
+collection_format;Google Sheet ;;
+collection_number_files;28;;
+collection_members.1;2020_01_27_1800EST_linelist_Hubei_Oxford;;
+collection_members.2;2020_01_27_1800EST_linelist_outside_Hubei_Oxford;;
+collection_members.3;2020_01_28_1800EST_linelist_Hubei_Oxford;;
+collection_members.4;2020_01_28_1800EST_linelist_outside_Hubei_Oxford;;
+collection_members.5;2020_01_29_1800EST_linelist_Hubei_Oxford;;
+collection_members.6;2020_01_29_1800EST_linelist_outside_Hubei_Oxford;;
+collection_members.7;2020_01_30_1800EST_linelist_Hubei_Oxford;;
+collection_members.8;2020_01_30_1800EST_linelist_outside_Hubei_Oxford;;
+collection_members.9;2020_01_31_1800EST_linelist_Hubei_Oxford;;
+collection_members.10;2020_01_31_1800EST_linelist_outside_Hubei_Oxford;;
+collection_members.11;2020_02_01_1800EST_linelist_Hubei_Oxford;;
+collection_members.12;2020_02_01_1800EST_linelist_outside_Hubei_Oxford;;
+collection_members.13;2020_02_02_1800EST_linelist_Hubei_Oxford;;
+collection_members.14;2020_02_02_1800EST_linelist_outside_Hubei_Oxford;;
+collection_members.15;2020_02_03_1800EST_linelist_Hubei_Oxford;;
+collection_members.16;2020_02_03_1800EST_linelist_outside_Hubei_Oxford;;
+collection_members.17;2020_02_04_1800EST_linelist_Hubei_Oxford;;
+collection_members.18;2020_02_04_1800EST_linelist_outside_Hubei_Oxford;;
+collection_members.19;2020_02_05_1800EST_linelist_Hubei_Oxford;;
+collection_members.20;2020_02_05_1800EST_linelist_outside_Hubei_Oxford;;
+collection_members.21;2020_02_06_1800EST_linelist_Hubei_Oxford;;
+collection_members.22;2020_02_06_1800EST_linelist_outside_Hubei_Oxford;;
+collection_members.23;2020_02_07_1800EST_linelist_Hubei_Oxford;;
+collection_members.24;2020_02_07_1800EST_linelist_outside_Hubei_Oxford;;
+collection_members.25;2020_02_08_1800EST_linelist_Hubei_Oxford;;
+collection_members.26;2020_02_08_1800EST_linelist_outside_Hubei_Oxford;;
+collection_members.27;2020_02_09_1800EST_linelist_Hubei_Oxford;;
+collection_members.28;2020_02_09_1800EST_linelist_outside_Hubei_Oxford;;
+collection_first_report_date;2020-01-12;;
+collection_last_report_date;2020-02-09;;
+collection_license;NA;;
+collection_access;Google Sheet that can be downloaded;;
+related_object_id;line_listings_oxford_github;;
+related_object_path;COVID-19\case_counts\line_listings_oxford_github;;
+relation_description;Github repository that stores versions of the Google Sheet as csv files. The Google Sheet data appreas to be ahead of the Github equivalent csv files. ;;
+curation_notes;NA;;
+collection_lastupdated_date;2020-02-10;;
+collection_lastupdated_person;Lucie Contamin; University of Pittsburgh; ORCID 0000-0001-5797-1279
+collection_lastupdated_email;contamin@pitt.edu;;

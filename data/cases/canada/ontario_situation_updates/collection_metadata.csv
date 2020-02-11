@@ -1,27 +1,27 @@
-collection_ID,ontario_situation_updates
-collection_title_en,"The 2019 Novel Coronavirus (2019-nCoV), Status of cases in Ontario"
-collection_title_original,"The 2019 Novel Coronavirus (2019-nCoV), Status of cases in Ontario"
-collection_path_repository,2019-ncov\data\cases\canada\ontario_situation_updates
-collection_language,English
-collection_creator_name,Ontario Ministry of Heath
-collection_creator_contact,https://www.ontario.ca/feedback/contact-us?id=25811&nid=130423
-collection_publisher,Ontario Ministry of Heath
-collection_description,"Daily snapshot of an online table with number of cases under investigation, tested negative or positive, updated weekdays at 10.30 AM EST except from the 8th of February until the 10th of February, updated at 16:00 EST"
-collection_URL_original,https://www.ontario.ca/page/2019-novel-coronavirus-2019-ncov#section-0
-collection_format,HTML table saved as PDF
-collection_number_files,3
-collection_members.1,The 2019 Novel Coronavirus (2019-nCoV) _ Ontario.ca_2020-02-07.pdf
-collection_members.2,The 2019 Novel Coronavirus (2019-nCoV) _ Ontario.ca_2020-02-08.pdf
-collection_members.3,The 2019 Novel Coronavirus (2019-nCoV) _ Ontario.ca_2020-02-09.pdf
-collection_members.4,The 2019 Novel Coronavirus (2019-nCoV) _ Ontario.ca_2020-02-10.pdf
-collection_first_report_date,2020-02-07
-collection_last_report_date,2020-02-10
-collection_license,NA
-collection_access,PDF or HTML for viewing
-related_object_id,NA
-related_object_path,NA
-relation_description,NA
-curation _notes,NA
-collection_lastupdated_date,2020-02-10
-collection_lastupdated_person,"""Lucie Contamin, University of Pittsburgh, ORCID 0000-0001-5797-1279"""
-collection_lastupdated_email,contamin@pitt.edu
+collection_ID;ontario_situation_updates
+collection_title_en;The 2019 Novel Coronavirus (2019-nCoV), Status of cases in Ontario
+collection_title_original;The 2019 Novel Coronavirus (2019-nCoV), Status of cases in Ontario
+collection_path_repository;COVID-19\data\cases\canada\ontario_situation_updates
+collection_language;English
+collection_creator_name;Ontario Ministry of Heath
+collection_creator_contact;https://www.ontario.ca/feedback/contact-us?id=25811&nid=130423
+collection_publisher;Ontario Ministry of Heath
+collection_description;Daily snapshot of an online table with number of cases under investigation, tested negative or positive, updated weekdays at 10.30 AM EST except from the 8th of February until the 10th of February, updated at 16:00 EST
+collection_URL_original;https://www.ontario.ca/page/2019-novel-coronavirus-2019-ncov#section-0
+collection_format;HTML table saved as PDF
+collection_number_files;3
+collection_members.1;The 2019 Novel Coronavirus (2019-nCoV) _ Ontario.ca_2020-02-07.pdf
+collection_members.2;The 2019 Novel Coronavirus (2019-nCoV) _ Ontario.ca_2020-02-08.pdf
+collection_members.3;The 2019 Novel Coronavirus (2019-nCoV) _ Ontario.ca_2020-02-09.pdf
+collection_members.4;The 2019 Novel Coronavirus (2019-nCoV) _ Ontario.ca_2020-02-10.pdf
+collection_first_report_date;2020-02-07
+collection_last_report_date;2020-02-10
+collection_license;NA
+collection_access;PDF or HTML for viewing
+related_object_id;NA
+related_object_path;NA
+relation_description;NA
+curation _notes;NA
+collection_lastupdated_date;2020-02-10
+collection_lastupdated_person;"""Lucie Contamin, University of Pittsburgh, ORCID 0000-0001-5797-1279"""
+collection_lastupdated_email;contamin@pitt.edu
