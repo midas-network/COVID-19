@@ -11,8 +11,8 @@ collection_URL_original,,https://nextstrain.org/ncov
 collection_format,,"Downlaod formats: Tree (NEWICK), Time tree (NEWICK), Strain metadata (TSV), Author metadata (TSV), Screenshot (SVG)"
 collection_number_files,,0
 collection_members,,NA
-collection_first_report_date,,Dec-19
-collection_last_report_date,,Feb-20
+collection_first_report_date,,2020-12-11
+collection_last_report_date,,2020-02-07
 collection_license,,"The data presented here is intended to rapidly disseminate analysis of important pathogens. Unpublished data is included with permission of the data generators, and does not impact their right to publish. Please contact the respective authors (available via the TSV files below) if you intend to carry out further research using their data. Derived data, such as phylogenies, can be downloaded below - please contact the relevant authors where appropriate."
 collection_access,,Download links
 related_object_id,,NA
