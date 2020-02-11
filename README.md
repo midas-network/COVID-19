@@ -4,9 +4,6 @@ This repository serves as central platoform to share resources relevant for mode
 ## [Data](https://github.com/midas-network/2019-ncov/wiki/Data)
 All data sources relevant for 2019-nCoV modeling can be uploaded/found here, including case count data and line listings. Data are uploaded by the MCC and by community members. Data can be in many different formats and levels of curation. Sets of related data files are presented as "collections". For example, a collection can be a set of related outbreak situation updates from a country, a set of time-stamped backup files, or another set of related files. Each collection has its own metadata, data guide, and location dictionary that maps geographic locations listed in the collection to international standards.
 
-### Most recently added data
-* List here
-
 ## Parameter estimates
 Once CSV file with estimates for epidemiological parameters relevant for nCoV modeling extracted from a variety of sources including preliminary model reports, pre-prints, and peer-reviewed publications. For each parameter, metadata are also extracted. Parameter estimates are extracted by a team of curators from the MIDAS Coordination Center and others, and reviewed by community members (list here) for accuracy. A subset of the CSV file is displayed in a readme file.
 
@@ -18,9 +15,6 @@ Once CSV file with estimates for epidemiological parameters relevant for nCoV mo
 
 ## [Algorithms & Visualizations](https://github.com/midas-network/2019-ncov/wiki/Algorithms-&-Visualizations)
 Source code and/or links to algorithms for data-processing and modeling will be included in this section together with relevant metadata. Links and metadata for visualizations and dashboards related to 2019-nCoV are also listed. 
-
-### Most recently added items
-* List here
 
 ## [Documents](https://github.com/midas-network/2019-ncov/wiki/Documents)
 All documents relevant to 2019-nCoV can be posted in this section. Documents are mostly organized by country or by topic. Pre-prints and peer-reviewd manuscripts are posted with links to external webpages while all other documents are stored in this repository and internal links to those documents are listed. Documents include:
