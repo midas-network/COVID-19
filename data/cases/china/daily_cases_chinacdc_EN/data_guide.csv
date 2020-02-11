@@ -1,8 +1,8 @@
-collection_ID,data_field_code,data_field_name,full_name_en,full_name_original,description,format,unit,information_update_date,informatin_update_person,information_update_email
-daily_cases_chinacdc_EN,DCCEN1,Province,Province,Province,Full name of the province in English,text,NA,2020-02-11,Anne Cross,anne.cross@pitt.edu
-daily_cases_chinacdc_EN,DCCEN2,Add Suspect,Add Suspect,Add Suspect,Total number of new cases suspected on specified date in the name of the file,text,NA,2020-02-11,Anne Cross,anne.cross@pitt.edu
-daily_cases_chinacdc_EN,DCCEN3,Cumulative Suspect,Cumulative Suspect,Cumulative Suspect,Total number of cases suspected until specified date in the name of the file,text,NA,2020-02-11,Anne Cross,anne.cross@pitt.edu
-daily_cases_chinacdc_EN,DCCEN4,New diagnosis,New diagnosis,New diagnosis,Total number of new cases that occurred on specified date in the name of the file,numeric,NA,2020-02-11,Anne Cross,anne.cross@pitt.edu
-daily_cases_chinacdc_EN,DCCEN5,Cumulative diagnosis,Cumulative diagnosis,Cumulative diagnosis,Total number of cases that occurred until specified date in the name of the file,numeric,NA,2020-02-11,Anne Cross,anne.cross@pitt.edu
-daily_cases_chinacdc_EN,DCCEN6,Added death,Added death,Added death,Total number of new cases that died on specified date in the name of the file,numeric,NA,2020-02-11,Anne Cross,anne.cross@pitt.edu
-daily_cases_chinacdc_EN,DCCEN7,Cumulative death,Cumulative death,Cumulative death,Total number of cases that died until specified date in the name of the file,numeric,NA,2020-02-11,Anne Cross,anne.cross@pitt.edu
+collection_ID;data_field_code;data_field_name;full_name_en;full_name_original;description;format;unit;information_update_date;informatin_update_person;information_update_email
+daily_cases_chinacdc_EN;DCCEN1;Province;Province;省份;Full name of the province in English;text;NA;2020-02-11;Anne Cross;anne.cross@pitt.edu
+daily_cases_chinacdc_EN;DCCEN2;Add Suspect;Add Suspect;新增疑似;Total number of new cases suspected on specified date in the name of the file;text;NA;2020-02-11;Anne Cross;anne.cross@pitt.edu
+daily_cases_chinacdc_EN;DCCEN3;Cumulative Suspect;Cumulative Suspect;累计疑似;Total number of cases suspected until specified date in the name of the file;text;NA;2020-02-11;Anne Cross;anne.cross@pitt.edu
+daily_cases_chinacdc_EN;DCCEN4;New diagnosis;New diagnosis;新增确诊;Total number of new cases that occurred on specified date in the name of the file;numeric;NA;2020-02-11;Anne Cross;anne.cross@pitt.edu
+daily_cases_chinacdc_EN;DCCEN5;Cumulative diagnosis;Cumulative diagnosis;累计确诊;Total number of cases that occurred until specified date in the name of the file;numeric;NA;2020-02-11;Anne Cross;anne.cross@pitt.edu
+daily_cases_chinacdc_EN;DCCEN6;Added death;Added death;新增死亡;Total number of new cases that died on specified date in the name of the file;numeric;NA;2020-02-11;Anne Cross;anne.cross@pitt.edu
+daily_cases_chinacdc_EN;DCCEN7;Cumulative death;Cumulative death;累计死亡;Total number of cases that died until specified date in the name of the file;numeric;NA;2020-02-11;Anne Cross;anne.cross@pitt.edu
