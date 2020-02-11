@@ -1,5 +1,5 @@
 # MIDAS 2019 Novel Coronavirus Repository
-This repository serves as central platoform to share resources relevant for modeling of the 2019-nCoV outbreak. The repository was created by the [IDAS Coordination Center (MCC)](https://midasnetwork.us/mcc/), who will continue to maintain it in collaboration with the broader modeling community. Community members are encouraged to contribute resources to the repository and thus support the overall 2019-nCoV research effort. 
+This repository serves as central platoform to share resources relevant for modeling of the 2019-nCoV outbreak. The repository was created by the [MIDAS Coordination Center (MCC)](https://midasnetwork.us/mcc/), who will continue to maintain it in collaboration with the broader modeling community. Community members are encouraged to contribute resources to the repository and thus support the overall 2019-nCoV research effort. 
 
 ## [Data](https://github.com/midas-network/2019-ncov/wiki/Data)
 All data sources relevant for 2019-nCoV modeling can be uploaded/found here, including case count data and line listings. Data are uploaded by the MCC and by community members. Data can be in many different formats and levels of curation. Sets of related data files are presented as "collections". For example, a collection can be a set of related outbreak situation updates from a country, a set of time-stamped backup files, or another set of related files. Each collection has its own metadata, data guide, and location dictionary that maps geographic locations listed in the collection to international standards.
@@ -13,7 +13,7 @@ Once CSV file with estimates for epidemiological parameters relevant for nCoV mo
 ### Parameter Estimates for MERS
 ### Parameter Estimates for Seasonal influenza
 
-## [Software Tools](https://github.com/midas-network/2019-ncov/wiki/Software Tools)
+## [Software Tools](https://github.com/midas-network/2019-ncov/wiki/Software-Tools)
 Source code and/or links to algorithms for data-processing, modeling, and visualizations will be included in this section together with relevant metadata. Links and metadata for visualizations and dashboards related to 2019-nCoV are also listed. 
 
 ## [Documents](https://github.com/midas-network/2019-ncov/wiki/Documents)
