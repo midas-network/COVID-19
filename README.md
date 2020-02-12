@@ -36,7 +36,7 @@ Software tools for data-processing, modeling, and visualizations will be include
 All documents relevant to COVID-19 are posted in this section. Documents are mostly organized by country or by topic. Pre-prints and peer-reviewd manuscripts are posted with links to external webpages only while all other documents are also stored in this repository as collections in the [documents folder](https://github.com/midas-network/COVID-19/tree/master/Documents). Add new documents by submitting an [issue](https://github.com/midas-network/COVID-19/issues) with the document information.
 
 Documents include:
-* Reports, inlcuding outbreak situation reports/updates, modeling reports and other "grey literature"
+* Reports, inlcuding outbreak situation reports/updates, modeling reports and other "gray literature"
 * Pre-prints and peer-reviewed publications, organized by topic
 * Guidelines by WHO, China, and US CDC related to COVID-19
 
