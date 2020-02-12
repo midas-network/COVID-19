@@ -6,7 +6,7 @@ collection_language;Chinese
 collection_creator_name;China CDC
 collection_creator_contact;NA
 collection_publisher;China CDC
-collection_description;2019 Novel Coronavirus cumulative cases daily reported by province. Data source is the National Health and provincial health committees, including Hong Kong, Macao and Taiwan. The data are extracted everyday at 16:04 EST.
+collection_description;"2019 Novel Coronavirus cumulative cases daily reported by province. Data source is the National Health and provincial health committees, including Hong Kong, Macao and Taiwan. The data are extracted everyday at 16:04 EST."
 collection_URL_original;http://2019ncov.chinacdc.cn/2019-nCoV/
 collection_format;CSV
 collection_number_files;30
