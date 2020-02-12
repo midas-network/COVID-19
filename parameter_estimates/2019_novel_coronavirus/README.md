@@ -7,7 +7,7 @@
 |Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|
 |4000|1000|9700|China|Wuhan City|2020-01-18|2020-01-18|2020-01-22|[Imperial College](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/2019-nCoV-outbreak-report-22-01-2020.pdf)|
-|15800|11800|20600|China|Wuhan City|2019-12-31|2020-01-29|2020-01-29|[Mobs-lab](https://www.mobs-lab.org/uploads/6/7/8/7/6787877/wuhan_novel_coronavirus_jan29.pdf)|
+|31200|23400|40400|China|Wuhan City|2019-12-31|2020-01-29|2020-01-29|[Mobs-lab](https://www.mobs-lab.org/uploads/6/7/8/7/6787877/wuhan_novel_coronavirus_jan29.pdf)|
 |21022|11090|33490|NA|Global|2020-01-01|2020-01-22|2020-01-28|[Lancaster University](https://www.medrxiv.org/content/10.1101/2020.01.23.20018549v2)
 
 ## Basic reproduction number
