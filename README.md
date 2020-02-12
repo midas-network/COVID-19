@@ -9,7 +9,7 @@ Information posted in this repository was created by those listed as creators in
 
 
 ### Introduction 
-This repository serves as central platform to share resources relevant for modeling of the COVID-19 outbreak. The [MIDAS Coordination Center (MCC)](https://midasnetwork.us/mcc/) has created and will maintain it in collaboration with the broader modeling community. Community members are encouraged to contribute resources to the repository and thus support the overall COVID-19 research effort. See [Information for Contributors](https://github.com/midas-network/COVID-19/wiki/Information-for-Contributors) for guidance on how to contribute material. Contact questions@midasnetwork.us for any questions or ideas for improvements, or to send/request any material to be included. 
+This repository serves as a central platform to share resources relevant for modeling of the COVID-19 outbreak. The [MIDAS Coordination Center (MCC)](https://midasnetwork.us/mcc/) has created and will maintain it in collaboration with the broader modeling community. Community members are encouraged to contribute resources to the repository and thus support the overall COVID-19 research effort. See [Information for Contributors](https://github.com/midas-network/COVID-19/wiki/Information-for-Contributors) for guidance on how to contribute material. Contact questions@midasnetwork.us for any questions or ideas for improvements, or to send/request any material to be included. 
 
 ### MIDAS 2019 Novel Coronavirus Mailing List
 The MIDAS Coordination Center maintains a dedicated mailing list for updates and news about COVID-19 modeling research. To join the mailing list, please email questions@midasnetwork.us. 
@@ -44,7 +44,7 @@ Documents include:
 Anybody can contribute to this repository through pull requests. Community members are encouraged to contribute new data and findings, and help make this repository increasingly complete and useful. This section includes detailed instructions for pull requests and templates for metadata, data guides, and other files formats and content standards. Email questions@midasnetwork.us in case of questions or ideas.
 
 ## <a id="userinfo"></a>Information for Users
-Many people have contributed to the creation of this repository and of its content. Please cite the creators of data or other content listed in the respective metadata if you use any of their contributions. Also cite this repository as the source for those contributions as per the following suggested citation: "Creators of object, name of object, Retrieved from: MIDAS 2019 Novel Coronavirus Github Repository, URL. Accessed date"
+Many people have contributed to the creation of this repository and of its content. Please cite the creators of data or other content listed in the respective metadata if you use any of their contributions. Also cite this repository as the source for those contributions as per the following suggested citation: "Creators of object, name of object, Retrieved from: MIDAS 2019 Novel Coronavirus GitHub Repository, URL. Accessed date"
 
 ## Contact Information
 For any questions or comments related to this repository, submit an [issue](https://github.com/midas-network/COVID-19/issues) or [contact the MIDAS Coordination Center](mailto:questions@midasnetwork.us). 
