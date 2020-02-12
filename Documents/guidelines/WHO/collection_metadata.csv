@@ -1,8 +1,8 @@
 Fieldname,Description
-collection_ID,who_guidance
+collection_ID,WHO_guidance
 collection_title_en,World Health Organization Guidance
 collection_title_original,NA
-collection_path_repository,COVID-19\Documents\guidelines\who
+collection_path_repository,COVID-19\Documents\guidelines\WHO
 collection_language,English
 collection_creator_name,World Health Organization
 collection_creator_contact,

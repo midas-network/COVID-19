@@ -1,8 +1,10 @@
 Fieldname,Description
-collection_ID,risk_assessment_mobs
-collection_title_en,Preliminary assessment of the International Spreading Risk Associated with the 2019 novel Coronavirus (2019-nCoV) outbreak in Wuhan
-collection_title_original,Preliminary assessment of the International Spreading Risk Associated with the 2019 novel Coronavirus (2019-nCoV) outbreak in Wuhan 
-collection_path_repository,COVID-19\Documents\Reports\model_reports\global\risk_assessment_mobs
+collection_ID,risk_assessment_MOBS
+collection_title_en,"
+Preliminary assessment of the International Spreading Risk Associated with the 2019 novel Coronavirus (2019-nCoV) outbreak in Wuhan"
+collection_title_original,"
+Preliminary assessment of the International Spreading Risk Associated with the 2019 novel Coronavirus (2019-nCoV) outbreak in Wuhan "
+collection_path_repository,COVID-19\Documents\Reports\model_reports\global\risk_assessment_MOBS
 collection_language,English
 collection_creator_name,Laboratory for the Modeling of Biological and Socio-technical Systems
 collection_creator_contact,a.vespignani@neu.edu
