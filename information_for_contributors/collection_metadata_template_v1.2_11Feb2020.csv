@@ -21,5 +21,5 @@ related_object_path,Path to the related object in the repository,
 relation_description,Description of the relationship of the related object and this collection,
 curation _notes,Notes related to curation of the collection,
 collection_lastupdated_date,Date on which the collection was last updated (as yyyy-mm-dd),2020-02-01
-collection_lastupdated_person,Name, affiliation, and ID (ORCID, Publon ID, other) of person who last updated the collection,Wilbert van Panhuis, University of Pittsburgh, ORCID 0000-0002-7278-9982
+collection_lastupdated_person,"Name, affiliation, and ID (ORCID, Publon ID, other) of person who last updated the collection","Wilbert van Panhuis, University of Pittsburgh, ORCID 0000-0002-7278-9982"
 collection_lastupdated_email,Email of the person who last updated the collection,wgvanpanhuis@gmail.com
