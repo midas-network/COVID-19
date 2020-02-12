@@ -1,4 +1,4 @@
-"collection_ID.data_field_code.data_field_name.full_name_en.full_name_original.description.format.unit.information_update_date.informatin_update_person.information_update_email"
+"collection_ID,data_field_code,data_field_name,full_name_en,full_name_original,description,format,unit,information_update_date,informatin_update_person,information_update_email"
 "line_listings_nihfogarty,LLN1,id,identifier,identifier,Sequential numeric identifier of each line listing,numeric,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com"
 "line_listings_nihfogarty,LLN2,reporting date,reporting date,reporting date,Date of broadcast on DXY.cn,date,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com"
 "line_listings_nihfogarty,LLN3,summary,summary,summary,Summary of DXY.cn information on the case,text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com"
