@@ -1,440 +1,440 @@
-provinceName;provinceShortName;cityName;confirmedCount;suspectedCount;curedCount;deadCount;comment;;;
-Hubei Province;Hubei;NA;13522;0;397;414;;;;
-Hubei Province;Hubei;Wuhan;6384;0;306;313;NA;;;
-Hubei Province;Hubei;Huanggang;1422;0;41;19;NA;;;
-Hubei Province;Hubei;Xiaogan;1120;0;4;17;NA;;;
-Hubei Province;Hubei;Suizhou;641;0;3;6;NA;;;
-Hubei Province;Hubei;Xiangyang;632;0;1;1;NA;;;
-Hubei Province;Hubei;Jingzhou;613;0;7;7;NA;;;
-Hubei Province;Hubei;Yichang;452;0;2;3;NA;;;
-Hubei Province;Hubei;Yellowstone;405;0;9;2;NA;;;
-Hubei Province;Hubei;Jingmen;400;0;6;14;NA;;;
-Hubei Province;Hubei;Xianning;348;0;1;0;NA;;;
-Hubei Province;Hubei;Ezhou;332;0;4;18;NA;;;
-Hubei Province;Hubei;Shiyan;291;0;6;0;NA;;;
-Hubei Province;Hubei;Xiantao;188;0;0;3;NA;;;
-Hubei Province;Hubei;Enshi;123;0;5;0;NA;;;
-Hubei Province;Hubei;Tianmen;117;0;0;10;NA;;;
-Hubei Province;Hubei;Qianjiang;44;0;0;1;NA;;;
-Hubei Province;Hubei;Shennongjia Forest District;10;0;2;0;NA;;;
-Zhejiang Province;Zhejiang;NA;829;0;62;0;;;;
-Zhejiang Province;Zhejiang;Wenzhou;340;0;28;0;NA;;;
-Zhejiang Province;Zhejiang;Hangzhou;132;0;6;0;NA;;;
-Zhejiang Province;Zhejiang;Taizhou;115;0;11;0;NA;;;
-Zhejiang Province;Zhejiang;Ningbo;102;0;4;0;NA;;;
-Zhejiang Province;Zhejiang;Jinhua;40;0;6;0;NA;;;
-Zhejiang Province;Zhejiang;Shaoxing;30;0;3;0;NA;;;
-Zhejiang Province;Zhejiang;Jiaxing;23;0;0;0;NA;;;
-Zhejiang Province;Zhejiang;Lishui;16;0;1;0;NA;;;
-Zhejiang Province;Zhejiang;Luzhou;15;0;0;0;NA;;;
-Zhejiang Province;Zhejiang;Huzhou;9;0;1;0;NA;;;
-Zhejiang Province;Zhejiang;Zhoushan;7;0;2;0;NA;;;
-Guangdong Province;Guangdong;NA;813;0;30;0;;;;
-Guangdong Province;Guangdong;Shenzhen;271;0;13;0;NA;;;
-Guangdong Province;Guangdong;Guangzhou;224;0;3;0;NA;;;
-Guangdong Province;Guangdong;Zhuhai;64;0;1;0;NA;;;
-Guangdong Province;Guangdong;Foshan;49;0;1;0;NA;;;
-Guangdong Province;Guangdong;Dongguan;37;0;0;0;NA;;;
-Guangdong Province;Guangdong;Zhongshan;31;0;3;0;NA;;;
-Guangdong Province;Guangdong;Huizhou;29;0;1;0;NA;;;
-Guangdong Province;Guangdong;Shantou;18;0;3;0;NA;;;
-Guangdong Province;Guangdong;Zhanjiang;18;0;1;0;NA;;;
-Guangdong Province;Guangdong;Yangjiang;12;0;0;0;NA;;;
-Guangdong Province;Guangdong;Zhaoqing;10;0;1;0;NA;;;
-Guangdong Province;Guangdong;Meizhou;9;0;0;0;NA;;;
-Guangdong Province;Guangdong;Qingyuan;8;0;2;0;NA;;;
-Guangdong Province;Guangdong;Shaoguan;6;0;1;0;NA;;;
-Guangdong Province;Guangdong;Jieyang;6;0;0;0;NA;;;
-Guangdong Province;Guangdong;Jiangmen;6;0;0;0;NA;;;
-Guangdong Province;Guangdong;Shanwei;5;0;0;0;NA;;;
-Guangdong Province;Guangdong;Maoming;5;0;0;0;NA;;;
-Guangdong Province;Guangdong;Chaozhou;4;0;0;0;NA;;;
-Guangdong Province;Guangdong;Heyuan;1;0;0;0;NA;;;
-Henan Province;Henan;NA;675;2;27;2;待明确地区：治愈;410000;;
-Henan Province;Henan;Xinyang;112;0;6;0;NA;;;
-Henan Province;Henan;Nanyang;99;2;2;2;NA;;;
-Henan Province;Henan;Zhengzhou;85;0;13;0;NA;;;
-Henan Province;Henan;Zhumadian;72;0;0;0;NA;;;
-Henan Province;Henan;Shangqiu;60;0;0;0;NA;;;
-Henan Province;Henan;Zhoukou;52;0;1;0;NA;;;
-Henan Province;Henan;Xinxiang;33;0;0;0;NA;;;
-Henan Province;Henan;Anyang;33;0;1;0;NA;;;
-Henan Province;Henan;Pingdingshan;28;0;0;0;NA;;;
-Henan Province;Henan;Luohe;23;0;0;0;NA;;;
-Henan Province;Henan;Xu Chang;19;0;0;0;NA;;;
-Henan Province;Henan;Luoyang;12;0;1;0;NA;;;
-Henan Province;Henan;Kaifeng;12;0;1;0;NA;;;
-Henan Province;Henan;Jiaozuo;12;0;0;0;NA;;;
-Henan Province;Henan;Hebi;10;0;0;0;NA;;;
-Henan Province;Henan;Sanmenxia;7;0;0;0;NA;;;
-Henan Province;Henan;Liyang;4;0;0;0;NA;;;
-Henan Province;Henan;Jiyuan;2;0;0;0;NA;;;
-Hunan Province;Hunan;NA;593;0;31;0;;;;
-Hunan Province;Hunan;Changsha;148;0;6;0;NA;;;
-Hunan Province;Hunan;Yue Yang;83;0;0;0;NA;;;
-Hunan Province;Hunan;Shao Yang;55;0;2;0;NA;;;
-Hunan Province;Hunan;Changde;50;0;3;0;NA;;;
-Hunan Province;Hunan;Lou Di;40;0;3;0;NA;;;
-Hunan Province;Hunan;Huaihua;35;0;1;0;NA;;;
-Hunan Province;Hunan;Hengyang;35;0;4;0;NA;;;
-Hunan Province;Hunan;Yiyang;35;0;1;0;NA;;;
-Hunan Province;Hunan;Zhuzhou;34;0;1;0;NA;;;
-Hunan Province;Hunan;Yongzhou;26;0;5;0;NA;;;
-Hunan Province;Hunan;Luzhou;22;0;1;0;NA;;;
-Hunan Province;Hunan;Xiangtan;21;0;3;0;NA;;;
-Hunan Province;Hunan;Xiangxi Autonomous Prefecture;6;0;1;0;NA;;;
-Hunan Province;Hunan;Zhangjiajie;3;0;0;0;NA;;;
-Anhui Province;Anhui;NA;480;0;20;0;;;;
-Anhui Province;Anhui;Hefei;81;0;5;0;NA;;;
-Anhui Province;Anhui;Fuyang;79;0;3;0;NA;;;
-Anhui Province;Anhui;Anqing;55;0;3;0;NA;;;
-Anhui Province;Anhui;Luzhou;48;0;2;0;NA;;;
-Anhui Province;Anhui;Bengbu;43;0;0;0;NA;;;
-Anhui Province;Anhui;Lu'an;30;0;1;0;NA;;;
-Anhui Province;Anhui;Maanshan;28;0;1;0;NA;;;
-Anhui Province;Anhui;Suzhou;23;0;0;0;NA;;;
-Anhui Province;Anhui;Wuhu;21;0;1;0;NA;;;
-Anhui Province;Anhui;Tongling;19;0;1;0;NA;;;
-Anhui Province;Anhui;Luzhou;11;0;1;0;NA;;;
-Anhui Province;Anhui;Huaibei;11;0;0;0;NA;;;
-Anhui Province;Anhui;Chizhou;10;0;1;0;NA;;;
-Anhui Province;Anhui;Huangshan;9;0;0;0;NA;;;
-Anhui Province;Anhui;Huainan;8;0;0;0;NA;;;
-Anhui Province;Anhui;Xuancheng;4;0;1;0;NA;;;
-Jiangxi Province;Jiangxi;NA;476;0;20;0;;;;
-Jiangxi Province;Jiangxi;Nanchang;121;0;4;0;NA;;;
-Jiangxi Province;Jiangxi;Jiujiang;78;0;3;0;NA;;;
-Jiangxi Province;Jiangxi;Xinyu;59;0;3;0;NA;;;
-Jiangxi Province;Jiangxi;Shangrao;50;0;4;0;NA;;;
-Jiangxi Province;Jiangxi;Yichun;45;0;2;0;NA;;;
-Jiangxi Province;Jiangxi;Ganzhou;42;0;1;0;NA;;;
-Jiangxi Province;Jiangxi;Fuzhou;34;0;0;0;NA;;;
-Jiangxi Province;Jiangxi;Pingxiang;20;0;1;0;NA;;;
-Jiangxi Province;Jiangxi;Gian;15;0;1;0;NA;;;
-Jiangxi Province;Jiangxi;Yingtan;8;0;0;0;NA;;;
-Jiangxi Province;Jiangxi;Jingdezhen;4;0;1;0;NA;;;
-Chongqing;Chongqing;NA;344;0;9;2;;;;
-Chongqing;Chongqing;Wanzhou District;60;0;0;1;NA;;;
-Chongqing;Chongqing;Kaizhou District;18;0;0;0;NA;;;
-Chongqing;Chongqing;Yunyang County;18;0;1;0;NA;;;
-Chongqing;Chongqing;Jiangbei District;16;0;0;0;NA;;;
-Chongqing;Chongqing;Jiulongpo District;15;0;0;1;NA;;;
-Chongqing;Chongqing;Zhongxian;15;0;0;0;NA;;;
-Chongqing;Chongqing;Dianjiang County;13;0;1;0;NA;;;
-Chongqing;Chongqing;Liangjiang New District;13;0;0;0;NA;;;
-Chongqing;Chongqing;Yuzhong District;13;0;0;0;NA;;;
-Chongqing;Chongqing;Yu Bei District;12;0;0;0;NA;;;
-Chongqing;Chongqing;Changshou District;12;0;0;0;NA;;;
-Chongqing;Chongqing;Shizhu County;12;0;0;0;NA;;;
-Chongqing;Chongqing;Wuxi County;11;0;0;0;NA;;;
-Chongqing;Chongqing;Qijiang District;10;0;0;0;NA;;;
-Chongqing;Chongqing;Hechuan District;9;0;0;0;NA;;;
-Chongqing;Chongqing;Fengjie County;9;0;0;0;NA;;;
-Chongqing;Chongqing;Laoshan District;8;0;0;0;NA;;;
-Chongqing;Chongqing;Rongchang District;8;0;0;0;NA;;;
-Chongqing;Chongqing;Dadukou District;7;0;0;0;NA;;;
-Chongqing;Chongqing;Dazu District;7;0;0;0;NA;;;
-Chongqing;Chongqing;Tongliang District;7;0;0;0;NA;;;
-Chongqing;Chongqing;Wushan County;7;0;4;0;NA;;;
-Chongqing;Chongqing;South Bank area;7;0;0;0;NA;;;
-Chongqing;Chongqing;Fengdu County;6;0;1;0;NA;;;
-Chongqing;Chongqing;Taonan District;5;0;0;0;NA;;;
-Chongqing;Chongqing;Banan District;3;0;0;0;NA;;;
-Chongqing;Chongqing;Jiangjin District;3;0;0;0;NA;;;
-Chongqing;Chongqing;Yongchuan District;3;0;1;0;NA;;;
-Chongqing;Chongqing;Liangping District;3;0;0;0;NA;;;
-Chongqing;Chongqing;Fuling District;2;0;0;0;NA;;;
-Chongqing;Chongqing;Chengkou County;2;0;0;0;NA;;;
-Chongqing;Chongqing;Qianjiang District;2;0;0;0;NA;;;
-Chongqing;Chongqing;Shapingba District;2;0;0;0;NA;;;
-Chongqing;Chongqing;Pengshui County;2;0;0;0;NA;;;
-Chongqing;Chongqing;High-tech Zone;2;0;0;0;NA;;;
-Chongqing;Chongqing;Xiushan County;1;0;1;0;NA;;;
-Chongqing;Chongqing;Wulong District;1;0;0;0;NA;;;
-Jiangsu Province;Jiangsu;NA;308;0;12;0;;;;
-Jiangsu Province;Jiangsu;Suzhou;52;0;3;0;NA;;;
-Jiangsu Province;Jiangsu;Nanjing;44;0;4;0;NA;;;
-Jiangsu Province;Jiangsu;Xuzhou;39;0;0;0;NA;;;
-Jiangsu Province;Jiangsu;Wuxi;25;0;1;0;NA;;;
-Jiangsu Province;Jiangsu;Taizhou;23;0;0;0;NA;;;
-Jiangsu Province;Jiangsu;Nantong;22;0;0;0;NA;;;
-Jiangsu Province;Jiangsu;Huaian;22;0;1;0;NA;;;
-Jiangsu Province;Jiangsu;Changzhou;19;0;2;0;NA;;;
-Jiangsu Province;Jiangsu;Lianyungang;17;0;1;0;NA;;;
-Jiangsu Province;Jiangsu;Yangzhou;15;0;0;0;NA;;;
-Jiangsu Province;Jiangsu;Yancheng;15;0;0;0;NA;;;
-Jiangsu Province;Jiangsu;Suqian;10;0;0;0;NA;;;
-Jiangsu Province;Jiangsu;Zhenjiang;5;0;0;0;NA;;;
-Sichuan Province;Sichuan;NA;282;0;14;1;;;;
-Sichuan Province;Sichuan;Chengdu;87;0;10;1;NA;;;
-Sichuan Province;Sichuan;Nanchong;27;0;0;0;NA;;;
-Sichuan Province;Sichuan;Guang'an;24;0;1;0;NA;;;
-Sichuan Province;Sichuan;Mianyang;17;0;1;0;NA;;;
-Sichuan Province;Sichuan;Neijiang;15;0;0;0;NA;;;
-Sichuan Province;Sichuan;Dazhou;13;0;1;0;NA;;;
-Sichuan Province;Sichuan;Deyang;12;0;0;0;NA;;;
-Sichuan Province;Sichuan;Bazhong;12;0;0;0;NA;;;
-Sichuan Province;Sichuan;Panzhihua;10;0;0;0;NA;;;
-Sichuan Province;Sichuan;Zigong;9;0;0;0;NA;;;
-Sichuan Province;Sichuan;Luzhou;9;0;0;0;NA;;;
-Sichuan Province;Sichuan;Ganzi Prefecture;8;0;0;0;NA;;;
-Sichuan Province;Sichuan;Yibin;7;0;0;0;NA;;;
-Sichuan Province;Sichuan;Liangshan Prefecture;6;0;0;0;NA;;;
-Sichuan Province;Sichuan;Guangyuan;6;0;0;0;NA;;;
-Sichuan Province;Sichuan;Suining;5;0;1;0;NA;;;
-Sichuan Province;Sichuan;Yaan;5;0;0;0;NA;;;
-Sichuan Province;Sichuan;Meishan;5;0;0;0;NA;;;
-Sichuan Province;Sichuan;Leshan;2;0;0;0;NA;;;
-Sichuan Province;Sichuan;Ziyang;2;0;0;0;NA;;;
-Sichuan Province;Sichuan;Aba;1;0;0;0;NA;;;
-Shandong Province;Shandong;NA;275;0;11;0;;;;
-Shandong Province;Shandong;Qingdao;32;0;3;0;NA;;;
-Shandong Province;Shandong;Linyi;28;0;1;0;NA;;;
-Shandong Province;Shandong;Yantai;26;0;0;0;NA;;;
-Shandong Province;Shandong;Weihai;25;0;2;0;NA;;;
-Shandong Province;Shandong;Jinan;25;0;0;0;NA;;;
-Shandong Province;Shandong;Jining;21;0;3;0;NA;;;
-Shandong Province;Shandong;Texas;19;0;1;0;NA;;;
-Shandong Province;Shandong;Zaozhuang;16;0;0;0;NA;;;
-Shandong Province;Shandong;sunshine;14;0;0;0;NA;;;
-Shandong Province;Shandong;Weifang;14;0;0;0;NA;;;
-Shandong Province;Shandong;Zibo;12;0;0;0;NA;;;
-Shandong Province;Shandong;Taian;12;0;1;0;NA;;;
-Shandong Province;Shandong;Binzhou;11;0;0;0;NA;;;
-Shandong Province;Shandong;Liaocheng;10;0;0;0;NA;;;
-Shandong Province;Shandong;Heze;10;0;0;0;NA;;;
-Beijing;Beijing;NA;228;0;23;1;;;;
-Beijing;Beijing;Haidian District;45;0;0;0;NA;;;
-Beijing;Beijing;Chaoyang District;36;0;0;0;NA;;;
-Beijing;Beijing;Daxing District;29;0;2;0;NA;;;
-Beijing;Beijing;Xicheng District;28;0;0;0;NA;;;
-Beijing;Beijing;Foreigners coming to Beijing;20;0;2;0;NA;;;
-Beijing;Beijing;Fengtai District;18;0;0;0;NA;;;
-Beijing;Beijing;Changping District;14;0;0;0;NA;;;
-Beijing;Beijing;Tongzhou District;13;0;0;0;NA;;;
-Beijing;Beijing;Shijingshan District;6;0;0;0;NA;;;
-Beijing;Beijing;Shunyi District;5;0;0;0;NA;;;
-Beijing;Beijing;Fangshan District;5;0;0;0;NA;;;
-Beijing;Beijing;Mentougou District;3;0;0;0;NA;;;
-Beijing;Beijing;Huairou District;3;0;0;0;NA;;;
-Beijing;Beijing;Dongcheng Area;2;0;0;0;NA;;;
-Beijing;Beijing;Yanqing District;1;0;0;0;NA;;;
-Beijing;Beijing;Area to be identified;0;0;19;1;NA;;;
-Shanghai;Shanghai;NA;219;0;12;1;治愈数据统一归属上海市公卫临床中心，暂无具体分区;;;
-Shanghai;Shanghai;Foreigners coming to Shanghai;81;0;6;1;NA;;;
-Shanghai;Shanghai;Pudong New Area;43;0;0;0;NA;;;
-Shanghai;Shanghai;Baoshan District;12;0;0;0;NA;;;
-Shanghai;Shanghai;Xuhui District;11;0;0;0;NA;;;
-Shanghai;Shanghai;Minhang District;10;0;0;0;NA;;;
-Shanghai;Shanghai;Jing'an District;10;0;0;0;NA;;;
-Shanghai;Shanghai;Changning District;8;0;0;0;NA;;;
-Shanghai;Shanghai;Songjiang District;8;0;0;0;NA;;;
-Shanghai;Shanghai;Putuo District;6;0;0;0;NA;;;
-Shanghai;Shanghai;Fengxian District;6;0;0;0;NA;;;
-Shanghai;Shanghai;Hongkou District;5;0;0;0;NA;;;
-Shanghai;Shanghai;Huangpu District;5;0;0;0;NA;;;
-Shanghai;Shanghai;Yangpu District;5;0;0;0;NA;;;
-Shanghai;Shanghai;Jiading District;3;0;0;0;NA;;;
-Shanghai;Shanghai;Qingpu District;3;0;0;0;NA;;;
-Shanghai;Shanghai;Jinshan District;2;0;0;0;NA;;;
-Shanghai;Shanghai;Chongming District;1;0;0;0;NA;;;
-Shanghai;Shanghai;Unknown area;0;0;6;0;NA;;;
-Fujian Province;Fujian;NA;194;0;3;0;;;;
-Fujian Province;Fujian;Fuzhou;53;0;2;0;NA;;;
-Fujian Province;Fujian;Putian;37;0;1;0;NA;;;
-Fujian Province;Fujian;Quanzhou;35;0;0;0;NA;;;
-Fujian Province;Fujian;Xiamen;20;0;0;0;NA;;;
-Fujian Province;Fujian;Zhangzhou;13;0;0;0;NA;;;
-Fujian Province;Fujian;Ningde;12;0;0;0;NA;;;
-Fujian Province;Fujian;Sanming;11;0;0;0;NA;;;
-Fujian Province;Fujian;Nanping;11;0;0;0;NA;;;
-Fujian Province;Fujian;Longyan;2;0;0;0;NA;;;
-Heilongjiang Province;Heilongjiang;NA;155;0;4;2;;;;
-Heilongjiang Province;Heilongjiang;Harbin;63;0;4;0;NA;;;
-Heilongjiang Province;Heilongjiang;Suihua;22;0;0;2;NA;;;
-Heilongjiang Province;Heilongjiang;Shuangyashan;12;0;0;0;NA;;;
-Heilongjiang Province;Heilongjiang;Daqing;11;0;0;0;NA;;;
-Heilongjiang Province;Heilongjiang;Jiamusi;11;0;0;0;NA;;;
-Heilongjiang Province;Heilongjiang;Jixi;9;0;0;0;NA;;;
-Heilongjiang Province;Heilongjiang;Mudanjiang;8;0;0;0;NA;;;
-Heilongjiang Province;Heilongjiang;Qitaihe;8;0;0;0;NA;;;
-Heilongjiang Province;Heilongjiang;Qiqihar;6;0;0;0;NA;;;
-Heilongjiang Province;Heilongjiang;Daxinganling;2;0;0;0;NA;;;
-Heilongjiang Province;Heilongjiang;Hegang;2;0;0;0;NA;;;
-Heilongjiang Province;Heilongjiang;Heihe;1;0;0;0;NA;;;
-Shaanxi Province;Shaanxi;NA;142;0;2;0;;;;
-Shaanxi Province;Shaanxi;Xi'an;60;0;2;0;NA;;;
-Shaanxi Province;Shaanxi;Ankang;17;0;0;0;NA;;;
-Shaanxi Province;Shaanxi;Hanzhong;16;0;0;0;NA;;;
-Shaanxi Province;Shaanxi;Xianyang;11;0;0;0;NA;;;
-Shaanxi Province;Shaanxi;Baoji;10;0;0;0;NA;;;
-Shaanxi Province;Shaanxi;Yan'an;7;0;0;0;NA;;;
-Shaanxi Province;Shaanxi;Tongchuan;7;0;0;0;NA;;;
-Shaanxi Province;Shaanxi;Weinan;6;0;0;0;NA;;;
-Shaanxi Province;Shaanxi;Shangluo;5;0;0;0;NA;;;
-Shaanxi Province;Shaanxi;Yulin;1;0;0;0;NA;;;
-Shaanxi Province;Shaanxi;Hancheng;1;0;0;0;NA;;;
-Shaanxi Province;Shaanxi;Yang Ling;1;0;0;0;NA;;;
-Guangxi Zhuang Autonomous Region;Guangxi;NA;139;0;10;0;;;;
-Guangxi Zhuang Autonomous Region;Guangxi;Nanning;27;0;0;0;NA;;;
-Guangxi Zhuang Autonomous Region;Guangxi;North Sea;27;0;2;0;NA;;;
-Guangxi Zhuang Autonomous Region;Guangxi;Guilin;24;0;4;0;NA;;;
-Guangxi Zhuang Autonomous Region;Guangxi;Liuzhou;15;0;1;0;NA;;;
-Guangxi Zhuang Autonomous Region;Guangxi;Fangchenggang;11;0;1;0;NA;;;
-Guangxi Zhuang Autonomous Region;Guangxi;Yulin;8;0;0;0;NA;;;
-Guangxi Zhuang Autonomous Region;Guangxi;Hechi;8;0;0;0;NA;;;
-Guangxi Zhuang Autonomous Region;Guangxi;Wuzhou;5;0;2;0;NA;;;
-Guangxi Zhuang Autonomous Region;Guangxi;Guigang;5;0;0;0;NA;;;
-Guangxi Zhuang Autonomous Region;Guangxi;Hezhou;4;0;0;0;NA;;;
-Guangxi Zhuang Autonomous Region;Guangxi;Qinzhou;3;0;0;0;NA;;;
-Guangxi Zhuang Autonomous Region;Guangxi;Baise;2;0;0;0;NA;;;
-Hebei Province;Hebei;NA;126;0;4;1;;;;
-Hebei Province;Hebei;Shijiazhuang;21;0;1;0;NA;;;
-Hebei Province;Hebei;Cangzhou;20;0;0;1;NA;;;
-Hebei Province;Hebei;Xingtai;16;0;0;0;NA;;;
-Hebei Province;Hebei;Handan;14;0;0;0;NA;;;
-Hebei Province;Hebei;Baoding;13;0;2;0;NA;;;
-Hebei Province;Hebei;Langfang;12;0;1;0;NA;;;
-Hebei Province;Hebei;Tangshan;11;0;0;0;NA;;;
-Hebei Province;Hebei;Zhangjiakou;9;0;0;0;NA;;;
-Hebei Province;Hebei;Hengshui;5;0;0;0;NA;;;
-Hebei Province;Hebei;Chengde;3;0;0;0;NA;;;
-Hebei Province;Hebei;Qinhuangdao;2;0;0;0;NA;;;
-Yunnan Province;Yunnan;NA;119;0;5;0;;;;
-Yunnan Province;Yunnan;Kunming;34;0;0;0;NA;;;
-Yunnan Province;Yunnan;Xishuangbanna;13;0;1;0;NA;;;
-Yunnan Province;Yunnan;Yuxi;12;0;1;0;NA;;;
-Yunnan Province;Yunnan;Zhaotong;9;0;0;0;NA;;;
-Yunnan Province;Yunnan;Qu Jing;9;0;1;0;NA;;;
-Yunnan Province;Yunnan;Baoshan;8;0;0;0;NA;;;
-Yunnan Province;Yunnan;Lijiang;7;0;0;0;NA;;;
-Yunnan Province;Yunnan;Dali;7;0;1;0;NA;;;
-Yunnan Province;Yunnan;Red river;5;0;1;0;NA;;;
-Yunnan Province;Yunnan;Dehong;5;0;0;0;NA;;;
-Yunnan Province;Yunnan;Pu'er;4;0;0;0;NA;;;
-Yunnan Province;Yunnan;Chuxiong;4;0;0;0;NA;;;
-Yunnan Province;Yunnan;Lincang;1;0;0;0;NA;;;
-Yunnan Province;Yunnan;Wenshan;1;0;0;0;NA;;;
-Liaoning Province;Liaoning;NA;81;0;2;0;;;;
-Liaoning Province;Liaoning;Shenyang;18;0;0;0;NA;;;
-Liaoning Province;Liaoning;Dalian;13;0;2;0;NA;;;
-Liaoning Province;Liaoning;Panjin;8;0;0;0;NA;;;
-Liaoning Province;Liaoning;Jinzhou;7;0;0;0;NA;;;
-Liaoning Province;Liaoning;Fuxin;7;0;0;0;NA;;;
-Liaoning Province;Liaoning;Chaoyang;6;0;0;0;NA;;;
-Liaoning Province;Liaoning;Dandong;6;0;0;0;NA;;;
-Liaoning Province;Liaoning;Huludao;6;0;0;0;NA;;;
-Liaoning Province;Liaoning;Benxi;3;0;0;0;NA;;;
-Liaoning Province;Liaoning;Tieling;3;0;0;0;NA;;;
-Liaoning Province;Liaoning;Liaoyang;2;0;0;0;NA;;;
-Liaoning Province;Liaoning;Yingkou;1;0;0;0;NA;;;
-Liaoning Province;Liaoning;Anshan;1;0;0;0;NA;;;
-Hainan;Hainan;NA;80;0;5;1;;;;
-Hainan;Hainan;Sanya;18;0;5;0;NA;;;
-Hainan;Hainan;Haikou;14;0;0;0;NA;;;
-Hainan;Hainan;Wanning;11;0;0;0;NA;;;
-Hainan;Hainan;Luzhou;8;0;0;0;NA;;;
-Hainan;Hainan;Qionghai;6;0;0;0;NA;;;
-Hainan;Hainan;Lingshui;5;0;0;0;NA;;;
-Hainan;Hainan;Lingao;4;0;0;0;NA;;;
-Hainan;Hainan;Chengmai;3;0;0;1;NA;;;
-Hainan;Hainan;Ding'an;3;0;0;0;NA;;;
-Hainan;Hainan;Changjiang;3;0;0;0;NA;;;
-Hainan;Hainan;East;2;0;0;0;NA;;;
-Hainan;Hainan;Qiongzhong;1;0;0;0;NA;;;
-Hainan;Hainan;Ledong;1;0;0;0;NA;;;
-Hainan;Hainan;Wenchang;1;0;0;0;NA;;;
-Shanxi Province;Shanxi;NA;74;0;4;0;;;;
-Shanxi Province;Shanxi;Jinzhong;19;0;2;0;NA;;;
-Shanxi Province;Shanxi;Yuncheng;16;0;1;0;NA;;;
-Shanxi Province;Shanxi;Datong;9;0;0;0;NA;;;
-Shanxi Province;Shanxi;Jincheng;7;0;0;0;NA;;;
-Shanxi Province;Shanxi;Taiyuan;6;0;1;0;NA;;;
-Shanxi Province;Shanxi;Lu Liang;5;0;0;0;NA;;;
-Shanxi Province;Shanxi;Changzhi;3;0;0;0;NA;;;
-Shanxi Province;Shanxi;Shuozhou;3;0;0;0;NA;;;
-Shanxi Province;Shanxi;Xinzhou;3;0;0;0;NA;;;
-Shanxi Province;Shanxi;Yangquan;2;0;0;0;NA;;;
-Shanxi Province;Shanxi;Linfen;1;0;0;0;NA;;;
-Tianjin;Tianjin;NA;67;0;2;0;待明确地区;治愈;1;120000
-Tianjin;Tianjin;Baodi District;13;0;0;0;NA;;;
-Tianjin;Tianjin;Hebei District;10;0;0;0;NA;;;
-Tianjin;Tianjin;Hedong District;10;0;0;0;NA;;;
-Tianjin;Tianjin;Heping District;6;0;0;0;NA;;;
-Tianjin;Tianjin;Foreign visitors;6;0;0;0;NA;;;
-Tianjin;Tianjin;Hexi District;4;0;0;0;NA;;;
-Tianjin;Tianjin;Ninghe District;4;0;0;0;NA;;;
-Tianjin;Tianjin;Dongli District;3;0;0;0;NA;;;
-Tianjin;Tianjin;Nankai District;3;0;0;0;NA;;;
-Tianjin;Tianjin;Xiqing District;3;0;0;0;NA;;;
-Tianjin;Tianjin;Binhai New Area;2;0;0;0;NA;;;
-Tianjin;Tianjin;Hongqiao District;2;0;1;0;NA;;;
-Tianjin;Tianjin;Jinnan District;1;0;0;0;NA;;;
-Guizhou Province;Guizhou;NA;58;0;2;0;;;;
-Guizhou Province;Guizhou;Guiyang;10;0;1;0;NA;;;
-Guizhou Province;Guizhou;Liupanshui;9;0;0;0;NA;;;
-Guizhou Province;Guizhou;Zunyi;9;0;0;0;NA;;;
-Guizhou Province;Guizhou;Bijie;9;0;0;0;NA;;;
-Guizhou Province;Guizhou;Tongren;6;0;1;0;NA;;;
-Guizhou Province;Guizhou;Qiannan Prefecture;6;0;0;0;NA;;;
-Guizhou Province;Guizhou;Qiandongnan Prefecture;4;0;0;0;NA;;;
-Guizhou Province;Guizhou;Qianxinan Prefecture;3;0;0;0;NA;;;
-Guizhou Province;Guizhou;Anshun;2;0;0;0;NA;;;
-Gansu province;Gansu;NA;57;0;4;0;;;;
-Gansu province;Gansu;Lanzhou;30;0;3;0;NA;;;
-Gansu province;Gansu;Tianshui;10;0;0;0;NA;;;
-Gansu province;Gansu;Longnan;4;0;0;0;NA;;;
-Gansu province;Gansu;Linxia;3;0;0;0;NA;;;
-Gansu province;Gansu;Dingxi;3;0;1;0;NA;;;
-Gansu province;Gansu;Zhang Ye;2;0;0;0;NA;;;
-Gansu province;Gansu;silver;1;0;0;0;NA;;;
-Gansu province;Gansu;Jinchang;1;0;0;0;NA;;;
-Gansu province;Gansu;Pingliang;1;0;0;0;NA;;;
-Gansu province;Gansu;Gannan;1;0;0;0;NA;;;
-Gansu province;Gansu;Qingyang;1;0;0;0;NA;;;
-Jilin Province;Jilin;NA;42;0;1;0;;;;
-Jilin Province;Jilin;Changchun;18;0;1;0;NA;;;
-Jilin Province;Jilin;Siping;7;0;0;0;NA;;;
-Jilin Province;Jilin;Jilin City;5;0;0;0;NA;;;
-Jilin Province;Jilin;Gongzhuling;3;0;0;0;NA;;;
-Jilin Province;Jilin;Yanbian;3;0;0;0;NA;;;
-Jilin Province;Jilin;Liaoyuan;3;0;0;0;NA;;;
-Jilin Province;Jilin;Matsubara;2;0;0;0;NA;;;
-Jilin Province;Jilin;Tonghua;1;0;0;0;NA;;;
-Inner Mongolia Autonomous Region;Inner Mongolia;NA;35;0;1;0;;;;
-Inner Mongolia Autonomous Region;Inner Mongolia;Ordos;9;0;0;0;NA;;;
-Inner Mongolia Autonomous Region;Inner Mongolia;Baotou;6;0;0;0;NA;;;
-Inner Mongolia Autonomous Region;Inner Mongolia;Hohhot;4;0;0;0;NA;;;
-Inner Mongolia Autonomous Region;Inner Mongolia;Bayannur;3;0;0;0;NA;;;
-Inner Mongolia Autonomous Region;Inner Mongolia;Ulanchabu;3;0;0;0;NA;;;
-Inner Mongolia Autonomous Region;Inner Mongolia;Hulunbuir;3;0;1;0;NA;;;
-Inner Mongolia Autonomous Region;Inner Mongolia;Xilin Gol League;2;0;0;0;NA;;;
-Inner Mongolia Autonomous Region;Inner Mongolia;Chifeng;2;0;0;0;NA;;;
-Inner Mongolia Autonomous Region;Inner Mongolia;Xing'an League;1;0;0;0;NA;;;
-Inner Mongolia Autonomous Region;Inner Mongolia;Tongliao;1;0;0;0;NA;;;
-Inner Mongolia Autonomous Region;Inner Mongolia;Wuhai;1;0;0;0;NA;;;
-Ningxia Hui Autonomous Region;Ningxia;NA;34;0;1;0;;;;
-Ningxia Hui Autonomous Region;Ningxia;Yinchuan;20;0;1;0;NA;;;
-Ningxia Hui Autonomous Region;Ningxia;Wu Zhong;7;0;0;0;NA;;;
-Ningxia Hui Autonomous Region;Ningxia;Zhongwei;3;0;0;0;NA;;;
-Ningxia Hui Autonomous Region;Ningxia;Guyuan;2;0;0;0;NA;;;
-Ningxia Hui Autonomous Region;Ningxia;Ningdong Management Committee;1;0;0;0;NA;;;
-Ningxia Hui Autonomous Region;Ningxia;Shizuishan;1;0;0;0;NA;;;
-Xinjiang Uygur Autonomous Region;Xinjiang;NA;29;0;0;0;;;;
-Xinjiang Uygur Autonomous Region;Xinjiang;Urumqi;12;0;0;0;NA;;;
-Xinjiang Uygur Autonomous Region;Xinjiang;Ili;7;0;0;0;NA;;;
-Xinjiang Uygur Autonomous Region;Xinjiang;Ninth division;4;0;0;0;NA;;;
-Xinjiang Uygur Autonomous Region;Xinjiang;Turpan;1;0;0;0;NA;;;
-Xinjiang Uygur Autonomous Region;Xinjiang;Seventh division;1;0;0;0;NA;;;
-Xinjiang Uygur Autonomous Region;Xinjiang;Eighth Division;1;0;0;0;NA;;;
-Xinjiang Uygur Autonomous Region;Xinjiang;Aksu;1;0;0;0;NA;;;
-Xinjiang Uygur Autonomous Region;Xinjiang;Changji;1;0;0;0;NA;;;
-Xinjiang Uygur Autonomous Region;Xinjiang;Sixth Division;1;0;0;0;NA;;;
-Hong Kong;Hong Kong;NA;17;0;0;1;;;;
-Qinghai Province;Qinghai;NA;15;0;0;0;;;;
-Qinghai Province;Qinghai;Xining;12;0;0;0;NA;;;
-Qinghai Province;Qinghai;Haibei State;3;0;0;0;NA;;;
-Taiwan;Taiwan;NA;11;0;0;0;;;;
-Macao;Macao;NA;10;0;0;0;;;;
-Tibet Autonomous Region;Tibet;NA;1;0;0;0;;;;
-Tibet Autonomous Region;Tibet;Lhasa;1;0;0;0;NA;;;
+"provinceName","provinceShortName","cityName","confirmedCount","suspectedCount","curedCount","deadCount","comment","X","X.1","X.2"
+"Hubei Province","Hubei",NA,13522,0,397,414,"","",NA,NA
+"Hubei Province","Hubei","Wuhan",6384,0,306,313,NA,"",NA,NA
+"Hubei Province","Hubei","Huanggang",1422,0,41,19,NA,"",NA,NA
+"Hubei Province","Hubei","Xiaogan",1120,0,4,17,NA,"",NA,NA
+"Hubei Province","Hubei","Suizhou",641,0,3,6,NA,"",NA,NA
+"Hubei Province","Hubei","Xiangyang",632,0,1,1,NA,"",NA,NA
+"Hubei Province","Hubei","Jingzhou",613,0,7,7,NA,"",NA,NA
+"Hubei Province","Hubei","Yichang",452,0,2,3,NA,"",NA,NA
+"Hubei Province","Hubei","Yellowstone",405,0,9,2,NA,"",NA,NA
+"Hubei Province","Hubei","Jingmen",400,0,6,14,NA,"",NA,NA
+"Hubei Province","Hubei","Xianning",348,0,1,0,NA,"",NA,NA
+"Hubei Province","Hubei","Ezhou",332,0,4,18,NA,"",NA,NA
+"Hubei Province","Hubei","Shiyan",291,0,6,0,NA,"",NA,NA
+"Hubei Province","Hubei","Xiantao",188,0,0,3,NA,"",NA,NA
+"Hubei Province","Hubei","Enshi",123,0,5,0,NA,"",NA,NA
+"Hubei Province","Hubei","Tianmen",117,0,0,10,NA,"",NA,NA
+"Hubei Province","Hubei","Qianjiang",44,0,0,1,NA,"",NA,NA
+"Hubei Province","Hubei","Shennongjia Forest District",10,0,2,0,NA,"",NA,NA
+"Zhejiang Province","Zhejiang",NA,829,0,62,0,"","",NA,NA
+"Zhejiang Province","Zhejiang","Wenzhou",340,0,28,0,NA,"",NA,NA
+"Zhejiang Province","Zhejiang","Hangzhou",132,0,6,0,NA,"",NA,NA
+"Zhejiang Province","Zhejiang","Taizhou",115,0,11,0,NA,"",NA,NA
+"Zhejiang Province","Zhejiang","Ningbo",102,0,4,0,NA,"",NA,NA
+"Zhejiang Province","Zhejiang","Jinhua",40,0,6,0,NA,"",NA,NA
+"Zhejiang Province","Zhejiang","Shaoxing",30,0,3,0,NA,"",NA,NA
+"Zhejiang Province","Zhejiang","Jiaxing",23,0,0,0,NA,"",NA,NA
+"Zhejiang Province","Zhejiang","Lishui",16,0,1,0,NA,"",NA,NA
+"Zhejiang Province","Zhejiang","Luzhou",15,0,0,0,NA,"",NA,NA
+"Zhejiang Province","Zhejiang","Huzhou",9,0,1,0,NA,"",NA,NA
+"Zhejiang Province","Zhejiang","Zhoushan",7,0,2,0,NA,"",NA,NA
+"Guangdong Province","Guangdong",NA,813,0,30,0,"","",NA,NA
+"Guangdong Province","Guangdong","Shenzhen",271,0,13,0,NA,"",NA,NA
+"Guangdong Province","Guangdong","Guangzhou",224,0,3,0,NA,"",NA,NA
+"Guangdong Province","Guangdong","Zhuhai",64,0,1,0,NA,"",NA,NA
+"Guangdong Province","Guangdong","Foshan",49,0,1,0,NA,"",NA,NA
+"Guangdong Province","Guangdong","Dongguan",37,0,0,0,NA,"",NA,NA
+"Guangdong Province","Guangdong","Zhongshan",31,0,3,0,NA,"",NA,NA
+"Guangdong Province","Guangdong","Huizhou",29,0,1,0,NA,"",NA,NA
+"Guangdong Province","Guangdong","Shantou",18,0,3,0,NA,"",NA,NA
+"Guangdong Province","Guangdong","Zhanjiang",18,0,1,0,NA,"",NA,NA
+"Guangdong Province","Guangdong","Yangjiang",12,0,0,0,NA,"",NA,NA
+"Guangdong Province","Guangdong","Zhaoqing",10,0,1,0,NA,"",NA,NA
+"Guangdong Province","Guangdong","Meizhou",9,0,0,0,NA,"",NA,NA
+"Guangdong Province","Guangdong","Qingyuan",8,0,2,0,NA,"",NA,NA
+"Guangdong Province","Guangdong","Shaoguan",6,0,1,0,NA,"",NA,NA
+"Guangdong Province","Guangdong","Jieyang",6,0,0,0,NA,"",NA,NA
+"Guangdong Province","Guangdong","Jiangmen",6,0,0,0,NA,"",NA,NA
+"Guangdong Province","Guangdong","Shanwei",5,0,0,0,NA,"",NA,NA
+"Guangdong Province","Guangdong","Maoming",5,0,0,0,NA,"",NA,NA
+"Guangdong Province","Guangdong","Chaozhou",4,0,0,0,NA,"",NA,NA
+"Guangdong Province","Guangdong","Heyuan",1,0,0,0,NA,"",NA,NA
+"Henan Province","Henan",NA,675,2,27,2,"待明确地区：治愈","410000",NA,NA
+"Henan Province","Henan","Xinyang",112,0,6,0,NA,"",NA,NA
+"Henan Province","Henan","Nanyang",99,2,2,2,NA,"",NA,NA
+"Henan Province","Henan","Zhengzhou",85,0,13,0,NA,"",NA,NA
+"Henan Province","Henan","Zhumadian",72,0,0,0,NA,"",NA,NA
+"Henan Province","Henan","Shangqiu",60,0,0,0,NA,"",NA,NA
+"Henan Province","Henan","Zhoukou",52,0,1,0,NA,"",NA,NA
+"Henan Province","Henan","Xinxiang",33,0,0,0,NA,"",NA,NA
+"Henan Province","Henan","Anyang",33,0,1,0,NA,"",NA,NA
+"Henan Province","Henan","Pingdingshan",28,0,0,0,NA,"",NA,NA
+"Henan Province","Henan","Luohe",23,0,0,0,NA,"",NA,NA
+"Henan Province","Henan","Xu Chang",19,0,0,0,NA,"",NA,NA
+"Henan Province","Henan","Luoyang",12,0,1,0,NA,"",NA,NA
+"Henan Province","Henan","Kaifeng",12,0,1,0,NA,"",NA,NA
+"Henan Province","Henan","Jiaozuo",12,0,0,0,NA,"",NA,NA
+"Henan Province","Henan","Hebi",10,0,0,0,NA,"",NA,NA
+"Henan Province","Henan","Sanmenxia",7,0,0,0,NA,"",NA,NA
+"Henan Province","Henan","Liyang",4,0,0,0,NA,"",NA,NA
+"Henan Province","Henan","Jiyuan",2,0,0,0,NA,"",NA,NA
+"Hunan Province","Hunan",NA,593,0,31,0,"","",NA,NA
+"Hunan Province","Hunan","Changsha",148,0,6,0,NA,"",NA,NA
+"Hunan Province","Hunan","Yue Yang",83,0,0,0,NA,"",NA,NA
+"Hunan Province","Hunan","Shao Yang",55,0,2,0,NA,"",NA,NA
+"Hunan Province","Hunan","Changde",50,0,3,0,NA,"",NA,NA
+"Hunan Province","Hunan","Lou Di",40,0,3,0,NA,"",NA,NA
+"Hunan Province","Hunan","Huaihua",35,0,1,0,NA,"",NA,NA
+"Hunan Province","Hunan","Hengyang",35,0,4,0,NA,"",NA,NA
+"Hunan Province","Hunan","Yiyang",35,0,1,0,NA,"",NA,NA
+"Hunan Province","Hunan","Zhuzhou",34,0,1,0,NA,"",NA,NA
+"Hunan Province","Hunan","Yongzhou",26,0,5,0,NA,"",NA,NA
+"Hunan Province","Hunan","Luzhou",22,0,1,0,NA,"",NA,NA
+"Hunan Province","Hunan","Xiangtan",21,0,3,0,NA,"",NA,NA
+"Hunan Province","Hunan","Xiangxi Autonomous Prefecture",6,0,1,0,NA,"",NA,NA
+"Hunan Province","Hunan","Zhangjiajie",3,0,0,0,NA,"",NA,NA
+"Anhui Province","Anhui",NA,480,0,20,0,"","",NA,NA
+"Anhui Province","Anhui","Hefei",81,0,5,0,NA,"",NA,NA
+"Anhui Province","Anhui","Fuyang",79,0,3,0,NA,"",NA,NA
+"Anhui Province","Anhui","Anqing",55,0,3,0,NA,"",NA,NA
+"Anhui Province","Anhui","Luzhou",48,0,2,0,NA,"",NA,NA
+"Anhui Province","Anhui","Bengbu",43,0,0,0,NA,"",NA,NA
+"Anhui Province","Anhui","Lu'an",30,0,1,0,NA,"",NA,NA
+"Anhui Province","Anhui","Maanshan",28,0,1,0,NA,"",NA,NA
+"Anhui Province","Anhui","Suzhou",23,0,0,0,NA,"",NA,NA
+"Anhui Province","Anhui","Wuhu",21,0,1,0,NA,"",NA,NA
+"Anhui Province","Anhui","Tongling",19,0,1,0,NA,"",NA,NA
+"Anhui Province","Anhui","Luzhou",11,0,1,0,NA,"",NA,NA
+"Anhui Province","Anhui","Huaibei",11,0,0,0,NA,"",NA,NA
+"Anhui Province","Anhui","Chizhou",10,0,1,0,NA,"",NA,NA
+"Anhui Province","Anhui","Huangshan",9,0,0,0,NA,"",NA,NA
+"Anhui Province","Anhui","Huainan",8,0,0,0,NA,"",NA,NA
+"Anhui Province","Anhui","Xuancheng",4,0,1,0,NA,"",NA,NA
+"Jiangxi Province","Jiangxi",NA,476,0,20,0,"","",NA,NA
+"Jiangxi Province","Jiangxi","Nanchang",121,0,4,0,NA,"",NA,NA
+"Jiangxi Province","Jiangxi","Jiujiang",78,0,3,0,NA,"",NA,NA
+"Jiangxi Province","Jiangxi","Xinyu",59,0,3,0,NA,"",NA,NA
+"Jiangxi Province","Jiangxi","Shangrao",50,0,4,0,NA,"",NA,NA
+"Jiangxi Province","Jiangxi","Yichun",45,0,2,0,NA,"",NA,NA
+"Jiangxi Province","Jiangxi","Ganzhou",42,0,1,0,NA,"",NA,NA
+"Jiangxi Province","Jiangxi","Fuzhou",34,0,0,0,NA,"",NA,NA
+"Jiangxi Province","Jiangxi","Pingxiang",20,0,1,0,NA,"",NA,NA
+"Jiangxi Province","Jiangxi","Gian",15,0,1,0,NA,"",NA,NA
+"Jiangxi Province","Jiangxi","Yingtan",8,0,0,0,NA,"",NA,NA
+"Jiangxi Province","Jiangxi","Jingdezhen",4,0,1,0,NA,"",NA,NA
+"Chongqing","Chongqing",NA,344,0,9,2,"","",NA,NA
+"Chongqing","Chongqing","Wanzhou District",60,0,0,1,NA,"",NA,NA
+"Chongqing","Chongqing","Kaizhou District",18,0,0,0,NA,"",NA,NA
+"Chongqing","Chongqing","Yunyang County",18,0,1,0,NA,"",NA,NA
+"Chongqing","Chongqing","Jiangbei District",16,0,0,0,NA,"",NA,NA
+"Chongqing","Chongqing","Jiulongpo District",15,0,0,1,NA,"",NA,NA
+"Chongqing","Chongqing","Zhongxian",15,0,0,0,NA,"",NA,NA
+"Chongqing","Chongqing","Dianjiang County",13,0,1,0,NA,"",NA,NA
+"Chongqing","Chongqing","Liangjiang New District",13,0,0,0,NA,"",NA,NA
+"Chongqing","Chongqing","Yuzhong District",13,0,0,0,NA,"",NA,NA
+"Chongqing","Chongqing","Yu Bei District",12,0,0,0,NA,"",NA,NA
+"Chongqing","Chongqing","Changshou District",12,0,0,0,NA,"",NA,NA
+"Chongqing","Chongqing","Shizhu County",12,0,0,0,NA,"",NA,NA
+"Chongqing","Chongqing","Wuxi County",11,0,0,0,NA,"",NA,NA
+"Chongqing","Chongqing","Qijiang District",10,0,0,0,NA,"",NA,NA
+"Chongqing","Chongqing","Hechuan District",9,0,0,0,NA,"",NA,NA
+"Chongqing","Chongqing","Fengjie County",9,0,0,0,NA,"",NA,NA
+"Chongqing","Chongqing","Laoshan District",8,0,0,0,NA,"",NA,NA
+"Chongqing","Chongqing","Rongchang District",8,0,0,0,NA,"",NA,NA
+"Chongqing","Chongqing","Dadukou District",7,0,0,0,NA,"",NA,NA
+"Chongqing","Chongqing","Dazu District",7,0,0,0,NA,"",NA,NA
+"Chongqing","Chongqing","Tongliang District",7,0,0,0,NA,"",NA,NA
+"Chongqing","Chongqing","Wushan County",7,0,4,0,NA,"",NA,NA
+"Chongqing","Chongqing","South Bank area",7,0,0,0,NA,"",NA,NA
+"Chongqing","Chongqing","Fengdu County",6,0,1,0,NA,"",NA,NA
+"Chongqing","Chongqing","Taonan District",5,0,0,0,NA,"",NA,NA
+"Chongqing","Chongqing","Banan District",3,0,0,0,NA,"",NA,NA
+"Chongqing","Chongqing","Jiangjin District",3,0,0,0,NA,"",NA,NA
+"Chongqing","Chongqing","Yongchuan District",3,0,1,0,NA,"",NA,NA
+"Chongqing","Chongqing","Liangping District",3,0,0,0,NA,"",NA,NA
+"Chongqing","Chongqing","Fuling District",2,0,0,0,NA,"",NA,NA
+"Chongqing","Chongqing","Chengkou County",2,0,0,0,NA,"",NA,NA
+"Chongqing","Chongqing","Qianjiang District",2,0,0,0,NA,"",NA,NA
+"Chongqing","Chongqing","Shapingba District",2,0,0,0,NA,"",NA,NA
+"Chongqing","Chongqing","Pengshui County",2,0,0,0,NA,"",NA,NA
+"Chongqing","Chongqing","High-tech Zone",2,0,0,0,NA,"",NA,NA
+"Chongqing","Chongqing","Xiushan County",1,0,1,0,NA,"",NA,NA
+"Chongqing","Chongqing","Wulong District",1,0,0,0,NA,"",NA,NA
+"Jiangsu Province","Jiangsu",NA,308,0,12,0,"","",NA,NA
+"Jiangsu Province","Jiangsu","Suzhou",52,0,3,0,NA,"",NA,NA
+"Jiangsu Province","Jiangsu","Nanjing",44,0,4,0,NA,"",NA,NA
+"Jiangsu Province","Jiangsu","Xuzhou",39,0,0,0,NA,"",NA,NA
+"Jiangsu Province","Jiangsu","Wuxi",25,0,1,0,NA,"",NA,NA
+"Jiangsu Province","Jiangsu","Taizhou",23,0,0,0,NA,"",NA,NA
+"Jiangsu Province","Jiangsu","Nantong",22,0,0,0,NA,"",NA,NA
+"Jiangsu Province","Jiangsu","Huaian",22,0,1,0,NA,"",NA,NA
+"Jiangsu Province","Jiangsu","Changzhou",19,0,2,0,NA,"",NA,NA
+"Jiangsu Province","Jiangsu","Lianyungang",17,0,1,0,NA,"",NA,NA
+"Jiangsu Province","Jiangsu","Yangzhou",15,0,0,0,NA,"",NA,NA
+"Jiangsu Province","Jiangsu","Yancheng",15,0,0,0,NA,"",NA,NA
+"Jiangsu Province","Jiangsu","Suqian",10,0,0,0,NA,"",NA,NA
+"Jiangsu Province","Jiangsu","Zhenjiang",5,0,0,0,NA,"",NA,NA
+"Sichuan Province","Sichuan",NA,282,0,14,1,"","",NA,NA
+"Sichuan Province","Sichuan","Chengdu",87,0,10,1,NA,"",NA,NA
+"Sichuan Province","Sichuan","Nanchong",27,0,0,0,NA,"",NA,NA
+"Sichuan Province","Sichuan","Guang'an",24,0,1,0,NA,"",NA,NA
+"Sichuan Province","Sichuan","Mianyang",17,0,1,0,NA,"",NA,NA
+"Sichuan Province","Sichuan","Neijiang",15,0,0,0,NA,"",NA,NA
+"Sichuan Province","Sichuan","Dazhou",13,0,1,0,NA,"",NA,NA
+"Sichuan Province","Sichuan","Deyang",12,0,0,0,NA,"",NA,NA
+"Sichuan Province","Sichuan","Bazhong",12,0,0,0,NA,"",NA,NA
+"Sichuan Province","Sichuan","Panzhihua",10,0,0,0,NA,"",NA,NA
+"Sichuan Province","Sichuan","Zigong",9,0,0,0,NA,"",NA,NA
+"Sichuan Province","Sichuan","Luzhou",9,0,0,0,NA,"",NA,NA
+"Sichuan Province","Sichuan","Ganzi Prefecture",8,0,0,0,NA,"",NA,NA
+"Sichuan Province","Sichuan","Yibin",7,0,0,0,NA,"",NA,NA
+"Sichuan Province","Sichuan","Liangshan Prefecture",6,0,0,0,NA,"",NA,NA
+"Sichuan Province","Sichuan","Guangyuan",6,0,0,0,NA,"",NA,NA
+"Sichuan Province","Sichuan","Suining",5,0,1,0,NA,"",NA,NA
+"Sichuan Province","Sichuan","Yaan",5,0,0,0,NA,"",NA,NA
+"Sichuan Province","Sichuan","Meishan",5,0,0,0,NA,"",NA,NA
+"Sichuan Province","Sichuan","Leshan",2,0,0,0,NA,"",NA,NA
+"Sichuan Province","Sichuan","Ziyang",2,0,0,0,NA,"",NA,NA
+"Sichuan Province","Sichuan","Aba",1,0,0,0,NA,"",NA,NA
+"Shandong Province","Shandong",NA,275,0,11,0,"","",NA,NA
+"Shandong Province","Shandong","Qingdao",32,0,3,0,NA,"",NA,NA
+"Shandong Province","Shandong","Linyi",28,0,1,0,NA,"",NA,NA
+"Shandong Province","Shandong","Yantai",26,0,0,0,NA,"",NA,NA
+"Shandong Province","Shandong","Weihai",25,0,2,0,NA,"",NA,NA
+"Shandong Province","Shandong","Jinan",25,0,0,0,NA,"",NA,NA
+"Shandong Province","Shandong","Jining",21,0,3,0,NA,"",NA,NA
+"Shandong Province","Shandong","Texas",19,0,1,0,NA,"",NA,NA
+"Shandong Province","Shandong","Zaozhuang",16,0,0,0,NA,"",NA,NA
+"Shandong Province","Shandong","sunshine",14,0,0,0,NA,"",NA,NA
+"Shandong Province","Shandong","Weifang",14,0,0,0,NA,"",NA,NA
+"Shandong Province","Shandong","Zibo",12,0,0,0,NA,"",NA,NA
+"Shandong Province","Shandong","Taian",12,0,1,0,NA,"",NA,NA
+"Shandong Province","Shandong","Binzhou",11,0,0,0,NA,"",NA,NA
+"Shandong Province","Shandong","Liaocheng",10,0,0,0,NA,"",NA,NA
+"Shandong Province","Shandong","Heze",10,0,0,0,NA,"",NA,NA
+"Beijing","Beijing",NA,228,0,23,1,"","",NA,NA
+"Beijing","Beijing","Haidian District",45,0,0,0,NA,"",NA,NA
+"Beijing","Beijing","Chaoyang District",36,0,0,0,NA,"",NA,NA
+"Beijing","Beijing","Daxing District",29,0,2,0,NA,"",NA,NA
+"Beijing","Beijing","Xicheng District",28,0,0,0,NA,"",NA,NA
+"Beijing","Beijing","Foreigners coming to Beijing",20,0,2,0,NA,"",NA,NA
+"Beijing","Beijing","Fengtai District",18,0,0,0,NA,"",NA,NA
+"Beijing","Beijing","Changping District",14,0,0,0,NA,"",NA,NA
+"Beijing","Beijing","Tongzhou District",13,0,0,0,NA,"",NA,NA
+"Beijing","Beijing","Shijingshan District",6,0,0,0,NA,"",NA,NA
+"Beijing","Beijing","Shunyi District",5,0,0,0,NA,"",NA,NA
+"Beijing","Beijing","Fangshan District",5,0,0,0,NA,"",NA,NA
+"Beijing","Beijing","Mentougou District",3,0,0,0,NA,"",NA,NA
+"Beijing","Beijing","Huairou District",3,0,0,0,NA,"",NA,NA
+"Beijing","Beijing","Dongcheng Area",2,0,0,0,NA,"",NA,NA
+"Beijing","Beijing","Yanqing District",1,0,0,0,NA,"",NA,NA
+"Beijing","Beijing","Area to be identified",0,0,19,1,NA,"",NA,NA
+"Shanghai","Shanghai",NA,219,0,12,1,"治愈数据统一归属上海市公卫临床中心，暂无具体分区","",NA,NA
+"Shanghai","Shanghai","Foreigners coming to Shanghai",81,0,6,1,NA,"",NA,NA
+"Shanghai","Shanghai","Pudong New Area",43,0,0,0,NA,"",NA,NA
+"Shanghai","Shanghai","Baoshan District",12,0,0,0,NA,"",NA,NA
+"Shanghai","Shanghai","Xuhui District",11,0,0,0,NA,"",NA,NA
+"Shanghai","Shanghai","Minhang District",10,0,0,0,NA,"",NA,NA
+"Shanghai","Shanghai","Jing'an District",10,0,0,0,NA,"",NA,NA
+"Shanghai","Shanghai","Changning District",8,0,0,0,NA,"",NA,NA
+"Shanghai","Shanghai","Songjiang District",8,0,0,0,NA,"",NA,NA
+"Shanghai","Shanghai","Putuo District",6,0,0,0,NA,"",NA,NA
+"Shanghai","Shanghai","Fengxian District",6,0,0,0,NA,"",NA,NA
+"Shanghai","Shanghai","Hongkou District",5,0,0,0,NA,"",NA,NA
+"Shanghai","Shanghai","Huangpu District",5,0,0,0,NA,"",NA,NA
+"Shanghai","Shanghai","Yangpu District",5,0,0,0,NA,"",NA,NA
+"Shanghai","Shanghai","Jiading District",3,0,0,0,NA,"",NA,NA
+"Shanghai","Shanghai","Qingpu District",3,0,0,0,NA,"",NA,NA
+"Shanghai","Shanghai","Jinshan District",2,0,0,0,NA,"",NA,NA
+"Shanghai","Shanghai","Chongming District",1,0,0,0,NA,"",NA,NA
+"Shanghai","Shanghai","Unknown area",0,0,6,0,NA,"",NA,NA
+"Fujian Province","Fujian",NA,194,0,3,0,"","",NA,NA
+"Fujian Province","Fujian","Fuzhou",53,0,2,0,NA,"",NA,NA
+"Fujian Province","Fujian","Putian",37,0,1,0,NA,"",NA,NA
+"Fujian Province","Fujian","Quanzhou",35,0,0,0,NA,"",NA,NA
+"Fujian Province","Fujian","Xiamen",20,0,0,0,NA,"",NA,NA
+"Fujian Province","Fujian","Zhangzhou",13,0,0,0,NA,"",NA,NA
+"Fujian Province","Fujian","Ningde",12,0,0,0,NA,"",NA,NA
+"Fujian Province","Fujian","Sanming",11,0,0,0,NA,"",NA,NA
+"Fujian Province","Fujian","Nanping",11,0,0,0,NA,"",NA,NA
+"Fujian Province","Fujian","Longyan",2,0,0,0,NA,"",NA,NA
+"Heilongjiang Province","Heilongjiang",NA,155,0,4,2,"","",NA,NA
+"Heilongjiang Province","Heilongjiang","Harbin",63,0,4,0,NA,"",NA,NA
+"Heilongjiang Province","Heilongjiang","Suihua",22,0,0,2,NA,"",NA,NA
+"Heilongjiang Province","Heilongjiang","Shuangyashan",12,0,0,0,NA,"",NA,NA
+"Heilongjiang Province","Heilongjiang","Daqing",11,0,0,0,NA,"",NA,NA
+"Heilongjiang Province","Heilongjiang","Jiamusi",11,0,0,0,NA,"",NA,NA
+"Heilongjiang Province","Heilongjiang","Jixi",9,0,0,0,NA,"",NA,NA
+"Heilongjiang Province","Heilongjiang","Mudanjiang",8,0,0,0,NA,"",NA,NA
+"Heilongjiang Province","Heilongjiang","Qitaihe",8,0,0,0,NA,"",NA,NA
+"Heilongjiang Province","Heilongjiang","Qiqihar",6,0,0,0,NA,"",NA,NA
+"Heilongjiang Province","Heilongjiang","Daxinganling",2,0,0,0,NA,"",NA,NA
+"Heilongjiang Province","Heilongjiang","Hegang",2,0,0,0,NA,"",NA,NA
+"Heilongjiang Province","Heilongjiang","Heihe",1,0,0,0,NA,"",NA,NA
+"Shaanxi Province","Shaanxi",NA,142,0,2,0,"","",NA,NA
+"Shaanxi Province","Shaanxi","Xi'an",60,0,2,0,NA,"",NA,NA
+"Shaanxi Province","Shaanxi","Ankang",17,0,0,0,NA,"",NA,NA
+"Shaanxi Province","Shaanxi","Hanzhong",16,0,0,0,NA,"",NA,NA
+"Shaanxi Province","Shaanxi","Xianyang",11,0,0,0,NA,"",NA,NA
+"Shaanxi Province","Shaanxi","Baoji",10,0,0,0,NA,"",NA,NA
+"Shaanxi Province","Shaanxi","Yan'an",7,0,0,0,NA,"",NA,NA
+"Shaanxi Province","Shaanxi","Tongchuan",7,0,0,0,NA,"",NA,NA
+"Shaanxi Province","Shaanxi","Weinan",6,0,0,0,NA,"",NA,NA
+"Shaanxi Province","Shaanxi","Shangluo",5,0,0,0,NA,"",NA,NA
+"Shaanxi Province","Shaanxi","Yulin",1,0,0,0,NA,"",NA,NA
+"Shaanxi Province","Shaanxi","Hancheng",1,0,0,0,NA,"",NA,NA
+"Shaanxi Province","Shaanxi","Yang Ling",1,0,0,0,NA,"",NA,NA
+"Guangxi Zhuang Autonomous Region","Guangxi",NA,139,0,10,0,"","",NA,NA
+"Guangxi Zhuang Autonomous Region","Guangxi","Nanning",27,0,0,0,NA,"",NA,NA
+"Guangxi Zhuang Autonomous Region","Guangxi","North Sea",27,0,2,0,NA,"",NA,NA
+"Guangxi Zhuang Autonomous Region","Guangxi","Guilin",24,0,4,0,NA,"",NA,NA
+"Guangxi Zhuang Autonomous Region","Guangxi","Liuzhou",15,0,1,0,NA,"",NA,NA
+"Guangxi Zhuang Autonomous Region","Guangxi","Fangchenggang",11,0,1,0,NA,"",NA,NA
+"Guangxi Zhuang Autonomous Region","Guangxi","Yulin",8,0,0,0,NA,"",NA,NA
+"Guangxi Zhuang Autonomous Region","Guangxi","Hechi",8,0,0,0,NA,"",NA,NA
+"Guangxi Zhuang Autonomous Region","Guangxi","Wuzhou",5,0,2,0,NA,"",NA,NA
+"Guangxi Zhuang Autonomous Region","Guangxi","Guigang",5,0,0,0,NA,"",NA,NA
+"Guangxi Zhuang Autonomous Region","Guangxi","Hezhou",4,0,0,0,NA,"",NA,NA
+"Guangxi Zhuang Autonomous Region","Guangxi","Qinzhou",3,0,0,0,NA,"",NA,NA
+"Guangxi Zhuang Autonomous Region","Guangxi","Baise",2,0,0,0,NA,"",NA,NA
+"Hebei Province","Hebei",NA,126,0,4,1,"","",NA,NA
+"Hebei Province","Hebei","Shijiazhuang",21,0,1,0,NA,"",NA,NA
+"Hebei Province","Hebei","Cangzhou",20,0,0,1,NA,"",NA,NA
+"Hebei Province","Hebei","Xingtai",16,0,0,0,NA,"",NA,NA
+"Hebei Province","Hebei","Handan",14,0,0,0,NA,"",NA,NA
+"Hebei Province","Hebei","Baoding",13,0,2,0,NA,"",NA,NA
+"Hebei Province","Hebei","Langfang",12,0,1,0,NA,"",NA,NA
+"Hebei Province","Hebei","Tangshan",11,0,0,0,NA,"",NA,NA
+"Hebei Province","Hebei","Zhangjiakou",9,0,0,0,NA,"",NA,NA
+"Hebei Province","Hebei","Hengshui",5,0,0,0,NA,"",NA,NA
+"Hebei Province","Hebei","Chengde",3,0,0,0,NA,"",NA,NA
+"Hebei Province","Hebei","Qinhuangdao",2,0,0,0,NA,"",NA,NA
+"Yunnan Province","Yunnan",NA,119,0,5,0,"","",NA,NA
+"Yunnan Province","Yunnan","Kunming",34,0,0,0,NA,"",NA,NA
+"Yunnan Province","Yunnan","Xishuangbanna",13,0,1,0,NA,"",NA,NA
+"Yunnan Province","Yunnan","Yuxi",12,0,1,0,NA,"",NA,NA
+"Yunnan Province","Yunnan","Zhaotong",9,0,0,0,NA,"",NA,NA
+"Yunnan Province","Yunnan","Qu Jing",9,0,1,0,NA,"",NA,NA
+"Yunnan Province","Yunnan","Baoshan",8,0,0,0,NA,"",NA,NA
+"Yunnan Province","Yunnan","Lijiang",7,0,0,0,NA,"",NA,NA
+"Yunnan Province","Yunnan","Dali",7,0,1,0,NA,"",NA,NA
+"Yunnan Province","Yunnan","Red river",5,0,1,0,NA,"",NA,NA
+"Yunnan Province","Yunnan","Dehong",5,0,0,0,NA,"",NA,NA
+"Yunnan Province","Yunnan","Pu'er",4,0,0,0,NA,"",NA,NA
+"Yunnan Province","Yunnan","Chuxiong",4,0,0,0,NA,"",NA,NA
+"Yunnan Province","Yunnan","Lincang",1,0,0,0,NA,"",NA,NA
+"Yunnan Province","Yunnan","Wenshan",1,0,0,0,NA,"",NA,NA
+"Liaoning Province","Liaoning",NA,81,0,2,0,"","",NA,NA
+"Liaoning Province","Liaoning","Shenyang",18,0,0,0,NA,"",NA,NA
+"Liaoning Province","Liaoning","Dalian",13,0,2,0,NA,"",NA,NA
+"Liaoning Province","Liaoning","Panjin",8,0,0,0,NA,"",NA,NA
+"Liaoning Province","Liaoning","Jinzhou",7,0,0,0,NA,"",NA,NA
+"Liaoning Province","Liaoning","Fuxin",7,0,0,0,NA,"",NA,NA
+"Liaoning Province","Liaoning","Chaoyang",6,0,0,0,NA,"",NA,NA
+"Liaoning Province","Liaoning","Dandong",6,0,0,0,NA,"",NA,NA
+"Liaoning Province","Liaoning","Huludao",6,0,0,0,NA,"",NA,NA
+"Liaoning Province","Liaoning","Benxi",3,0,0,0,NA,"",NA,NA
+"Liaoning Province","Liaoning","Tieling",3,0,0,0,NA,"",NA,NA
+"Liaoning Province","Liaoning","Liaoyang",2,0,0,0,NA,"",NA,NA
+"Liaoning Province","Liaoning","Yingkou",1,0,0,0,NA,"",NA,NA
+"Liaoning Province","Liaoning","Anshan",1,0,0,0,NA,"",NA,NA
+"Hainan","Hainan",NA,80,0,5,1,"","",NA,NA
+"Hainan","Hainan","Sanya",18,0,5,0,NA,"",NA,NA
+"Hainan","Hainan","Haikou",14,0,0,0,NA,"",NA,NA
+"Hainan","Hainan","Wanning",11,0,0,0,NA,"",NA,NA
+"Hainan","Hainan","Luzhou",8,0,0,0,NA,"",NA,NA
+"Hainan","Hainan","Qionghai",6,0,0,0,NA,"",NA,NA
+"Hainan","Hainan","Lingshui",5,0,0,0,NA,"",NA,NA
+"Hainan","Hainan","Lingao",4,0,0,0,NA,"",NA,NA
+"Hainan","Hainan","Chengmai",3,0,0,1,NA,"",NA,NA
+"Hainan","Hainan","Ding'an",3,0,0,0,NA,"",NA,NA
+"Hainan","Hainan","Changjiang",3,0,0,0,NA,"",NA,NA
+"Hainan","Hainan","East",2,0,0,0,NA,"",NA,NA
+"Hainan","Hainan","Qiongzhong",1,0,0,0,NA,"",NA,NA
+"Hainan","Hainan","Ledong",1,0,0,0,NA,"",NA,NA
+"Hainan","Hainan","Wenchang",1,0,0,0,NA,"",NA,NA
+"Shanxi Province","Shanxi",NA,74,0,4,0,"","",NA,NA
+"Shanxi Province","Shanxi","Jinzhong",19,0,2,0,NA,"",NA,NA
+"Shanxi Province","Shanxi","Yuncheng",16,0,1,0,NA,"",NA,NA
+"Shanxi Province","Shanxi","Datong",9,0,0,0,NA,"",NA,NA
+"Shanxi Province","Shanxi","Jincheng",7,0,0,0,NA,"",NA,NA
+"Shanxi Province","Shanxi","Taiyuan",6,0,1,0,NA,"",NA,NA
+"Shanxi Province","Shanxi","Lu Liang",5,0,0,0,NA,"",NA,NA
+"Shanxi Province","Shanxi","Changzhi",3,0,0,0,NA,"",NA,NA
+"Shanxi Province","Shanxi","Shuozhou",3,0,0,0,NA,"",NA,NA
+"Shanxi Province","Shanxi","Xinzhou",3,0,0,0,NA,"",NA,NA
+"Shanxi Province","Shanxi","Yangquan",2,0,0,0,NA,"",NA,NA
+"Shanxi Province","Shanxi","Linfen",1,0,0,0,NA,"",NA,NA
+"Tianjin","Tianjin",NA,67,0,2,0,"待明确地区","治愈",1,120000
+"Tianjin","Tianjin","Baodi District",13,0,0,0,NA,"",NA,NA
+"Tianjin","Tianjin","Hebei District",10,0,0,0,NA,"",NA,NA
+"Tianjin","Tianjin","Hedong District",10,0,0,0,NA,"",NA,NA
+"Tianjin","Tianjin","Heping District",6,0,0,0,NA,"",NA,NA
+"Tianjin","Tianjin","Foreign visitors",6,0,0,0,NA,"",NA,NA
+"Tianjin","Tianjin","Hexi District",4,0,0,0,NA,"",NA,NA
+"Tianjin","Tianjin","Ninghe District",4,0,0,0,NA,"",NA,NA
+"Tianjin","Tianjin","Dongli District",3,0,0,0,NA,"",NA,NA
+"Tianjin","Tianjin","Nankai District",3,0,0,0,NA,"",NA,NA
+"Tianjin","Tianjin","Xiqing District",3,0,0,0,NA,"",NA,NA
+"Tianjin","Tianjin","Binhai New Area",2,0,0,0,NA,"",NA,NA
+"Tianjin","Tianjin","Hongqiao District",2,0,1,0,NA,"",NA,NA
+"Tianjin","Tianjin","Jinnan District",1,0,0,0,NA,"",NA,NA
+"Guizhou Province","Guizhou",NA,58,0,2,0,"","",NA,NA
+"Guizhou Province","Guizhou","Guiyang",10,0,1,0,NA,"",NA,NA
+"Guizhou Province","Guizhou","Liupanshui",9,0,0,0,NA,"",NA,NA
+"Guizhou Province","Guizhou","Zunyi",9,0,0,0,NA,"",NA,NA
+"Guizhou Province","Guizhou","Bijie",9,0,0,0,NA,"",NA,NA
+"Guizhou Province","Guizhou","Tongren",6,0,1,0,NA,"",NA,NA
+"Guizhou Province","Guizhou","Qiannan Prefecture",6,0,0,0,NA,"",NA,NA
+"Guizhou Province","Guizhou","Qiandongnan Prefecture",4,0,0,0,NA,"",NA,NA
+"Guizhou Province","Guizhou","Qianxinan Prefecture",3,0,0,0,NA,"",NA,NA
+"Guizhou Province","Guizhou","Anshun",2,0,0,0,NA,"",NA,NA
+"Gansu province","Gansu",NA,57,0,4,0,"","",NA,NA
+"Gansu province","Gansu","Lanzhou",30,0,3,0,NA,"",NA,NA
+"Gansu province","Gansu","Tianshui",10,0,0,0,NA,"",NA,NA
+"Gansu province","Gansu","Longnan",4,0,0,0,NA,"",NA,NA
+"Gansu province","Gansu","Linxia",3,0,0,0,NA,"",NA,NA
+"Gansu province","Gansu","Dingxi",3,0,1,0,NA,"",NA,NA
+"Gansu province","Gansu","Zhang Ye",2,0,0,0,NA,"",NA,NA
+"Gansu province","Gansu","silver",1,0,0,0,NA,"",NA,NA
+"Gansu province","Gansu","Jinchang",1,0,0,0,NA,"",NA,NA
+"Gansu province","Gansu","Pingliang",1,0,0,0,NA,"",NA,NA
+"Gansu province","Gansu","Gannan",1,0,0,0,NA,"",NA,NA
+"Gansu province","Gansu","Qingyang",1,0,0,0,NA,"",NA,NA
+"Jilin Province","Jilin",NA,42,0,1,0,"","",NA,NA
+"Jilin Province","Jilin","Changchun",18,0,1,0,NA,"",NA,NA
+"Jilin Province","Jilin","Siping",7,0,0,0,NA,"",NA,NA
+"Jilin Province","Jilin","Jilin City",5,0,0,0,NA,"",NA,NA
+"Jilin Province","Jilin","Gongzhuling",3,0,0,0,NA,"",NA,NA
+"Jilin Province","Jilin","Yanbian",3,0,0,0,NA,"",NA,NA
+"Jilin Province","Jilin","Liaoyuan",3,0,0,0,NA,"",NA,NA
+"Jilin Province","Jilin","Matsubara",2,0,0,0,NA,"",NA,NA
+"Jilin Province","Jilin","Tonghua",1,0,0,0,NA,"",NA,NA
+"Inner Mongolia Autonomous Region","Inner Mongolia",NA,35,0,1,0,"","",NA,NA
+"Inner Mongolia Autonomous Region","Inner Mongolia","Ordos",9,0,0,0,NA,"",NA,NA
+"Inner Mongolia Autonomous Region","Inner Mongolia","Baotou",6,0,0,0,NA,"",NA,NA
+"Inner Mongolia Autonomous Region","Inner Mongolia","Hohhot",4,0,0,0,NA,"",NA,NA
+"Inner Mongolia Autonomous Region","Inner Mongolia","Bayannur",3,0,0,0,NA,"",NA,NA
+"Inner Mongolia Autonomous Region","Inner Mongolia","Ulanchabu",3,0,0,0,NA,"",NA,NA
+"Inner Mongolia Autonomous Region","Inner Mongolia","Hulunbuir",3,0,1,0,NA,"",NA,NA
+"Inner Mongolia Autonomous Region","Inner Mongolia","Xilin Gol League",2,0,0,0,NA,"",NA,NA
+"Inner Mongolia Autonomous Region","Inner Mongolia","Chifeng",2,0,0,0,NA,"",NA,NA
+"Inner Mongolia Autonomous Region","Inner Mongolia","Xing'an League",1,0,0,0,NA,"",NA,NA
+"Inner Mongolia Autonomous Region","Inner Mongolia","Tongliao",1,0,0,0,NA,"",NA,NA
+"Inner Mongolia Autonomous Region","Inner Mongolia","Wuhai",1,0,0,0,NA,"",NA,NA
+"Ningxia Hui Autonomous Region","Ningxia",NA,34,0,1,0,"","",NA,NA
+"Ningxia Hui Autonomous Region","Ningxia","Yinchuan",20,0,1,0,NA,"",NA,NA
+"Ningxia Hui Autonomous Region","Ningxia","Wu Zhong",7,0,0,0,NA,"",NA,NA
+"Ningxia Hui Autonomous Region","Ningxia","Zhongwei",3,0,0,0,NA,"",NA,NA
+"Ningxia Hui Autonomous Region","Ningxia","Guyuan",2,0,0,0,NA,"",NA,NA
+"Ningxia Hui Autonomous Region","Ningxia","Ningdong Management Committee",1,0,0,0,NA,"",NA,NA
+"Ningxia Hui Autonomous Region","Ningxia","Shizuishan",1,0,0,0,NA,"",NA,NA
+"Xinjiang Uygur Autonomous Region","Xinjiang",NA,29,0,0,0,"","",NA,NA
+"Xinjiang Uygur Autonomous Region","Xinjiang","Urumqi",12,0,0,0,NA,"",NA,NA
+"Xinjiang Uygur Autonomous Region","Xinjiang","Ili",7,0,0,0,NA,"",NA,NA
+"Xinjiang Uygur Autonomous Region","Xinjiang","Ninth division",4,0,0,0,NA,"",NA,NA
+"Xinjiang Uygur Autonomous Region","Xinjiang","Turpan",1,0,0,0,NA,"",NA,NA
+"Xinjiang Uygur Autonomous Region","Xinjiang","Seventh division",1,0,0,0,NA,"",NA,NA
+"Xinjiang Uygur Autonomous Region","Xinjiang","Eighth Division",1,0,0,0,NA,"",NA,NA
+"Xinjiang Uygur Autonomous Region","Xinjiang","Aksu",1,0,0,0,NA,"",NA,NA
+"Xinjiang Uygur Autonomous Region","Xinjiang","Changji",1,0,0,0,NA,"",NA,NA
+"Xinjiang Uygur Autonomous Region","Xinjiang","Sixth Division",1,0,0,0,NA,"",NA,NA
+"Hong Kong","Hong Kong",NA,17,0,0,1,"","",NA,NA
+"Qinghai Province","Qinghai",NA,15,0,0,0,"","",NA,NA
+"Qinghai Province","Qinghai","Xining",12,0,0,0,NA,"",NA,NA
+"Qinghai Province","Qinghai","Haibei State",3,0,0,0,NA,"",NA,NA
+"Taiwan","Taiwan",NA,11,0,0,0,"","",NA,NA
+"Macao","Macao",NA,10,0,0,0,"","",NA,NA
+"Tibet Autonomous Region","Tibet",NA,1,0,0,0,"","",NA,NA
+"Tibet Autonomous Region","Tibet","Lhasa",1,0,0,0,NA,"",NA,NA

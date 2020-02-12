@@ -1,31 +1,31 @@
-collection_ID;disease_outbreak_news
-collection_title_en;WHO Novel Coronavirus Disease Outbreak News
-collection_title_original;Novel Coronavirus
-collection_path_repository;COVID-19\data\cases\who\disease_outbreak_news
-collection_language;English
-collection_creator_name;World Health Organization
-collection_creator_contact;
-collection_publisher;World Health Organization
-collection_description;Narrative of outbreak situation in countries outside China and the public health response
-collection_URL_original;https://www.who.int/csr/don/archive/disease/novel_coronavirus/en/
-collection_format;HTML
-collection_number_files;5
-collection_members.1;WHO _ Novel Coronavirus ﾖ Japan (ex-China)_20200116.pdf
-collection_members.2;WHO _ Novel Coronavirus ﾖ Japan (ex-China)_20200117.pdf
-collection_members.3;WHO _ Novel Coronavirus ﾖ Republic of Korea (ex-China)_20200121.pdf
-collection_members.4;WHO _ Novel Coronavirus ﾖ Thailand (ex-China)_20200114.pdf
-collection_members.5;WHO _ Novel Coronavirus ﾖ Thailand (ex-China)_20200114.csv
-collection_first_report_date;2020-01-14
-collection_last_report_date;2020-01-21
-collection_license;NA
-collection_access;HTML webpage that can be viewed and read
-related_object_id.1;
-related_object_id.2;
-related_object_id.3;
-related_object_id.4;WHO _ Novel Coronavirus ﾖ Thailand (ex-China)_20200114.csv
-related_object_path.4;COVID-19\data\cases\who\disease_outbreak_news
-relation_description.4;Digitized version
-curation_notes;One PDF file digitized into CSV
-collection_lastupdated_date;2020-02-08
-collection_lastupdated_person;Wilbert van Panhuis, University of Pittsburgh, ORCID 0000-0002-7278-9982
-collection_lastupdated_email;wgvanpanhuis@gmail.com
+"collection_ID","disease_outbreak_news"
+"collection_title_en","WHO Novel Coronavirus Disease Outbreak News"
+"collection_title_original","Novel Coronavirus"
+"collection_path_repository","COVID-19\data\cases\who\disease_outbreak_news"
+"collection_language","English"
+"collection_creator_name","World Health Organization"
+"collection_creator_contact",""
+"collection_publisher","World Health Organization"
+"collection_description","Narrative of outbreak situation in countries outside China and the public health response"
+"collection_URL_original","https://www.who.int/csr/don/archive/disease/novel_coronavirus/en/"
+"collection_format","HTML"
+"collection_number_files","5"
+"collection_members.1","WHO _ Novel Coronavirus ﾖ Japan (ex-China)_20200116.pdf"
+"collection_members.2","WHO _ Novel Coronavirus ﾖ Japan (ex-China)_20200117.pdf"
+"collection_members.3","WHO _ Novel Coronavirus ﾖ Republic of Korea (ex-China)_20200121.pdf"
+"collection_members.4","WHO _ Novel Coronavirus ﾖ Thailand (ex-China)_20200114.pdf"
+"collection_members.5","WHO _ Novel Coronavirus ﾖ Thailand (ex-China)_20200114.csv"
+"collection_first_report_date","2020-01-14"
+"collection_last_report_date","2020-01-21"
+"collection_license",NA
+"collection_access","HTML webpage that can be viewed and read"
+"related_object_id.1",""
+"related_object_id.2",""
+"related_object_id.3",""
+"related_object_id.4","WHO _ Novel Coronavirus ﾖ Thailand (ex-China)_20200114.csv"
+"related_object_path.4","COVID-19\data\cases\who\disease_outbreak_news"
+"relation_description.4","Digitized version"
+"curation_notes","One PDF file digitized into CSV"
+"collection_lastupdated_date","2020-02-08"
+"collection_lastupdated_person","Wilbert van Panhuis, University of Pittsburgh, ORCID 0000-0002-7278-9982"
+"collection_lastupdated_email","wgvanpanhuis@gmail.com"
