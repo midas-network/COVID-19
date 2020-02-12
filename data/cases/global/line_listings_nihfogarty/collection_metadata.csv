@@ -1,24 +1,24 @@
-"collection_ID","line_listings_nihfogarty"
-"collection_title_en","nCoV line listings from DXY.cn maintained by NIH Fogarty"
-"collection_title_original","Kudos to DXY.cn"
-"collection_path_repository","COVID-19\data\cases\global\line_listings_nihfogarty"
-"collection_language","English"
-"collection_creator_name","Kaiyuan Sun, NIH Fogarty"
-"collection_creator_contact","contact.sunky@gmail.com",
-"collection_publisher","Kaiyuan Sun, NIH Fogarty"
-"collection_description","2019 Novel Coronavirus line listings obtained exclusively from DXY.cn by manual data entry. DXY.cn (D?ngXi?ngYu�n) is an online community for medical professionals and news sharing of medical importance. DXY.cn provides a curated list of broadcasts for 2019 nCoV case reports from official Chinese sources: https://3g.dxy.cn/newh5/view/pneumonia"
-"collection_URL_original","https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/edit#gid=1187587451"
-"collection_format","Google Sheet "
-"collection_number_files","10"
-"collection_members"
-"collection_first_report_date","2020-01-13"
-"collection_last_report_date","2020-02-09"
-"collection_license",NA
-"collection_access","Google Sheet that can be downloaded"
-"related_object_id",NA
-"related_object_path",NA
-"relation_description",NA
-"curation_notes",NA
-"collection_lastupdated_date","2020-02-10"
-"collection_lastupdated_person","Lucie Contamin, University of Pittsburgh, ORCID 0000-0001-5797-1279"
-"collection_lastupdated_email","contamin@pitt.edu"
+collection_ID,line_listings_nihfogarty
+collection_title_en,nCoV line listings from DXY.cn maintained by NIH Fogarty
+collection_title_original,Kudos to DXY.cn
+collection_path_repository,COVID-19\data\cases\global\line_listings_nihfogarty
+collection_language,English
+collection_creator_name,"Kaiyuan Sun, NIH Fogarty"
+collection_creator_contact,"contact.sunky@gmail.com"
+collection_publisher,"Kaiyuan Sun, NIH Fogarty"
+collection_description,2019 Novel Coronavirus line listings obtained exclusively from DXY.cn by manual data entry. DXY.cn (D?ngXi?ngYu�n) is an online community for medical professionals and news sharing of medical importance. DXY.cn provides a curated list of broadcasts for 2019 nCoV case reports from official Chinese sources: https://3g.dxy.cn/newh5/view/pneumonia
+collection_URL_original,https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/edit#gid=1187587451
+collection_format,Google Sheet 
+collection_number_files,10
+collection_members,
+collection_first_report_date,2020-01-13
+collection_last_report_date,2020-01-13
+collection_license,NA
+collection_access,Google Sheet that can be downloaded
+related_object_id,NA
+related_object_path,NA
+relation_description,NA
+curation_notes,NA
+collection_lastupdated_date,2020-01-13
+collection_lastupdated_person,"Lucie Contamin, University of Pittsburgh, ORCID 0000-0001-5797-1279"
+collection_lastupdated_email,contamin@pitt.edu
