@@ -5,7 +5,7 @@
 
 ***Disclaimer***   
 *Most sections in this repository are under active development and may be incomplete.
-Information posted in this repository was created by those listed as creators in the metadata and not by the MIDAS Coordination Center. Creators should be acknoledged when using the information for scientific or other work (see [Information for Users](#userinfo))*.
+Information posted in this repository was created by those listed as creators in the metadata and not by the MIDAS Coordination Center. Creators should be acknowledged when using the information for scientific or other work (see [Information for Users](#userinfo))*.
 
 
 ### Introduction 
