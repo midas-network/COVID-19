@@ -2,7 +2,11 @@
 
 # MIDAS 2019 Novel Coronavirus Repository
 </br>
-</br>
+
+***Disclaimer***   
+*Most sections in this repository are under active development and may be incomplete.
+Information posted in this repository was created by those listed as creators in the metadata and not by the MIDAS Coordination Center. Creators should be acknoledged when using the information for scientific or other work (see [User information](#userinfo))*
+
 </br>
 
 This repository serves as central platform to share resources relevant for modeling of the COVID-19 outbreak. The [MIDAS Coordination Center (MCC)](https://midasnetwork.us/mcc/) has created and will maintain it in collaboration with the broader modeling community. Community members are encouraged to contribute resources to the repository and thus support the overall COVID-19 research effort. See [Information for Contributors](https://github.com/midas-network/COVID-19/wiki/Information-for-Contributors) for guidance on how to contribute material. Contact questions@midasnetwork.us for any questions or ideas for improvements, or to send/request any material to be included. 
@@ -39,7 +43,7 @@ Documents include:
 ## [Information for Contributors](https://github.com/midas-network/COVID-19/wiki/Information-for-Contributors)
 Anybody can contribute to this repository through pull requests. Community members are encouraged to contribute new data and findings, and help make this repository increasingly complete and useful. This section include detailed instructions for pull requests and templates for metadata, data guides, and other files formats and content standards. Email questions@midasnetwork.us in case of questions or ideas. 
 
-## Information for Users
+## <a id="userinfo"></a>Information for Users
 Many people have contributed to the creation of this repository and of its content. Please cite the creators of data or other content listed in the respective metadata, if you use any of their contributions. Also cite this repository as the source for those contributions as per the following suggested citation: "Creators of object, name of object, Retrieved from: MIDAS 2019 Novel Coronavirus Github Repository, URL. Accessed date"
 
 ## Contact Information
