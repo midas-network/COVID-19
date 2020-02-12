@@ -4,9 +4,9 @@ collection_title_en,nCoV-2019 Situation Reports from Johns Hopkins University Ce
 collection_title_original,nCoV-2019
 collection_path_repository,COVID-19\Documents\Reports\outbreak_reports\global\JHU_CHS
 collection_language,English
-collection_creator_name,Caitlin Rivers, Johns Hopkins University
+collection_creator_name,"Caitlin Rivers, Johns Hopkins University"
 collection_creator_contact,crivers6@jhu.edu
-collection_publisher,Caitlin Rivers, Johns Hopkins University
+collection_publisher,"Caitlin Rivers, Johns Hopkins University"
 collection_description,Situation reports created by Johns Hopkins University Center for Health Security
 collection_URL_original,http://www.centerforhealthsecurity.org/resources/2019-nCoV/nCoVSituationReports.html
 collection_format,HTML
@@ -47,5 +47,5 @@ related_object_path,
 relation_description,
 curation _notes,
 collection_lastupdated_date,2020-02-10
-collection_lastupdated_person,Alice Arcury-Quandt, University of Pittsburgh, 0000-0001-7295-5939
+collection_lastupdated_person,"Alice Arcury-Quandt, University of Pittsburgh, 0000-0001-7295-5939"
 collection_lastupdated_email,aea56@pitt.edu
