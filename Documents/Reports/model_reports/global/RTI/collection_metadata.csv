@@ -4,7 +4,7 @@ collection_title_en,RTI Reports
 collection_title_original,Publications
 collection_path_repository,COVID-19\Documents\Reports\model_reports\global\RTI
 collection_language,English
-collection_creator_name,Donal Bisanzio, RTI
+collection_creator_name,"Donal Bisanzio, RTI"
 collection_creator_contact,_dbisanzio@rti.org
 collection_publisher,RTI International
 collection_description,Reports published by RTI
@@ -21,5 +21,5 @@ related_object_path,
 relation_description,
 curation _notes,
 collection_lastupdated_date,2020-02-10
-collection_lastupdated_person,Alice Arcury-Quandt, University of Pittsburgh, 0000-0001-7295-5939
+collection_lastupdated_person,"Alice Arcury-Quandt, University of Pittsburgh, 0000-0001-7295-5939"
 collection_lastupdated_email,aea56@pitt.edu
