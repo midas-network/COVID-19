@@ -7,11 +7,11 @@
 *Most sections in this repository are under active development and may be incomplete.
 Information posted in this repository was created by those listed as creators in the metadata and not by the MIDAS Coordination Center. Creators should be acknoledged when using the information for scientific or other work (see [User information](#userinfo))*
 
-</br>
 
+### Introduction
 This repository serves as central platform to share resources relevant for modeling of the COVID-19 outbreak. The [MIDAS Coordination Center (MCC)](https://midasnetwork.us/mcc/) has created and will maintain it in collaboration with the broader modeling community. Community members are encouraged to contribute resources to the repository and thus support the overall COVID-19 research effort. See [Information for Contributors](https://github.com/midas-network/COVID-19/wiki/Information-for-Contributors) for guidance on how to contribute material. Contact questions@midasnetwork.us for any questions or ideas for improvements, or to send/request any material to be included. 
 
-## MIDAS 2019 Novel Coronavirus Mailing List
+### MIDAS 2019 Novel Coronavirus Mailing List
 The MIDAS Coordination Center maintains a dedicated mailing list for updates and news about COVID-19 modeling research. To join the mailing list, please email questions@midasnetwork.us. 
 
 ## [Data](https://github.com/midas-network/COVID-19/wiki/Data)
