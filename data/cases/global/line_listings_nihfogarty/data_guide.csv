@@ -1,21 +1,21 @@
 collection_ID,data_field_code,data_field_name,full_name_en,full_name_original,description,format,unit,information_update_date,informatin_update_person,information_update_email
-line_listings_nihfogarty,LLN1,id,identifier,identifier,Sequential numeric identifier of each line listing,numeric,NA,2/4/20,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_nihfogarty,LLN2,reporting date,reporting date,reporting date,Date of broadcast on DXY.cn,date,NA,2/4/20,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_nihfogarty,LLN3,summary,summary,summary,Summary of DXY.cn information on the case,text,NA,2/4/20,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_nihfogarty,LLN4,location,location,location,Location in which the case occurred,text,NA,2/4/20,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_nihfogarty,LLN5,country,country,country,Country in which the case occurred,text,NA,2/4/20,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_nihfogarty,LLN6,gender,gender,gender,Case gender,text,NA,2/4/20,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_nihfogarty,LLN7,age,age,age,Case age,numeric,years,2/4/20,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_nihfogarty,LLN8,symptom_onset,date of symptom onset,symptom_onset,Date of onset clinical symptoms,date,NA,2/4/20,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_nihfogarty,LLN9,if_onset_approximated,onset date approximated,if_onset_approximated,The onset date was approximated (vs. precise date information),binary,NA,2/4/20,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_nihfogarty,LLN10,hosp_visit_date,date of hospital visit,hosp_visit_date,Date the case visited a hospital,date,NA,2/4/20,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_nihfogarty,LLN11,type_of_visit,type of visit,type_of_visit,Type of medical facility visited,text,NA,2/4/20,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_nihfogarty,LLN12,exposure_start,date of start exposure,exposure_start,Date exposure started,date,NA,2/4/20,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_nihfogarty,LLN13,exposure_end,date exposure ended,exposure_end,Date exposure ended,date,NA,2/4/20,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_nihfogarty,LLN14,visiting_wuhan,history of visiting Wuhan,visiting Wuhan,The case visited Wuhan,binary,NA,2/4/20,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_nihfogarty,LLN15,from_wuhan,residence in Wuhan,from Wuhan,The case is a resident of Wuhan,binary,NA,2/4/20,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_nihfogarty,LLN16,death,person died,death,Case died,binary,NA,2/4/20,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_nihfogarty,LLN17,recovered,person recovered,recovered,Case recovered,binary,NA,2/4/20,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_nihfogarty,LLN18,symptom,symptoms,symptom,Description of clinical symptoms,text,NA,2/4/20,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_nihfogarty,LLN19,source,source of information,source,Name of the source listed in DXY.cn broadcast,text,NA,2/4/20,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_nihfogarty,LLN20,link,link to source,link,URL to the source lsited in the DXY.cn broadcast,text,NA,2/4/20,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_nihfogarty,LLN1,id,identifier,identifier,Sequential numeric identifier of each line listing,numeric,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_nihfogarty,LLN2,reporting date,reporting date,reporting date,Date of broadcast on DXY.cn,date,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_nihfogarty,LLN3,summary,summary,summary,Summary of DXY.cn information on the case,text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_nihfogarty,LLN4,location,location,location,Location in which the case occurred,text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_nihfogarty,LLN5,country,country,country,Country in which the case occurred,text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_nihfogarty,LLN6,gender,gender,gender,Case gender,text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_nihfogarty,LLN7,age,age,age,Case age,numeric,years,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_nihfogarty,LLN8,symptom_onset,date of symptom onset,symptom_onset,Date of onset clinical symptoms,date,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_nihfogarty,LLN9,if_onset_approximated,onset date approximated,if_onset_approximated,The onset date was approximated (vs. precise date information),binary,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_nihfogarty,LLN10,hosp_visit_date,date of hospital visit,hosp_visit_date,Date the case visited a hospital,date,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_nihfogarty,LLN11,type_of_visit,type of visit,type_of_visit,Type of medical facility visited,text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_nihfogarty,LLN12,exposure_start,date of start exposure,exposure_start,Date exposure started,date,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_nihfogarty,LLN13,exposure_end,date exposure ended,exposure_end,Date exposure ended,date,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_nihfogarty,LLN14,visiting_wuhan,history of visiting Wuhan,visiting Wuhan,The case visited Wuhan,binary,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_nihfogarty,LLN15,from_wuhan,residence in Wuhan,from Wuhan,The case is a resident of Wuhan,binary,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_nihfogarty,LLN16,death,person died,death,Case died,binary,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_nihfogarty,LLN17,recovered,person recovered,recovered,Case recovered,binary,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_nihfogarty,LLN18,symptom,symptoms,symptom,Description of clinical symptoms,text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_nihfogarty,LLN19,source,source of information,source,Name of the source listed in DXY.cn broadcast,text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_nihfogarty,LLN20,link,link to source,link,URL to the source lsited in the DXY.cn broadcast,text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
