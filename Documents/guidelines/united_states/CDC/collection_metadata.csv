@@ -1,32 +1,32 @@
-Fieldname;Description
-collection_ID;CDC_guidance
-collection_title_en;US CDC Guidance
-collection_title_original;2019 Novel Coronavirus
-collection_path_repository;COVID-19\Documents\guidelines\united_states\CDC
-collection_language;English
-collection_creator_name;Centers for Disease Control and Prevention
-collection_creator_contact;https://www.cdc.gov/cdc-info/index.html
-collection_publisher;Centers for Disease Control and Prevention
-collection_description;Guidance documents created by US CDC
-collection_URL_original;https://www.cdc.gov/coronavirus/2019-ncov/index.html
-collection_format;HTML
-collection_number_files;8
-collection_members.1;2020-01-06_Travel.pdf
-collection_members.2;2020-01-17_HAN_00426.pdf
-collection_members.3;2020-02-01_HAN_00427.pdf
-collection_members.4;2020-02-02_Clinical_Specimens.pdf
-collection_members.5;2020-02-02_Clinical_Criteria.pdf
-collection_members.6;2020-02-07_Businesses_Employers.pdf
-collection_members.7;2020-02-08_Risk_Assessment_PH_Management.pdf
-collection_members.8;2020-02-10_Biosafety.pdf
-collection_first_report_date;2020-01-06
-collection_last_report_date;2020-02-10
-collection_license;NA
-collection_access;HTML webpage that can be read online
-related_object_id;
-related_object_path;
-relation_description;
-curation _notes;
-collection_lastupdated_date;2020-02-11
-collection_lastupdated_person;Alice Arcury-Quandt, University of Pittsburgh, 0000-0001-7295-5939
-collection_lastupdated_email;aea56@pitt.edu
+Fieldname,Description
+collection_ID,CDC_guidance
+collection_title_en,US CDC Guidance
+collection_title_original,2019 Novel Coronavirus
+collection_path_repository,COVID-19\Documents\guidelines\united_states\CDC
+collection_language,English
+collection_creator_name,Centers for Disease Control and Prevention
+collection_creator_contact,https://www.cdc.gov/cdc-info/index.html
+collection_publisher,Centers for Disease Control and Prevention
+collection_description,Guidance documents created by US CDC
+collection_URL_original,https://www.cdc.gov/coronavirus/2019-ncov/index.html
+collection_format,HTML
+collection_number_files,8
+collection_members.1,2020-01-06_Travel.pdf
+collection_members.2,2020-01-17_HAN_00426.pdf
+collection_members.3,2020-02-01_HAN_00427.pdf
+collection_members.4,2020-02-02_Clinical_Specimens.pdf
+collection_members.5,2020-02-02_Clinical_Criteria.pdf
+collection_members.6,2020-02-07_Businesses_Employers.pdf
+collection_members.7,2020-02-08_Risk_Assessment_PH_Management.pdf
+collection_members.8,2020-02-10_Biosafety.pdf
+collection_first_report_date,2020-01-06
+collection_last_report_date,2020-02-10
+collection_license,NA
+collection_access,HTML webpage that can be read online
+related_object_id,
+related_object_path,
+relation_description,
+curation _notes,
+collection_lastupdated_date,2020-02-11
+collection_lastupdated_person,Alice Arcury-Quandt, University of Pittsburgh, 0000-0001-7295-5939
+collection_lastupdated_email,aea56@pitt.edu
