@@ -1,0 +1,51 @@
+Fieldname,Description
+collection_ID,sitreps_JHU_CHS
+collection_title_en,nCoV-2019 Situation Reports from Johns Hopkins University Center for Health Security
+collection_title_original,2019-nCoV
+collection_path_repository,COVID-19\Documents\Reports\outbreak_reports\global\JHU_CHS
+collection_language,English
+collection_creator_name,"Caitlin Rivers, Johns Hopkins University"
+collection_creator_contact,crivers6@jhu.edu
+collection_publisher,"Caitlin Rivers, Johns Hopkins University"
+collection_description,Situation reports created by Johns Hopkins University Center for Health Security
+collection_URL_original,http://www.centerforhealthsecurity.org/resources/2019-nCoV/nCoVSituationReports.html
+collection_format,PDF
+collection_number_files,27
+collection_members.1,2020-01-22_pm_2019-nCoV.pdf
+collection_members.2,2020-01-23_am_2019-nCoV.pdf
+collection_members.3,2020-01-23_pm_2019-nCoV.pdf
+collection_members.4,2020-01-24_am_2019-nCoV.pdf
+collection_members.5,2020-01-24_pm_2019-nCoV.pdf
+collection_members.6,2020-01-25_2019-nCoV.pdf
+collection_members.7,2020-01-26_2019-nCoV.pdf
+collection_members.8,2020-01-27_am_2019-nCoV.pdf
+collection_members.9,2020-01-27_pm_2019-nCoV.pdf
+collection_members.10,2020-01-28_am_2019-nCoV.pdf
+collection_members.11,2020-01-28_pm_2019-nCoV.pdf
+collection_members.12,2020-01-29_am_2019-nCoV.pdf
+collection_members.13,2020-01-29_pm_2019-nCoV.pdf
+collection_members.14,2020-01-30_am_2019-nCoV.pdf
+collection_members.15,2020-01-30_pm_2019-nCoV.pdf
+collection_members.16,2020-01-31_am_2019-nCoV.pdf
+collection_members.17,2020-01-31_pm_2019-nCoV.pdf
+collection_members.18,2020-02-01_2019-nCoV.pdf
+collection_members.19,2020-02-02_2019-nCoV.pdf
+collection_members.20,2020-02-03_am_2019-nCoV.pdf
+collection_members.21,2020-02-03_pm_2019-nCoV.pdf
+collection_members.22,2020-02-04_am_2019-nCoV.pdf
+collection_members.23,2020-02-04_pm_2019-nCoV.pdf
+collection_members.24,2020-02-05_2019-nCoV.pdf
+collection_members.25,2020-02-06_2019-nCoV.pdf
+collection_members.26,2020-02-07_2019-nCoV.pdf
+collection_members.27,2020-02-09_2019-nCoV.pdf
+collection_first_report_date,2020-01-22
+collection_last_report_date,2020-02-09
+collection_license,NA
+collection_access,PDF of HTML webpage that can be viewed and read
+related_object_id,
+related_object_path,
+relation_description,
+curation _notes,
+collection_lastupdated_date,2020-02-10
+collection_lastupdated_person,"Alice Arcury-Quandt, University of Pittsburgh, 0000-0001-7295-5939"
+collection_lastupdated_email,aea56@pitt.edu
