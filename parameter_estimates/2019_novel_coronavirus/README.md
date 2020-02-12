@@ -48,7 +48,7 @@
 ## Transmission rate
 |Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|
-|1.94|1.25|6.71|NA|Global|2020-01-01|2020-01-22|2020-01-28
+|1.94|1.25|6.71|NA|Global|2020-01-01|2020-01-22|2020-01-28|[Lancaster University](https://medrxiv.org/content/10.1101/2020.01.23.20018549v2)
 
 ## Dispersion rate
 |Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
