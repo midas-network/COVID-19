@@ -4,9 +4,9 @@ collection_title_en,Title of the collection of files in English,nCoV line listin
 collection_title_original,"Original title of the collection of filfes, in original language, per original source",Kudos to DXY.cn
 collection_path_repository,Path of collection in the repository,COVID-19\case_counts\line_listings_nihfogarty
 collection_language,Language of collection content,English
-collection_creator_name,Organization or people who created the collection,Kaiyuan Sun, NIH Fogarty
+collection_creator_name,Organization or people who created the collection,"Kaiyuan Sun, NIH Fogarty"
 collection_creator_contact,Contact information for creator of the collection,contact.sunky@gmail.com
-collection_publisher,Organization or people who published the collection online,Kaiyuan Sun, NIH Fogarty
+collection_publisher,Organization or people who published the collection online,"Kaiyuan Sun, NIH Fogarty"
 collection_description,Description of the collection,2019 Novel Coronavirus line listings obtained exclusively from DXY.cn by manual data entry. DXY.cn (DīngXiāngYuán) is an online community for medical professionals and news sharing of medical importance. DXY.cn provides a curated list of broadcasts for 2019 nCoV case reports from official Chinese sources: https://3g.dxy.cn/newh5/view/pneumonia    
 collection_URL_original,URL of the original source of the collection,https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/edit#gid=1187587451
 collection_format,File format of the collection members,Google Sheet 
