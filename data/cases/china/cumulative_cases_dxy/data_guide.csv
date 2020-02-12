@@ -1,0 +1,9 @@
+collection_ID,data_field_code,data_field_name,full_name_en,full_name_original,description,format,unit,information_update_date,informatin_update_person,information_update_email
+cumulative_cases_DXY,CCO1,provinceName,provinceName,provinceName,Full name of the province in English,text,NA,2020-02-11,Lucie Contamin,contamin@pitt.edu
+cumulative_cases_DXY,CCO2,provinceShortName,provinceShortName,provinceShortName,Short name of the province in English,text,NA,2020-02-11,Lucie Contamin,contamin@pitt.edu
+cumulative_cases_DXY,CCO3,cityName,cityName,cityName,Name of the city/prefecture in English,text,NA,2020-02-11,Lucie Contamin,contamin@pitt.edu
+cumulative_cases_DXY,CCO4,confirmedCount,confirmedCount,confirmedCount,Total number of cases that occurred until specified date in the name of the file,numeric,NA,2020-02-11,Lucie Contamin,contamin@pitt.edu
+cumulative_cases_DXY,CCO5,suspectedCount,suspectedCount,suspectedCount,Total number of cases suspected until specified date in the name of the file,numeric,NA,2020-02-11,Lucie Contamin,contamin@pitt.edu
+cumulative_cases_DXY,CCO6,curedCount,curedCount,curedCount,Total number of cases that died until specified date in the name of the file,numeric,NA,2020-02-11,Lucie Contamin,contamin@pitt.edu
+cumulative_cases_DXY,CCO7,deadCount,deadCount,deadCount,Total number of cured cases until specified date in the name of the file,numeric,NA,2020-02-11,Lucie Contamin,contamin@pitt.edu
+cumulative_cases_DXY,CCO8,comment,comment,comment,Comment in Chinese,text,NA,2020-02-11,Lucie Contamin,contamin@pitt.edu

@@ -1,0 +1,35 @@
+Province,Add Suspect,Cumulative Suspect,New diagnosis,Cumulative diagnosis,Added death,Cumulative death
+Beijing,65,170,21,274,0,1
+Tianjin,97,190,3,70,1,1
+Hebei Province,60,133,22,157,0,1
+Shanxi Province,20,42,9,90,0,0
+Inner Mongolia Autonomous Region,4,5,4,46,0,0
+Liaoning Province,42,143,8,89,0,0
+Jilin Province,37,69,5,59,0,0
+Heilongjiang Province,109,222,37,227,1,3
+Shanghai,102,196,21,254,0,1
+Jiangsu Province,48,55,32,373,0,0
+Zhejiang Province,155,322,59,954,0,0
+Anhui Province,84,141,61,591,0,0
+Fujian Province,22,78,10,215,0,0
+Jiangxi Province,72,312,52,600,0,0
+Shandong Province,37,85,45,343,0,0
+Henan Province,273,688,87,851,0,2
+Hubei Province,3230,19728,2987,19665,70,549
+Hunan Province,167,207,50,711,0,0
+Guangdong Province,61,148,74,944,0,0
+Guangxi Zhuang Autonomous Region,144,391,18,168,0,0
+Hainan,38,132,11,100,0,1
+Chongqing,171,379,23,389,0,2
+Sichuan Province,135,340,20,321,0,1
+Guizhou Province,18,37,5,69,1,1
+Yunnan Province,28,149,6,128,0,0
+Tibet Autonomous Region,0,0,0,1,0,0
+Shaanxi Province,71,238,8,173,0,0
+Gansu province,8,16,5,62,0,0
+Qinghai Province,0,0,1,18,0,0
+Ningxia Hui Autonomous Region,15,39,6,40,0,0
+Xinjiang Uygur Autonomous Region,15,47,4,36,0,0
+Taiwan Province,0,0,0,11,0,0
+Hong Kong Special Administrative Region,0,0,3,21,0,1
+Macau Special Administrative Region,0,0,0,10,0,0
