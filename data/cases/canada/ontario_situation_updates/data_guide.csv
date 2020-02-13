@@ -1,0 +1,10 @@
+collection_ID,data_field_code,data_field_name,full_name_en,full_name_original,description,format,unit,information_update_date,informatin_update_person,information_update_email
+ontario_situation_updates,OSU1,DataUpdated,DataUpdated,DataUpdated,Date of the last update of the data,date,NA,2020-02-13,Lucie Contamin,contamin@pitt.edu
+ontario_situation_updates,OSU2,Confirmed negative,Confirmed negative,Confirmed negative,Patient tested as negative by both laboratory: Public Heath Ontario (PHO) and Laboratory and National Microbiology Lab (NML),numeric,NA,2020-02-13,Lucie Contamin,contamin@pitt.edu
+ontario_situation_updates,OSU3,Presumptive negative,Presumptive negative,Presumptive negative,Patient tested as negative by PHO Laboratory but not yet tested by NML laboratory,numeric,NA,2020-02-13,Lucie Contamin,contamin@pitt.edu
+ontario_situation_updates,OSU4,Currently under investigation,Currently under investigation,Currently under investigation,Test results are pending,numeric,NA,2020-02-13,Lucie Contamin,contamin@pitt.edu
+ontario_situation_updates,OSU5,Presumptive positive,Presumptive positive,Presumptive positive,Patient tested as positive by PHO Laboratory but not yet tested by NML laboratory,numeric,NA,2020-02-13,Lucie Contamin,contamin@pitt.edu
+ontario_situation_updates,OSU6,Confirmed positive,Confirmed positive,Confirmed positive,Patient tested as positive by both laboratory: PHO and NML,numeric,NA,2020-02-13,Lucie Contamin,contamin@pitt.edu
+ontario_situation_updates,OSU7,Resolved,Resolved,Resolved,Patient is no longer infectious,numeric,NA,2020-02-13,Lucie Contamin,contamin@pitt.edu
+ontario_situation_updates,OSU8,Total number of patients approved for COVID-19 testing to date,Total number of patients approved for COVID-19 testing to date,Total number of patients approved for COVID-19 testing to date,Total number of patients appproved for COVID-19 testing to date,numeric,NA,2020-02-13,Lucie Contamin,contamin@pitt.edu
+ontario_situation_updates,OSU9,Footnotes,Footnotes,Footnotes,Footnotes of the table,text,NA,2020-02-13,Lucie Contamin,contamin@pitt.edu
