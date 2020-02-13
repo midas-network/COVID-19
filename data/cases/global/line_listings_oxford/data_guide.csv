@@ -1,56 +1,35 @@
 collection_ID,data_field_code,data_field_name,full_name_en,full_name_original,description,format,unit,information_update_date,informatin_update_person,information_update_email
-line_listings_oxford,LLO1,ID,identifier,ID,Sequential numeric identifier of each line listing,numeric,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO2,age,age,age,Age of the case,numeric,years,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO3,sex,sex,sex,Sex of the case,text,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO4,city,city,city,City where case was reported,text,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO5,province,province,province,Province where case was reported,text,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO6,country,country,country,Country where case was reported,text,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO7,wuhan(0)_not_wuhan(1),case identified in Wuhan or not,wuhan(0)_not_wuhan(1),Case reported outside of Wuhan (1) or not (0),binary,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO8,latitude,latitude,latitude,Latitude of centroid for reporting location,numeric,degrees,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO9,longitude,longitude,longitude,Longitude of centroid for reporting location,numeric,degrees,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO10,geo_resolution,"geographic resolution of the information (point, admin)",geo_resolution,"Geographic resolution for location, point or admin",text,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO11,date_onset_symptoms,date of symptom onset,date_onset_symptoms,Date of symptom onset as dd.mm.yyyy,date,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO12,date_admission_hospital,date of hospital admission,date_admission_hospital,Date of hospital admission as dd.mm.yyyy,date,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO13,date_confirmation,date of case confirmation,date_confirmation,Date of case confirmation as dd.mm.yyyy,date,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO14,symptoms,symptoms,symptoms,Symptoms reported for case,text,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO15,lives_in_Wuhan,case lives in Wuhan or not,lives_in_Wuhan,Case lives in Wuhan (yes or no),binary,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO16,travel_history_dates,dates of travel history,travel_history_dates,Date or date range of travel history (as dd.mm.yyyy),date,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO17,travel_history_location,locaiton of travel history,travel_history_location,Locations where case has traveled,text,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO18,reported_market_exposure,reported exposure at the market,reported_market_exposure,"Case reported exposure at the live market in Wuhan (yes, no, N/A)",binary,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO19,additional_information,additional case information,additional_information,Additional relevant information about the case,text,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO20,chroDisea_Yes(1)/No(0),case reports chronic disease comorbidity,chroDisea_Yes(1)/No(0),Chronic disease comorbidity reported (1) or not (0),binary,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO21,chronic_diseases,chronic disease comorbodity reported,chronic_diseases,Names of chronic diseases listed as comorbidity,text,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO22,source,source,source,URL of source for case report,text,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO23,sequence_available,genetic sequence available,sequence_available,Genetic sequence available for the case,binary,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO24,outcome,case outcome,outcome,Outcome of the case,text,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO25,dead(0)/alive(1),case outcome alive or not,dead(0)/alive(1),Case died (0) or remained alive (1),binary,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO26,date_death_or_discharge,date of death or discharge,date_death_or_discharge,"Date of death or discharge, as dd.mm.yyyy",date,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO27,notes_for_discussion,notes for discussion,notes_for_discussion,Data curation notes,text,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO28,location,location,location,Name of location where case was reported,text,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO29,admin3,admin3,admin3,Third administrative level where case was reported,text,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO30,admin2,admin2,admin2,Second administrative level where case was reported,text,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO31,admin1,admin1,admin1,First administrative level where case was reported,text,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO32,country_new,country of case report,country_new,"Country where case was reported, recoded?",text,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-line_listings_oxford,LLO33,admin_id,identifier for admin region,admin_id,Identifier for administrative region?,text,NA,2/4/2020,Wilbert van Panhuis,wgvanpanhuis@gmail.com
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
+line_listings_oxford,LLO1,ID,identifier,ID,Sequential numeric identifier of each line listing,numeric,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO2,age,age,age,Age of the case,numeric,years,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO3,sex,sex,sex,Sex of the case,text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO4,city,city,city,City where case was reported,text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO5,province,province,province,Province where case was reported,text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO6,country,country,country,Country where case was reported,text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO7,wuhan(0)_not_wuhan(1),case identified in Wuhan or not,wuhan(0)_not_wuhan(1),Case reported outside of Wuhan (1) or not (0),binary,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO8,latitude,latitude,latitude,Latitude of centroid for reporting location,numeric,degrees,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO9,longitude,longitude,longitude,Longitude of centroid for reporting location,numeric,degrees,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO10,geo_resolution,"geographic resolution of the information (point, admin)",geo_resolution,"Geographic resolution for location, point or admin",text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO11,date_onset_symptoms,date of symptom onset,date_onset_symptoms,Date of symptom onset as dd.mm.yyyy,date,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO12,date_admission_hospital,date of hospital admission,date_admission_hospital,Date of hospital admission as dd.mm.yyyy,date,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO13,date_confirmation,date of case confirmation,date_confirmation,Date of case confirmation as dd.mm.yyyy,date,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO14,symptoms,symptoms,symptoms,Symptoms reported for case,text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO15,lives_in_Wuhan,case lives in Wuhan or not,lives_in_Wuhan,Case lives in Wuhan (yes or no),binary,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO16,travel_history_dates,dates of travel history,travel_history_dates,Date or date range of travel history (as dd.mm.yyyy),date,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO17,travel_history_location,locaiton of travel history,travel_history_location,Locations where case has traveled,text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO18,reported_market_exposure,reported exposure at the market,reported_market_exposure,"Case reported exposure at the live market in Wuhan (yes, no, N/A)",binary,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO19,additional_information,additional case information,additional_information,Additional relevant information about the case,text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO20,chroDisea_Yes(1)/No(0),case reports chronic disease comorbidity,chroDisea_Yes(1)/No(0),Chronic disease comorbidity reported (1) or not (0),binary,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO21,chronic_diseases,chronic disease comorbodity reported,chronic_diseases,Names of chronic diseases listed as comorbidity,text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO22,source,source,source,URL of source for case report,text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO23,sequence_available,genetic sequence available,sequence_available,Genetic sequence available for the case,binary,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO24,outcome,case outcome,outcome,Outcome of the case,text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO25,dead(0)/alive(1),case outcome alive or not,dead(0)/alive(1),Case died (0) or remained alive (1),binary,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO26,date_death_or_discharge,date of death or discharge,date_death_or_discharge,"Date of death or discharge, as dd.mm.yyyy",date,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO27,notes_for_discussion,notes for discussion,notes_for_discussion,Data curation notes,text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO28,location,location,location,Name of location where case was reported,text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO29,admin3,admin3,admin3,Third administrative level where case was reported,text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO30,admin2,admin2,admin2,Second administrative level where case was reported,text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO31,admin1,admin1,admin1,First administrative level where case was reported,text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO32,country_new,country of case report,country_new,"Country where case was reported, recoded?",text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO33,admin_id,identifier for admin region,admin_id,Identifier for administrative region?,text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_oxford,LLO34,data_moderator_initials,initials of the data moderator,data_moderator_initials,initials of the data moderator?,text,NA,2020-02-12,Lucie Contamin,contamin@pitt.edu
