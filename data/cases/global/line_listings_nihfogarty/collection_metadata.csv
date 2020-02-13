@@ -23,14 +23,18 @@ collection_members.10,2021_02_06_1800EST_linelist_NIHFogarty
 collection_members.11,2022_02_07_1800EST_linelist_NIHFogarty
 collection_members.12,2023_02_08_1800EST_linelist_NIHFogarty
 collection_members.13,2024_02_09_1800EST_linelist_NIHFogarty
+collection_members.14,2024_02_10_1800EST_linelist_NIHFogarty
+collection_members.15,2024_02_11_1800EST_linelist_NIHFogarty
+collection_members.16,2024_02_12_1800EST_linelist_NIHFogarty
+collection_members.17,2024_02_13_1800EST_linelist_NIHFogarty
 collection_first_report_date,2020-01-13
-collection_last_report_date,2020-02-09
+collection_last_report_date,2020-02-12
 collection_license,NA
 collection_access,Google Sheet that can be downloaded
 related_object_id,NA
 related_object_path,NA
 relation_description,NA
 curation_notes,NA
-collection_lastupdated_date,2020-02-12
+collection_lastupdated_date,2020-02-13
 collection_lastupdated_person,"Lucie Contamin, University of Pittsburgh, ORCID 0000-0001-5797-1279"
 collection_lastupdated_email,contamin@pitt.edu
