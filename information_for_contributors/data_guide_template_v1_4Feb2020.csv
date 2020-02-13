@@ -7,6 +7,6 @@ full_name_original,"Full name of the data field in the original source language,
 description,Description of the data field,Date of broadcast on DXY.cn
 format,Format of the data field,"Text, numeric, date"
 unit,"Unit of the data field, or variable",Days
-information_update_date,Date on which the data guide was last updated,2/3/2020
+information_update_date,Date on which the data guide was last updated,2020-02-03
 informatin_update_person,Name of the person who last updated the data guide,Wilbert van Panhuis
 information_update_email,Email of the person who last updated,wgvanpanhuis@gmail.com
