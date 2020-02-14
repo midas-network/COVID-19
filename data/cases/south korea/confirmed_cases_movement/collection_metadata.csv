@@ -1,26 +1,30 @@
-"collection_ID","confirmed_cases_movement"
-"collection_title_en","Confirmed patient movement route"
-"collection_title_original","
+collection_ID,confirmed_cases_movement
+collection_title_en,Confirmed patient movement route
+collection_title_original,"
 확진환자 이동경로"
-"collection_path_repository","COVID-19\data\cases\south korea\confirmed_cases_movement"
-"collection_language","Korean and English translation"
-"collection_creator_name","Korean Centers for Disease Control"
-"collection_creator_contact",NA
-"collection_publisher","Korean Centers for Disease Control"
-"collection_description","Listing of detailed travel and movement history of each confirmed case. Snapshots of the webpage."
-"collection_URL_original","http://ncov.mohw.go.kr/bdBoardList.do?brdId=1&brdGubun=12&dataGubun=&ncvContSeq=&contSeq=&board_id="
-"collection_format","Webpage saved as PDF in Korean and Google Translated English"
-"collection_number_files","2"
-"collection_members.1","Korean-webpage_snapshot_2020-02-08.pdf"
-"collection_members.2","English-GooleTranslate-webpage_snapshot_2020-02-08.pdf"
-"collection_first_report_date","2020-01-19"
-"collection_last_report_date","2020-02-02"
-"collection_license",NA
-"collection_access","Webpage for viewing"
-"related_object_id.1","English-GooleTranslate-webpage_snapshot_2020-02-08.pdf"
-"related_object_path.1","COVID-19\data\cases\south korea\confirmed_cases_movement"
-"relation_description.1","Google translation of the the Korean webpage"
-"curation _notes",NA
-"collection_lastupdated_date","2020-02-08"
-"collection_lastupdated_person","Wilbert van Panhuis, University of Pittsburgh"
-"collection_lastupdated_email","wgvanpanhuis@gmail.com"
+collection_path_repository,COVID-19\data\cases\south korea\confirmed_cases_movement
+collection_language,Korean and English translation
+collection_creator_name,Korean Centers for Disease Control
+collection_creator_contact,NA
+collection_publisher,Korean Centers for Disease Control
+collection_description,Listing of detailed travel and movement history of each confirmed case. Snapshots of the webpage.
+collection_URL_original,http://ncov.mohw.go.kr/bdBoardList.do?brdId=1&brdGubun=12
+collection_format,Webpage saved as PDF in Korean and Google Translated English
+collection_number_files,6
+collection_members.1,Korean-webpage_snapshot_2020-02-08.pdf
+collection_members.2,English-GooleTranslate-webpage_snapshot_2020-02-08.pdf
+collection_members.3,Korean-webpage_snapshot_2020-02-12.pdf
+collection_members.4,English-GooleTranslate-webpage_snapshot_2020-02-12.pdf
+collection_members.5,Korean-webpage_snapshot_2020-02-13.pdf
+collection_members.6,English-GooleTranslate-webpage_snapshot_2020-02-13.pdf
+collection_first_report_date,2020-01-19
+collection_last_report_date,2020-02-09
+collection_license,NA
+collection_access,Webpage for viewing
+related_object_id.1,English-GooleTranslate-webpage_snapshot_2020-02-08.pdf
+related_object_path.1,COVID-19\data\cases\south korea\confirmed_cases_movement
+relation_description.1,Google translation of the the Korean webpage
+curation _notes,NA
+collection_lastupdated_date,2020-02-13
+collection_lastupdated_person,"Lucie Contamin, University of Pittsburgh"
+collection_lastupdated_email,contamin@pitt.edu

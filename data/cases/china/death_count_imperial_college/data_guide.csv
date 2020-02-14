@@ -1,0 +1,7 @@
+collection_ID,data_field_code,data_field_name,full_name_en,full_name_original,description,format,unit,information_update_date,informatin_update_person,information_update_email
+death_count_imperial_college,DCIC01,death_id,death_id,death_id,Unique Identifier,text,NA,2020-02-14,Lucie Contamin,contamin@pitt.edu
+death_count_imperial_college,DCIC02,sex,sex,sex,Sex,numeric,NA,2020-02-14,Lucie Contamin,contamin@pitt.edu
+death_count_imperial_college,DCIC03,age,age,age,Age,numeric,NA,2020-02-14,Lucie Contamin,contamin@pitt.edu
+death_count_imperial_college,DCIC04,date_onset,date_onset,date_onset,Date of the onset symptoms,date,NA,2020-02-14,Lucie Contamin,contamin@pitt.edu
+death_count_imperial_college,DCIC05,date_hospitalised,date_hospitalised,date_hospitalised,Date of the hospitalization,date,NA,2020-02-14,Lucie Contamin,contamin@pitt.edu
+death_count_imperial_college,DCIC06,date_death,date_death,date_death,Date of death ,date,NA,2020-02-14,Lucie Contamin,contamin@pitt.edu

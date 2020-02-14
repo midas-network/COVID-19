@@ -1,0 +1,24 @@
+collection_ID,data_field_code,data_field_name,full_name_en,full_name_original,description,format,unit,information_update_date,informatin_update_person,information_update_email
+line_listings_imperial_college,LLIC01,record_number,record_number,record_number,Sequential identifier of each line listing ,text,NA,2020-02-14,Lucie Contamin,contamin@pitt.edu
+line_listings_imperial_college,LLIC02,repatriated,repatriated,repatriated,If the person was repatriated (yes/no),text,NA,2020-02-14,Lucie Contamin,contamin@pitt.edu
+line_listings_imperial_college,LLIC03,date_report_dd_mm_yyyy,date_report_dd_mm_yyyy,date_report_dd_mm_yyyy,Date the case was reported,date,NA,2020-02-14,Lucie Contamin,contamin@pitt.edu
+line_listings_imperial_college,LLIC04,city,city,city,City in which the case occurred,text,NA,2020-02-14,Lucie Contamin,contamin@pitt.edu
+line_listings_imperial_college,LLIC05,province,province,province,Province in which the case occurred,text,NA,2020-02-14,Lucie Contamin,contamin@pitt.edu
+line_listings_imperial_college,LLIC06,country,country,country,Country in which the case occurred,text,NA,2020-02-14,Lucie Contamin,contamin@pitt.edu
+line_listings_imperial_college,LLIC07,sex,sex,sex,Case gender,numeric,years,2020-02-14,Lucie Contamin,contamin@pitt.edu
+line_listings_imperial_college,LLIC08,age_years,age_years,age_years,Case age,date,NA,2020-02-14,Lucie Contamin,contamin@pitt.edu
+line_listings_imperial_college,LLIC09,nationality,nationality,nationality,Nationality of the case,binary,NA,2020-02-14,Lucie Contamin,contamin@pitt.edu
+line_listings_imperial_college,LLIC10,mode_of_transport_plain_train,mode_of_transport_plain_train,mode_of_transport_plain_train,Type of transport the case used,date,NA,2020-02-14,Lucie Contamin,contamin@pitt.edu
+line_listings_imperial_college,LLIC11,date_travelled_from_wuhan_dd_mm_yyyy,date_travelled_from_wuhan_dd_mm_yyyy,date_travelled_from_wuhan_dd_mm_yyyy,Date the case travelled from Wuhan,text,NA,2020-02-14,Lucie Contamin,contamin@pitt.edu
+line_listings_imperial_college,LLIC12,date_onset_symptoms_dd_mm_yyyy,date_onset_symptoms_dd_mm_yyyy,date_onset_symptoms_dd_mm_yyyy,Date of onset clinical symptoms,date,NA,2020-02-14,Lucie Contamin,contamin@pitt.edu
+line_listings_imperial_college,LLIC13,date_hospitalized_dd_mm_yyyy,date_hospitalized_dd_mm_yyyy,date_hospitalized_dd_mm_yyyy,Date the case visited a hospital,date,NA,2020-02-14,Lucie Contamin,contamin@pitt.edu
+line_listings_imperial_college,LLIC14,date_confirmed_dd_mm_yyyy,date_confirmed_dd_mm_yyyy,date_confirmed_dd_mm_yyyy,Date the case was confirmed,binary,NA,2020-02-14,Lucie Contamin,contamin@pitt.edu
+line_listings_imperial_college,LLIC15,date_death_dd_mm_yyyy,date_death_dd_mm_yyyy,date_death_dd_mm_yyyy,Date the case died,binary,NA,2020-02-14,Lucie Contamin,contamin@pitt.edu
+line_listings_imperial_college,LLIC16,date_recovered_dd_mm_yyyy,date_recovered_dd_mm_yyyy,date_recovered_dd_mm_yyyy,Date the case recovered,binary,NA,2020-02-14,Lucie Contamin,contamin@pitt.edu
+line_listings_imperial_college,LLIC17,local_transmission_y_n,local_transmission_y_n,local_transmission_y_n,If the case is local transmission (yes/no),binary,NA,2020-02-14,Lucie Contamin,contamin@pitt.edu
+line_listings_imperial_college,LLIC18,source_name,source_name,source_name,Name of the source,text,NA,2020-02-14,Lucie Contamin,contamin@pitt.edu
+line_listings_imperial_college,LLIC19,government_y_n,government_y_n,government_y_n,If the source is governmental,text,NA,2020-02-14,Lucie Contamin,contamin@pitt.edu
+line_listings_imperial_college,LLIC20,url_link,url_link,url_link,URL to the sources,text,NA,2020-02-14,Lucie Contamin,contamin@pitt.edu
+line_listings_imperial_college,LLIC21,url_link_2,url_link_2,url_link_2,URL to the sources,,,,,
+line_listings_imperial_college,LLIC22,url_link_3,url_link_3,url_link_3,URL to the sources,,,,,
+line_listings_imperial_college,LLIC23,url_link_4,url_link_4,url_link_4,URL to the sources,,,,,

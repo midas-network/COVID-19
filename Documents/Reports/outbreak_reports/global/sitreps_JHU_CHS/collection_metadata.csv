@@ -1,7 +1,7 @@
 Fieldname,Description
 collection_ID,sitreps_JHU_CHS
 collection_title_en,nCoV-2019 Situation Reports from Johns Hopkins University Center for Health Security
-collection_title_original,nCoV-2019
+collection_title_original,2019-nCoV
 collection_path_repository,COVID-19\Documents\Reports\outbreak_reports\global\JHU_CHS
 collection_language,English
 collection_creator_name,"Caitlin Rivers, Johns Hopkins University"
@@ -9,7 +9,7 @@ collection_creator_contact,crivers6@jhu.edu
 collection_publisher,"Caitlin Rivers, Johns Hopkins University"
 collection_description,Situation reports created by Johns Hopkins University Center for Health Security
 collection_URL_original,http://www.centerforhealthsecurity.org/resources/2019-nCoV/nCoVSituationReports.html
-collection_format,HTML
+collection_format,PDF
 collection_number_files,27
 collection_members.1,2020-01-22_pm_2019-nCoV.pdf
 collection_members.2,2020-01-23_am_2019-nCoV.pdf
@@ -41,7 +41,7 @@ collection_members.27,2020-02-09_2019-nCoV.pdf
 collection_first_report_date,2020-01-22
 collection_last_report_date,2020-02-09
 collection_license,NA
-collection_access,HTML webpage that can be viewed and read
+collection_access,PDF of HTML webpage that can be viewed and read
 related_object_id,
 related_object_path,
 relation_description,

@@ -1,14 +1,19 @@
 Fieldname,Description
 collection_ID,RTI
-collection_title_en,RTI Reports
-collection_title_original,Publications
+collection_title_en,Use of Twitter social media activity as a proxy for human mobility to predict the spatiotemporal spread of 2019 novel coronavirus at global level
+collection_title_original,Use of Twitter social media activity as a proxy for human mobility to predict the spatiotemporal spread of 2019 novel coronavirus at global level
 collection_path_repository,COVID-19\Documents\Reports\model_reports\global\RTI
 collection_language,English
-collection_creator_name,"Donal Bisanzio, RTI"
-collection_creator_contact,dbisanzio@rti.org
+collection_creator_name.1,Donal Bisanzio
+collection_creator_name.2,Moritz Kraemer
+collection_creator_name.3,Isaac Bogoch
+collection_creator_name.4,Thomas Brewer
+collection_creator_name.5,John Brownstein
+collection_creator_name.6,Richard Reithinger
+collection_creator_contact.1,dbisanzio@rti.org
 collection_publisher,RTI International
-collection_description,Reports published by RTI
-collection_URL_original,https://www.rti.org/publications/search
+collection_description,Report using social media to “predict the spatiotemporal spread of 2019-nCov at globel level”
+collection_URL_original,https://www.rti.org/publication/use-twitter-social-media-activity-proxy-human-mobility-predict-spatiotemporal-spread
 collection_format,PDF
 collection_number_files,1
 collection_members,2020-01-30_Social_Media.pdf
@@ -20,6 +25,6 @@ related_object_id,
 related_object_path,
 relation_description,
 curation _notes,
-collection_lastupdated_date,2020-02-10
-collection_lastupdated_person,"Alice Arcury-Quandt, University of Pittsburgh, 0000-0001-7295-5939"
-collection_lastupdated_email,aea56@pitt.edu
+collection_lastupdated_date,2020-02-12
+collection_lastupdated_person,"Lucie Contamin, University of Pittsburgh, ORCID 0000-0001-5797-1279"
+collection_lastupdated_email,contamin@pitt.edu
