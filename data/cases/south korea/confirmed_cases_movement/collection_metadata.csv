@@ -10,21 +10,23 @@ collection_publisher,Korean Centers for Disease Control
 collection_description,Listing of detailed travel and movement history of each confirmed case. Snapshots of the webpage.
 collection_URL_original,http://ncov.mohw.go.kr/bdBoardList.do?brdId=1&brdGubun=12
 collection_format,Webpage saved as PDF in Korean and Google Translated English
-collection_number_files,6
+collection_number_files,8
 collection_members.1,Korean-webpage_snapshot_2020-02-08.pdf
 collection_members.2,English-GooleTranslate-webpage_snapshot_2020-02-08.pdf
 collection_members.3,Korean-webpage_snapshot_2020-02-12.pdf
 collection_members.4,English-GooleTranslate-webpage_snapshot_2020-02-12.pdf
 collection_members.5,Korean-webpage_snapshot_2020-02-13.pdf
 collection_members.6,English-GooleTranslate-webpage_snapshot_2020-02-13.pdf
+collection_members.7,Korean-webpage_snapshot_2020-02-14.pdf
+collection_members.8,English-GooleTranslate-webpage_snapshot_2020-02-14.pdf
 collection_first_report_date,2020-01-19
-collection_last_report_date,2020-02-09
+collection_last_report_date,2020-02-10
 collection_license,NA
 collection_access,Webpage for viewing
 related_object_id.1,English-GooleTranslate-webpage_snapshot_2020-02-08.pdf
 related_object_path.1,COVID-19\data\cases\south korea\confirmed_cases_movement
 relation_description.1,Google translation of the the Korean webpage
 curation _notes,NA
-collection_lastupdated_date,2020-02-13
+collection_lastupdated_date,2020-02-14
 collection_lastupdated_person,"Lucie Contamin, University of Pittsburgh"
 collection_lastupdated_email,contamin@pitt.edu
