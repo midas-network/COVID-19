@@ -33,7 +33,7 @@ collection_publisher,Creators
 collection_description,"2019 Novel Coronavirus line listings reported inside and outside Hubai province obtained from a variety of sources including BNO news, Weibo, and other news and governmental sources from China and abroad. Data are entered by a group of volunteers and de-duplication occurs based on a statistical algorithm that checks the probability of a case being a duplicate. Cases are flagged as being almost certainly not a duplicate."
 collection_URL_original,https://docs.google.com/spreadsheets/d/1itaohdPiAeniCXNlntNztZ_oRvjh0HsGuJXUJWET008/edit#gid=0
 collection_format,Google Sheet 
-collection_number_files,28
+collection_number_files,36
 collection_members.1,2020_01_27_1800EST_linelist_Hubei_Oxford
 collection_members.2,2020_01_27_1800EST_linelist_outside_Hubei_Oxford
 collection_members.3,2020_01_28_1800EST_linelist_Hubei_Oxford

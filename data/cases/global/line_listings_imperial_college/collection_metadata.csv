@@ -10,7 +10,7 @@ collection_publisher,"Neil Ferguson, Imperial College London"
 collection_description,"Data attached to report 4 from Modeling reports published periodically by Imperial College, collated data on 290 cases in international travellers from websites and media reports up to 8th February. "
 collection_URL_original,https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/
 collection_format,csv
-collection_number_files,4
+collection_number_files,1
 collection_members.1,international_cases_2020_08_02.csv
 collection_first_report_date,2020-01-14
 collection_last_report_date,2020-02-08

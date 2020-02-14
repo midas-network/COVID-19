@@ -10,13 +10,13 @@ collection_publisher,Korean Centers for Disease Control
 collection_description,Listing of detailed travel and movement history of each confirmed case. Snapshots of the webpage.
 collection_URL_original,http://ncov.mohw.go.kr/bdBoardList.do?brdId=1&brdGubun=12
 collection_format,Webpage saved as PDF in Korean and Google Translated English
-collection_number_files,2
+collection_number_files,6
 collection_members.1,Korean-webpage_snapshot_2020-02-08.pdf
 collection_members.2,English-GooleTranslate-webpage_snapshot_2020-02-08.pdf
 collection_members.3,Korean-webpage_snapshot_2020-02-12.pdf
 collection_members.4,English-GooleTranslate-webpage_snapshot_2020-02-12.pdf
-collection_members.3,Korean-webpage_snapshot_2020-02-13.pdf
-collection_members.4,English-GooleTranslate-webpage_snapshot_2020-02-13.pdf
+collection_members.5,Korean-webpage_snapshot_2020-02-13.pdf
+collection_members.6,English-GooleTranslate-webpage_snapshot_2020-02-13.pdf
 collection_first_report_date,2020-01-19
 collection_last_report_date,2020-02-09
 collection_license,NA
