@@ -61,6 +61,7 @@
 |Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|
 |4.6|4.2|5.1|NA|Global|2019-12-01|2020-02-07|2020-02-11|[Mobs-lab](https://www.medrxiv.org/content/10.1101/2020.02.09.20021261v1)|
+|2.4|NA|NA|China|Hubei province|2020-01-20|2020-02-02|2020-02-06|[Georgia Southern University](https://www.medrxiv.org/content/medrxiv/early/2020/02/06/2020.02.05.20020750.full.pdf)|
 
 ## Proportion of hospitalized cases that die
 |Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
