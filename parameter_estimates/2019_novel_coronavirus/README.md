@@ -15,31 +15,34 @@
 ## Basic reproduction number
 |Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|
-|0.3|0.17|0.44|China|Wuhan City|2020-01-09|2020-01-11|2020-01-22|[University of Hong Kong](https://eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.3.2000044#r16)|
-|2.6|1.5|3.5|China|Wuhan City|2019-12-31|2020-01-18|2020-01-24|[Imperial College London](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-2019-nCoV-transmissibility.pdf)|
-|2.2|1.4|3.8|China|Wuhan City|2019-11-27|2020-01-18|2020-01-23|[University of Bern](https://www.biorxiv.org/content/10.1101/2020.01.23.917351v1.full.pdf)|
-|2.5|2.0|3.1|China|Wuhan City|2019-12-08|2020-01-26|2020-01-27|[Harvard University](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3524675)|
-|3.11|2.39|4.13|NA|Global|2020-01-01|2020-01-22|2020-01-28|[Lancaster University](https://www.medrxiv.org/content/10.1101/2020.01.23.20018549v2)
-|2.24|1.96|2.55|China|Wuhan City|2020-01-10|2020-01-24|2020-01-27|[Multiple Institutions](https://www.clinicalkey.com/#!/content/playContent/1-s2.0-S1201971220300539?scrollTo=%23top)
-|1.6 - 3.1|NA|NA|NA|Global|2019-12-31|2020-01-23|2020-02-07|[CMMID](https://cmmid.github.io/ncov/wuhan_early_dynamics/index.html)
-|3.21|NA|NA|NA|Global|2020-01-01|2020-01-22|2020-02-09|[University of Chinese Academy of Sciences](http://medrxiv.org/content/early/2020/02/09/2020.02.07.20021071.abstract)
 |2.4|2.2|2.6|China|China|2019-12-01|2020-01-23|2020-02-11|[Mobs-lab](https://www.medrxiv.org/content/10.1101/2020.02.09.20021261v1)
 |2.4|2.2|2.6|NA|Global|2019-12-01|2020-02-07|2020-02-11|[Mobs-lab](https://www.medrxiv.org/content/10.1101/2020.02.09.20021261v1)|
+|3.21|NA|NA|NA|Global|2020-01-01|2020-01-22|2020-02-09|[University of Chinese Academy of Sciences](http://medrxiv.org/content/early/2020/02/09/2020.02.07.20021071.abstract)|
 |1.48|NA|NA|China|Mainland China|2019-12-17|2020-02-06|2020-02-08|[Tsinghua-Berkeley Shenzhen Institute](www.medrxiv.org/content/medrxiv/early/2020/02/05/2020.02.04.20020461.full.pdf)|
+|1.6 - 3.1|NA|NA|NA|Global|2019-12-31|2020-01-23|2020-02-07|[CMMID](https://cmmid.github.io/ncov/wuhan_early_dynamics/index.html)|
+|3.11|2.39|4.13|NA|Global|2020-01-01|2020-01-22|2020-01-28|[Lancaster University](https://www.medrxiv.org/content/10.1101/2020.01.23.20018549v2)|
+|2.24|1.96|2.55|China|Wuhan City|2020-01-10|2020-01-24|2020-01-27|[Multiple Institutions](https://www.clinicalkey.com/#!/content/playContent/1-s2.0-S1201971220300539?scrollTo=%23top)|
+|2.5|2.0|3.1|China|Wuhan City|2019-12-08|2020-01-26|2020-01-27|[Harvard University](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3524675)|
+|2.6|1.5|3.5|China|Wuhan City|2019-12-31|2020-01-18|2020-01-24|[Imperial College London](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-2019-nCoV-transmissibility.pdf)|
+|2.2|1.4|3.8|China|Wuhan City|2019-11-27|2020-01-18|2020-01-23|[University of Bern](https://www.biorxiv.org/content/10.1101/2020.01.23.917351v1.full.pdf)|
+|0.3|0.17|0.44|China|Wuhan City|2020-01-09|2020-01-11|2020-01-22|[University of Hong Kong](https://eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.3.2000044#r16)|
 
 ## Effective reproduction number
 |Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|
-|2.9|2.32|3.63|NA|Global|2019-12-31|2020-01-23|2020-01-26|[Guangdong Provincial Center for Disease Control and Prevention](https://www.biorxiv.org/content/biorxiv/early/2020/01/26/2020.01.25.919787.full.pdf)
-|4.08|3.37|4.77|NA|Global|2019-12-31|2020-01-25|2020-01-29|[University of Chinese Academy of Sciences](https://www.medrxiv.org/content/medrxiv/early/2020/01/29/2020.01.27.20018952.full.pdf)
 |1.06|NA|NA|China|Mainland China|2019-12-17|2020-02-08|2020-02-08|[Tsinghua-Berkeley Shenzhen Institute](www.medrxiv.org/content/medrxiv/early/2020/02/05/2020.02.04.20020461.full.pdf)|
+|4.08|3.37|4.77|NA|Global|2019-12-31|2020-01-25|2020-01-29|[University of Chinese Academy of Sciences](https://www.medrxiv.org/content/medrxiv/early/2020/01/29/2020.01.27.20018952.full.pdf)|
+|2.9|2.32|3.63|NA|Global|2019-12-31|2020-01-23|2020-01-26|[Guangdong Provincial Center for Disease Control and Prevention](https://www.biorxiv.org/content/biorxiv/early/2020/01/26/2020.01.25.919787.full.pdf)|
+
 
 ## Incubation period
 |Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|
+|5.17|4.46|6.04|NA|Global|2019-12-31|2020-02-10|2020-02-10|[Hopkins IDD](https://github.com/HopkinsIDD/ncov_incubation#parameter-estimates)|
 |6.4|5.6|7.7|NA|Global|2020-01-20|2020-01-28|2020-01-28|[Centre for Infectious Disease Control, The Netherlands](https://www.medrxiv.org/content/medrxiv/early/2020/01/30/2020.01.27.20018986.full.pdf)
-|4.8|2|11|NA|Global|2019-12-29|2020-01-23|2020-01-26|[Guangdong Provincial Center for Disease Control and Prevention](https://www.biorxiv.org/content/biorxiv/early/2020/01/26/2020.01.25.919787.full.pdf)
-|5.17|4.46|6.04|NA|Global|2019-12-31|2020-02-10|2020-02-10|[Hopkins IDD](https://github.com/HopkinsIDD/ncov_incubation#parameter-estimates)
+|4.8|2|11|NA|Global|2019-12-29|2020-01-23|2020-01-26|[Guangdong Provincial Center for Disease Control and Prevention](https://www.biorxiv.org/content/biorxiv/early/2020/01/26/2020.01.25.919787.full.pdf)|
+|4.6|3.3|5.7|China|Excluding Wuhan|2019-12-31|2020-01-25|2020-01-28|[Hokkaido University](www.medrxiv.org/content/medrxiv/early/2020/01/28/2020.01.26.20018754.full.pdf)|
+|5.0|4.1|5.8|China|Including Wuhan|2019-12-31||2020-01-25|2020-01-28|[Hokkaido University](www.medrxiv.org/content/medrxiv/early/2020/01/28/2020.01.26.20018754.full.pdf)|
 
 ## Transmission rate
 |Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
@@ -71,15 +74,20 @@
 ## Proportion of symptomatics that die
 |Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|
-|0.03|NA|NA|China|NA|2019-12-29|2020-01-23|2020-01-26|[Guangdong Provincial Center for Disease Control and Prevention](https://www.biorxiv.org/content/biorxiv/early/2020/01/26/2020.01.25.919787.full.pdf)|
-|0.065|NA|NA|NA|Global|2019-12-01|2020-01-25|2020-01-29|[University of Chinese Academy of Sciences](https://www.medrxiv.org/content/medrxiv/early/2020/01/29/2020.01.27.20018952.full.pdf)|
 |0.18|0.11|0.81|China|Hubei Province|2019-12-31|2020-02-05|2020-02-10|[Imperial College London](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-2019-nCoV-severity-10-02-2020.pdf)|
 |NA|0.012|0.056|NA|Global|2019-12-31|2020-02-08|2020-02-10|[Imperial College London](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-2019-nCoV-severity-10-02-2020.pdf)|
+|0.065|NA|NA|NA|Global|2019-12-01|2020-01-25|2020-01-29|[University of Chinese Academy of Sciences](https://www.medrxiv.org/content/medrxiv/early/2020/01/29/2020.01.27.20018952.full.pdf)|
+|0.03|NA|NA|China|NA|2019-12-29|2020-01-23|2020-01-26|[Guangdong Provincial Center for Disease Control and Prevention](https://www.biorxiv.org/content/biorxiv/early/2020/01/26/2020.01.25.919787.full.pdf)|
 
 ## Time from symptom onset to isolation
 |Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|
 |2.9|NA|NA|China|China|2019-12-29|2020-01-23|2020-01-26|[Guangdong Provincial Center for Disease Control and Prevention](https://www.biorxiv.org/content/biorxiv/early/2020/01/26/2020.01.25.919787.full.pdf)|
+
+## Time from symptom onset to hospitalization
+|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
+|---|---|---|---|---|---|---|---|---|
+|2.7|1.6|4.1|China|NA|2019-12-31|2020-01-25|2020-01-28|[Hokkaido University](www.medrxiv.org/content/medrxiv/early/2020/01/28/2020.01.26.20018754.full.pdf)|
 
 ## Time from symptom onset to recovery
 |Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
@@ -90,7 +98,12 @@
 |Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|
 |22.3|18|82|China|Mainland China|2019-12-31|2020-01-21|2020-02-10|[Imperial College London](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-2019-nCoV-severity-10-02-2020.pdf)|
+|13.8|11.8|16.0|China|NA|2019-12-31|2020-01-25|2020-01-28|[Hokkaido University](www.medrxiv.org/content/medrxiv/early/2020/01/28/2020.01.26.20018754.full.pdf)|
 
+## Time from hospitalization to death
+|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
+|---|---|---|---|---|---|---|---|---|
+|8.3|6.4|10.5|China|NA|2019-12-31|2020-01-25|2020-01-28|[Hokkaido University](www.medrxiv.org/content/medrxiv/early/2020/01/28/2020.01.26.20018754.full.pdf)|
 
 
 
