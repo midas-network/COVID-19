@@ -33,7 +33,7 @@ Forthcoming
 Software tools for data-processing, modeling, and visualizations will be included in this section together with relevant metadata. One CSV catalog file includes all tools, each on a separate row, and all tools are listed [here](https://github.com/midas-network/COVID-19/wiki/Software-Tools). New tools can be added by appending to the [CSV file](https://github.com/midas-network/COVID-19/blob/master/software_tools/software_catalog.csv) or by submitting an [issue](https://github.com/midas-network/COVID-19/issues). 
 
 ## <ins>[Documents](https://github.com/midas-network/COVID-19/wiki/Documents)</ins>
-All documents relevant to COVID-19 are posted in this section. Documents are mostly organized by country or by topic. Pre-prints and peer-reviewd manuscripts are posted with links to external webpages only while all other documents are also stored in this repository as collections in the [documents folder](https://github.com/midas-network/COVID-19/tree/master/Documents). Add new documents by submitting an [issue](https://github.com/midas-network/COVID-19/issues) with the document information.
+All documents relevant to COVID-19 are posted in this section. Documents are mostly organized by country or by topic. Pre-prints and peer-reviewd manuscripts are posted with links to external webpages only while all other documents are also stored in this repository as collections in the [documents folder](https://github.com/midas-network/COVID-19/tree/master/documents). Add new documents by submitting an [issue](https://github.com/midas-network/COVID-19/issues) with the document information.
 
 Documents include:
 * Reports, inlcuding outbreak situation reports/updates, modeling reports and other "gray literature"
