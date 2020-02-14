@@ -1,55 +1,57 @@
-"collection_ID","moh_situation_updates_TH"
-"collection_title_en","Situation report for citizens and the media"
-"collection_title_original","รายงานสถานการณ์สำหรับสำหรับประชาชนและสื่อมวลชน"
-"collection_path_repository","COVID-19\data\cases\thailand\moh_situation_updates_TH"
-"collection_language","Thai"
-"collection_creator_name","Emergency Operation Center, Department of Disease Control"
-"collection_creator_contact",NA
-"collection_publisher","Ministry of Public Health, Department of Disease Control"
-"collection_description","Daily updates in narrative and tables on international cases and Thailand situation. Thai situation includes patients screened or under investigation, confirmed, hospitalized, recovered, and deaths"
-"collection_URL_original","https://ddc.moph.go.th/viralpneumonia/situation.php"
-"collection_format","PDF narrative and tables"
-"collection_number_files","32"
-"collection_members.1","situation-no7-100163.pdf"
-"collection_members.2","situation-no8-110163.pdf"
-"collection_members.3","situation-no9-120163.pdf"
-"collection_members.4","situation-no10-130163.pdf"
-"collection_members.5","situation-no11-140163.pdf"
-"collection_members.6","situation-no12-150163.pdf"
-"collection_members.7","situation-no13-160163.pdf"
-"collection_members.8","situation-no14-170163.pdf"
-"collection_members.9","situation-no15-180163.pdf"
-"collection_members.10","situation-no16-190163.pdf"
-"collection_members.11","situation-no17-200163.pdf"
-"collection_members.12","situation-no18-210163.pdf"
-"collection_members.13","situation-no19-220163.pdf"
-"collection_members.14","situation-no20-230163.pdf"
-"collection_members.15","situation-no21-240163.pdf"
-"collection_members.16","situation-no22-250163.pdf"
-"collection_members.17","situation-no23-260163.pdf"
-"collection_members.18","situation-no24-270163.pdf"
-"collection_members.19","situation-no25-280163.pdf"
-"collection_members.20","situation-no26-290163_new1.pdf"
-"collection_members.21","situation-no27-300163.pdf"
-"collection_members.22","situation-no28-310163.pdf"
-"collection_members.23","situation-no29-010263.pdf"
-"collection_members.24","situation-no30-020263.pdf"
-"collection_members.25","situation-no31-030263_1.pdf"
-"collection_members.26","situation-no32-040263.pdf"
-"collection_members.27","situation-no33-050263_new1.pdf"
-"collection_members.28","situation-no34-060263.pdf"
-"collection_members.29","situation-no35-070263.pdf"
-"collection_members.30","situation-no36-080263_1.pdf"
-"collection_members.31","situation-no37-090263.pdf"
-"collection_members.32","situation-no38-100263.pdf"
-"collection_first_report_date","2020-01-10"
-"collection_last_report_date","2020-02-10"
-"collection_license",NA
-"collection_access","PDF download links"
-"related_object_id","moh_situation_updates"
-"related_object_path","COVID-19\data\cases\thailand\moh_situation_updates"
-"relation_description","English version of files"
-"curation _notes",NA
-"collection_lastupdated_date","2020-02-11"
-"collection_lastupdated_person","Anne Cross"
-"collection_lastupdated_email","anne.cross@pitt.edu"
+collection_ID,moh_situation_updates_TH
+collection_title_en,Situation report for citizens and the media
+collection_title_original,รายงานสถานการณ์สำหรับสำหรับประชาชนและสื่อมวลชน
+collection_path_repository,COVID-19\data\cases\thailand\moh_situation_updates_TH
+collection_language,Thai
+collection_creator_name,"Emergency Operation Center, Department of Disease Control"
+collection_creator_contact,NA
+collection_publisher,"Ministry of Public Health, Department of Disease Control"
+collection_description,"Daily updates in narrative and tables on international cases and Thailand situation. Thai situation includes patients screened or under investigation, confirmed, hospitalized, recovered, and deaths"
+collection_URL_original,https://ddc.moph.go.th/viralpneumonia/situation.php
+collection_format,PDF narrative and tables
+collection_number_files,32
+collection_members.1,situation-no7-100163.pdf
+collection_members.2,situation-no8-110163.pdf
+collection_members.3,situation-no9-120163.pdf
+collection_members.4,situation-no10-130163.pdf
+collection_members.5,situation-no11-140163.pdf
+collection_members.6,situation-no12-150163.pdf
+collection_members.7,situation-no13-160163.pdf
+collection_members.8,situation-no14-170163.pdf
+collection_members.9,situation-no15-180163.pdf
+collection_members.10,situation-no16-190163.pdf
+collection_members.11,situation-no17-200163.pdf
+collection_members.12,situation-no18-210163.pdf
+collection_members.13,situation-no19-220163.pdf
+collection_members.14,situation-no20-230163.pdf
+collection_members.15,situation-no21-240163.pdf
+collection_members.16,situation-no22-250163.pdf
+collection_members.17,situation-no23-260163.pdf
+collection_members.18,situation-no24-270163.pdf
+collection_members.19,situation-no25-280163.pdf
+collection_members.20,situation-no26-290163_new1.pdf
+collection_members.21,situation-no27-300163.pdf
+collection_members.22,situation-no28-310163.pdf
+collection_members.23,situation-no29-010263.pdf
+collection_members.24,situation-no30-020263.pdf
+collection_members.25,situation-no31-030263_1.pdf
+collection_members.26,situation-no32-040263.pdf
+collection_members.27,situation-no33-050263_new1.pdf
+collection_members.28,situation-no34-060263.pdf
+collection_members.29,situation-no35-070263.pdf
+collection_members.30,situation-no36-080263_1.pdf
+collection_members.31,situation-no37-090263.pdf
+collection_members.32,situation-no38-100263.pdf
+collection_members.33,situation-no39-110263.pdf
+collection_members.34,situation-no40-120263.pdf
+collection_first_report_date,2020-01-10
+collection_last_report_date,2020-02-12
+collection_license,NA
+collection_access,PDF download links
+related_object_id,moh_situation_updates
+related_object_path,COVID-19\data\cases\thailand\moh_situation_updates
+relation_description,English version of files
+curation _notes,NA
+collection_lastupdated_date,2020-02-13
+collection_lastupdated_person,"Lucie Contamin, University of Pittsburgh"
+collection_lastupdated_email,contamin@pitt.edu

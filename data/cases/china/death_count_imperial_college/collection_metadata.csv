@@ -1,0 +1,28 @@
+Fieldname,Description
+collection_ID,death_count_imperial_college
+collection_title_en,hubey_early_deaths_2020_07_02
+collection_title_original,hubey_early_deaths_2020_07_02
+collection_path_repository,COVID-19/data/cases/china/death_count_imperial_college/
+collection_language,English
+collection_creator_name,"Neil Ferguson, Imperial College London"
+collection_creator_contact,neil.ferguson@imperial.ac.uk
+collection_publisher,"Neil Ferguson, Imperial College London"
+collection_description,"Data attached to report 4 from Modeling reports published periodically by Imperial College, data on the characteristics of 39 cases who died from 201i-nCov infection in Hubei Province were collated from different websites."
+collection_URL_original,https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/
+collection_format,csv
+collection_number_files,4
+collection_members.1,hubei_early_deaths_2020_07_02.csv
+collection_members.2,
+collection_members.3,
+collection_members.4,
+collection_first_report_date,2020-01-09
+collection_last_report_date,2020-01-24
+collection_license,NA
+collection_access,csv file that can be downloaded
+related_object_id.1,2020-01-17_Report_4_Severity.pdf
+related_object_path.1,COVID-19/Documents/Reports/model_reports/reports_imperial_college
+relation_description.1,Modeling reports published by Imperial College
+curation _notes,
+collection_lastupdated_date,2020-02-13
+collection_lastupdated_person,"Lucie Contamin, University of Pittsburgh"
+collection_lastupdated_email,contamin@pitt.edu
