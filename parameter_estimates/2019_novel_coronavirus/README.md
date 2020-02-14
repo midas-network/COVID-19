@@ -40,6 +40,7 @@
 |6.4|5.6|7.7|NA|Global|2020-01-20|2020-01-28|2020-01-28|[Centre for Infectious Disease Control, The Netherlands](https://www.medrxiv.org/content/medrxiv/early/2020/01/30/2020.01.27.20018986.full.pdf)
 |4.8|2|11|NA|Global|2019-12-29|2020-01-23|2020-01-26|[Guangdong Provincial Center for Disease Control and Prevention](https://www.biorxiv.org/content/biorxiv/early/2020/01/26/2020.01.25.919787.full.pdf)
 |5.17|4.46|6.04|NA|Global|2019-12-31|2020-02-10|2020-02-10|[Hopkins IDD](https://github.com/HopkinsIDD/ncov_incubation#parameter-estimates)
+|5.4|4.2|6.7|NA|Global|2019-12-10|2020-01-25|2020-01-26|[IDM](https://institutefordiseasemodeling.github.io/nCoV-public/analyses/individual_dynamics_estimates/nCoV_incubation_period.html)
 
 ## Transmission rate
 |Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
@@ -56,6 +57,7 @@
 |---|---|---|---|---|---|---|---|---|
 |0.1959|0.1436|0.3558|China|Mainland China|2019-12-01|2020-02-05|2020-02-11|[Mobs-lab](https://www.medrxiv.org/content/10.1101/2020.02.09.20021261v1)|
 |0.05|0.036|0.074|NA|Global|2020-01-01|2020-01-22|2020-01-28|[Lancaster University](https://www.medrxiv.org/content/10.1101/2020.01.23.20018549v2)|
+|0.01|0.006|0.02|China|Wuhan|2019-12-10|2020-01-27|2020-02-04|[IDM](https://institutefordiseasemodeling.github.io/nCoV-public/analyses/first_adjusted_mortality_estimates_and_risk_assessment/2019-nCoV-preliminary_age_and_time_adjusted_mortality_rates_and_pandemic_risk_assessment.html)|
 
 ## Doubling time
 |Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
@@ -67,6 +69,7 @@
 |Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|
 |0.14|0.039|0.32|China|Wuhan City|2019-12-31|2020-01-21|2020-01-22|[University of Hong Kong](https://eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.3.2000044#r16)|
+|0.33|0.29|0.37|China|Wuhan City|2019-12-31|2020-01-27|2020-02-04|[IDM](https://institutefordiseasemodeling.github.io/nCoV-public/analyses/first_adjusted_mortality_estimates_and_risk_assessment/2019-nCoV-preliminary_age_and_time_adjusted_mortality_rates_and_pandemic_risk_assessment.html)|
 
 ## Proportion of symptomatics that die
 |Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
@@ -75,6 +78,14 @@
 |0.065|NA|NA|NA|Global|2019-12-01|2020-01-25|2020-01-29|[University of Chinese Academy of Sciences](https://www.medrxiv.org/content/medrxiv/early/2020/01/29/2020.01.27.20018952.full.pdf)|
 |0.18|0.11|0.81|China|Hubei Province|2019-12-31|2020-02-05|2020-02-10|[Imperial College London](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-2019-nCoV-severity-10-02-2020.pdf)|
 |NA|0.012|0.056|NA|Global|2019-12-31|2020-02-08|2020-02-10|[Imperial College London](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-2019-nCoV-severity-10-02-2020.pdf)|
+
+## Proportion of all infected that die
+|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
+|---|---|---|---|---|---|---|---|---|
+|0.0033|0.0017|0.0075|NA|Global|2019-12-10|2020-01-27|2020-02-04|[IDM](https://institutefordiseasemodeling.github.io/nCoV-public/analyses/first_adjusted_mortality_estimates_and_risk_assessment/2019-nCoV-preliminary_age_and_time_adjusted_mortality_rates_and_pandemic_risk_assessment.html)|
+|0.01|0.005|0.04|NA|Global|2019-12-31|2020-02-08|2020-02-10|[Imperial College London](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-2019-nCoV-severity-10-02-2020.pdf)|
+
+
 
 ## Time from symptom onset to isolation
 |Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
@@ -90,9 +101,13 @@
 |Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|
 |22.3|18|82|China|Mainland China|2019-12-31|2020-01-21|2020-02-10|[Imperial College London](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-2019-nCoV-severity-10-02-2020.pdf)|
+|18|16|21|China|Mainland China|2019-12-10|2020-01-27|2020-02-04|[IDM](https://institutefordiseasemodeling.github.io/nCoV-public/analyses/first_adjusted_mortality_estimates_and_risk_assessment/2019-nCoV-preliminary_age_and_time_adjusted_mortality_rates_and_pandemic_risk_assessment.html)|
 
-
-
+## Time from isolation to death
+|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
+|---|---|---|---|---|---|---|---|---|
+|12.4|9.5|14.4|NA|Global|2019-12-10|2020-01-11|2020-02-04|[IDM](https://institutefordiseasemodeling.github.io/nCoV-public/analyses/first_adjusted_mortality_estimates_and_risk_assessment/2019-nCoV-preliminary_age_and_time_adjusted_mortality_rates_and_pandemic_risk_assessment.html)|
+|7|NA|NA|NA|Global|2020-01-12|2020-01-31|2020-02-04|[IDM](https://institutefordiseasemodeling.github.io/nCoV-public/analyses/first_adjusted_mortality_estimates_and_risk_assessment/2019-nCoV-preliminary_age_and_time_adjusted_mortality_rates_and_pandemic_risk_assessment.html)|
 
 
 
