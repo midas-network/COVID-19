@@ -9,7 +9,7 @@ collection_publisher,World Health Organization
 collection_description,"Daily summary of global number of nCoV cases, per province in China and by country, including cases with travel history to China. Reports include guidance on response and update on response activities. Report format and content changes over time. Reports may be replaced by updated versions with error corrections, indicated by ""Erratum"" in the title or a -v2, or v3 , etc. in the file name."
 collection_URL_original,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports
 collection_format,PDF narrative and tables
-collection_number_files,19
+collection_number_files,24
 collection_members.1,20200121-sitrep-1-2019-ncov.pdf
 collection_members.2,20200122-sitrep-2-2019-ncov.pdf
 collection_members.3,20200123-sitrep-3-2019-ncov.pdf

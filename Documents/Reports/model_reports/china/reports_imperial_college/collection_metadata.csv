@@ -23,10 +23,10 @@ related_object_id.1,
 related_object_id.2,
 related_object_id.3,
 related_object_id.4.1,hubei_early_deaths_2020_07_02.csv
-related_object_path.4.1,2019-ncov/data/cases/china
+related_object_path.4.1,COVID-19/data/cases/china/death_count_imperial_college
 relation_description.4.1,Data on early deaths from mainland China
 related_object_id.4.2,international_cases_2020_08_02.csv
-related_object_path.4.2,2019-ncov/data/cases/global
+related_object_path.4.2,COVID-19/data/cases/global/global/line_listings_imperial_college
 relation_description.4.2,Data on cases in international travellers
 curation _notes,Data attached to report 4
 collection_lastupdated_date,2020-02-10
