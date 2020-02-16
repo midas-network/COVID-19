@@ -9,7 +9,7 @@ collection_publisher,Hong Kong Center for Health Protection
 collection_description,Table with line lists of confirmed cases reported in Hong Kong since 31 December 2019. Link to current report online without historical reports listed.
 collection_URL_original,https://www.chp.gov.hk/files/pdf/enhanced_sur_pneumonia_wuhan_eng.pdf
 collection_format,PDF
-collection_number_files,8
+collection_number_files,9
 collection_members.1,enhanced_sur_pneumonia_wuhan_eng_2020-02-08.pdf
 collection_members.2,enhanced_sur_pneumonia_wuhan_eng_2020-02-09.pdf
 collection_members.3,enhanced_sur_pneumonia_wuhan_eng_2020-02-10.pdf
@@ -18,14 +18,15 @@ collection_members.5,enhanced_sur_pneumonia_wuhan_eng_2020-02-12.pdf
 collection_members.6,enhanced_sur_pneumonia_wuhan_eng_2020-02-13.pdf
 collection_members.7,enhanced_sur_pneumonia_wuhan_eng_2020-02-14.pdf
 collection_members.8,enhanced_sur_pneumonia_wuhan_eng_2020-02-15.pdf
+collection_members.9,enhanced_sur_pneumonia_wuhan_eng_2020-02-16.pdf
 collection_first_report_date,2020-01-23
-collection_last_report_date,2020-02-15
+collection_last_report_date,2020-02-16
 collection_license,NA
 collection_access,Download link to PDF
 related_object_id,NA
 related_object_path,NA
 relation_description,NA
 curation _notes,NA
-collection_lastupdated_date,2020-02-15
+collection_lastupdated_date,2020-02-16
 collection_lastupdated_person,"Lucie Contamin, University of Pittsburgh"
 collection_lastupdated_email,contamin@pitt.edu
