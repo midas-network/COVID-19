@@ -10,7 +10,7 @@ collection_publisher,"Caitlin Rivers, Johns Hopkins University"
 collection_description,Situation reports created by Johns Hopkins University Center for Health Security
 collection_URL_original,http://www.centerforhealthsecurity.org/resources/2019-nCoV/nCoVSituationReports.html
 collection_format,PDF
-collection_number_files,32
+collection_number_files,27
 collection_members.1,2020-01-22_pm_2019-nCoV.pdf
 collection_members.2,2020-01-23_am_2019-nCoV.pdf
 collection_members.3,2020-01-23_pm_2019-nCoV.pdf
@@ -38,19 +38,14 @@ collection_members.24,2020-02-05_2019-nCoV.pdf
 collection_members.25,2020-02-06_2019-nCoV.pdf
 collection_members.26,2020-02-07_2019-nCoV.pdf
 collection_members.27,2020-02-09_2019-nCoV.pdf
-collection_members.28,2020-02-10_2019-nCoV.pdf
-collection_members.29,2020-02-11_2019-nCoV.pdf
-collection_members.30,2020-02-12_2019-nCoV.pdf
-collection_members.31,2020-02-13_2019-nCoV.pdf
-collection_members.32,2020-02-14_2019-nCoV.pdf
 collection_first_report_date,2020-01-22
-collection_last_report_date,2020-02-14
+collection_last_report_date,2020-02-09
 collection_license,NA
 collection_access,PDF of HTML webpage that can be viewed and read
 related_object_id,
 related_object_path,
 relation_description,
 curation _notes,
-collection_lastupdated_date,2020-02-15
+collection_lastupdated_date,2020-02-10
 collection_lastupdated_person,"Alice Arcury-Quandt, University of Pittsburgh, 0000-0001-7295-5939"
 collection_lastupdated_email,aea56@pitt.edu
