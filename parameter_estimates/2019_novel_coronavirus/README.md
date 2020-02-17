@@ -40,6 +40,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
 |No|5.17|4.46|6.04|NA|Global|2019-12-31|2020-02-10|2020-02-10|[Hopkins IDD](https://github.com/HopkinsIDD/ncov_incubation#parameter-estimates)|
+|No|5.2|4.4|6.0|China|Excluding Wuhan|2019-12-01|2020-02-04|2020-02-04|[Johns Hopkins University](https://www.medrxiv.org/content/10.1101/2020.02.02.20020016v1)|
 |No|6.4|5.6|7.7|NA|Global|2020-01-20|2020-01-28|2020-01-28|[Centre for Infectious Disease Control, The Netherlands](https://www.medrxiv.org/content/medrxiv/early/2020/01/30/2020.01.27.20018986.full.pdf)
 |No|4.6|3.3|5.7|China|Excluding Wuhan|2019-12-31|2020-01-25|2020-01-28|[Hokkaido University](www.medrxiv.org/content/medrxiv/early/2020/01/28/2020.01.26.20018754.full.pdf)|
 |No|5.0|4.1|5.8|China|Including Wuhan|2019-12-31|2020-01-25|2020-01-28|[Hokkaido University](www.medrxiv.org/content/medrxiv/early/2020/01/28/2020.01.26.20018754.full.pdf)|
@@ -54,6 +55,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 ## Dispersion rate
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
+|No|1.43|1.22|1.67|China|Excluding Wuhan|2019-12-01|2020-02-04|2020-02-04|[Johns Hopkins University](https://www.medrxiv.org/content/10.1101/2020.02.02.20020016v1)|
 |No|0.54|0.014|6.95|China|Wuhan City|2019-11-27|2020-01-18|2020-01-23|[University of Bern](https://www.biorxiv.org/content/10.1101/2020.01.23.917351v1.full.pdf)|
 
 ## Ascertainment rate
