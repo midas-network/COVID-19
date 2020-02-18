@@ -10,7 +10,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|58956|40759|87471|China|Wuhan|2019-12-01|2020-01-22|2020-02-11|[Mobs-lab](https://www.medrxiv.org/content/10.1101/2020.02.09.20021261v1)|
 |No|3491|1924|7360|China|Mainland China excluding Wuhan|2019-12-01|2020-01-22|2020-02-11|[Mobs-lab](https://www.medrxiv.org/content/10.1101/2020.02.09.20021261v1)|
 |No|24000|13000|44000|China|Wuhan City|2019-12-31|2020-01-31|2020-02-10|[Imperial College London](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-2019-nCoV-severity-10-02-2020.pdf)
-|No||31200|23400|40400|China|Wuhan City|2019-12-31|2020-01-29|2020-01-29|[Mobs-lab](https://www.mobs-lab.org/uploads/6/7/8/7/6787877/wuhan_novel_coronavirus_jan29.pdf)|
+|No|31200|23400|40400|China|Wuhan City|2019-12-31|2020-01-29|2020-01-29|[Mobs-lab](https://www.mobs-lab.org/uploads/6/7/8/7/6787877/wuhan_novel_coronavirus_jan29.pdf)|
 |No|21022|11090|33490|NA|Global|2020-01-01|2020-01-22|2020-01-28|[Lancaster University](https://www.medrxiv.org/content/10.1101/2020.01.23.20018549v2)
 |No|4000|1000|9700|China|Wuhan City|2020-01-18|2020-01-18|2020-01-22|[Imperial College](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/2019-nCoV-outbreak-report-22-01-2020.pdf)|
 
