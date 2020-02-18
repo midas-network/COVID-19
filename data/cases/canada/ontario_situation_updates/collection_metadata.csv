@@ -1,4 +1,4 @@
-collection_ID,ontario_situation_updates
+﻿collection_ID,ontario_situation_updates
 collection_title_en,"The 2019 Novel Coronavirus (2019-nCoV), Status of cases in Ontario"
 collection_title_original,"The 2019 Novel Coronavirus (2019-nCoV), Status of cases in Ontario"
 collection_path_repository,COVID-19\data\cases\canada\ontario_situation_updates
@@ -9,7 +9,7 @@ collection_publisher,Ontario Ministry of Heath
 collection_description,"Daily snapshot of an online table with number of cases under investigation, tested negative or positive, updated weekdays at 10.30 AM EST except from the 8th of February until the 10th of February, updated at 16:00 EST"
 collection_URL_original,https://www.ontario.ca/page/2019-novel-coronavirus-2019-ncov#section-0
 collection_format,HTML table saved as PDF or .csv
-collection_number_files,11
+collection_number_files,12
 collection_members.1,The 2019 Novel Coronavirus (2019-nCoV) _ Ontario.ca_2020-02-07.pdf
 collection_members.2,The 2019 Novel Coronavirus (2019-nCoV) _ Ontario.ca_2020-02-08.pdf
 collection_members.3,The 2019 Novel Coronavirus (2019-nCoV) _ Ontario.ca_2020-02-09.pdf
@@ -21,14 +21,15 @@ collection_members.8,Cases_in_Ontario_2020-02-14.csv
 collection_members.9,Cases_in_Ontario_2020-02-15.csv
 collection_members.10,Cases_in_Ontario_2020-02-16.csv
 collection_members.11,Cases_in_Ontario_2020-02-17.csv
+collection_members.12,Cases_in_Ontario_2020-02-18.csv
 collection_first_report_date,2020-02-07
-collection_last_report_date,2020-02-17
+collection_last_report_date,2020-02-18
 collection_license,NA
 collection_access,PDF or HTML for viewing
 related_object_id,NA
 related_object_path,NA
 relation_description,NA
 curation _notes,NA
-collection_lastupdated_date,2020-02-17
-collection_lastupdated_person,"Lucie Contamin, University of Pittsburgh, ORCID 0000-0001-5797-1279"
-collection_lastupdated_email,contamin@pitt.edu
+collection_lastupdated_date,2020-02-18
+collection_lastupdated_person,"Anne Cross, University of Pittsbugh, ORCID 0000-0003-1707-253X"
+collection_lastupdated_email,anne.cross@pitt.edu
