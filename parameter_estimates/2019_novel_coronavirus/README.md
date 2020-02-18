@@ -55,7 +55,6 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 ## Dispersion rate
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
-|No|1.43|1.22|1.67|China|Excluding Wuhan|2019-12-01|2020-02-04|2020-02-04|[Johns Hopkins University](https://www.medrxiv.org/content/10.1101/2020.02.02.20020016v1)|
 |No|0.54|0.014|6.95|China|Wuhan City|2019-11-27|2020-01-18|2020-01-23|[University of Bern](https://www.biorxiv.org/content/10.1101/2020.01.23.917351v1.full.pdf)|
 
 ## Ascertainment rate
