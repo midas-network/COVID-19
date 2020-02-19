@@ -1,4 +1,4 @@
-﻿collection_ID,daily_cases_chinacdc_ZH
+collection_ID,daily_cases_chinacdc_ZH
 collection_title_en,Distribution of new coronavirus pneumonia
 collection_title_original,新型冠状病毒肺炎疫情分布
 collection_path_repository,COVID-19\data\cases\china\daily_cases_chinacdc_ZH
@@ -40,18 +40,15 @@ collection_members.27,2020-02-06_zh.csv
 collection_members.28,2020-02-07_zh.csv
 collection_members.29,2020-02-08_zh.csv
 collection_members.30,2020-02-09_zh.csv
-collection_members.31,2021-02-10_zh.csv
-collection_members.32,2022-02-11_zh.csv
-collection_members.33,2023-02-12_zh.csv
+collection_members.31,2020-02-10_zh.csv
+collection_members.32,2020-02-11_zh.csv
+collection_members.33,2020-02-12_zh.csv
 collection_members.34,2020-02-13_zh.csv
 collection_members.35,2020-02-14_zh.csv
 collection_members.36,2020-02-15_zh.csv
 collection_members.37,2020-02-16_zh.csv
 collection_members.38,2020-02-17_zh.csv
-collection_members.39,2020-02-10_zh.csv
-collection_members.40,2020-02-11_zh.csv
-collection_members.41,2020-02-12_zh.csv
-collection_members.42,2020-02-18_zh.csv
+collection_members.39,2020-02-18_zh.csv
 collection_first_report_date,2020-01-10
 collection_last_report_date,2020-02-18
 collection_license,NA
