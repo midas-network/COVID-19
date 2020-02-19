@@ -1,5 +1,5 @@
 [Data Guide for Parameter Estimates](https://github.com/midas-network/COVID-19/blob/master/information_for_contributors/parameter_estimates_data_guide_v1.1_18Feb2020.csv)  
-[List of Parameters](https://github.com/midas-network/COVID-19/blob/master/information_for_contributors/parameter_list_v1.0_4Feb2020.csv)
+[List of Parameters](https://github.com/midas-network/COVID-19/blob/master/information_for_contributors/parameter_list_v1.1_19Feb2020.csv)
 
 The first column indicates if a value was peer-reviewed positively (Yes) or negatively (No). Values that have not been peer-reviewed yet are also categorized under (No); specific indication of negative or N/A peer-review and the location of the peer review can be viewed in the [parameter csv file](https://github.com/midas-network/COVID-19/blob/master/parameter_estimates/2019_novel_coronavirus/estimates.csv).
 
