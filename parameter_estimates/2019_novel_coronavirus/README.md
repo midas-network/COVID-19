@@ -100,6 +100,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 ## Ascertainment rate
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
+|Yes|0.092|0.05|0.2|Japan|NA|2020-01-22|2020-01-29|2020-02-04|[Hokkaido University](https://www.ncbi.nlm.nih.gov/pubmed/32033064)|
 |No|0.1959|0.1436|0.3558|China|Mainland China|2019-12-01|2020-02-05|2020-02-11|[Mobs-lab](https://www.medrxiv.org/content/10.1101/2020.02.09.20021261v1)|
 |No|0.01|0.006|0.02|China|Wuhan|2019-12-10|2020-01-27|2020-02-04|[IDM](https://institutefordiseasemodeling.github.io/nCoV-public/analyses/first_adjusted_mortality_estimates_and_risk_assessment/2019-nCoV-preliminary_age_and_time_adjusted_mortality_rates_and_pandemic_risk_assessment.html)|
 |No|0.05|0.036|0.074|NA|Global|2020-01-01|2020-01-22|2020-01-28|[Lancaster University](https://www.medrxiv.org/content/10.1101/2020.01.23.20018549v2)|
@@ -142,6 +143,11 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |---|---|---|---|---|---|---|---|---|---|
 |No|4.2|3.5|5.1|China|NA|2019-12-31|2020-02-10|2020-02-11|[Los Alamos National Laboratory](https://www.medrxiv.org/content/10.1101/2020.02.07.20021154v1)|
 
+## Time from symptom onset to reporting
+|Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
+|---|---|---|---|---|---|---|---|---|---|
+|No|5.1|3.5|7.5|2019-12-31|2020-01-24|2020-02-17|[Hokkaido University](http://medrxiv.org/content/early/2020/02/02/2020.01.29.20019547.abstract)|
+
 ## Time from symptom onset to isolation
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
@@ -165,6 +171,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 ## Time from symptom onset to death
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
+|No|15.2|13.1|17.7|China|NA|2019-12-31|2020-01-24|2020-02-17|[Hokkaido University](http://medrxiv.org/content/early/2020/02/02/2020.01.29.20019547.abstract)|
 |No|22.3|18|82|China|Mainland China|2019-12-31|2020-01-21|2020-02-10|[Imperial College London](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-2019-nCoV-severity-10-02-2020.pdf)|
 |No|18|16|21|China|Mainland China|2019-12-10|2020-01-27|2020-02-04|[IDM](https://institutefordiseasemodeling.github.io/nCoV-public/analyses/first_adjusted_mortality_estimates_and_risk_assessment/2019-nCoV-preliminary_age_and_time_adjusted_mortality_rates_and_pandemic_risk_assessment.html)|
 |No|13.8|11.8|16.0|China|NA|2019-12-31|2020-01-25|2020-01-28|[Hokkaido University](www.medrxiv.org/content/medrxiv/early/2020/01/28/2020.01.26.20018754.full.pdf)|
