@@ -9,7 +9,7 @@ collection_publisher,World Health Organization
 collection_description,"Daily summary of global number of nCoV cases, per province in China and by country, including cases with travel history to China. Reports include guidance on response and update on response activities. Report format and content changes over time. Reports may be replaced by updated versions with error corrections, indicated by ""Erratum"" in the title or a -v2, or v3 , etc. in the file name."
 collection_URL_original,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports
 collection_format,PDF narrative and tables
-collection_number_files,29
+collection_number_files,30
 collection_members.1,20200121-sitrep-1-2019-ncov.pdf
 collection_members.2,20200122-sitrep-2-2019-ncov.pdf
 collection_members.3,20200123-sitrep-3-2019-ncov.pdf
@@ -39,14 +39,15 @@ collection_members.26,20200215-sitrep-26-covid-19.pdf
 collection_members.27,20200216-sitrep-27-covid-19.pdf
 collection_members.28,20200217-sitrep-28-covid-19.pdf
 collection_members.29,20200218-sitrep-29-covid-19.pdf
+collection_members.30,20200219-sitrep-30-covid-19.pdf
 collection_first_report_date,2020-01-21
-collection_last_report_date,2020-02-18
+collection_last_report_date,2020-02-19
 collection_license,NA
 collection_access,Download links to PDF reports
 related_object_id,NA
 related_object_path,NA
 relation_description,NA
 curation _notes,NA
-collection_lastupdated_date,2020-02-18
+collection_lastupdated_date,2020-02-19
 collection_lastupdated_person,"Anne Cross, University of Pittsbugh, ORCID 0000-0003-1707-253X"
 collection_lastupdated_email,anne.cross@pitt.edu
