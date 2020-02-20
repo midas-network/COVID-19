@@ -8,11 +8,15 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
 |Yes|12400|3112|58465|NA|Global|2019-12-31|2020-01-22|2020-02-13|[University of Texas at Austin](www.medrxiv.org/content/10.1101/2020.01.28.20019299v3.full.pdf)|
+|Yes|75815|37304|130330|China|Wuhan|2019-12-01|2020-01-25|2020-01-31|[University of Hong Kong](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext)|
 |No|58956|40759|87471|China|Wuhan|2019-12-01|2020-01-22|2020-02-11|[Mobs-lab](https://www.medrxiv.org/content/10.1101/2020.02.09.20021261v1)|
 |No|3491|1924|7360|China|Mainland China excluding Wuhan|2019-12-01|2020-01-22|2020-02-11|[Mobs-lab](https://www.medrxiv.org/content/10.1101/2020.02.09.20021261v1)|
 |No|4100|2423|6178|China|Wuhan City|2019-12-31|2020-01-18|2020-02-11|[Los Alamos National Laboratory](https://www.medrxiv.org/content/10.1101/2020.02.07.20021154v1)|
 |No|18700|7141|38663|China|Wuhan City|2020-01-19|2020-01-23|2020-02-11|[Los Alamos National Laboratory](https://www.medrxiv.org/content/10.1101/2020.02.07.20021154v1)|
-|No|24000|13000|44000|China|Wuhan City|2019-12-31|2020-01-31|2020-02-10|[Imperial College London](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-2019-nCoV-severity-10-02-2020.pdf)
+|No|24000|13000|44000|China|Wuhan City|2019-12-31|2020-01-31|2020-02-10|[Imperial College London](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-2019-nCoV-severity-10-02-2020.pdf)|
+|No|35454|NA|NA|China|NA|2019-12-31|2020-01-23|2020-02-09|[Chinese Academy of Sciences](https://www.medrxiv.org/content/medrxiv/early/2020/01/29/2020.01.27.20018952.full.pdf)|
+|No|58000|NA|NA|China|Mainland China|2019-12-31|2020-01-31|2020-01-31|[Johns Hopkins University](https://systems.jhu.edu/research/public-health/ncov-model-2/)|
+|No|95933|NA|NA|China|NA|2019-12-31|2020-01-28|2020-01-30|[Multiple Institutions](https://www.biorxiv.org/content/10.1101/2020.01.27.922443v1.full.pdf)|
 |No|31200|23400|40400|China|Wuhan City|2019-12-31|2020-01-29|2020-01-29|[Mobs-lab](https://www.mobs-lab.org/uploads/6/7/8/7/6787877/wuhan_novel_coronavirus_jan29.pdf)|
 |No|21022|11090|33490|NA|Global|2020-01-01|2020-01-22|2020-01-28|[Lancaster University](https://www.medrxiv.org/content/10.1101/2020.01.23.20018549v2)
 |No|4000|1000|9700|China|Wuhan City|2020-01-18|2020-01-18|2020-01-22|[Imperial College](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/2019-nCoV-outbreak-report-22-01-2020.pdf)|
@@ -20,6 +24,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 ## Basic reproduction number
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
+|Yes|2.68|2.47|2.86|NA|Global|2019-12-31|2020-01-28|2020-01-31|[University of Hong Kong](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext)|
 |Yes|2.24|1.96|2.55|China|Wuhan City|2020-01-10|2020-01-24|2020-01-27|[Multiple Institutions](https://www.clinicalkey.com/#!/content/playContent/1-s2.0-S1201971220300539?scrollTo=%23top)|
 |Yes|0.3|0.17|0.44|China|Wuhan City|2020-01-09|2020-01-11|2020-01-22|[University of Hong Kong](https://eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.3.2000044#r16)|
 |No|1.09|0.5|2.6|Thailand|NA|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
@@ -109,6 +114,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
 |Yes|7.31|6.26|9.66|NA|Global|2019-12-31|2020-01-23|2020-02-13|[University of Texas at Austin](www.medrxiv.org/content/10.1101/2020.01.28.20019299v3.full.pdf)|
+|Yes|6.4|5.8|7.1|NA|Global|2019-12-31|2020-01-28|2020-01-31|[University of Hong Kong](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext)|
 |No|4.6|4.2|5.1|NA|Global|2019-12-01|2020-02-07|2020-02-11|[Mobs-lab](https://www.medrxiv.org/content/10.1101/2020.02.09.20021261v1)|
 |No|2.4|NA|NA|China|Hubei province|2020-01-20|2020-02-02|2020-02-06|[Georgia Southern University](https://www.medrxiv.org/content/medrxiv/early/2020/02/06/2020.02.05.20020750.full.pdf)|
 
@@ -118,30 +124,16 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|0.29|0.21|0.37|China|NA|2019-12-31|2020-01-29|2020-02-11|[Los Alamos National Laboratory](https://www.medrxiv.org/content/10.1101/2020.02.07.20021154v1)|
 |No|0.14|0.12|0.15|China|NA|2020-01-30|2020-02-10|2020-02-11|[Los Alamos National Laboratory](https://www.medrxiv.org/content/10.1101/2020.02.07.20021154v1)|
 
-## Proportion of hospitalized cases that die
-|Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
-|---|---|---|---|---|---|---|---|---|---|
-|Yes|0.14|0.039|0.32|China|Wuhan City|2019-12-31|2020-01-21|2020-01-22|[University of Hong Kong](https://eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.3.2000044#r16)|
-|No|0.33|0.29|0.37|China|Wuhan City|2019-12-31|2020-01-27|2020-02-04|[IDM](https://institutefordiseasemodeling.github.io/nCoV-public/analyses/first_adjusted_mortality_estimates_and_risk_assessment/2019-nCoV-preliminary_age_and_time_adjusted_mortality_rates_and_pandemic_risk_assessment.html)|
-
-## Proportion of symptomatics that die
-|Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
-|---|---|---|---|---|---|---|---|---|---|
-|No|0.18|0.11|0.81|China|Hubei Province|2019-12-31|2020-02-05|2020-02-10|[Imperial College London](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-2019-nCoV-severity-10-02-2020.pdf)|
-|No|NA|0.012|0.056|NA|Global|2019-12-31|2020-02-08|2020-02-10|[Imperial College London](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-2019-nCoV-severity-10-02-2020.pdf)|
-|No|0.065|NA|NA|NA|Global|2019-12-01|2020-01-25|2020-01-29|[University of Chinese Academy of Sciences](https://www.medrxiv.org/content/medrxiv/early/2020/01/29/2020.01.27.20018952.full.pdf)|
-|No|0.03|NA|NA|China|NA|2019-12-29|2020-01-23|2020-01-26|[Guangdong Provincial Center for Disease Control and Prevention](https://www.biorxiv.org/content/biorxiv/early/2020/01/26/2020.01.25.919787.full.pdf)|
-
-## Proportion of all infected that die
-|Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
-|---|---|---|---|---|---|---|---|---|---|
-|No|0.01|0.005|0.04|NA|Global|2019-12-31|2020-02-08|2020-02-10|[Imperial College London](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-2019-nCoV-severity-10-02-2020.pdf)|
-|No|0.0033|0.0017|0.0075|NA|Global|2019-12-10|2020-01-27|2020-02-04|[IDM](https://institutefordiseasemodeling.github.io/nCoV-public/analyses/first_adjusted_mortality_estimates_and_risk_assessment/2019-nCoV-preliminary_age_and_time_adjusted_mortality_rates_and_pandemic_risk_assessment.html)|
-
+## Outpatient Care
 ## Time from exposure to symptom onset
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
 |No|4.2|3.5|5.1|China|NA|2019-12-31|2020-02-10|2020-02-11|[Los Alamos National Laboratory](https://www.medrxiv.org/content/10.1101/2020.02.07.20021154v1)|
+
+## Time from symptom onset to recovery
+|Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
+|---|---|---|---|---|---|---|---|---|---|
+|No|22.2|18|83|NA|Global|2019-12-31|2020-02-08|2020-02-10|[Imperial College London](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-2019-nCoV-severity-10-02-2020.pdf)|
 
 ## Time from symptom onset to reporting
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
@@ -153,6 +145,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |---|---|---|---|---|---|---|---|---|---|
 |No|2.9|NA|NA|China|China|2019-12-29|2020-01-23|2020-01-26|[Guangdong Provincial Center for Disease Control and Prevention](https://www.biorxiv.org/content/biorxiv/early/2020/01/26/2020.01.25.919787.full.pdf)|
 
+## Inpatient Care
 ## Time from symptom onset to hospitalization
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
@@ -163,11 +156,8 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |---|---|---|---|---|---|---|---|---|---|
 |No|11.5|8.0|17.3|China|NA|2019-12-31|2020-02-10|2020-02-11|[Los Alamos National Laboratory](https://www.medrxiv.org/content/10.1101/2020.02.07.20021154v1)|
 
-## Time from symptom onset to recovery
-|Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
-|---|---|---|---|---|---|---|---|---|---|
-|No|22.2|18|83|NA|Global|2019-12-31|2020-02-08|2020-02-10|[Imperial College London](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-2019-nCoV-severity-10-02-2020.pdf)|
 
+## Deaths
 ## Time from symptom onset to death
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
@@ -183,6 +173,26 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|12.4|9.5|14.4|NA|Global|2019-12-10|2020-01-11|2020-02-04|[IDM](https://institutefordiseasemodeling.github.io/nCoV-public/analyses/first_adjusted_mortality_estimates_and_risk_assessment/2019-nCoV-preliminary_age_and_time_adjusted_mortality_rates_and_pandemic_risk_assessment.html)|
 |No|7|NA|NA|NA|Global (mostly Hubei)|2020-01-12|2020-01-31|2020-02-04|[IDM](https://institutefordiseasemodeling.github.io/nCoV-public/analyses/first_adjusted_mortality_estimates_and_risk_assessment/2019-nCoV-preliminary_age_and_time_adjusted_mortality_rates_and_pandemic_risk_assessment.html)|
 |No|8.3|6.4|10.5|China|NA|2019-12-31|2020-01-25|2020-01-28|[Hokkaido University](www.medrxiv.org/content/medrxiv/early/2020/01/28/2020.01.26.20018754.full.pdf)|
+
+## Proportion of symptomatics that die
+|Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
+|---|---|---|---|---|---|---|---|---|---|
+|No|0.18|0.11|0.81|China|Hubei Province|2019-12-31|2020-02-05|2020-02-10|[Imperial College London](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-2019-nCoV-severity-10-02-2020.pdf)|
+|No|NA|0.012|0.056|NA|Global|2019-12-31|2020-02-08|2020-02-10|[Imperial College London](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-2019-nCoV-severity-10-02-2020.pdf)|
+|No|0.065|NA|NA|NA|Global|2019-12-01|2020-01-25|2020-01-29|[University of Chinese Academy of Sciences](https://www.medrxiv.org/content/medrxiv/early/2020/01/29/2020.01.27.20018952.full.pdf)|
+|No|0.03|NA|NA|China|NA|2019-12-29|2020-01-23|2020-01-26|[Guangdong Provincial Center for Disease Control and Prevention](https://www.biorxiv.org/content/biorxiv/early/2020/01/26/2020.01.25.919787.full.pdf)|
+
+## Proportion of hospitalized cases that die
+|Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
+|---|---|---|---|---|---|---|---|---|---|
+|Yes|0.14|0.039|0.32|China|Wuhan City|2019-12-31|2020-01-21|2020-01-22|[University of Hong Kong](https://eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.3.2000044#r16)|
+|No|0.33|0.29|0.37|China|Wuhan City|2019-12-31|2020-01-27|2020-02-04|[IDM](https://institutefordiseasemodeling.github.io/nCoV-public/analyses/first_adjusted_mortality_estimates_and_risk_assessment/2019-nCoV-preliminary_age_and_time_adjusted_mortality_rates_and_pandemic_risk_assessment.html)|
+
+## Proportion of all infected that die
+|Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
+|---|---|---|---|---|---|---|---|---|---|
+|No|0.01|0.005|0.04|NA|Global|2019-12-31|2020-02-08|2020-02-10|[Imperial College London](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-2019-nCoV-severity-10-02-2020.pdf)|
+|No|0.0033|0.0017|0.0075|NA|Global|2019-12-10|2020-01-27|2020-02-04|[IDM](https://institutefordiseasemodeling.github.io/nCoV-public/analyses/first_adjusted_mortality_estimates_and_risk_assessment/2019-nCoV-preliminary_age_and_time_adjusted_mortality_rates_and_pandemic_risk_assessment.html)|
 
 
 
