@@ -1,0 +1,25 @@
+Fieldname,Description
+collection_ID,CMMID
+collection_title_en,Centre for Mathematical Modelling of Infectious Diseases COVID-19 Reports
+collection_title_original,Covid-19
+collection_path_repository,COVID-19\documents\reports\model_reports\global\CMMID
+collection_language,English
+collection_creator_name.1,Centre for Mathematical Modelling of Infectious Diseases
+collection_creator_contact.1,
+collection_publisher,Centre for Mathematical Modelling of Infectious Diseases
+collection_description,Reports on COVID-19 modeling not published elsewhere
+collection_URL_original,https://cmmid.github.io/topics/covid19/
+collection_format,PDF
+collection_number_files,1
+collection_members,2020-01-30_reporting_delays.pdf
+collection_first_report_date,2020-01-30
+collection_last_report_date,2020-01-30
+collection_license,NA
+collection_access,PDF of HTML webpage that can be viewed and read
+related_object_id,
+related_object_path,
+relation_description,
+curation _notes,
+collection_lastupdated_date,2020-02-21
+collection_lastupdated_person,"Alice Arcury-Quandt, University of Pittsburgh, 0000-0001-7295-5939"
+collection_lastupdated_email,aea56@pitt.edu
