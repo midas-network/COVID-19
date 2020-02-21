@@ -1,0 +1,25 @@
+Fieldname,Description
+collection_ID,virological
+collection_title_en,Reports from virological.org
+collection_title_original,Novel 2019 coronavirus
+collection_path_repository,COVID-19\documents\reports\model_reports\global\virological
+collection_language,English
+collection_creator_name,NA
+collection_creator_contact,NA
+collection_publisher,virological.org
+collection_description,Reports from virological.org message boards
+collection_URL_original,http://virological.org/c/novel-2019-coronavirus/33
+collection_format,PDF
+collection_number_files,1
+collection_members,2020-01-25_TMRCA_clock.pdf
+collection_first_report_date,2020-01-25
+collection_last_report_date,2020-01-27
+collection_license,NA
+collection_access,PDF of HTML message board that can be viewed and downloaded
+related_object_id,
+related_object_path,
+relation_description,
+curation _notes,
+collection_lastupdated_date,2020-02-21
+collection_lastupdated_person,"Alice Arcury-Quandt, University of Pittsburgh, 0000-0001-7295-5939"
+collection_lastupdated_email,aea56@pitt.edu

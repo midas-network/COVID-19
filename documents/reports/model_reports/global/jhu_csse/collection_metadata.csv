@@ -1,0 +1,26 @@
+Fieldname,Description
+collection_ID,JHU_CSSE
+collection_title_en,Modeling Reports from Center for Systems Science and Engineering at Johns Hopkins University
+collection_title_original,Modeling 2019-nCoV
+collection_path_repository,COVID-19\documents\reports\model_reports\global\JHU_CSSE
+collection_language,English
+collection_creator_name,Lauren Gardner
+collection_creator_contact,l.gardner@jhu.edu
+collection_publisher,"Lauren Gardner, Johns Hopkins University"
+collection_description,Reports modeling the spread of COVID-19
+collection_URL_original,https://systems.jhu.edu/research/public-health/ncov-model/
+collection_format,PDF
+collection_number_files,2
+collection_members.1,2020_01_26_modeling_spread_risk.pdf
+collection_members.2,2020_01_30_modeling_spread_risk.pdf
+collection_first_report_date,2020-01-26
+collection_last_report_date,2020-01-30
+collection_license,NA
+collection_access,PDF of HTML webpage that can be viewed and downloaded
+related_object_id,
+related_object_path,
+relation_description,
+curation _notes,
+collection_lastupdated_date,2020-02-21
+collection_lastupdated_person,"Alice Arcury-Quandt, University of Pittsburgh, 0000-0001-7295-5939"
+collection_lastupdated_email,aea56@pitt.edu
