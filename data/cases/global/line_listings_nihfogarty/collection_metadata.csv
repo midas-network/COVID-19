@@ -1,4 +1,4 @@
-collection_ID,line_listings_nihfogarty
+﻿collection_ID,line_listings_nihfogarty
 collection_title_en,nCoV line listings from DXY.cn maintained by NIH Fogarty
 collection_title_original,Kudos to DXY.cn
 collection_path_repository,COVID-19\data\cases\global\line_listings_nihfogarty
@@ -9,7 +9,7 @@ collection_publisher,"Kaiyuan Sun, NIH Fogarty"
 collection_description,2019 Novel Coronavirus line listings obtained exclusively from DXY.cn by manual data entry. DXY.cn (DīngXiāngYuán) is an online community for medical professionals and news sharing of medical importance. DXY.cn provides a curated list of broadcasts for 2019 nCoV case reports from official Chinese sources: https://3g.dxy.cn/newh5/view/pneumonia
 collection_URL_original,https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/edit#gid=1187587451
 collection_format,Google Sheet 
-collection_number_files,20
+collection_number_files,21
 collection_members.1,2020_01_28_1800EST_linelist_NIHFogarty
 collection_members.2,2020_01_29_1800EST_linelist_NIHFogarty
 collection_members.3,2020_01_30_1800EST_linelist_NIHFogarty
@@ -30,14 +30,35 @@ collection_members.17,2024_02_13_1800EST_linelist_NIHFogarty
 collection_members.18,2024_02_18_1800EST_linelist_NIHFogarty
 collection_members.19,2024_02_19_1800EST_linelist_NIHFogarty
 collection_members.20,2024_02_20_1800EST_linelist_NIHFogarty
+collection_members.21,2020_01_28_1800EST_linelist_NIHFogarty.csv
+collection_members.22,2020_01_29_1801EST_linelist_NIHFogarty.csv
+collection_members.23,2020_01_30_1800EST_linelist_NIHFogarty.csv
+collection_members.24,2020_01_31_1800EST_linelist_NIHFogarty.csv
+collection_members.25,2020_02_01_1800EST_linelist_NIHFogarty.csv
+collection_members.26,2020_02_02_1800EST_linelist_NIHFogarty.csv
+collection_members.27,2020_02_03_1800EST_linelist_NIHFogarty.csv
+collection_members.28,2020_02_04_1800EST_linelist_NIHFogarty.csv
+collection_members.29,2020_02_05_1800EST_linelist_NIHFogarty.csv
+collection_members.30,2020_02_06_1800EST_linelist_NIHFogarty.csv
+collection_members.31,2020_02_07_1800EST_linelist_NIHFogarty.csv
+collection_members.32,2020_02_08_1800EST_linelist_NIHFogarty.csv
+collection_members.33,2020_02_09_1800EST_linelist_NIHFogarty.csv
+collection_members.34,2020_02_10_1800EST_linelist_NIHFogarty.csv
+collection_members.35,2020_02_11_1800EST_linelist_NIHFogarty.csv
+collection_members.36,2020_02_12_1800EST_linelist_NIHFogarty.csv
+collection_members.37,2020_02_13_1800EST_linelist_NIHFogarty.csv
+collection_members.38,2020_02_18_1800EST_linelist_NIHFogarty.csv
+collection_members.39,2020_02_19_1800EST_linelist_NIHFogarty.csv
+collection_members.40,2020_02_20_1800EST_linelist_NIHFogarty.csv
+collection_members.41,2020_02_21_1800EST_linelist_NIHFogarty.csv
 collection_first_report_date,2020-01-13
-collection_last_report_date,2020-02-20
+collection_last_report_date,2020-02-21
 collection_license,NA
 collection_access,Google Sheet that can be downloaded
 related_object_id,NA
 related_object_path,NA
 relation_description,NA
 curation_notes,NA
-collection_lastupdated_date,2020-02-20
-collection_lastupdated_person,"Lucie Contamin, University of Pittsburgh, ORCID 0000-0001-5797-1279"
-collection_lastupdated_email,contamin@pitt.edu
+collection_lastupdated_date,2020-02-21
+collection_lastupdated_person,"Anne Cross, University of Pittsbugh, ORCID 0000-0003-1707-253X"
+collection_lastupdated_email,anne.cross@pitt.edu
