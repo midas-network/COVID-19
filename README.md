@@ -14,7 +14,7 @@ This repository serves as a central platform to share resources relevant for mod
 ### MIDAS 2019 Novel Coronavirus Mailing List
 The MIDAS Coordination Center maintains a dedicated mailing list for updates and news about COVID-19 modeling research. To join the mailing list, please email questions@midasnetwork.us. 
 
-## <ins>[Data](https://github.com/midas-network/COVID-19/wiki/Data)</ins>
+## <ins>[Data](https://github.com/midas-network/COVID-19/wiki/Data-catalog)</ins>
 All data sources relevant for COVID-19 modeling can be uploaded/found here, including case count data and line listings. Data are uploaded by the MCC and by community members. Data can be in many different formats and levels of curation. Sets of related data files are presented as "collections". For example, a collection can be a set of related outbreak situation updates from a country, a set of time-stamped backup files, or another set of related files. Each collection has its own metadata, data guide, and location dictionary that maps geographic locations listed in the collection to international standards. See [Information for Contributors](https://github.com/midas-network/COVID-19/wiki/Information-for-Contributors) for the most recent metadata and data guide templates. 
 
 ## <ins>[Parameter Estimates](https://github.com/midas-network/COVID-19/tree/master/parameter_estimates/2019_novel_coronavirus)</ins>
