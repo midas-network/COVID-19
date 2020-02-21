@@ -1,0 +1,440 @@
+record_number,country,mode_of_transport_plain_train,travel_history_to_hubei_y_n,local_transmission_y_n
+australia001,Australia,air (inferred),y,n
+australia002,Australia,air (inferred),y,n
+australia003,Australia,air (inferred),y,n
+australia004,Australia,air,y,n
+australia005,Australia,air,y,n
+australia006,Australia,air,y,n
+australia007,Australia,air,y,n
+australia008,Australia,air,y,n
+australia009,Australia,air,y,n
+australia010,Australia,air,y,n
+australia011,Australia,air,y,n
+australia012,Australia,air,y,n
+australia013,Australia,air,y,n
+australia014,Australia,air,y,n
+australia015,Australia,air,y,n
+belgium001,Belgium,air - repatriated,y,n
+cambodia001,Cambodia,air (inferred),y,n
+canada001,Canada,air,y,n
+canada002,Canada,air,y,n
+canada003,Canada,air,y,n
+canada004,Canada,air,y,n
+canada005,Canada,NA,NA,y
+canada006,Canada,air,y,n
+canada007,Canada,air,y,n
+canada008,Canada,NA,n,n
+egypt001,Egypt,NA,NA,NA
+finland001,Finland,air,y,n
+france001,France,air (inferred),y,n
+france002,France,air (inferred),y,n
+france003,France,air,y,n
+france004,France,air,y,n
+france005,France,air,y,n
+france006,France,NA,y,y
+france007,France,NA,NA,y
+france008,France,NA,NA,y
+france009,France,NA,NA,y
+france010,France,NA,NA,y
+france011,France,NA,NA,y
+france012,France,NA,n,y
+germany001,Germany,NA,NA,y
+germany002,Germany,NA,NA,y
+germany003,Germany,NA,NA,y
+germany004,Germany,NA,NA,y
+germany005,Germany,NA,NA,y
+germany006,Germany,NA,NA,y
+germany007,Germany,NA,NA,y
+germany008,Germany,NA,NA,y
+germany009,Germany,air,y,n
+germany010,Germany,air,y,n
+germany011,Germany,NA,NA,y
+germany012,Germany,NA,NA,y
+germany013,Germany,NA,NA,y
+germany014,Germany,NA,NA,y
+germany015,Germany,NA,unknown,y - implied
+germany016,Germany,NA,unknown,y - implied
+hk001,HK SAR,train,y,n
+hk002,HK SAR,"air, train",y,n
+hk003,HK SAR,train,y,n
+hk004,HK SAR,train,y,n
+hk005,HK SAR,train,y,n
+hk006,HK SAR,train,y,n
+hk007,HK SAR,train,NA,NA
+hk008,HK SAR,high-speed rail,y,n
+hk009,HK SAR,air,y,n
+hk010,HK SAR,air,y,n
+hk011,HK SAR,NA,NA,y
+hk012,HK SAR,train-implied,y,n
+hk013,HK SAR,train,y,n
+hk014,HK SAR,cruise ship,NA,y - implied
+hk015,HK SAR,NA,NA,y
+hk016,HK SAR,NA,NA,y
+hk017,HK SAR,NA,NA,y
+hk018,HK SAR,NA,NA,y
+hk019,HK SAR,NA,NA,y
+hk020,HK SAR,NA,NA,y
+hk021,HK SAR,train,unknown,y - implied
+hk022,HK SAR,NA,NA,y
+hk023,HK SAR,NA,NA,y
+hk024,HK SAR,NA,NA,y
+hk025,HK SAR,NA,n,n
+hk026,HK SAR,NA,n,n
+hk027,HK SAR,NA,NA,y
+hk028,HK SAR,NA,NA,y
+hk029,HK SAR,NA,NA,y
+hk030,HK SAR,NA,NA,y
+hk031,HK SAR,NA,NA,y
+hk032,HK SAR,NA,NA,y
+hk033,HK SAR,NA,NA,y
+hk034,HK SAR,NA,NA,y
+hk035,HK SAR,NA,NA,y
+hk036,HK SAR,NA,NA,y
+hk037,HK SAR,NA,NA,y
+hk038,HK SAR,NA,NA,y - implied
+hk039,HK SAR,NA,NA,y
+hk040,HK SAR,NA,NA,y
+hk041,HK SAR,NA,NA,y
+hk042,HK SAR,NA,NA,y - implied
+hk043,HK SAR,NA,NA,y - implied
+hk044,HK SAR,NA,NA,y
+hk045,HK SAR,NA,NA,y - implied
+hk046,HK SAR,NA,NA,y
+hk047,HK SAR,NA,NA,y - implied
+hk048,HK SAR,NA,NA,y
+hk049,HK SAR,NA,NA,y
+hk050,HK SAR,NA,NA,y -implied
+hk051,HK SAR,NA,NA,y
+hk052,HK SAR,NA,NA,y
+hk053,HK SAR,NA,NA,y
+hk054,HK SAR,NA,NA,y
+hk055,HK SAR,NA,n,n
+hk056,HK SAR,NA,NA,y - implied
+hk057,HK SAR,NA,NA,NA
+hk058,HK SAR,NA,NA,NA
+italy001,Italy,air,y,n
+italy002,Italy,air,y,n
+italy003,Italy,air,y,n
+india001,India,air (inferred),y,n
+india002,India,air (inferred),unknown,n
+india003,India,air (inferred),y,n
+japan001,Japan,air,n,n
+japan002,Japan,air,y,n
+japan003,Japan,air,y,n
+japan004,Japan,air,y,n
+japan005,Japan,air,y,n
+japan006,Japan,NA,n,y
+japan007,Japan,air,y,n
+japan008,Japan,NA,n,y
+japan009,Japan,air,y,n
+japan_asmyp001,Japan,air,y,n
+japan_asmyp002,Japan,air,y,n
+japan010,Japan,air,n,n
+japan011,Japan,air,y,n
+japan012,Japan,air,n,n
+japan013,Japan,NA,n,y
+japan_asymp003,Japan,air,y,n
+japan_asymp004,Japan,air,y,n
+japan014,Japan,air,y,n
+japan015,Japan,air,y,n
+japan_asymp005,Japan,air,y,n
+japan016,Japan,air,y,n
+japan017,Japan,air,y,n
+japan018,Japan,air,n,n
+japan019,Japan,air,y,n
+japan020,Japan,air,y,n
+japan021,Japan,NA,n,y
+japan022,Japan,air,y,n
+japan023,Japan,air,y,n
+japan024,Japan,air,y,n
+japan025,Japan,air,y,n
+japan026,Japan,NA,NA,NA
+japan027,Japan,NA,n,y - implied
+japan028,Japan,NA,n,y - implied
+japan029,Japan,NA,y,n
+japan030,Japan,NA,n,y - implied
+japan031,Japan,NA,n,y - implied
+japan032,Japan,NA,n,y - implied
+japan033,Japan,NA,n,y - implied
+japan034,Japan,NA,n,y - implied
+japan035,Japan,NA,n,y
+japan036,Japan,NA,n,y
+japan037,Japan,NA,n,y
+japan038,Japan,NA,n,y
+japan039,Japan,NA,n,y
+japan040,Japan,NA,n,y
+japan041,Japan,NA,n,y - implied
+japan042,Japan,NA,n,y - implied
+japan043,Japan,NA,n,y - implied
+japan044,Japan,NA,n,y - implied
+japan045,Japan,NA,n,y
+japan046,Japan,NA,n,y - implied
+japan047,Japan,NA,n,y - implied
+japan048,Japan,NA,n,y - implied
+NA,Japan,NA,n,y
+NA,Japan,NA,NA,NA
+NA,Japan,NA,NA,NA
+NA,Japan,NA,n,y - implied
+NA,Japan,NA,n,y
+NA,Japan,NA,n,y - implied
+NA,Japan,NA,NA,NA
+NA,Japan,NA,n,y - implied
+NA,Japan,NA,n,y - implied
+NA,Japan,NA,NA,NA
+NA,Japan,NA,NA,NA
+NA,Japan,NA,NA,NA
+macau001,Macau SAR,train,y,n
+macau002,Macau SAR,NA,y,n
+macau003,Macau SAR,"train, boat, taxi",n,n
+macau004,Macau SAR,port,NA,y
+macau005,Macau SAR,port,y,n
+macau006,Macau SAR,port,y,n
+macau007,Macau SAR,train,y,n
+macau008,Macau SAR,NA,n,n
+macau009,Macau SAR,NA,n,y
+macau010,Macau SAR,NA,n,n
+malaysia001,Malaysia,air,n,n
+malaysia002,Malaysia,air,n,n
+malaysia003,Malaysia,air,n,n
+malaysia004,Malaysia,bus,y,n
+malaysia005,Malaysia,NA,y,n
+malaysia006,Malaysia,NA,NA,NA
+malaysia007,Malaysia,NA,n,y
+malaysia008,Malaysia,NA,NA,y
+malaysia009,Malaysia,air,y,n - implied
+malaysia010,Malaysia,NA,n,y
+malaysia011,Malaysia,air,y,n
+malaysia012,Malaysia,air,y,n
+malaysia013,Malaysia,NA,n,y
+malaysia014,Malaysia,NA,y,n
+malaysia015,Malaysia,NA,y,n
+malaysia016,Malaysia,NA,y,n - implied
+malaysia017,Malaysia,NA,n,y
+malaysia018,Malaysia,NA,n,n
+malaysia019,Malaysia,NA,y,n
+malaysia020,Malaysia,NA,NA,NA
+malaysia021,Malaysia,NA,NA,NA
+malaysia022,Malaysia,NA,NA,NA
+nepal001,Nepal,air,y,n
+philippines001,Philippines,NA,y,n
+philippines002,Philippines,NA,y,n
+philippines003,Philippines,NA,y,n
+russia001,Russia,NA,NA,NA
+russia002,Russia,NA,NA,NA
+singapore001,Singapore,air,y,n
+singapore002,Singapore,air,y,n
+singapore003,Singapore,air,y,n
+singapore004,Singapore,air,y,n
+singapore005,Singapore,air,y,n
+singapore006,Singapore,air,y,n
+singapore007,Singapore,air,y,n
+singapore008,Singapore,air,y,n
+singapore009,Singapore,air,y,n
+singapore010,Singapore,air (inferred),y,n
+singapore011,Singapore,air,y,n
+singapore012,Singapore,NA,y,n
+singapore013,Singapore,air,n,n
+singapore014,Singapore,air,y,n
+singapore015,Singapore,air,y,n
+singapore016,Singapore,air,y,n
+singapore017,Singapore,air,y,n
+singapore018,Singapore,air,y,n
+singapore019,Singapore,NA,n,y
+singapore020,Singapore,NA,n,y
+singapore021,Singapore,NA,n,y
+singapore022,Singapore,NA,y,n
+singapore023,Singapore,NA,y,n
+singapore024,Singapore,NA,n,y
+singapore025,Singapore,NA,n,y
+singapore026,Singapore,NA,n,n
+singapore027,Singapore,NA,n,y
+singapore028,Singapore,NA,n,y
+singapore029,Singapore,NA,n,y
+singapore030,Singapore,NA,n,y
+singapore031,Singapore,NA,n,y
+singapore032,Singapore,NA,n,y
+singapore033,Singapore,NA,n,y
+singapore034,Singapore,NA,n,y
+singapore035,Singapore,NA,n,y
+singapore036,Singapore,NA,n,y
+singapore037,Singapore,NA,n,y
+singapore038,Singapore,NA,n,y
+singapore039,Singapore,NA,n,y
+singapore040,Singapore,NA,n,y
+singapore041,Singapore,NA,n,y
+singapore042,Singapore,NA,n,y
+singapore043,Singapore,NA,n,y
+singapore044,Singapore,NA,n,unknown
+singapore045,Singapore,NA,n,n
+singapore046,Singapore,NA,n,y
+singapore047,Singapore,NA,n,y
+singapore048,Singapore,NA,n,y
+singapore049,Singapore,NA,n,y
+singapore050,Singapore,NA,n,y
+singapore051,Singapore,NA,n,y
+singapore052,Singapore,NA,n,y
+singapore053,Singapore,NA,n,y
+singapore054,Singapore,NA,n,y
+singapore055,Singapore,NA,n,y
+singapore056,Singapore,NA,n,y
+singapore057,Singapore,NA,n,y
+singapore058,Singapore,NA,n,y
+singapore059,Singapore,NA,n,y - implied
+singapore060,Singapore,NA,n,y
+singapore061,Singapore,NA,n,y
+singapore062,Singapore,NA,n,y
+singapore063,Singapore,NA,n,y
+singapore064,Singapore,NA,n,y
+singapore065,Singapore,NA,n,y
+singapore066,Singapore,NA,n,y
+singapore067,Singapore,NA,n,y
+singapore068,Singapore,NA,n,y
+singapore069,Singapore,NA,n,y
+singapore070,Singapore,NA,n,y
+singapore071,Singapore,NA,n,y
+singapore072,Singapore,NA,n,y
+singapore073,Singapore,NA,n,y
+singapore074,Singapore,NA,n,y
+singapore075,Singapore,NA,n,y
+singapore076,Singapore,NA,NA,NA
+singapore077,Singapore,NA,NA,y
+southkorea001,South Korea,air,y,n
+southkorea002,South Korea,air,y,n
+southkorea003,South Korea,air,y,n
+southkorea004,South Korea,air,y,n
+southkorea005,South Korea,air,y,n
+southkorea006,South Korea,NA,n,y - implied
+southkorea007,South Korea,air - inferred,y,n
+southkorea008,South Korea,air - inferred,y,n
+southkorea009,South Korea,NA,n,y - implied
+southkorea010,South Korea,NA,n,y - implied
+southkorea011,South Korea,NA,n,y - implied
+southkorea012,South Korea,air (inferred),n,y
+southkorea013,South Korea,air,y,n
+southkorea014,South Korea,NA,n,y
+southkorea015,South Korea,air,y,n
+southkorea016,South Korea,air,n,y
+southkorea017,South Korea,NA,n,y
+southkorea018,South Korea,NA,n,y - implied
+southkorea019,South Korea,NA,n,y
+southkorea020,South Korea,NA,n,y
+southkorea021,South Korea,NA,n,y - implied
+southkorea022,South Korea,NA,n,y
+southkorea023,South Korea,air - inferred,y,n
+southkorea024,South Korea,air - repatriated,y,n
+southkorea025,South Korea,NA,n,y - implied
+southkorea026,South Korea,air (inferred),n,n
+southkorea027,South Korea,air (inferred),n,n
+southkorea028,South Korea,NA,y,y
+southkorea029,South Korea,NA,n,NA
+southkorea030,South Korea,NA,n,NA
+spain001,Spain,air,n,y
+spain002,Spain,NA,n,y
+srilanka001,Sri Lanka,air (inferred),y,n
+sweden001,Sweden,air,y,n
+taiwan001,Taiwan,air,y,n
+taiwan002,Taiwan,NA,y,n
+taiwan003,Taiwan,NA,NA,unknown
+taiwan004,Taiwan,air,y,n
+taiwan005,Taiwan,air,y,n
+taiwan006,Taiwan,air,NA,unknown
+taiwan007,Taiwan,air,NA,unknown
+taiwan008,Taiwan,NA,n,y
+taiwan009,Taiwan,NA,NA,y
+taiwan010,Taiwan,air,y,n
+taiwan011,Taiwan,air,y,n
+taiwan012,Taiwan,air,y,n
+taiwan013,Taiwan,air,y,n
+taiwan014,Taiwan,air,NA,y
+taiwan015,Taiwan,air,NA,y
+taiwan016,Taiwan,NA,NA,y
+taiwan017,Taiwan,air,NA,y
+taiwan018,Taiwan,air,NA,y
+taiwan019,Taiwan,NA,n,y - implied
+taiwan020,Taiwan,NA,NA,NA
+taiwan021,Taiwan,NA,n,y
+taiwan022,Taiwan,NA,n,y
+Thai001,Thailand,air,y,n
+Thai002,Thailand,air,y,n
+Thai003,Thailand,air,y,n
+Thai004,Thailand,air,y,n
+Thai005,Thailand,air,y,n
+Thai006,Thailand,air,y,n
+Thai007,Thailand,air,y,n
+Thai008,Thailand,air,y,n
+Thai009,Thailand,air,y,n
+Thai010,Thailand,air,y,n
+Thai011,Thailand,air,y,n
+Thai012,Thailand,air,y,n
+Thai013,Thailand,air,y,n
+Thai014,Thailand,air,n,n
+Thai015,Thailand,No,NA,y - confirm
+Thai016,Thailand,air,unknown,n
+Thai017,Thailand,air,unknown,n
+Thai018,Thailand,air,unknown,n
+Thai019,Thailand,air,unknown,n
+Thai020,Thailand,NA,NA,unknown
+Thai021,Thailand,NA,NA,unknown
+Thai022,Thailand,air,NA,y - implied
+Thai023,Thailand,air,NA,y - implied
+Thai024,Thailand,car,n,n
+Thai025,Thailand,car,n,n
+Thai026,Thailand,NA,unknown,unknown
+Thai027,Thailand,NA,unknown,unknown
+Thai028,Thailand,NA,unknown,unknown
+Thai029,Thailand,unknown,unknown,n
+Thai030,Thailand,air,y,n
+Thai031,Thailand,NA,n,y
+Thai032,Thailand,NA,n,y
+Thai033,Thailand,NA,y,y - confirmed
+Thai034,Thailand,NA,n,y
+Thai035,Thailand,NA,NA,NA
+uae001,UAE,air,unknown,n
+uae002,UAE,air,unknown,n
+uae003,UAE,air,unknown,n
+uae004,UAE,air,unknown,n
+uae005,UAE,air,unknown,n
+uae006,UAE,air,unknown,n
+uae007,UAE,NA,NA,unknown
+uae008,UAE,NA,NA,y - implied
+uae009,UAE,NA,NA,NA
+uk001,UK,air,unknown,n
+uk002,UK,air,unknown,n
+uk003,UK,air,NA,y
+uk004,UK,unknown,NA,y
+uk005,UK,NA,NA,y
+uk006,UK,NA,NA,y
+uk007,UK,NA,NA,y
+uk008,UK,NA,NA,y
+uk009,UK,air,n - implied,n
+usa001,USA,air,y,n
+usa002,USA,air,y,n
+usa003,USA,air,y,n
+usa004,USA,air,y,unknown
+usa005,USA,air,y,n
+usa006,USA,NA,n,y
+usa007,USA,air,y,n
+usa008,USA,air,y,n
+usa009,USA,air,unknown,n - implied
+usa010,USA,air,y,n
+usa011,USA,NA,NA,y
+usa012,USA,air,n,n
+usa013,USA,air,y,n
+usa014,USA,air,y,n
+usa015,USA,air,y,n
+vietnam001,Vietnam,air,y,n
+vietnam002,Vietnam,NA,NA,y
+vietnam003,Vietnam,NA,NA,unknown
+vietnam004,Vietnam,NA,NA,unknown
+vietnam005,Vietnam,NA,NA,unknown
+vietnam006,Vietnam,NA,NA,y
+vietnam007,Vietnam,air,y,n
+vietnam008,Vietnam,air,NA,y
+vietnam009,Vietnam,air,y,n
+vietnam010,Vietnam,NA,NA,unknown
+vietnam011,Vietnam,NA,NA,y - implied
+vietnam012,Vietnam,NA,NA,y - implied
+vietnam013,Vietnam,air,y,n
+vietnam014,Vietnam,NA,NA,y
+vietnam015,Vietnam,NA,NA,y
+vietnam016,Vietnam,NA,NA,y

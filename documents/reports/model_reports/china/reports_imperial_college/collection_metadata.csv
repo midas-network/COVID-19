@@ -10,14 +10,15 @@ collection_publisher,"Neil Ferguson, Imperial College London"
 collection_description,"Modeling reports published periodically by Imperial College as a part of a collaboration between WHO Collaborating Centre for Infectious Disease Modelling, MRC Centre for Global Infectious Disease Analysis, and J-IDEA"
 collection_URL_original,https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/
 collection_format,PDF
-collection_number_files,5
+collection_number_files,6
 collection_members.1,2020-01-17_Report_1_Case_Estimates.pdf
 collection_members.2,2020-01-22_Report_2_Case_Estimates.pdf
 collection_members.3,2020-01-25_Report_3_Transmissibility.pdf
 collection_members.4,2020-02-10_Report_4_Severity.pdf
 collection_members.5,2020-02-15_Report_5_Phylogenetic_Analysis.pdf
+collection_members.6,2020-02-21-Report_6_Sensitivity_Surveillance.pdf
 collection_first_report_date,2020-01-17
-collection_last_report_date,2020-02-15
+collection_last_report_date,2020-02-21
 collection_license,NA
 collection_access,PDF that can be read online or downloaded
 related_object_id.1,
@@ -29,7 +30,10 @@ relation_description.4.1,Data on early deaths from mainland China
 related_object_id.4.2,international_cases_2020_08_02.csv
 related_object_path.4.2,COVID-19/data/cases/global/global/line_listings_imperial_college
 relation_description.4.2,Data on cases in international travellers
+related_object_id.6,international_cases_2020_21_02.csv
+related_object_path.6,COVID-19/documents/reports/model_reports/china/reports_imperial_college
+relation_description.6,Data on international cases
 curation _notes,Data attached to report 4
-collection_lastupdated_date,2020-02-15
+collection_lastupdated_date,2020-02-21
 collection_lastupdated_person,"Alice Arcury-Quandt, University of Pittsburgh, 0000-0001-7295-5939"
 collection_lastupdated_email,aea56@pitt.edu
