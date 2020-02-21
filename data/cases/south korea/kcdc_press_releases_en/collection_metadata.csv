@@ -1,51 +1,157 @@
-"collection_ID","kcdc_press_releases_en"
-"collection_title_en","Press releases about nCoV"
-"collection_title_original",NA
-"collection_path_repository","COVID-19\data\cases\south korea\kcdc_press_releases_en"
-"collection_language","English"
-"collection_creator_name","Korean Centers for Disease Control"
-"collection_creator_contact",NA
-"collection_publisher","Korean Centers for Disease Control"
-"collection_description","Narrative updates and some tabular data about confirmed nCoV cases in South Korea, and information about cases under investigation. Content and file titles vary. "
-"collection_URL_original","https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030"
-"collection_format","PDF"
-"collection_number_files","28"
-"collection_members.1","Press_Release_(1.20).pdf"
-"collection_members.2","Press_Release_(1.21).pdf"
-"collection_members.3","Press_Release_(Jan.24).pdf"
-"collection_members.4","Press_Release_(Jan.24-2).pdf"
-"collection_members.5","Press_Release_(Jan.26).pdf"
-"collection_members.6","Press_Release_(Jan.26) (2).pdf"
-"collection_members.7","Press_Release_(Jan.27).pdf"
-"collection_members.8","Press_Release_(Jan.28).pdf"
-"collection_members.9","Press_Release_(Jan.29).pdf"
-"collection_members.10","Press_Release_(Jan.30)_1.pdf"
-"collection_members.11","Press_Release_(Jan.30)_2.pdf"
-"collection_members.12","Press_Release(Jan.31).pdf"
-"collection_members.13","Press_Release(Jan.31)_2.pdf"
-"collection_members.14","Press_Release_(Feb._1).pdf"
-"collection_members.15","Press_Release_(Feb.1)_2.pdf"
-"collection_members.16","Press_Release_(Feb.2)_2.pdf"
-"collection_members.17","Press_Release_(Feb.3).pdf"
-"collection_members.18","Press_Release_(Feb.4).pdf"
-"collection_members.19","Press_Release_(Feb.4)_afternoon (1).pdf"
-"collection_members.20","Press_Release_(Feb.5).pdf"
-"collection_members.21","Press_Release_(Feb.5)-2.pdf"
-"collection_members.22","Press_Release_(Feb.5)_-_3.pdf"
-"collection_members.23","Press_Release(Feb.6).pdf"
-"collection_members.24","Press_Release(Feb.6)_afternoon.pdf"
-"collection_members.25","The_updates(Feb_7)_of_2019-nCoV_in_Korea.pdf"
-"collection_members.26","Press_Release_(Feb.7)-2.pdf"
-"collection_members.27","Press_Release_(Feb.8).pdf"
-"collection_members.28","Press_Release_(Feb.8)_afternoon.pdf"
-"collection_first_report_date","2020-01-20"
-"collection_last_report_date","2020-02-08"
-"collection_license",NA
-"collection_access","PDF Download links"
-"related_object_id",NA
-"related_object_path",NA
-"relation_description",NA
-"curation _notes","Files from English version of the KCDC website, Korean version may include additional information (https://www.cdc.go.kr/board/board.es?mid=a20501000000&bid=0015)."
-"collection_lastupdated_date","2020-02-08"
-"collection_lastupdated_person","Wilbert van Panhuis, University of Pittsburgh"
-"collection_lastupdated_email","wgvanpanhuis@gmail.com"
+﻿collection_ID,"kcdc_press_releases_en"
+collection_title_en,"Press releases about nCoV"
+collection_title_original,NA
+collection_path_repository,"COVID-19\data\cases\south korea\kcdc_press_releases_en"
+collection_language,"English"
+collection_creator_name,"Korean Centers for Disease Control"
+collection_creator_contact,NA
+collection_publisher,"Korean Centers for Disease Control"
+collection_description,"Narrative updates and some tabular data about confirmed nCoV cases in South Korea, and information about cases under investigation. Content and file titles vary. "
+collection_URL_original,"https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030"
+collection_format,"PDF"
+collection_number_files,134
+collection_members.1,Press_Release_(1.20).pdf
+collection_members.2,Press_Release_(1.21).pdf
+collection_members.3,Press_Release_(Jan.24).pdf
+collection_members.4,Press_Release_(Jan.24-2).pdf
+collection_members.5,Press_Release_(Jan.26).pdf
+collection_members.6,Press_Release_(Jan.26) (2).pdf
+collection_members.7,Press_Release_(Jan.27).pdf
+collection_members.8,Press_Release_(Jan.28).pdf
+collection_members.9,Press_Release_(Jan.29).pdf
+collection_members.10,Press_Release_(Jan.30)_1.pdf
+collection_members.11,Press_Release_(Jan.30)_2.pdf
+collection_members.12,Press_Release(Jan.31).pdf
+collection_members.13,Press_Release(Jan.31)_2.pdf
+collection_members.14,Press_Release_(Feb._1).pdf
+collection_members.15,Press_Release_(Feb.1)_2.pdf
+collection_members.16,Press_Release_(Feb.2)_2.pdf
+collection_members.17,Press_Release_(Feb.3).pdf
+collection_members.18,Press_Release_(Feb.4).pdf
+collection_members.19,Press_Release_(Feb.4)_afternoon (1).pdf
+collection_members.20,Press_Release_(Feb.5).pdf
+collection_members.21,Press_Release_(Feb.5)-2.pdf
+collection_members.22,Press_Release_(Feb.5)_-_3.pdf
+collection_members.23,Press_Release(Feb.6).pdf
+collection_members.24,Press_Release(Feb.6)_afternoon.pdf
+collection_members.25,The_updates(Feb_7)_of_2019-nCoV_in_Korea.pdf
+collection_members.26,Press_Release_(Feb.7)-2.pdf
+collection_members.27,Press_Release_(Feb.8).pdf
+collection_members.28,Press_Release_(Feb.8)_afternoon.pdf
+collection_members.29,Antibiotics Awareness Week.pdf
+collection_members.30,CDC_Advises_Caution_against_Heat-Related_Illnesses_as_Heat_Wave_Continues[July.17.(Tue).2018].pdf
+collection_members.31,Confirmed_MERS_Case_Tested_Negative(Sept.18,2018).pdf
+collection_members.32,Continued_Increase_of_Influenza_Cases_Stresses_the_Importance_of_Vaccination_and_Personal_Hygiene_[Jan._8_(Mon.),_2018].pdf
+collection_members.33,Control_Measures_Strengthened_in_Response_to_Measles_Outbreak_in_Daegu[Jan.11,2019].pdf
+collection_members.34,Control_measures_strengthened_in_response_to_onfirmed_measles_cases_at_arts_school_[May.28.(Mon),_2018].pdf
+collection_members.35,Epidemiological Investigation Underway on Infant Deaths at Ewha Womans University Mokdong Hospital NICU(Dec. 18, 2017).pdf
+collection_members.36,Epidemiological_Investigations_and_Preventive_Measures_Underway_in_Response_to_Norovirus_Cases_at_PyeongChang_[Feb._7_(Wed.),_2018].pdf
+collection_members.37,Five_Korean_nationals_on_Kuwait-UAE_flight_with_the_confirmed_case_entered_Korea,_Currently_being_monitored_as_contacts_[12.Sep.2018].pdf
+collection_members.38,Interim_Results_of_Epidemiological_Investigation_on_MERS-CoV_Patient_Movement_and_Contacts_Tracing_[10.Sep.2018].pdf
+collection_members.39,Intermediate_result_of_epidemiological_investigation_of_Norovirus_at_Horeb_Training_Centre[Feb._13_(Tues.),_2018].pdf
+collection_members.40,Investigation_is_undergoing_in_a_Gangnam-gu_medical_facility_due_to_cases_with_abnormal_symptoms[May.9.(Wed),_2018].pdf
+collection_members.41,JOINT_STATEMENT_OF_ASEAN_Plus_Three.pdf
+collection_members.42,KCDC Issues Warning for Influenza Epidemic in Korea (Dec. 1, 2017).pdf
+collection_members.43,KCDC_Advises_Hajj_Travelers_to_Saudi_Arabia_to_Take_Precautions_Against_MERS_[15.Aug.(Wed).2018].pdf
+collection_members.44,KCDC_Central_IMS_Interim_Report_on_MERS_Response.pdf
+collection_members.45,KCDC_Granted_Korea_Policy_Award_for_Public_Health_Risk_Communication_Policy_[Apr.20.(Fri),_2018].pdf
+collection_members.46,KCDC_Issues_Influenza_Epidemic_Alert_[Nov.16].pdf
+collection_members.47,KCDC_Issues_Japanese_Encephalitis_Alert[July.6.(Fri)2018].pdf
+collection_members.48,KCDC_Issues_Japanese_Encephalitis_Alert_Notice_[Apr._3_(Tues.),_2018].pdf
+collection_members.49,KCDC_Issues_Tick_Bite_Alert_Notice[Apr.10.(tues),2018].pdf
+collection_members.50,KCDC_Provides_Information_on_Preventing_Infectious_Diseases_During_Lunar_New_Year_Holiday(Jan.29,_2019).pdf
+collection_members.51,KCDC_Releases_2017_Infectious_Disease_Surveillance_Yearbook_[Jun.28.(Thur),_2018].pdf
+collection_members.52,KCDC_Releases_2017_National_Youth_Immunization_Coverage_Status_[July.24.(Tue).2018].pdf
+collection_members.53,KCDC_Urges_Preventive_Measures_in_Response_to_2018’s_First_Imported_Case_of_Cholera_[July.4.(Wed),_2018].pdf
+collection_members.54,KCDC_and_Marvel’s_The_Avengers_Join_Forces_for_Public_Health(Dec._3,_2018).pdf
+collection_members.55,Latest_KCDC·POCOG_Statement_on_Norovirus(18.2.11(Sun)).pdf
+collection_members.56,Latest_KCDC·POCOG_Statement_on_Norovirus(18.2.12.(Mon)).pdf
+collection_members.57,Latest_KCDC·POCOG_Statement_on_Norovirus(18.2.13.(Tues)).pdf
+collection_members.58,Latest_KCDC·POCOG_Statement_on_Norovirus(18.2.14.(Wed)).pdf
+collection_members.59,Latest_KCDC·POCOG_Statement_on_Norovirus(18.2.15.(Thur)).pdf
+collection_members.60,Latest_KCDC·POCOG_Statement_on_Norovirus(18.2.16.(Fri)).pdf
+collection_members.61,Latest_KCDC·POCOG_Statement_on_Norovirus(18.2.17.(Sat)).pdf
+collection_members.62,Latest_KCDC·POCOG_Statement_on_Norovirus(18.2.18.(Sun)).pdf
+collection_members.63,Latest_KCDC·POCOG_Statement_on_Norovirus(18.2.19.(Mon)).pdf
+collection_members.64,Latest_KCDC·POCOG_Statement_on_Norovirus(18.2.20.(Tues)).pdf
+collection_members.65,Latest_KCDC·POCOG_Statement_on_Norovirus(18.2.21.(Wed)).pdf
+collection_members.66,Latest_KCDC·POCOG_Statement_on_Norovirus(18.2.22.(Thur)).pdf
+collection_members.67,Latest_KCDC·POCOG_Statement_on_Norovirus(18.2.23.(Fri)).pdf
+collection_members.68,Latest_KCDC·POCOG_Statement_on_Norovirus(18.2.24.(Sat)).pdf
+collection_members.69,Latest_KCDC·POCOG_Statement_on_Norovirus(18.2.25.(Sun)).pdf
+collection_members.70,Latest_POCOG_Statement_on_Norovirus(18.2.8(Thur)).pdf
+collection_members.71,Latest_POCOG_Statement_on_Norovirus(18.2.9(Fri)).pdf
+collection_members.72,MERS_Patient_Confirmed_in_ROK_[8.Sep.2018].pdf
+collection_members.73,MERS_information.pdf
+collection_members.74,National_Infectious_Disease_Alert_Level_Raised_from_BLUE_to_YELLOW_Upon_Confirmation_of_MERS_Patient_in_ROK_[9.Sep.2018].pdf
+collection_members.75,National_Infectious_Disease_Risk_Alert_Level_Lowered_from_YELLOW_to_BLUE_(Sept.21).pdf
+collection_members.76,New_KCDC_Plan_Aims_to_Reduce_TB_Incidence_Rate_by_Half_Over_the_Next_Five_Years_[2.Aug.2018.].pdf
+collection_members.77,Precautions to Avoid Risk of Cold-Related Illnesses and Injuries in Extremely Cold Weather(Dec.13,2017).pdf
+collection_members.78,Press Release (Feb.10).pdf
+collection_members.79,Press Release (Feb.10)_afternoon.pdf
+collection_members.80,Press Release (Feb.11)_afternoon.pdf
+collection_members.81,Press Release (Feb.12).pdf
+collection_members.82,Press Release (Feb.12)_afternoon.pdf
+collection_members.83,Press Release (Feb.14)_afternoon.pdf
+collection_members.84,Press Release (Feb.16).pdf
+collection_members.85,Press Release (Feb.16)_afternoon.pdf
+collection_members.86,Press Release (Feb.18).pdf
+collection_members.87,Press Release (Feb.18)_afternoon.pdf
+collection_members.88,Press Release (Feb.8).pdf
+collection_members.89,Press Release (Feb.8)_afternoon.pdf
+collection_members.90,Press Release (Jan.24-2).pdf
+collection_members.91,Press Release(Feb.6).pdf
+collection_members.92,Press Release(Feb.6)_afternoon.pdf
+collection_members.93,Press Release(Jan.31).pdf
+collection_members.94,Press Release(Jan.31)_2.pdf
+collection_members.95,Press Release_(Jan. 22).pdf
+collection_members.96,Press Release_(Jan.24).pdf
+collection_members.97,Press_Release_(Feb 19)_morning.pdf
+collection_members.98,Press_Release_(Feb.11) morning.pdf
+collection_members.99,Press_Release_(Feb.11)_evening.pdf
+collection_members.100,Press_Release_(Feb.13)_afternoon.pdf
+collection_members.101,Press_Release_(Feb.13)_morning.pdf
+collection_members.102,Press_Release_(Feb.17).pdf
+collection_members.103,Press_Release_(Feb.19)_ Afternoon.pdf
+collection_members.104,Press_Release_(Feb.19)_ evening.pdf
+collection_members.105,Press_Release_(Feb.20).pdf
+collection_members.106,Press_Release_(Feb.20)_afternoon.pdf
+collection_members.107,Press_Release_(Feb.20)_evening.pdf
+collection_members.108,Press_Release_(Feb.21)_Evening.pdf
+collection_members.109,Press_Release_(Feb.21)_Morning.pdf
+collection_members.110,Press_Release_(Feb.21)_afternoon.pdf
+collection_members.111,Press_Release_(Feb.4)_afternoon.pdf
+collection_members.112,Press_Release_(Feb.5) - 3.pdf
+collection_members.113,Press_Release_(Feb.9) - evening.pdf
+collection_members.114,Press_Release_(Feb.9).pdf
+collection_members.115,Press_Release_(Feb.9)_afternoon.pdf
+collection_members.116,Press_Release_(Jan.23).pdf
+collection_members.117,Press_Release_(Jan.26)_오후.pdf
+collection_members.118,Press_Release_(Jan.27)_오전.pdf
+collection_members.119,Progress_of_the_Norovirus_Outbreak_in_the_PyeongChang_Olympic_Site(18.2.7(Wed))_f.pdf
+collection_members.120,ROK,_U.S._CDC_Work_Together_to_Strengthen_Global_Health_Security.pdf
+collection_members.121,Release report(Feb.15).pdf
+collection_members.122,Release report(Feb.17) Afternoon.pdf
+collection_members.123,Request for strengthening prevention and control measures in response to the steady increase of Respiratory Syncytial Virus infection cases in young children(Dec.8,2017).pdf
+collection_members.124,The updates(Feb 7) of 2019-nCoV in Korea.pdf
+collection_members.125,Update on Epidemiological Investigation of Infant Deaths at Ewha Womans University Mokdong Hospital NICU(Dec. 28, 2017).pdf
+collection_members.126,[KCDC]_Imported_MERS_Case_Event_to_be_Declared_Over_on_Oct.16._(Oct.15._2018).pdf
+collection_members.127,[KCDC]_MERS_Daily_Report_(Sept._12).pdf
+collection_members.128,[KCDC]_MERS_Daily_Report_(Sept._13)_v2.pdf
+collection_members.129,[KCDC]_MERS_Daily_Report_(Sept._15).pdf
+collection_members.130,[KCDC]_MERS_Daily_Report_(Sept._16._Press_Release).pdf
+collection_members.131,[KCDC]_MERS_Daily_Report_(Sept._17).pdf
+collection_members.132,[KCDC]_MERS_Daily_Report_(Sept._19).pdf
+collection_members.133,[KCDC]_MERS_Daily_Report_(Sept._20).pdf
+collection_members.134,[Press_Release]_The_special_teleconference_held_among_Ministers_of_Health_from_ASEAN.pdf
+collection_first_report_date,"2020-01-20"
+collection_last_report_date,2020-02-21
+collection_license,NA
+collection_access,"PDF Download links"
+related_object_id,NA
+related_object_path,NA
+relation_description,NA
+curation _notes,"Files from English version of the KCDC website, Korean version may include additional information (https://www.cdc.go.kr/board/board.es?mid=a20501000000&bid=0015)."
+collection_lastupdated_date,2020-02-21
+collection_lastupdated_person,"Anne Cross, University of Pittsbugh, ORCID 0000-0003-1707-253X"
+collection_lastupdated_email,anne.cross@pitt.edu
