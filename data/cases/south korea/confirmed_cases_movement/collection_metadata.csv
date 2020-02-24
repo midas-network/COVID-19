@@ -1,4 +1,4 @@
-﻿collection_ID,confirmed_cases_movement
+collection_ID,confirmed_cases_movement
 collection_title_en,Confirmed patient movement route
 collection_title_original,확진환자 이동경로
 collection_path_repository,COVID-19\data\cases\south korea\confirmed_cases_movement
@@ -9,7 +9,7 @@ collection_publisher,Korean Centers for Disease Control
 collection_description,Listing of detailed travel and movement history of each confirmed case. Snapshots of the webpage.
 collection_URL_original,http://ncov.mohw.go.kr/bdBoardList.do?brdId=1&brdGubun=12
 collection_format,Webpage saved as PDF in Korean and Google Translated English or CSV files 
-collection_number_files,4
+collection_number_files,20
 collection_members.1,Korean-webpage_snapshot_2020-02-08.pdf
 collection_members.2,English-GoogleTranslate-webpage_snpshot_2020-02-08.pdf
 collection_members.3,Korean-webpage_snapshot_2020-02-12.pdf
@@ -31,7 +31,7 @@ collection_members.18,Korean_movement_2020-02-21.csv
 collection_members.19,Korean_movement_2020-02-22asdf.csv
 collection_members.20,Korean_movement_2020-02-23asdf.csv
 collection_first_report_date,2020-01-19
-collection_last_report_date,-02-23asdf
+collection_last_report_date,2020-02-23
 collection_license,NA
 collection_access,Webpage for viewing
 related_object_id.1,English-GoogleTranslate-webpage_snpshot_2020-02-08.pdf
