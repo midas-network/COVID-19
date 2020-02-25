@@ -9,7 +9,7 @@ collection_publisher,Ontario Ministry of Heath
 collection_description,"Daily snapshot of an online table with number of cases under investigation, tested negative or positive, updated weekdays at 10.30 AM EST except from the 8th of February until the 10th of February, updated at 16:00 EST"
 collection_URL_original,https://www.ontario.ca/page/2019-novel-coronavirus-2019-ncov#section-0
 collection_format,HTML table saved as PDF or .csv
-collection_number_files,18
+collection_number_files,19
 collection_members.1,The 2019 Novel Coronavirus (2019-nCoV) _ Ontario.ca_2020-02-07.pdf
 collection_members.2,The 2019 Novel Coronavirus (2019-nCoV) _ Ontario.ca_2020-02-08.pdf
 collection_members.3,The 2019 Novel Coronavirus (2019-nCoV) _ Ontario.ca_2020-02-09.pdf
@@ -28,14 +28,15 @@ collection_members.15,Cases_in_Ontario_2020-02-21.csv
 collection_members.16,Cases_in_Ontario_2020-02-22.csv
 collection_members.17,Cases_in_Ontario_2020-02-23.csv
 collection_members.18,Cases_in_Ontario_2020-02-24.csv
+collection_members.19,Cases_in_Ontario_2020-02-25.csv
 collection_first_report_date,2020-02-07
-collection_last_report_date,2020-02-24
+collection_last_report_date,2020-02-25
 collection_license,NA
 collection_access,PDF or HTML for viewing
 related_object_id,NA
 related_object_path,NA
 relation_description,NA
 curation _notes,NA
-collection_lastupdated_date,2020-02-24
+collection_lastupdated_date,2020-02-25
 collection_lastupdated_person,"Anne Cross, University of Pittsbugh, ORCID 0000-0003-1707-253X"
 collection_lastupdated_email,anne.cross@pitt.edu
