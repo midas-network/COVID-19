@@ -26,6 +26,14 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|45000|NA|NA|China|Wuhan|2019-12-31|2020-02-12|2020-02-19|[Wuhan Ammunition Life-Tech Co., Ltd.](https://www.medrxiv.org/content/10.1101/2020.02.16.20023804v1)|
 |No|2868.7 +/- 1739.0|NA|NA|China|Wuhan|2019-12-31|2020-01-23|2020-02-18|[Peking University](https://www.medrxiv.org/content/10.1101/2020.02.14.20023168v1)|
 |No|52185.4 +/- 31621.4|NA|NA|China|Wuhan|2020-01-23|2020-02-12|2020-02-18|[Peking University](https://www.medrxiv.org/content/10.1101/2020.02.14.20023168v1)|
+|No|453|NA|NA|China|Wuhan|2019-12-08|2020-01-22|2020-02-18|[Remnin University](https://www.medrxiv.org/content/10.1101/2020.02.16.20023770v1)|
+|No|6333|NA|NA|China|Wuhan|2020-01-23|2020-02-13|2020-02-18|[Remnin University](https://www.medrxiv.org/content/10.1101/2020.02.16.20023770v1)|
+|No|24333|NA|NA|China|Wuhan|2020-02-14|NA|2020-02-18|[Remnin University](https://www.medrxiv.org/content/10.1101/2020.02.16.20023770v1)|
+|No|7710|NA|NA|China|Hubei except Wuhan|2020-01-10|2020-01-22|2020-02-18|[Remnin University](https://www.medrxiv.org/content/10.1101/2020.02.16.20023770v1)|
+|No|18832|NA|NA|China|Hubei except Wuhan|2020-01-23|2020-02-13|2020-02-18|[Remnin University](https://www.medrxiv.org/content/10.1101/2020.02.16.20023770v1)|
+|No|21342|21057|21629|China|Hubei except Wuhan|2020-02-14|NA|2020-02-18|[Remnin University](https://www.medrxiv.org/content/10.1101/2020.02.16.20023770v1)|
+|No|7793|NA|NA|China|Excluding Hubei|2020-01-23|2020-02-03|2020-02-18|[Remnin University](https://www.medrxiv.org/content/10.1101/2020.02.16.20023770v1)|
+|No|13384|NA|NA|China|Excluding Hubei|2020-02-04|NA|2020-02-18|[Remnin University](https://www.medrxiv.org/content/10.1101/2020.02.16.20023770v1)|
 |No|6924|4885|9211|China|NA|2019-12-08|2020-01-24|2020-02-17|[Hokkaido University](https://www.medrxiv.org/content/10.1101/2020.01.29.20019547v2)|
 |No|19289|10901|30158|China|NA|2019-12-08|2020-01-24|2020-02-17|[Hokkaido University](https://www.medrxiv.org/content/10.1101/2020.01.29.20019547v2)|
 |No|110000|40000|310000|China|Wuhan|2020-01-29|2020-02-02|2020-02-13|[Multiple Institutions](https://www.medrxiv.org/content/10.1101/2020.02.12.20022285v1)|
@@ -106,6 +114,14 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 ## Effective reproduction number
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
+|No|3.6|NA|NA|China|Wuhan|2019-12-08|2020-01-22|2020-02-18|[Remnin University](https://www.medrxiv.org/content/10.1101/2020.02.16.20023770v1)|
+|No|1.55|NA|NA|China|Wuhan|2020-01-23|2020-02-13|2020-02-18|[Remnin University](https://www.medrxiv.org/content/10.1101/2020.02.16.20023770v1)|
+|No|1.08|NA|NA|China|Wuhan|2020-02-14|NA|2020-02-18|[Remnin University](https://www.medrxiv.org/content/10.1101/2020.02.16.20023770v1)|
+|No|3.4|NA|NA|China|Hubei except Wuhan|2020-01-10|2020-01-22|2020-02-18|[Remnin University](https://www.medrxiv.org/content/10.1101/2020.02.16.20023770v1)|
+|No|0.83|NA|NA|China|Hubei except Wuhan|2020-01-23|2020-02-13|2020-02-18|[Remnin University](https://www.medrxiv.org/content/10.1101/2020.02.16.20023770v1)|
+|No|0.59|NA|NA|China|Hubei except Wuhan|2020-02-14|NA|2020-02-18|[Remnin University](https://www.medrxiv.org/content/10.1101/2020.02.16.20023770v1)|
+|No|3.3|NA|NA|China|Excluding Hubei|2020-01-23|2020-02-03|2020-02-18|[Remnin University](https://www.medrxiv.org/content/10.1101/2020.02.16.20023770v1)|
+|No|0.63|NA|NA|China|Excluding Hubei|2020-02-04|NA|2020-02-18|[Remnin University](https://www.medrxiv.org/content/10.1101/2020.02.16.20023770v1)|
 |No|3.24|3.16|3.32|China|Wuhan|2020-01-23|2020-02-13|2020-02-13|[Multiple Institutions](https://www.medrxiv.org/content/10.1101/2020.02.12.20022434v1)|
 |No|1.06|NA|NA|China|Mainland China|2019-12-17|2020-02-08|2020-02-08|[Tsinghua-Berkeley Shenzhen Institute](www.medrxiv.org/content/medrxiv/early/2020/02/05/2020.02.04.20020461.full.pdf)|
 |No|4.08|3.37|4.77|NA|Global|2019-12-31|2020-01-25|2020-01-29|[University of Chinese Academy of Sciences](https://www.medrxiv.org/content/medrxiv/early/2020/01/29/2020.01.27.20018952.full.pdf)|
