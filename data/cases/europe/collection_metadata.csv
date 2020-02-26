@@ -1,0 +1,36 @@
+collection_ID,europe_situation_updates
+collection_title_en,"Situation update for the EU/EEA, the UK and Switzerland"
+collection_title_original,"Situation update for the EU/EEA, the UK and Switzerland"
+collection_path_repository,COVID-19\data\cases\europe\europe_situation_updates
+collection_language,English
+collection_creator_name,European Centre for Disease Prevention and Control
+collection_creator_contact,https://www.ecdc.europa.eu/en/about-us/contact-ecdc
+collection_publisher,European Centre for Disease Prevention and Control
+collection_description,"Daily snapshot of an online table with number of imported and locally acquired cases, updated weekdays update daily at 8:00 CET"
+collection_URL_original,https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea
+collection_format,CSV files
+collection_number_files,13
+collection_members.1,EU_UK_data_update_2020-02-12_080000_+0100.csv
+collection_members.2,EU_UK_data_update_2020-02-13_080000_+0100.csv
+collection_members.3,EU_UK_data_update_2020-02-14_080000_+0100.csv
+collection_members.4,EU_UK_data_update_2020-02-16_080000_+0100.csv
+collection_members.5,EU_UK_data_update_2020-02-17_080000_+0100.csv
+collection_members.6,EU_UK_data_update_2020-02-18_080000_+0100.csv
+collection_members.7,EU_UK_data_update_2020-02-19_080000_+0100.csv
+collection_members.8,EU_UK_data_update_2020-02-20_080000_+0100.csv
+collection_members.9,EU_UK_data_update_2020-02-21_080000_+0100.csv
+collection_members.10,EU_UK_data_update_2020-02-22_080000_+0100.csv
+collection_members.11,EU_UK_data_update_2020-02-24_080000_+0100.csv
+collection_members.12,EU_UK_data_update_2020-02-25_080000_+0100.csv
+collection_members.13,EU_UK_data_update_2020-02-26_080000_+0100.csv
+collection_first_report_date,2020-02-12
+collection_last_report_date,2020-02-26
+collection_license,NA
+collection_access,Web page that can be viewed and read
+related_object_id,NA
+related_object_path,NA
+relation_description,NA
+curation _notes,NA
+collection_lastupdated_date,2020-02-26
+collection_lastupdated_person,"Lucie Contamin, University of Pittsbugh"
+collection_lastupdated_email,contamin@pitt.edu

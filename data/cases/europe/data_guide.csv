@@ -1,0 +1,12 @@
+collection_ID,data_field_code,data_field_name,full_name_en,full_name_original,description,format,unit,information_update_date,informatin_update_person,information_update_email
+europe_situation_updates,ESU1,Country,Country,Country,Name of the country in English,text,NA,2020-02-26,Lucie Contamin,contamin@pitt.edu
+europe_situation_updates,ESU2,Imported cases,Imported cases,Imported cases,Number of imported cases,numeric,NA,2020-02-26,Lucie Contamin,contamin@pitt.edu
+europe_situation_updates,ESU3,Locally-acquired cases,Locally-acquired cases,Locally-acquired cases,Number of locally acquired cases,numeric,NA,2020-02-26,Lucie Contamin,contamin@pitt.edu
+europe_situation_updates,ESU4,Total,Total,Total,Total number of cases,numeric,NA,2020-02-26,Lucie Contamin,contamin@pitt.edu
+europe_situation_updates,ESU5,Deaths,Deaths,Deaths,Number of cases that died,numeric,NA,2020-02-26,Lucie Contamin,contamin@pitt.edu
+europe_situation_updates,ESU6,EU/EEA and the UK,EU/EEA and the UK,EU/EEA and the UK,Name of the country in English,text,NA,2020-02-26,Lucie Contamin,contamin@pitt.edu
+europe_situation_updates,ESU7,"EU/EEA, UK and Switzerland","EU/EEA, UK and Switzerland","EU/EEA, UK and Switzerland",Name of the country in English,text,NA,2020-02-26,Lucie Contamin,contamin@pitt.edu
+europe_situation_updates,ESU8,Total Cases,Total Cases,Total Cases,Total number of cases,numeric,NA,2020-02-26,Lucie Contamin,contamin@pitt.edu
+europe_situation_updates,ESU9,Total Deaths,Total Deaths,Total Deaths,Total number of cases that died,numeric,NA,2020-02-26,Lucie Contamin,contamin@pitt.edu
+europe_situation_updates,ESU10,Cases,Cases,Cases,Number of cases,numeric,NA,2020-02-26,Lucie Contamin,contamin@pitt.edu
+europe_situation_updates,ESU11,Deaths,Deaths,Deaths,Number of cases that died,numeric,NA,2020-02-26,Lucie Contamin,contamin@pitt.edu
