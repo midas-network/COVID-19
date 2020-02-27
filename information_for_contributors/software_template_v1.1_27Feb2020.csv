@@ -1,0 +1,26 @@
+Fieldname,Description
+id_int,Unique identifier for internal use
+URL_original,URL of the original source of the file
+type,"Type of software or visualization (data processing, model, visualization, dashboard)"
+path_repository,Path of resource files stored in the repostiory (if any)
+id_ext,Unique identifier of the file
+id_type,"Type of identifier (DOI, ArXiv ID, other)"
+version,Version of the resource
+title_en,Title in English
+title_original,Title in original language
+author_name,Name of author(s) or organization who created the file
+creator_contact,Contact information for author(s) or organization who created the file
+publisher,Name of person or organization who pulbished the file
+publication_date,Date at which the resource was published
+lastupdate_date,"Date at which the resource was last updated, only for the discontinue update"
+publication_venue,"Venue of publication (journal name, pre-print server, etc.)"
+description,Description of the publication
+license,User license for the resource
+source_code,"Source code available or not, if so, list as related_object"
+related_object_id,Collection of file related to this collection
+related_object_path,Path to the related object in the repository
+relation_description,Description of the relationship of the related object and this collection
+curation _notes,Notes related to curation of the collection
+metadata_updated_date,Date on which the metadata record was last updated
+metadata_lastupdated_person,"Name, affiliation, and ID (ORCID, Publon ID, other) of person who last updated the record"
+metadata_lastupdated_email,Email of the person who last updated the record
