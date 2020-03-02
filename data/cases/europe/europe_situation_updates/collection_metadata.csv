@@ -1,4 +1,4 @@
-﻿collection_ID,europe_situation_updates
+collection_ID,europe_situation_updates
 collection_title_en,"Situation update for the EU/EEA, the UK and Switzerland"
 collection_title_original,"Situation update for the EU/EEA, the UK and Switzerland"
 collection_path_repository,COVID-19\data\cases\europe\europe_situation_updates
@@ -25,17 +25,17 @@ collection_members.12,EU_UK_data_update_2020-02-25_080000_+0100.csv
 collection_members.13,EU_UK_data_update_2020-02-26_080000_+0100.csv
 collection_members.14,EU_UK_data_update_2020-02-27_080000_+0100.csv
 collection_members.15,EU_UK_data_download_2020-02-28_073001_-0500.csv
-collection_members.16,EU_UK_data_download_2020-02-28_163127_-0500.csv
-collection_members.17,EU_UK_data_download_2020-02-29_073001_-0500.csv
-collection_members.18,EU_UK_data_download_2020-03-01_073000_-0500.csv
+collection_members.16,EU_UK_data_download_2020-02-29_073001_-0500.csv
+collection_members.17,EU_UK_data_download_2020-03-01_073000_-0500.csv
+collection_members.18,EU_UK_data_download_2020-03-02_073000_-0500.csv
 collection_first_report_date,2020-02-12
-collection_last_report_date,2020-02-27
+collection_last_report_date,2020-03-02
 collection_license,NA
 collection_access,Web page that can be viewed and read
 related_object_id,NA
 related_object_path,NA
 relation_description,NA
 curation _notes,NA
-collection_lastupdated_date,2020-03-01
+collection_lastupdated_date,2020-03-02
 collection_lastupdated_person,"Anne Cross, University of Pittsbugh, ORCID 0000-0003-1707-253X"
 collection_lastupdated_email,anne.cross@pitt.edu
