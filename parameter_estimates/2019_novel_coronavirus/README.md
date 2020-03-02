@@ -7,7 +7,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 ## Cumulative case count
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
-|Yes|12400|3112|58465|NA|Global|2019-12-31|2020-01-22|2020-02-13|[University of Texas at Austin](www.medrxiv.org/content/10.1101/2020.01.28.20019299v3.full.pdf)|
+|Yes|12400|3112|58465|NA|Global|2019-12-31|2020-01-22|2020-02-13|[University of Texas at Austin](https://www.medrxiv.org/content/10.1101/2020.01.28.20019299v3.full.pdf)|
 |Yes|75815|37304|130330|China|Wuhan|2019-12-01|2020-01-25|2020-01-31|[University of Hong Kong](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext)|
 |No|79467|71576|93855|China|Mainland China|2020-01-21|2020-02-14|2020-02-20|[Fujian Normal University](https://www.medrxiv.org/content/10.1101/2020.02.16.20023564v2)|
 |No|64261|58223|77895|China|Hubei|2020-01-21|2020-02-14|2020-02-20|[Fujian Normal University](https://www.medrxiv.org/content/10.1101/2020.02.16.20023564v2)|
