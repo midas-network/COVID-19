@@ -19,3 +19,5 @@ line_listings_nihfogarty,LLN17,recovered,person recovered,recovered,Case recover
 line_listings_nihfogarty,LLN18,symptom,symptoms,symptom,Description of clinical symptoms,text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
 line_listings_nihfogarty,LLN19,source,source of information,source,Name of the source listed in DXY.cn broadcast,text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
 line_listings_nihfogarty,LLN20,link,link to source,link,URL to the source lsited in the DXY.cn broadcast,text,NA,2020-02-04,Wilbert van Panhuis,wgvanpanhuis@gmail.com
+line_listings_nihfogarty,LLN21,cases_in_country,case in country,case in country,Sequential number of cases in the same country,numeric,NA,2020-03-02,Lucie Contamin,contamin@pitt.edu
+line_listings_nihfogarty,LLN22,traveler,traveler,traveler,"Binary, flag 1 if the case was traveling ",binary,NA,2020-03-02,Lucie Contamin,contamin@pitt.edu
