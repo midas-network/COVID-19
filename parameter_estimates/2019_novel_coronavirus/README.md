@@ -62,42 +62,6 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|1.44|1.40|1.47|China|Wuhan|2020-01-22|2020-02-12|2020-02-18|[Wuhan Ammunition Life-Tech Co., Ltd.](https://www.medrxiv.org/content/10.1101/2020.02.16.20023804v1)|
 |No|2.1|2.0|2.2|China|NA|2019-12-08|2020-01-24|2020-02-17|[Hokkaido University](https://www.medrxiv.org/content/10.1101/2020.01.29.20019547v2)|
 |No|3.2|2.7|3.7|China|NA|2019-12-08|2020-01-24|2020-02-17|[Hokkaido University](https://www.medrxiv.org/content/10.1101/2020.01.29.20019547v2)|
-|No|1.09|0.5|2.6|Thailand|NA|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|1.17|0.36|2.73|Japan|NA|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|1.53|0.33|3.5|Taiwan|NA|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|2.58|0.91|6.0|South Korea|NA|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|1.64|0.86|2.57|Singapore|NA|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|3.25|1.36|4.58|China|Heilongjiang|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|3.18|1.15|5.0|China|Jilin|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|2.61|0.91|6.33|China|Guizhou|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|2.49|1.52|3.39|China|Hubei|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|1.93|1.38|3.0|China|Hong Kong|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|1.77|1.11|2.42|China|Inner Mongolia|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|1.76|0.91|2.42|China|Tianjin|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|1.68|1.09|3.04|China|Jiangxi|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|1.64|1.07|2.23|China|Anhui|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|1.58|0.94|2.1|China|Xinjiang|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|1.55|0.85|2.23|China|Henan|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|1.48|1.03|1.67|China|Hainan|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|1.41|1.03|1.9|China|Beijing|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|1.39|0.96|1.79|China|Shanxi|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|1.36|0.88|2.03|China|Jiangsu|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|1.34|0.71|2.5|China|Qinghai|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|1.31|0.83|1.64|China|Gansu|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|1.29|0.82|1.96|China|Guangdong|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|1.27|0.83|1.64|China|Guangxi|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|1.27|1.03|1.9|China|Shaanxi|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|1.24|0.75|1.72|China|Hunan|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|1.23|1.12|1.37|China|Shandong|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|1.22|0.97|1.41|China|Hebei|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|1.12|0.63|1.77|China|Chongqing|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|1.07|0.79|1.64|China|Liaoning|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|1.07|0.74|1.53|China|Ningxia|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|1.06|0.75|1.41|China|Sichuan|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|1.04|0.68|1.54|China|Shanghai|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|0.94|0.82|1.12|China|Fujian|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|0.92|0.62|1.37|China|Zhejiang|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
-|No|0.63|0.37|0.89|China|Yunnan|2020-01-23|2020-02-10|2020-02-17|[Harvard University](https://www.medrxiv.org/content/10.1101/2020.02.12.20022467v1)|
 |No|7.05|6.11|8.18|China|Wuhan|2019-12-31|2020-01-23|2020-02-13|[Multiple Institutions](https://www.medrxiv.org/content/10.1101/2020.02.12.20022434v1)|
 |No|2.4|2.2|2.6|China|China|2019-12-01|2020-01-23|2020-02-11|[Mobs-lab](https://www.medrxiv.org/content/10.1101/2020.02.09.20021261v1)
 |No|2.4|2.2|2.6|NA|Global|2019-12-01|2020-02-07|2020-02-11|[Mobs-lab](https://www.medrxiv.org/content/10.1101/2020.02.09.20021261v1)|
