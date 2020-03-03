@@ -1,4 +1,4 @@
-collection_ID,europe_situation_updates
+﻿collection_ID,europe_situation_updates
 collection_title_en,"Situation update for the EU/EEA, the UK and Switzerland"
 collection_title_original,"Situation update for the EU/EEA, the UK and Switzerland"
 collection_path_repository,COVID-19\data\cases\europe\europe_situation_updates
@@ -9,7 +9,7 @@ collection_publisher,European Centre for Disease Prevention and Control
 collection_description,"Daily snapshot of an online table with number of imported and locally acquired cases, updated weekdays update daily at 8:00 CET"
 collection_URL_original,https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea
 collection_format,CSV files
-collection_number_files,18
+collection_number_files,19
 collection_members.1,EU_UK_data_update_2020-02-12_080000_+0100.csv
 collection_members.2,EU_UK_data_update_2020-02-13_080000_+0100.csv
 collection_members.3,EU_UK_data_update_2020-02-14_080000_+0100.csv
@@ -28,14 +28,15 @@ collection_members.15,EU_UK_data_download_2020-02-28_073001_-0500.csv
 collection_members.16,EU_UK_data_download_2020-02-29_073001_-0500.csv
 collection_members.17,EU_UK_data_download_2020-03-01_073000_-0500.csv
 collection_members.18,EU_UK_data_download_2020-03-02_073000_-0500.csv
+collection_members.19,EU_UK_data_download_2020-03-03_073001_-0500.csv
 collection_first_report_date,2020-02-12
-collection_last_report_date,2020-03-02
+collection_last_report_date,2020-02-27
 collection_license,NA
 collection_access,Web page that can be viewed and read
 related_object_id,NA
 related_object_path,NA
 relation_description,NA
 curation _notes,NA
-collection_lastupdated_date,2020-03-02
+collection_lastupdated_date,2020-03-03
 collection_lastupdated_person,"Anne Cross, University of Pittsbugh, ORCID 0000-0003-1707-253X"
 collection_lastupdated_email,anne.cross@pitt.edu
