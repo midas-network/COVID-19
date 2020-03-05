@@ -9,7 +9,7 @@ collection_publisher,Korean Centers for Disease Control
 collection_description,"Narrative updates and some tabular data about confirmed nCoV cases in South Korea, and information about cases under investigation. Content and file titles vary. "
 collection_URL_original,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030
 collection_format,PDF
-collection_number_files,103
+collection_number_files,105
 collection_members.1,Press_Release_(1.20).pdf
 collection_members.2,Press_Release_(1.21).pdf
 collection_members.3,Press_Release_(Jan.24).pdf
@@ -113,14 +113,16 @@ collection_members.100,Press_Release_(March2)_Afternoon.pdf
 collection_members.101,Press_Release_(March2)_Morning.pdf
 collection_members.102,Press Release (March3)_Morning.pdf
 collection_members.103,Press_Release_(March3)_Afternoon.pdf
+collection_members.104,Press_Release_(March4)_Afternoon.pdf
+collection_members.105,Press_Release_(March4)_Morning.pdf
 collection_first_report_date,2020-01-20
-collection_last_report_date,2020-03-03
+collection_last_report_date,2020-03-04
 collection_license,NA
 collection_access,PDF Download links
 related_object_id,NA
 related_object_path,NA
 relation_description,NA
 curation _notes,"Files from English version of the KCDC website, Korean version may include additional information (https://www.cdc.go.kr/board/board.es?mid=a20501000000&bid=0015)."
-collection_lastupdated_date,2020-03-03
+collection_lastupdated_date,2020-03-04
 collection_lastupdated_person,"Anne Cross, University of Pittsbugh, ORCID 0000-0003-1707-253X"
 collection_lastupdated_email,anne.cross@pitt.edu
