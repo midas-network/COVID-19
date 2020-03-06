@@ -50,7 +50,7 @@
 * Description: Visualization tool that takes NSSAC-curated data from the Harvard public line list in order to display a dashboard view of imported COVID-19 cases (cases in countries outside of China). Users can click on countries on the dashboard’s interactive map to see more information. the COVID-19 Imported Cases Dashboard includes Imported Case Cluster Figures (where applicable) generated from the BeOutbreakPrepared nCoV 2019 public line list. 
 * Last updated: 2020-02-19
 
-### [New Coronara Virus Pneumonia Close contact, Query Tool](http://2019ncov.nosugartech.com/)
+### [New Coronavirus cases, travel route app](http://2019ncov.nosugartech.com/)
 * Curation status: published
 * Created by: NoSugarTech
 * Description: App containing a database of travel routes of confirmed patients that can be queried. Data on the platform comes from public verified sources such as state-owned media reports and local government websites.
