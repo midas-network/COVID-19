@@ -1,0 +1,8 @@
+﻿collection_ID,data_field_code,data_field_name,full_name_en,full_name_original,description,format,unit,information_update_date,informatin_update_person,information_update_email
+confirmed_cases_movement,CCMKO1,환자,patient,환자,Patient number,text,NA,2020-02-21,Anne Cross,anne.cross@pitt.edu
+confirmed_cases_movement,CCMKO2,인적사항,Personal Information,인적사항,"Sex (Nationality, Birth year)",text,NA,2020-02-21,Anne Cross,anne.cross@pitt.edu
+confirmed_cases_movement,CCMKO3,감염경로,Infection Path,감염경로,"Contact history (degree)",text,NA,2020-02-21,Anne Cross,anne.cross@pitt.edu
+confirmed_cases_movement,CCMKO4,확진일자,Confirmed Date,확진일자,Date the case was confirmed,date,NA,2020-02-21,Anne Cross,anne.cross@pitt.edu
+confirmed_cases_movement,CCMKO5,입원기관,Hospital name,입원기관,Name of the hospital where the patient was treated,text,NA,2020-02-21,Anne Cross,anne.cross@pitt.edu
+confirmed_cases_movement,CCMKO6,접촉자수(격리조치 중),Added death,접촉자수(격리조치 중),Number of contactees (number of contactees under quarantine),text,NA,2020-02-21,Anne Cross,anne.cross@pitt.edu
+confirmed_cases_movement,CCMKO7,MovementInfo,MovementInfo,MovementInfo,Movement information of the patient,text,NA,2020-02-21,Anne Cross,anne.cross@pitt.edu

@@ -1,0 +1,25 @@
+collection_ID,cases_travel
+collection_title_en,"New Corona Virus Pneumonia Patients with Same Travel, Query tool"
+collection_title_original,"新型冠状病毒肺炎
+确诊患者同行程查询工具"
+collection_path_repository,COVID-19\data\cases\china\cases_travel
+collection_language,Chinese
+collection_creator_name,"NoSugarTech, Qihoo 360"
+collection_creator_contact,nearpost@qq.com
+collection_publisher,NoSugarTech
+collection_description,"App containing a dataset of travel routes of confirmed patients, developed and published for free use. Data on the platform comes from public verified sources such as state-owned media reports and local government websites."
+collection_URL_original,http://2019ncov.nosugartech.com/
+collection_format,CSV
+collection_number_files,1
+collection_members.1,table_20200306.csv
+collection_first_report_date,2019-12-21
+collection_last_report_date,2020-02-28
+collection_license,NA
+collection_access,Tables that can be download in csv file format
+related_object_id,
+related_object_path,
+relation_description,
+curation_notes,
+collection_lastupdated_date,2020-03-05
+collection_lastupdated_person,"Lucie Contamin, University of Pittsbugh"
+collection_lastupdated_email,contamin@pitt.edu

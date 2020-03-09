@@ -1,0 +1,13 @@
+collection_ID,data_field_code,data_field_name,full_name_en,full_name_original,description,format,unit,information_update_date,informatin_update_person,information_update_email
+dataset_luo-et-al_202002,DLA1,Province,Province,Province,Name of the province in English,text,NA,2020-02-21,Lucie Contamin,contamin@pitt.edu
+dataset_luo-et-al_202002,DLA2,R0_mean,R0_mean,R0_mean,Mean basic reproduction number,numeric,NA,2020-02-21,Lucie Contamin,contamin@pitt.edu
+dataset_luo-et-al_202002,DLA3,Absolute_Humidity,Absolute_Humidity,Absolute_Humidity,Absolute humidity in January 2020 from World Weather Online ,numeric,Percent,2020-02-21,Lucie Contamin,contamin@pitt.edu
+dataset_luo-et-al_202002,DLA4,Temperature_Mean,Temperature_Mean,Temperature_Mean,Mean Temperature in degree Celsius in January 2020 from World Weather Online,numeric,degree Celsius,2020-02-21,Lucie Contamin,contamin@pitt.edu
+dataset_luo-et-al_202002,DLA5,Cumulative_Cases,Cumulative_Cases,Cumulative_Cases,"Number of cumulative cases, Incidence data were collected from various sources, including the World Health Organization (WHO); U.S. Centers for Disease Control and Prevention, China Center for Disease Control and Prevention CDC, Euro- pean Centre for Disease Control and Prevention the Chinese National Health Center (NHC) as well as DXY.cn",numeric,NA,2020-02-21,Lucie Contamin,contamin@pitt.edu
+dataset_luo-et-al_202002,DLA6,R0_confidence_interval_Upper,R0_confidence_interval_Upper,R0_confidence_interval_Upper,"95% confidence interval of the basic reproduction number, upper bound",numeric,NA,2020-02-21,Lucie Contamin,contamin@pitt.edu
+dataset_luo-et-al_202002,DLA7,R0_confidence_interval_Lower,R0_confidence_interval_Lower,R0_confidence_interval_Lower,"95% confidence interval of the basic reproduction number, lower bound",numeric,NA,2020-02-21,Lucie Contamin,contamin@pitt.edu
+dataset_luo-et-al_202002,DLA8,Country.Region,Country.Region,Country.Region,Name of the country or region associated in English,text,NA,2020-02-21,Lucie Contamin,contamin@pitt.edu
+dataset_luo-et-al_202002,DLA9,PopulationDensity_2014,PopulationDensity_2014,PopulationDensity_2014,Population density in 2014 ,numeric,NA,2020-02-21,Lucie Contamin,contamin@pitt.edu
+dataset_luo-et-al_202002,DLA10,Lat,Lat,Lat,Latitude in decimal,numeric,,2020-02-21,Lucie Contamin,contamin@pitt.edu
+dataset_luo-et-al_202002,DLA11,Long,Long,Long,Longitude in decimal,numeric,,2020-02-21,Lucie Contamin,contamin@pitt.edu
+dataset_luo-et-al_202002,DLA12,Capital,Capital,Capital,Capital in English of the country or region associated,text,NA,2020-02-21,Lucie Contamin,contamin@pitt.edu

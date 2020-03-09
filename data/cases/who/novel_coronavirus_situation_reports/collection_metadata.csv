@@ -1,4 +1,4 @@
-collection_ID,novel_coronavirus_situation_reports
+﻿collection_ID,novel_coronavirus_situation_reports
 collection_title_en,Novel Coronavirus (2019-nCoV) situation reports
 collection_title_original,Novel Coronavirus (2019-nCoV) situation reports
 collection_path_repository,COVID-19\data\cases\who\novel_coronavirus_situation_reports
@@ -9,7 +9,7 @@ collection_publisher,World Health Organization
 collection_description,"Daily summary of global number of nCoV cases, per province in China and by country, including cases with travel history to China. Reports include guidance on response and update on response activities. Report format and content changes over time. Reports may be replaced by updated versions with error corrections, indicated by ""Erratum"" in the title or a -v2, or v3 , etc. in the file name."
 collection_URL_original,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports
 collection_format,PDF narrative and tables
-collection_number_files,25
+collection_number_files,47
 collection_members.1,20200121-sitrep-1-2019-ncov.pdf
 collection_members.2,20200122-sitrep-2-2019-ncov.pdf
 collection_members.3,20200123-sitrep-3-2019-ncov.pdf
@@ -35,14 +35,36 @@ collection_members.22,20200211-sitrep-22-ncov.pdf
 collection_members.23,20200212-sitrep-23-ncov.pdf
 collection_members.24,20200213-sitrep-24-covid-19.pdf
 collection_members.25,20200214-sitrep-25-covid-19.pdf
+collection_members.26,20200215-sitrep-26-covid-19.pdf
+collection_members.27,20200216-sitrep-27-covid-19.pdf
+collection_members.28,20200217-sitrep-28-covid-19.pdf
+collection_members.29,20200218-sitrep-29-covid-19.pdf
+collection_members.30,20200219-sitrep-30-covid-19.pdf
+collection_members.31,20200220-sitrep-31-covid-19.pdf
+collection_members.32,20200221-sitrep-32-covid-19.pdf
+collection_members.33,20200222-sitrep-33-covid-19.pdf
+collection_members.34,20200223-sitrep-34-covid-19.pdf
+collection_members.35,20200224-sitrep-35-covid-19.pdf
+collection_members.36,20200225-sitrep-36-covid-19.pdf
+collection_members.37,20200226-sitrep-37-covid-19.pdf
+collection_members.38,20200227-sitrep-38-covid-19.pdf
+collection_members.39,20200228-sitrep-39-covid-19.pdf
+collection_members.40,20200229-sitrep-40-covid-19.pdf
+collection_members.41,20200301-sitrep-41-covid-19.pdf
+collection_members.42,20200302-sitrep-42-covid-19.pdf
+collection_members.43,20200303-sitrep-43-covid-19.pdf
+collection_members.44,20200304-sitrep-44-covid-19.pdf
+collection_members.45,20200305-sitrep-45-covid-19.pdf
+collection_members.46,20200306-sitrep-46-covid-19.pdf
+collection_members.47,20200307-sitrep-47-covid-19.pdf
 collection_first_report_date,2020-01-21
-collection_last_report_date,2020-02-14
+collection_last_report_date,2020-03-07
 collection_license,NA
 collection_access,Download links to PDF reports
 related_object_id,NA
 related_object_path,NA
 relation_description,NA
 curation _notes,NA
-collection_lastupdated_date,2020-02-14
-collection_lastupdated_person,"Lucie Contamin, University of Pittsburgh"
-collection_lastupdated_email,contamin@pitt.edu
+collection_lastupdated_date,2020-03-08
+collection_lastupdated_person,"Anne Cross, University of Pittsbugh, ORCID 0000-0003-1707-253X"
+collection_lastupdated_email,anne.cross@pitt.edu

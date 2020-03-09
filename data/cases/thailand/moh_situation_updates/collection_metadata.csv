@@ -1,4 +1,4 @@
-collection_ID,moh_situation_updates
+﻿collection_ID,moh_situation_updates
 collection_title_en,Novel Coronavirus 2019 Pneumonia Situation
 collection_title_original,รายงานสถานการณ์สำหรับสำหรับประชาชนและสื่อมวลชน
 collection_path_repository,COVID-19\data\cases\thailand\moh_situation_updates
@@ -9,7 +9,7 @@ collection_publisher,"Ministry of Public Health, Department of Disease Control"
 collection_description,"Daily updates in narrative and tables on international cases and Thailand situation. Thai situation includes patients screened or under investigation, confirmed, hospitalized, recovered, and deaths"
 collection_URL_original,https://ddc.moph.go.th/viralpneumonia/eng/situation.php
 collection_format,PDF narrative and tables
-collection_number_files,31
+collection_number_files,53
 collection_members.1,situation-no11-140163.pdf
 collection_members.2,situation-no12-150163.pdf
 collection_members.3,situation-no13-160163.pdf
@@ -41,14 +41,37 @@ collection_members.28,situation-no38-100263.pdf
 collection_members.29,situation-no39-110263.pdf
 collection_members.30,situation-no40-120263.pdf
 collection_members.31,situation-no41-130263.pdf
+collection_members.32,situation-no42-140263.pdf
+collection_members.33,situation-no43-150263.pdf
+collection_members.34,situation-no37-090263.pdf
+collection_members.35,situation-no44-160263.pdf
+collection_members.36,situation-no45-170263.pdf
+collection_members.37,situation-no46-180263.pdf
+collection_members.38,situation-no47-190263.pdf
+collection_members.39,situation-no48-200263.pdf
+collection_members.40,situation-no49-210263.pdf
+collection_members.41,situation-no50-220263.pdf
+collection_members.42,situation-no51-230263.pdf
+collection_members.43,situation-no52-240263.pdf
+collection_members.44,situation-no53-250263.pdf
+collection_members.45,situation-no54-260263.pdf
+collection_members.46,situation-no55-270263.pdf
+collection_members.47,situation-no56-280263.pdf
+collection_members.48,situation-no57-290263.pdf
+collection_members.49,situation-no58-010363.pdf
+collection_members.50,situation-no59-020363.pdf
+collection_members.51,situation-no60-030363.pdf
+collection_members.52,situation-no61-040363.pdf
+collection_members.53,situation-no62-050363.pdf
+collection_members.54,situation-no63-060363.pdf
 collection_first_report_date,2020-01-14
-collection_last_report_date,2020-02-13
+collection_last_report_date,2020-03-06
 collection_license,NA
 collection_access,PDF download links
 related_object_id,moh_situation_updates_TH
 related_object_path,COVID-19\data\cases\thailand\moh_situation_updates_TH
 relation_description,Thai version of files
 curation _notes,NA
-collection_lastupdated_date,2020-02-14
-collection_lastupdated_person,"Lucie Contamin, University of Pittsburgh"
-collection_lastupdated_email,contamin@pitt.edu
+collection_lastupdated_date,2020-03-08
+collection_lastupdated_person,"Anne Cross, University of Pittsbugh, ORCID 0000-0003-1707-253X"
+collection_lastupdated_email,anne.cross@pitt.edu

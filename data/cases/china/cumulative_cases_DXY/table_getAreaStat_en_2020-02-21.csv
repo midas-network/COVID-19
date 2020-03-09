@@ -1,0 +1,460 @@
+﻿provinceName,provinceShortName,cityName,confirmedCount,suspectedCount,curedCount,deadCount,comment
+Hubei Province,Hubei,NA,62662,0,11881,2144,湖北省卫健委尚未发布昨日确诊数据，武汉确诊数据及治愈死亡数据来自国家卫健委。
+Hubei Province,Hubei,Wuhan,45346,0,6281,1684,NA
+Hubei Province,Hubei,Xiaogan,3346,0,771,94,NA
+Hubei Province,Hubei,Huanggang,2856,0,1274,90,NA
+Hubei Province,Hubei,Jingzhou,1517,0,531,40,NA
+Hubei Province,Hubei,Ezhou,1343,0,375,39,NA
+Hubei Province,Hubei,Suizhou,1287,0,386,28,NA
+Hubei Province,Hubei,Xiangyang,1170,0,343,24,NA
+Hubei Province,Hubei,Yichang,895,0,250,28,NA
+Hubei Province,Hubei,Yellowstone,974,0,361,27,NA
+Hubei Province,Hubei,Jingmen,800,0,229,37,NA
+Hubei Province,Hubei,Xianning,766,0,314,10,NA
+Hubei Province,Hubei,Shiyan,654,0,212,2,NA
+Hubei Province,Hubei,Xiantao,568,0,210,19,NA
+Hubei Province,Hubei,Tianmen,477,0,165,12,NA
+Hubei Province,Hubei,监狱系统,220,0,0,0,NA
+Hubei Province,Hubei,Enshi,245,0,112,3,NA
+Hubei Province,Hubei,Qianjiang,188,0,57,7,NA
+Hubei Province,Hubei,Shennongjia Forest District,10,0,10,0,NA
+Guangdong Province,Guangdong,NA,1333,0,690,5,
+Guangdong Province,Guangdong,Shenzhen,416,0,222,2,NA
+Guangdong Province,Guangdong,Guangzhou,339,0,172,0,NA
+Guangdong Province,Guangdong,Dongguan,93,0,27,1,NA
+Guangdong Province,Guangdong,Foshan,84,0,34,0,NA
+Guangdong Province,Guangdong,Zhuhai,98,0,49,1,NA
+Guangdong Province,Guangdong,Zhongshan,66,0,43,0,NA
+Guangdong Province,Guangdong,Huizhou,62,0,41,0,NA
+Guangdong Province,Guangdong,Jiangmen,23,0,9,0,NA
+Guangdong Province,Guangdong,Zhanjiang,22,0,12,0,NA
+Guangdong Province,Guangdong,Zhaoqing,18,0,8,1,NA
+Guangdong Province,Guangdong,Maoming,14,0,6,0,NA
+Guangdong Province,Guangdong,Shantou,25,0,20,0,NA
+Guangdong Province,Guangdong,Meizhou,16,0,11,0,NA
+Guangdong Province,Guangdong,Shaoguan,10,0,6,0,NA
+Guangdong Province,Guangdong,Jieyang,8,0,4,0,NA
+Guangdong Province,Guangdong,Yangjiang,13,0,10,0,NA
+Guangdong Province,Guangdong,Qingyuan,12,0,9,0,NA
+Guangdong Province,Guangdong,Shanwei,5,0,2,0,NA
+Guangdong Province,Guangdong,Heyuan,4,0,1,0,NA
+Guangdong Province,Guangdong,Chaozhou,5,0,4,0,NA
+Zhejiang Province,Zhejiang,NA,1203,0,679,1,
+Zhejiang Province,Zhejiang,Wenzhou,504,0,268,1,NA
+Zhejiang Province,Zhejiang,Taizhou,146,0,84,0,NA
+Zhejiang Province,Zhejiang,Hangzhou,169,0,111,0,NA
+Zhejiang Province,Zhejiang,Ningbo,157,0,103,0,NA
+Zhejiang Province,Zhejiang,省十里丰监狱,34,0,0,0,NA
+Zhejiang Province,Zhejiang,Jiaxing,45,0,22,0,NA
+Zhejiang Province,Zhejiang,Shaoxing,42,0,20,0,NA
+Zhejiang Province,Zhejiang,Jinhua,55,0,36,0,NA
+Zhejiang Province,Zhejiang,Zhoushan,10,0,5,0,NA
+Zhejiang Province,Zhejiang,Luzhou,14,0,10,0,NA
+Zhejiang Province,Zhejiang,Huzhou,10,0,6,0,NA
+Zhejiang Province,Zhejiang,Lishui,17,0,14,0,NA
+Henan Province,Henan,NA,1267,0,736,19,参考卫健委统计口径，部分县区与地级市合并
+Henan Province,Henan,Xinyang,270,0,134,2,NA
+Henan Province,Henan,Nanyang,155,0,66,2,NA
+Henan Province,Henan,Zhengzhou,157,0,98,0,NA
+Henan Province,Henan,Zhumadian,139,0,99,0,NA
+Henan Province,Henan,Zhoukou,76,0,41,0,NA
+Henan Province,Henan,Shangqiu,91,0,63,3,NA
+Henan Province,Henan,Xinxiang,57,0,32,3,NA
+Henan Province,Henan,Anyang,53,0,31,0,NA
+Henan Province,Henan,Xu Chang,39,0,19,0,NA
+Henan Province,Henan,Jiaozuo,32,0,12,1,NA
+Henan Province,Henan,Pingdingshan,58,0,39,1,NA
+Henan Province,Henan,Luoyang,31,0,16,1,NA
+Henan Province,Henan,Luohe,35,0,22,0,NA
+Henan Province,Henan,Kaifeng,26,0,15,0,NA
+Henan Province,Henan,Hebi,19,0,9,0,NA
+Henan Province,Henan,Liyang,17,0,7,0,NA
+Henan Province,Henan,Jiyuan,5,0,3,0,NA
+Henan Province,Henan,Sanmenxia,7,0,6,0,NA
+Henan Province,Henan,Area to be identified,0,0,24,6,NA
+Shandong Province,Shandong,NA,749,0,281,4,
+Shandong Province,Shandong,Jining,253,0,29,0,NA
+Shandong Province,Shandong,Yantai,47,0,18,0,NA
+Shandong Province,Shandong,Weifang,44,0,17,0,NA
+Shandong Province,Shandong,Jinan,47,0,22,0,NA
+Shandong Province,Shandong,Texas,37,0,11,2,NA
+Shandong Province,Shandong,Qingdao,59,0,35,1,NA
+Shandong Province,Shandong,Taian,34,0,12,1,NA
+Shandong Province,Shandong,Weihai,38,0,18,0,NA
+Shandong Province,Shandong,Zibo,30,0,10,0,NA
+Shandong Province,Shandong,Liaocheng,38,0,21,0,NA
+Shandong Province,Shandong,Zaozhuang,24,0,11,0,NA
+Shandong Province,Shandong,sunshine,16,0,8,0,NA
+Shandong Province,Shandong,Linyi,49,0,44,0,NA
+Shandong Province,Shandong,Heze,18,0,14,0,NA
+Shandong Province,Shandong,Binzhou,15,0,11,0,NA
+Jiangxi Province,Jiangxi,NA,934,0,489,1,
+Jiangxi Province,Jiangxi,Nanchang,229,0,145,0,NA
+Jiangxi Province,Jiangxi,Jiujiang,118,0,47,0,NA
+Jiangxi Province,Jiangxi,Shangrao,123,0,64,0,NA
+Jiangxi Province,Jiangxi,Yichun,106,0,53,0,NA
+Jiangxi Province,Jiangxi,Xinyu,130,0,80,0,NA
+Jiangxi Province,Jiangxi,Ganzhou,76,0,34,1,NA
+Jiangxi Province,Jiangxi,Fuzhou,72,0,37,0,NA
+Jiangxi Province,Jiangxi,Pingxiang,33,0,11,0,NA
+Jiangxi Province,Jiangxi,Yingtan,18,0,4,0,NA
+Jiangxi Province,Jiangxi,Gian,22,0,11,0,NA
+Jiangxi Province,Jiangxi,Jingdezhen,6,0,3,0,NA
+Jiangxi Province,Jiangxi,Ganjiang New District,1,0,0,0,NA
+Anhui Province,Anhui,NA,988,0,539,6,
+Anhui Province,Anhui,Bengbu,160,0,56,5,NA
+Anhui Province,Anhui,Hefei,174,0,97,1,NA
+Anhui Province,Anhui,Fuyang,155,0,90,0,NA
+Anhui Province,Anhui,Luzhou,108,0,70,0,NA
+Anhui Province,Anhui,Lu'an,69,0,35,0,NA
+Anhui Province,Anhui,Anqing,83,0,55,0,NA
+Anhui Province,Anhui,Maanshan,37,0,17,0,NA
+Anhui Province,Anhui,Suzhou,41,0,23,0,NA
+Anhui Province,Anhui,Tongling,29,0,13,0,NA
+Anhui Province,Anhui,Huainan,27,0,14,0,NA
+Anhui Province,Anhui,Huaibei,27,0,15,0,NA
+Anhui Province,Anhui,Wuhu,33,0,26,0,NA
+Anhui Province,Anhui,Chizhou,17,0,10,0,NA
+Anhui Province,Anhui,Luzhou,13,0,8,0,NA
+Anhui Province,Anhui,Huangshan,9,0,6,0,NA
+Anhui Province,Anhui,Xuancheng,6,0,4,0,NA
+Hunan Province,Hunan,NA,1011,0,661,4,
+Hunan Province,Hunan,Changsha,242,0,125,2,NA
+Hunan Province,Hunan,Yue Yang,156,0,76,1,NA
+Hunan Province,Hunan,Zhuzhou,78,0,46,0,NA
+Hunan Province,Hunan,Changde,80,0,58,0,NA
+Hunan Province,Hunan,Loudi,76,0,54,0,NA
+Hunan Province,Hunan,Shao Yang,102,0,81,1,NA
+Hunan Province,Hunan,Xiangtan,35,0,17,0,NA
+Hunan Province,Hunan,Hengyang,48,0,37,0,NA
+Hunan Province,Hunan,Luzhou,39,0,30,0,NA
+Hunan Province,Hunan,Yiyang,59,0,51,0,NA
+Hunan Province,Hunan,Yongzhou,43,0,35,0,NA
+Hunan Province,Hunan,Huaihua,40,0,38,0,NA
+Hunan Province,Hunan,Xiangxi Autonomous Prefecture,8,0,8,0,NA
+Hunan Province,Hunan,Zhangjiajie,5,0,5,0,NA
+Heilongjiang Province,Heilongjiang,NA,479,0,175,12,
+Heilongjiang Province,Heilongjiang,Harbin,197,0,76,3,NA
+Heilongjiang Province,Heilongjiang,Jixi,46,0,3,0,NA
+Heilongjiang Province,Heilongjiang,Shuangyashan,52,0,16,3,NA
+Heilongjiang Province,Heilongjiang,Qiqihar,43,0,16,1,NA
+Heilongjiang Province,Heilongjiang,Suihua,47,0,26,4,NA
+Heilongjiang Province,Heilongjiang,Daqing,26,0,8,1,NA
+Heilongjiang Province,Heilongjiang,Mudanjiang,14,0,2,0,NA
+Heilongjiang Province,Heilongjiang,Qitaihe,17,0,6,0,NA
+Heilongjiang Province,Heilongjiang,Heihe,14,0,4,0,NA
+Heilongjiang Province,Heilongjiang,Hegang,5,0,2,0,NA
+Heilongjiang Province,Heilongjiang,Jiamusi,15,0,14,0,NA
+Heilongjiang Province,Heilongjiang,Yichun,1,0,0,0,NA
+Heilongjiang Province,Heilongjiang,Daxinganling,2,0,2,0,NA
+Sichuan Province,Sichuan,NA,525,0,231,3,
+Sichuan Province,Sichuan,Chengdu,143,0,71,3,NA
+Sichuan Province,Sichuan,Ganzi Prefecture,68,0,10,0,NA
+Sichuan Province,Sichuan,Dazhou,41,0,11,0,NA
+Sichuan Province,Sichuan,Nanchong,38,0,15,0,NA
+Sichuan Province,Sichuan,Luzhou,24,0,6,0,NA
+Sichuan Province,Sichuan,Bazhong,24,0,10,0,NA
+Sichuan Province,Sichuan,Deyang,18,0,5,0,NA
+Sichuan Province,Sichuan,Mianyang,22,0,10,0,NA
+Sichuan Province,Sichuan,Neijiang,22,0,10,0,NA
+Sichuan Province,Sichuan,Guang'an,30,0,20,0,NA
+Sichuan Province,Sichuan,Suining,17,0,10,0,NA
+Sichuan Province,Sichuan,Liangshan Prefecture,13,0,6,0,NA
+Sichuan Province,Sichuan,Yibin,12,0,7,0,NA
+Sichuan Province,Sichuan,Panzhihua,16,0,13,0,NA
+Sichuan Province,Sichuan,Yaan,7,0,4,0,NA
+Sichuan Province,Sichuan,Zigong,9,0,7,0,NA
+Sichuan Province,Sichuan,Meishan,8,0,6,0,NA
+Sichuan Province,Sichuan,Guangyuan,6,0,5,0,NA
+Sichuan Province,Sichuan,Leshan,3,0,2,0,NA
+Sichuan Province,Sichuan,Ziyang,3,0,2,0,NA
+Sichuan Province,Sichuan,Aba,1,0,1,0,NA
+Chongqing,Chongqing,NA,567,0,299,6,
+Chongqing,Chongqing,Wanzhou District,115,0,56,4,NA
+Chongqing,Chongqing,Jiangbei District,28,0,9,0,NA
+Chongqing,Chongqing,Hechuan District,23,0,8,0,NA
+Chongqing,Chongqing,Taonan District,18,0,5,0,NA
+Chongqing,Chongqing,Qijiang District,23,0,11,0,NA
+Chongqing,Chongqing,Fengjie County,22,0,10,0,NA
+Chongqing,Chongqing,Dianjiang County,20,0,9,0,NA
+Chongqing,Chongqing,Changshou District,21,0,11,0,NA
+Chongqing,Chongqing,Liangjiang New District,17,0,7,0,NA
+Chongqing,Chongqing,South Bank area,15,0,5,0,NA
+Chongqing,Chongqing,Jiulongpo District,20,0,10,1,NA
+Chongqing,Chongqing,Yu Bei District,17,0,9,0,NA
+Chongqing,Chongqing,Shapingba District,8,0,1,0,NA
+Chongqing,Chongqing,Yunyang County,25,0,19,0,NA
+Chongqing,Chongqing,Yuzhong District,20,0,14,0,NA
+Chongqing,Chongqing,Tongliang District,10,0,4,0,NA
+Chongqing,Chongqing,Fengdu County,10,0,4,0,NA
+Chongqing,Chongqing,Shizhu County,15,0,10,0,NA
+Chongqing,Chongqing,Dazu District,14,0,9,0,NA
+Chongqing,Chongqing,Kaizhou District,20,0,15,1,NA
+Chongqing,Chongqing,Wuxi County,13,0,9,0,NA
+Chongqing,Chongqing,Wushan County,10,0,6,0,NA
+Chongqing,Chongqing,Rongchang District,9,0,5,0,NA
+Chongqing,Chongqing,Banan District,6,0,2,0,NA
+Chongqing,Chongqing,Fuling District,5,0,2,0,NA
+Chongqing,Chongqing,Zhongxian,20,0,18,0,NA
+Chongqing,Chongqing,Laoshan District,9,0,7,0,NA
+Chongqing,Chongqing,Dadukou District,7,0,5,0,NA
+Chongqing,Chongqing,High-tech Zone,4,0,2,0,NA
+Chongqing,Chongqing,Pengshui County,2,0,0,0,NA
+Chongqing,Chongqing,Yongchuan District,5,0,4,0,NA
+Chongqing,Chongqing,Jiangjin District,4,0,3,0,NA
+Chongqing,Chongqing,Youyang County,1,0,0,0,NA
+Chongqing,Chongqing,Wansheng Economic Development Zone,1,0,0,0,NA
+Chongqing,Chongqing,Liangping District,4,0,4,0,NA
+Chongqing,Chongqing,Qianjiang District,2,0,2,0,NA
+Chongqing,Chongqing,Chengkou County,2,0,2,0,NA
+Chongqing,Chongqing,Wulong District,1,0,1,0,NA
+Chongqing,Chongqing,Xiushan County,1,0,1,0,NA
+Jiangsu Province,Jiangsu,NA,631,0,373,0,
+Jiangsu Province,Jiangsu,Suzhou,87,0,42,0,NA
+Jiangsu Province,Jiangsu,Nanjing,93,0,52,0,NA
+Jiangsu Province,Jiangsu,Huaian,66,0,34,0,NA
+Jiangsu Province,Jiangsu,Lianyungang,48,0,18,0,NA
+Jiangsu Province,Jiangsu,Xuzhou,79,0,58,0,NA
+Jiangsu Province,Jiangsu,Wuxi,55,0,37,0,NA
+Jiangsu Province,Jiangsu,Nantong,40,0,23,0,NA
+Jiangsu Province,Jiangsu,Changzhou,51,0,36,0,NA
+Jiangsu Province,Jiangsu,Taizhou,37,0,24,0,NA
+Jiangsu Province,Jiangsu,Yangzhou,23,0,13,0,NA
+Jiangsu Province,Jiangsu,Yancheng,27,0,20,0,NA
+Jiangsu Province,Jiangsu,Suqian,13,0,8,0,NA
+Jiangsu Province,Jiangsu,Zhenjiang,12,0,8,0,NA
+Beijing,Beijing,NA,396,0,169,4,
+Beijing,Beijing,Haidian District,61,0,0,0,NA
+Beijing,Beijing,Chaoyang District,58,0,0,0,NA
+Beijing,Beijing,Xicheng District,53,0,0,0,NA
+Beijing,Beijing,Fengtai District,41,0,3,0,NA
+Beijing,Beijing,Daxing District,39,0,2,0,NA
+Beijing,Beijing,Changping District,29,0,0,0,NA
+Beijing,Beijing,Foreigners coming to Beijing,26,0,2,0,NA
+Beijing,Beijing,Tongzhou District,19,0,1,0,NA
+Beijing,Beijing,Fangshan District,16,0,3,0,NA
+Beijing,Beijing,Shijingshan District,14,0,1,0,NA
+Beijing,Beijing,Dongcheng Area,12,0,1,0,NA
+Beijing,Beijing,Shunyi District,10,0,0,0,NA
+Beijing,Beijing,Huairou District,7,0,0,0,NA
+Beijing,Beijing,Miyun District,7,0,0,0,NA
+Beijing,Beijing,Mentougou District,3,0,2,0,NA
+Beijing,Beijing,Yanqing District,1,0,0,0,NA
+Beijing,Beijing,Area to be identified,0,0,154,4,NA
+Guangxi Zhuang Autonomous Region,Guangxi,NA,246,0,97,2,
+Guangxi Zhuang Autonomous Region,Guangxi,Nanning,54,0,25,0,NA
+Guangxi Zhuang Autonomous Region,Guangxi,North Sea,44,0,14,1,NA
+Guangxi Zhuang Autonomous Region,Guangxi,Hechi,24,0,4,1,NA
+Guangxi Zhuang Autonomous Region,Guangxi,Guilin,31,0,15,0,NA
+Guangxi Zhuang Autonomous Region,Guangxi,Liuzhou,24,0,11,0,NA
+Guangxi Zhuang Autonomous Region,Guangxi,Fangchenggang,19,0,6,0,NA
+Guangxi Zhuang Autonomous Region,Guangxi,guest,11,0,0,0,NA
+Guangxi Zhuang Autonomous Region,Guangxi,Yulin,11,0,4,0,NA
+Guangxi Zhuang Autonomous Region,Guangxi,Guigang,8,0,3,0,NA
+Guangxi Zhuang Autonomous Region,Guangxi,Qinzhou,8,0,6,0,NA
+Guangxi Zhuang Autonomous Region,Guangxi,Hezhou,4,0,2,0,NA
+Guangxi Zhuang Autonomous Region,Guangxi,Baise,3,0,2,0,NA
+Guangxi Zhuang Autonomous Region,Guangxi,Wuzhou,5,0,5,0,NA
+Fujian Province,Fujian,NA,293,0,149,1,
+Fujian Province,Fujian,Putian,55,0,22,0,NA
+Fujian Province,Fujian,Quanzhou,46,0,17,0,NA
+Fujian Province,Fujian,Fuzhou,71,0,47,0,NA
+Fujian Province,Fujian,Xiamen,35,0,17,0,NA
+Fujian Province,Fujian,Nanping,20,0,8,0,NA
+Fujian Province,Fujian,Ningde,26,0,17,0,NA
+Fujian Province,Fujian,Sanming,14,0,5,0,NA
+Fujian Province,Fujian,Zhangzhou,20,0,13,0,NA
+Fujian Province,Fujian,Longyan,6,0,3,0,NA
+Fujian Province,Fujian,Area to be identified,0,0,0,1,NA
+Shanghai,Shanghai,NA,334,0,211,2,未知治愈数据统一归属上海市公卫临床中心，暂无具体分区
+Shanghai,Shanghai,Foreigners coming to Shanghai,110,0,73,1,NA
+Shanghai,Shanghai,Pudong New Area,60,0,42,0,NA
+Shanghai,Shanghai,Baoshan District,21,0,10,0,NA
+Shanghai,Shanghai,Xuhui District,18,0,10,0,NA
+Shanghai,Shanghai,Songjiang District,14,0,7,0,NA
+Shanghai,Shanghai,Jing'an District,16,0,10,0,NA
+Shanghai,Shanghai,Jiading District,9,0,3,0,NA
+Shanghai,Shanghai,Fengxian District,9,0,3,0,NA
+Shanghai,Shanghai,Yangpu District,9,0,4,0,NA
+Shanghai,Shanghai,Minhang District,19,0,15,0,NA
+Shanghai,Shanghai,Putuo District,11,0,7,0,NA
+Shanghai,Shanghai,Changning District,13,0,10,0,NA
+Shanghai,Shanghai,Huangpu District,6,0,3,0,NA
+Shanghai,Shanghai,Hongkou District,7,0,5,0,NA
+Shanghai,Shanghai,Chongming District,4,0,2,0,NA
+Shanghai,Shanghai,Jinshan District,3,0,2,0,NA
+Shanghai,Shanghai,Qingpu District,5,0,5,0,NA
+Shanghai,Shanghai,Area to be identified,0,0,0,1,NA
+Hebei Province,Hebei,NA,308,0,184,5,
+Hebei Province,Hebei,Tangshan,57,0,19,1,NA
+Hebei Province,Hebei,Cangzhou,48,0,22,3,NA
+Hebei Province,Hebei,Shijiazhuang,28,0,15,0,NA
+Hebei Province,Hebei,Handan,31,0,19,0,NA
+Hebei Province,Hebei,Zhangjiakou,34,0,25,0,NA
+Hebei Province,Hebei,Langfang,30,0,22,0,NA
+Hebei Province,Hebei,Xingtai,23,0,15,1,NA
+Hebei Province,Hebei,Qinhuangdao,10,0,6,0,NA
+Hebei Province,Hebei,Baoding,32,0,29,0,NA
+Hebei Province,Hebei,Hengshui,8,0,6,0,NA
+Hebei Province,Hebei,Chengde,7,0,6,0,NA
+Shaanxi Province,Shaanxi,NA,245,0,134,1,
+Shaanxi Province,Shaanxi,Xi'an,120,0,59,1,NA
+Shaanxi Province,Shaanxi,Hanzhong,26,0,10,0,NA
+Shaanxi Province,Shaanxi,Weinan,15,0,4,0,NA
+Shaanxi Province,Shaanxi,Ankang,26,0,16,0,NA
+Shaanxi Province,Shaanxi,Xianyang,17,0,14,0,NA
+Shaanxi Province,Shaanxi,Shangluo,7,0,4,0,NA
+Shaanxi Province,Shaanxi,Baoji,13,0,11,0,NA
+Shaanxi Province,Shaanxi,Yan'an,8,0,6,0,NA
+Shaanxi Province,Shaanxi,Tongchuan,8,0,6,0,NA
+Shaanxi Province,Shaanxi,Yang Ling,1,0,0,0,NA
+Shaanxi Province,Shaanxi,Yulin,3,0,3,0,NA
+Shaanxi Province,Shaanxi,Hancheng,1,0,1,0,NA
+Yunnan Province,Yunnan,NA,174,0,96,2,
+Yunnan Province,Yunnan,Kunming,53,0,32,0,NA
+Yunnan Province,Yunnan,Zhaotong,25,0,6,0,NA
+Yunnan Province,Yunnan,Xishuangbanna,15,0,4,1,NA
+Yunnan Province,Yunnan,Qu Jing,13,0,8,0,NA
+Yunnan Province,Yunnan,Red River State,9,0,4,0,NA
+Yunnan Province,Yunnan,Baoshan,9,0,4,0,NA
+Yunnan Province,Yunnan,Yuxi,14,0,9,1,NA
+Yunnan Province,Yunnan,Dali Prefecture,13,0,10,0,NA
+Yunnan Province,Yunnan,Dehong,5,0,2,0,NA
+Yunnan Province,Yunnan,Wenshan Prefecture,2,0,1,0,NA
+Yunnan Province,Yunnan,Lijiang,7,0,7,0,NA
+Yunnan Province,Yunnan,Pu'er,4,0,4,0,NA
+Yunnan Province,Yunnan,Chuxiong Prefecture,4,0,4,0,NA
+Yunnan Province,Yunnan,Lincang,1,0,1,0,NA
+Hainan,Hainan,NA,168,0,95,4,
+Hainan,Hainan,Sanya,54,0,30,1,NA
+Hainan,Hainan,Haikou,39,0,19,0,NA
+Hainan,Hainan,Changjiang,7,0,2,0,NA
+Hainan,Hainan,Luzhou,15,0,11,0,NA
+Hainan,Hainan,Wanning,13,0,9,0,NA
+Hainan,Hainan,Chengmai,9,0,4,1,NA
+Hainan,Hainan,Lingshui,4,0,1,0,NA
+Hainan,Hainan,Lingao,6,0,4,0,NA
+Hainan,Hainan,Baoting,3,0,1,0,NA
+Hainan,Hainan,Qionghai,6,0,4,1,NA
+Hainan,Hainan,East,3,0,2,0,NA
+Hainan,Hainan,Ding'an,3,0,2,1,NA
+Hainan,Hainan,Wenchang,3,0,3,0,NA
+Hainan,Hainan,Ledong,2,0,2,0,NA
+Hainan,Hainan,Qiongzhong,1,0,1,0,NA
+Guizhou Province,Guizhou,NA,146,0,77,2,
+Guizhou Province,Guizhou,Guiyang,36,0,17,1,NA
+Guizhou Province,Guizhou,Zunyi,32,0,17,0,NA
+Guizhou Province,Guizhou,Bijie,23,0,10,0,NA
+Guizhou Province,Guizhou,Qiannan Prefecture,17,0,7,0,NA
+Guizhou Province,Guizhou,Qiandongnan Prefecture,10,0,5,0,NA
+Guizhou Province,Guizhou,Liupanshui,10,0,6,1,NA
+Guizhou Province,Guizhou,Anshun,4,0,1,0,NA
+Guizhou Province,Guizhou,Tongren,10,0,10,0,NA
+Guizhou Province,Guizhou,Qianxinan Prefecture,4,0,4,0,NA
+Tianjin,Tianjin,NA,132,0,62,3,
+Tianjin,Tianjin,Baodi District,57,0,17,2,NA
+Tianjin,Tianjin,Hedong District,15,0,8,1,NA
+Tianjin,Tianjin,Beichen District,6,0,1,0,NA
+Tianjin,Tianjin,Nankai District,6,0,2,0,NA
+Tianjin,Tianjin,Hebei District,12,0,9,0,NA
+Tianjin,Tianjin,Ninghe District,4,0,1,0,NA
+Tianjin,Tianjin,Heping District,6,0,4,0,NA
+Tianjin,Tianjin,Foreign visitors,6,0,4,0,NA
+Tianjin,Tianjin,Dongli District,4,0,2,0,NA
+Tianjin,Tianjin,Hexi District,4,0,2,0,NA
+Tianjin,Tianjin,Binhai New Area,3,0,1,0,NA
+Tianjin,Tianjin,Wuqing District,2,0,1,0,NA
+Tianjin,Tianjin,Xiqing District,4,0,4,0,NA
+Tianjin,Tianjin,Hongqiao District,2,0,2,0,NA
+Tianjin,Tianjin,Jinnan District,1,0,1,0,NA
+Tianjin,Tianjin,Area to be identified,0,0,3,0,NA
+Hong Kong,Hong Kong,NA,68,0,5,2,
+Liaoning Province,Liaoning,NA,121,0,61,1,
+Liaoning Province,Liaoning,Shenyang,28,0,15,0,NA
+Liaoning Province,Liaoning,Dalian,19,0,9,0,NA
+Liaoning Province,Liaoning,Huludao,12,0,5,1,NA
+Liaoning Province,Liaoning,Panjin,11,0,5,0,NA
+Liaoning Province,Liaoning,Tieling,7,0,1,0,NA
+Liaoning Province,Liaoning,Fuxin,8,0,3,0,NA
+Liaoning Province,Liaoning,Jinzhou,12,0,8,0,NA
+Liaoning Province,Liaoning,Anshan,4,0,0,0,NA
+Liaoning Province,Liaoning,Chaoyang,6,0,3,0,NA
+Liaoning Province,Liaoning,Dandong,7,0,5,0,NA
+Liaoning Province,Liaoning,Benxi,3,0,3,0,NA
+Liaoning Province,Liaoning,Liaoyang,3,0,3,0,NA
+Liaoning Province,Liaoning,Yingkou,1,0,1,0,NA
+Inner Mongolia Autonomous Region,Inner Mongolia,NA,75,0,17,0,
+Inner Mongolia Autonomous Region,Inner Mongolia,Baotou,11,0,2,0,NA
+Inner Mongolia Autonomous Region,Inner Mongolia,Xilin Gol League,9,0,1,0,NA
+Inner Mongolia Autonomous Region,Inner Mongolia,Bayannur,8,0,0,0,NA
+Inner Mongolia Autonomous Region,Inner Mongolia,Ordos,11,0,5,0,NA
+Inner Mongolia Autonomous Region,Inner Mongolia,Chifeng,9,0,3,0,NA
+Inner Mongolia Autonomous Region,Inner Mongolia,Tongliao,7,0,1,0,NA
+Inner Mongolia Autonomous Region,Inner Mongolia,Hohhot,7,0,2,0,NA
+Inner Mongolia Autonomous Region,Inner Mongolia,Hulunbuir,7,0,2,0,NA
+Inner Mongolia Autonomous Region,Inner Mongolia,Ulanchabu,3,0,1,0,NA
+Inner Mongolia Autonomous Region,Inner Mongolia,Wuhai,2,0,0,0,NA
+Inner Mongolia Autonomous Region,Inner Mongolia,Xing'an League,1,0,0,0,NA
+Shanxi Province,Shanxi,NA,132,0,76,0,
+Shanxi Province,Shanxi,Jinzhong,36,0,21,0,NA
+Shanxi Province,Shanxi,Taiyuan,20,0,12,0,NA
+Shanxi Province,Shanxi,Jincheng,10,0,3,0,NA
+Shanxi Province,Shanxi,Datong,12,0,6,0,NA
+Shanxi Province,Shanxi,Changzhi,8,0,2,0,NA
+Shanxi Province,Shanxi,Shuozhou,8,0,3,0,NA
+Shanxi Province,Shanxi,Yuncheng,19,0,16,0,NA
+Shanxi Province,Shanxi,Xinzhou,7,0,4,0,NA
+Shanxi Province,Shanxi,Yangquan,4,0,2,0,NA
+Shanxi Province,Shanxi,Linfen,2,0,1,0,NA
+Shanxi Province,Shanxi,Lu Liang,6,0,6,0,NA
+Xinjiang Uygur Autonomous Region,Xinjiang,NA,76,0,24,1,
+Xinjiang Uygur Autonomous Region,Xinjiang,Urumqi,23,0,10,0,NA
+Xinjiang Uygur Autonomous Region,Xinjiang,Ili,18,0,6,0,NA
+Xinjiang Uygur Autonomous Region,Xinjiang,Fourth Division of the Corps,10,0,0,0,NA
+Xinjiang Uygur Autonomous Region,Xinjiang,Ninth Division of the Corps,4,0,0,0,NA
+Xinjiang Uygur Autonomous Region,Xinjiang,Twelfth Division,3,0,0,0,NA
+Xinjiang Uygur Autonomous Region,Xinjiang,Changji,4,0,2,0,NA
+Xinjiang Uygur Autonomous Region,Xinjiang,Turpan,3,0,1,0,NA
+Xinjiang Uygur Autonomous Region,Xinjiang,"Shihezi, Eighth Division of the Corps",4,0,1,1,NA
+Xinjiang Uygur Autonomous Region,Xinjiang,"Wujiaqu City, Sixth Division of the Corps",2,0,0,0,NA
+Xinjiang Uygur Autonomous Region,Xinjiang,Bazhou,3,0,2,0,NA
+Xinjiang Uygur Autonomous Region,Xinjiang,7th Division of the Corps,1,0,1,0,NA
+Xinjiang Uygur Autonomous Region,Xinjiang,Aksu region,1,0,1,0,NA
+Jilin Province,Jilin,NA,91,0,45,1,
+Jilin Province,Jilin,Changchun,45,0,22,0,NA
+Jilin Province,Jilin,Siping,15,0,8,1,NA
+Jilin Province,Jilin,Liaoyuan,7,0,1,0,NA
+Jilin Province,Jilin,Gongzhuling,6,0,2,0,NA
+Jilin Province,Jilin,Tonghua,4,0,1,0,NA
+Jilin Province,Jilin,Jilin City,5,0,4,0,NA
+Jilin Province,Jilin,Yanbian,5,0,4,0,NA
+Jilin Province,Jilin,White city,1,0,0,0,NA
+Jilin Province,Jilin,Matsubara,2,0,2,0,NA
+Jilin Province,Jilin,Meihekou,1,0,1,0,NA
+Ningxia Hui Autonomous Region,Ningxia,NA,71,0,48,0,
+Ningxia Hui Autonomous Region,Ningxia,Wu Zhong,28,0,12,0,NA
+Ningxia Hui Autonomous Region,Ningxia,Yinchuan,33,0,28,0,NA
+Ningxia Hui Autonomous Region,Ningxia,Guyuan,5,0,3,0,NA
+Ningxia Hui Autonomous Region,Ningxia,Zhongwei,3,0,3,0,NA
+Ningxia Hui Autonomous Region,Ningxia,Ning Dong,1,0,1,0,NA
+Ningxia Hui Autonomous Region,Ningxia,Shizuishan,1,0,1,0,NA
+Taiwan,Taiwan,NA,26,0,2,1,
+Gansu province,Gansu,NA,91,0,76,2,
+Gansu province,Gansu,Lanzhou,36,0,27,2,NA
+Gansu province,Gansu,Pingliang,9,0,6,0,NA
+Gansu province,Gansu,Gannan,8,0,6,0,NA
+Gansu province,Gansu,Dingxi,9,0,8,0,NA
+Gansu province,Gansu,silver,4,0,3,0,NA
+Gansu province,Gansu,Qingyang,3,0,2,0,NA
+Gansu province,Gansu,Tianshui,12,0,12,0,NA
+Gansu province,Gansu,Longnan,4,0,4,0,NA
+Gansu province,Gansu,Linxia,3,0,3,0,NA
+Gansu province,Gansu,Zhang Ye,2,0,2,0,NA
+Gansu province,Gansu,Jinchang,1,0,1,0,NA
+Gansu province,Gansu,Area to be identified,0,0,2,0,NA
+Macao,Macao,NA,10,0,6,0,
+Qinghai Province,Qinghai,NA,18,0,18,0,
+Qinghai Province,Qinghai,Xining,15,0,15,0,NA
+Qinghai Province,Qinghai,Haibei State,3,0,3,0,NA
+Tibet Autonomous Region,Tibet,NA,1,0,1,0,
+Tibet Autonomous Region,Tibet,Lhasa,1,0,1,0,NA
