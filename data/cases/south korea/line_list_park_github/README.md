@@ -13,7 +13,7 @@
 |collection_number_files||
 |collection_members|0|
 |collection_first_report_date|2020-01-20|
-|collection_last_report_date|2020-02|
+|collection_last_report_date||
 |collection_license|NA|
 |collection_access|Open Github repository that can be downloaded|
 |related_object_id|NA|
