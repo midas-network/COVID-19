@@ -79,9 +79,9 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|2.4|2.2|2.6|China|China|2019-12-01|2020-01-23|2020-02-11|[Mobs-lab](https://www.medrxiv.org/content/10.1101/2020.02.09.20021261v1)
 |No|2.4|2.2|2.6|NA|Global|2019-12-01|2020-02-07|2020-02-11|[Mobs-lab](https://www.medrxiv.org/content/10.1101/2020.02.09.20021261v1)|
 |No|4.7 - 6.6|2.8|11.3|NA|Global|2019-12-31|2020-01-30|2020-02-11|[Los Alamos National Laboratory](https://www.medrxiv.org/content/10.1101/2020.02.07.20021154v1)|
-|No|3.24|NA|NA|NA|Global|2020-01-01|2020-01-22|2020-02-09|[University of Chinese Academy of Sciences](http://medrxiv.org/content/early/2020/02/09/2020.02.07.20021071.abstract)|
-|No|2.4 - 2.5|NA|NA|China|Mainland China|2019-12-17|2020-02-06|2020-02-08|[Tsinghua-Berkeley Shenzhen Institute](www.medrxiv.org/content/medrxiv/early/2020/02/05/2020.02.04.20020461.full.pdf)|
-|No|1.48|NA|NA|China|Mainland China|2019-12-17|2020-02-06|2020-02-08|[Tsinghua-Berkeley Shenzhen Institute](www.medrxiv.org/content/medrxiv/early/2020/02/05/2020.02.04.20020461.full.pdf)|
+|No|3.24|NA|NA|NA|Global|2020-01-01|2020-01-22|2020-02-09|[University of Chinese Academy of Sciences](https://medrxiv.org/content/early/2020/02/09/2020.02.07.20021071.abstract)|
+|No|2.4 - 2.5|NA|NA|China|Mainland China|2019-12-17|2020-02-06|2020-02-08|[Tsinghua-Berkeley Shenzhen Institute](https://www.medrxiv.org/content/medrxiv/early/2020/02/05/2020.02.04.20020461.full.pdf)|
+|No|1.48|NA|NA|China|Mainland China|2019-12-17|2020-02-06|2020-02-08|[Tsinghua-Berkeley Shenzhen Institute](https://www.medrxiv.org/content/medrxiv/early/2020/02/05/2020.02.04.20020461.full.pdf)|
 |No|1.6 - 3.1|NA|NA|NA|Global|2019-12-31|2020-01-23|2020-02-07|[CMMID](https://cmmid.github.io/ncov/wuhan_early_dynamics/index.html)|
 |No|3.11|2.39|4.13|NA|Global|2020-01-01|2020-01-22|2020-01-28|[Lancaster University](https://www.medrxiv.org/content/10.1101/2020.01.23.20018549v2)|
 |No|2.5|2.0|3.1|China|Wuhan City|2019-12-08|2020-01-26|2020-01-27|[Harvard University](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3524675)|
@@ -100,7 +100,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|3.3|NA|NA|China|Excluding Hubei|2020-01-23|2020-02-03|2020-02-18|[Remnin University](https://www.medrxiv.org/content/10.1101/2020.02.16.20023770v1)|
 |No|0.63|NA|NA|China|Excluding Hubei|2020-02-04|NA|2020-02-18|[Remnin University](https://www.medrxiv.org/content/10.1101/2020.02.16.20023770v1)|
 |No|3.24|3.16|3.32|China|Wuhan|2020-01-23|2020-02-13|2020-02-13|[Multiple Institutions](https://www.medrxiv.org/content/10.1101/2020.02.12.20022434v1)|
-|No|1.06|NA|NA|China|Mainland China|2019-12-17|2020-02-08|2020-02-08|[Tsinghua-Berkeley Shenzhen Institute](www.medrxiv.org/content/medrxiv/early/2020/02/05/2020.02.04.20020461.full.pdf)|
+|No|1.06|NA|NA|China|Mainland China|2019-12-17|2020-02-08|2020-02-08|[Tsinghua-Berkeley Shenzhen Institute](https://www.medrxiv.org/content/medrxiv/early/2020/02/05/2020.02.04.20020461.full.pdf)|
 |No|4.08|3.37|4.77|NA|Global|2019-12-31|2020-01-25|2020-01-29|[University of Chinese Academy of Sciences](https://www.medrxiv.org/content/medrxiv/early/2020/01/29/2020.01.27.20018952.full.pdf)|
 |No|2.9|2.32|3.63|NA|Global|2019-12-31|2020-01-23|2020-01-26|[Guangdong Provincial Center for Disease Control and Prevention](https://www.biorxiv.org/content/biorxiv/early/2020/01/26/2020.01.25.919787.full.pdf)|
 
@@ -118,8 +118,8 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|5.17|4.46|6.04|NA|Global|2019-12-31|2020-02-10|2020-02-10|[Hopkins IDD](https://github.com/HopkinsIDD/ncov_incubation#parameter-estimates)|
 |No|5.2|4.4|6.0|China|Excluding Wuhan|2019-12-01|2020-02-04|2020-02-04|[Johns Hopkins University](https://www.medrxiv.org/content/10.1101/2020.02.02.20020016v1)|
 |No|6.4|5.6|7.7|NA|Global|2020-01-20|2020-01-28|2020-01-28|[Centre for Infectious Disease Control, The Netherlands](https://www.medrxiv.org/content/medrxiv/early/2020/01/30/2020.01.27.20018986.full.pdf)
-|No|4.6|3.3|5.7|China|Excluding Wuhan|2019-12-31|2020-01-25|2020-01-28|[Hokkaido University](www.medrxiv.org/content/medrxiv/early/2020/01/28/2020.01.26.20018754.full.pdf)|
-|No|5.0|4.1|5.8|China|Including Wuhan|2019-12-31|2020-01-25|2020-01-28|[Hokkaido University](www.medrxiv.org/content/medrxiv/early/2020/01/28/2020.01.26.20018754.full.pdf)|
+|No|4.6|3.3|5.7|China|Excluding Wuhan|2019-12-31|2020-01-25|2020-01-28|[Hokkaido University](https://www.medrxiv.org/content/medrxiv/early/2020/01/28/2020.01.26.20018754.full.pdf)|
+|No|5.0|4.1|5.8|China|Including Wuhan|2019-12-31|2020-01-25|2020-01-28|[Hokkaido University](https://www.medrxiv.org/content/medrxiv/early/2020/01/28/2020.01.26.20018754.full.pdf)|
 |No|5.4|4.2|6.7|NA|Global|2019-12-10|2020-01-25|2020-01-26|[IDM](https://institutefordiseasemodeling.github.io/nCoV-public/analyses/individual_dynamics_estimates/nCoV_incubation_period.html)|
 |No|4.8|2|11|NA|Global|2019-12-29|2020-01-23|2020-01-26|[Guangdong Provincial Center for Disease Control and Prevention](https://www.biorxiv.org/content/biorxiv/early/2020/01/26/2020.01.25.919787.full.pdf)|
 
@@ -145,7 +145,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 ## Doubling time
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
-|Yes|7.31|6.26|9.66|NA|Global|2019-12-31|2020-01-23|2020-02-13|[University of Texas at Austin](www.medrxiv.org/content/10.1101/2020.01.28.20019299v3.full.pdf)|
+|Yes|7.31|6.26|9.66|NA|Global|2019-12-31|2020-01-23|2020-02-13|[University of Texas at Austin](https://www.medrxiv.org/content/10.1101/2020.01.28.20019299v3.full.pdf)|
 |Yes|6.4|5.8|7.1|NA|Global|2019-12-31|2020-01-28|2020-01-31|[University of Hong Kong](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext)|
 |No|4.6|3.0|9.3|NA|Diamond Princess Cruise Ship|2020-01-20|2020-02-20|2020-03-02|[Zhao et al.](https://www.medrxiv.org/content/10.1101/2020.02.26.20028449v2)|
 |No|4.6|4.2|5.1|NA|Global|2019-12-01|2020-02-07|2020-02-11|[Mobs-lab](https://www.medrxiv.org/content/10.1101/2020.02.09.20021261v1)|
@@ -179,7 +179,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 ## Time from symptom onset to reporting
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
-|No|5.1|3.5|7.5|2019-12-31|2020-01-24|2020-02-17|[Hokkaido University](http://medrxiv.org/content/early/2020/02/02/2020.01.29.20019547.abstract)|
+|No|5.1|3.5|7.5|2019-12-31|2020-01-24|2020-02-17|[Hokkaido University](https://medrxiv.org/content/early/2020/02/02/2020.01.29.20019547.abstract)|
 
 ## Time from symptom onset to isolation
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
@@ -191,7 +191,8 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
 |No|5.9 +/- 5.1|NA|NA|Singapore|NA|2020-01-19|2020-02-26|2020-03-06|[Tindale et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20029983v1)|
-|No|2.7|1.6|4.1|China|NA|2019-12-31|2020-01-25|2020-01-28|[Hokkaido University](www.medrxiv.org/content/medrxiv/early/2020/01/28/2020.01.26.20018754.full.pdf)|
+|No|2.7|1.6|4.1|China|NA|2019-12-31|2020-01-25|2020-01-28|[Hokkaido University](https://www.medrxiv.org/content/medrxiv/early/2020/01/28/2020.01.26.20018754.full.pdf)|
+
 
 ## Time from hospitalization to discharge
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
@@ -211,7 +212,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|15.2|13.1|17.7|China|NA|2019-12-31|2020-01-24|2020-02-17|[Hokkaido University](http://medrxiv.org/content/early/2020/02/02/2020.01.29.20019547.abstract)|
 |No|22.3|18|82|China|Mainland China|2019-12-31|2020-01-21|2020-02-10|[Imperial College London](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-2019-nCoV-severity-10-02-2020.pdf)|
 |No|18|16|21|China|Mainland China|2019-12-10|2020-01-27|2020-02-04|[IDM](https://institutefordiseasemodeling.github.io/nCoV-public/analyses/first_adjusted_mortality_estimates_and_risk_assessment/2019-nCoV-preliminary_age_and_time_adjusted_mortality_rates_and_pandemic_risk_assessment.html)|
-|No|13.8|11.8|16.0|China|NA|2019-12-31|2020-01-25|2020-01-28|[Hokkaido University](www.medrxiv.org/content/medrxiv/early/2020/01/28/2020.01.26.20018754.full.pdf)|
+|No|13.8|11.8|16.0|China|NA|2019-12-31|2020-01-25|2020-01-28|[Hokkaido University](https://www.medrxiv.org/content/medrxiv/early/2020/01/28/2020.01.26.20018754.full.pdf)|
 
 ## Time from hospitalization to death
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
@@ -219,7 +220,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|11.2|8.7|14.9|China|NA|2019-12-31|2020-02-10|2020-02-11|[Los Alamos National Laboratory](https://www.medrxiv.org/content/10.1101/2020.02.07.20021154v1)|
 |No|12.4|9.5|14.4|NA|Global|2019-12-10|2020-01-11|2020-02-04|[IDM](https://institutefordiseasemodeling.github.io/nCoV-public/analyses/first_adjusted_mortality_estimates_and_risk_assessment/2019-nCoV-preliminary_age_and_time_adjusted_mortality_rates_and_pandemic_risk_assessment.html)|
 |No|7|NA|NA|NA|Global (mostly Hubei)|2020-01-12|2020-01-31|2020-02-04|[IDM](https://institutefordiseasemodeling.github.io/nCoV-public/analyses/first_adjusted_mortality_estimates_and_risk_assessment/2019-nCoV-preliminary_age_and_time_adjusted_mortality_rates_and_pandemic_risk_assessment.html)|
-|No|8.3|6.4|10.5|China|NA|2019-12-31|2020-01-25|2020-01-28|[Hokkaido University](www.medrxiv.org/content/medrxiv/early/2020/01/28/2020.01.26.20018754.full.pdf)|
+|No|8.3|6.4|10.5|China|NA|2019-12-31|2020-01-25|2020-01-28|[Hokkaido University](https://www.medrxiv.org/content/medrxiv/early/2020/01/28/2020.01.26.20018754.full.pdf)|
 
 ## Proportion of symptomatics that die
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
