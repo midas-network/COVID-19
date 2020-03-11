@@ -69,12 +69,7 @@ collection_access,Download links to PDF reports
 related_object_id,NA
 related_object_path,NA
 relation_description,NA
-curation _notes,NA
+curation_notes,NA
 collection_lastupdated_date,2020-03-11
-<<<<<<< HEAD
-collection_lastupdated_person,"Anne Cross, University of Pittsbugh, ORCID 0000-0003-1707-253X"
-collection_lastupdated_email,anne.cross@pitt.edu
-=======
 collection_lastupdated_person,"Lucie Contamin, University of Pittsburgh"
 collection_lastupdated_email,contamin@pitt.edu
->>>>>>> origin
