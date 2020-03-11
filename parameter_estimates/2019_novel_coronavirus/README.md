@@ -115,8 +115,8 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |---|---|---|---|---|---|---|---|---|---|
 |No|7.1|6.1|8.3|Singapore|NA|2020-01-19|2020-02-26|2020-03-6|[Tindale et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20029983v1)|
 |No|9.0|7.92|10.2|China|Tianjin|2020-01-21|2020-02-22|2020-03-06|[Tindale et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20029983v1)|
-|No|5.17|4.46|6.04|NA|Global|2019-12-31|2020-02-10|2020-02-10|[Hopkins IDD](https://github.com/HopkinsIDD/ncov_incubation#parameter-estimates)|
-|No|5.2|4.4|6.0|China|Excluding Wuhan|2019-12-01|2020-02-04|2020-02-04|[Johns Hopkins University](https://www.medrxiv.org/content/10.1101/2020.02.02.20020016v1)|
+|Yes|5.1|2.2|11.5|NA|Global|2019-12-31|2020-02-24|2020-02-10|[Hopkins IDD](https://annals.org/aim/fullarticle/2762808/incubation-period-coronavirus-disease-2019-covid-19-from-publicly-reported)|
+|Yes|4.8|2.5|9.2|China|Excluding Wuhan|2019-12-01|2020-02-04|2020-02-04|[Johns Hopkins University](https://annals.org/aim/fullarticle/2762808/incubation-period-coronavirus-disease-2019-covid-19-from-publicly-reported)|
 |No|6.4|5.6|7.7|NA|Global|2020-01-20|2020-01-28|2020-01-28|[Centre for Infectious Disease Control, The Netherlands](https://www.medrxiv.org/content/medrxiv/early/2020/01/30/2020.01.27.20018986.full.pdf)
 |No|4.6|3.3|5.7|China|Excluding Wuhan|2019-12-31|2020-01-25|2020-01-28|[Hokkaido University](https://www.medrxiv.org/content/medrxiv/early/2020/01/28/2020.01.26.20018754.full.pdf)|
 |No|5.0|4.1|5.8|China|Including Wuhan|2019-12-31|2020-01-25|2020-01-28|[Hokkaido University](https://www.medrxiv.org/content/medrxiv/early/2020/01/28/2020.01.26.20018754.full.pdf)|
@@ -245,8 +245,6 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |---|---|---|---|---|---|---|---|---|---|
 |No|0.01|0.005|0.04|NA|Global|2019-12-31|2020-02-08|2020-02-10|[Imperial College London](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-2019-nCoV-severity-10-02-2020.pdf)|
 |No|0.0094|0.0037|0.029|NA|Global|2019-12-10|2020-01-27|2020-02-19|[IDM](https://institutefordiseasemodeling.github.io/nCoV-public/analyses/first_adjusted_mortality_estimates_and_risk_assessment/2019-nCoV-preliminary_age_and_time_adjusted_mortality_rates_and_pandemic_risk_assessment.html)|
-
-
 
 
 
