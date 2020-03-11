@@ -4,6 +4,8 @@
 |collection_title_original|Genomic epidemiology of novel coronavirus (nCoV)|
 |collection_path_repository|COVID-19\data\sequences\nextstrain|
 |collection_language|English and other languages|
+|collection_type|genome data|
+|collection_spatial_coverage|Global|
 |collection_creator_name|Nextstrain|
 |collection_creator_contact|trevor@bedford.io|
 |collection_publisher|Nextstrain|
@@ -20,6 +22,6 @@
 |related_object_path|NA|
 |relation_description|NA|
 |curation _notes|Nextstrain data not stored in repository, but available from the Nextstrain website|
-|collection_lastupdated_date|2020-02-08|
-|collection_lastupdated_person|Wilbert van Panhuis, University of Pittsburgh|
-|collection_lastupdated_email|wgvanpanhuis@gmail.com|
+|collection_lastupdated_date|2020-03-11|
+|collection_lastupdated_person|Lucie Contamin, University of Pittsburgh|
+|collection_lastupdated_email|contamin@pitt.edu|

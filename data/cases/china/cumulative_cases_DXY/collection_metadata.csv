@@ -1,10 +1,12 @@
-﻿collection_ID,cumulative_cases_dxy
+collection_ID,cumulative_cases_dxy
 collection_title_en,Number of cumulative cases by Chinese prefecture from DXY.cn
 collection_title_original,Number of cumulative cases by Chinese prefecture from DXY.cn
 collection_path_repository,COVID-19\data\cases\china\cumulative_cases_dxy
 collection_language,English
-collection_creator_name.1,DXY.cn
-collection_creator_contact.1,
+collection_type,cases counts
+collection_spatial_coverage,China
+collection_creator_name,DXY.cn
+collection_creator_contact,
 collection_publisher,DXY.cn
 collection_description,"2019 Novel Coronavirus cumulative cases daily reported by prefecture level  from the website DXY.cn which collect public data from National Health Commission, provincial health commission, provincial governments, Hong Kong official channel, Macao official channel and Taiwan official channel. The data are extracted everyday at 16:00 EST. The name of the prefecture, province and country are translated by using Google Translate."
 collection_URL_original, https://ncov.dxy.cn/ncovh5/view/pneumonia
@@ -54,6 +56,6 @@ related_object_id,
 related_object_path,
 relation_description,
 curation_notes,"Some place names might need to be translated in English, quality check in process"
-collection_lastupdated_date,2020-03-10
-collection_lastupdated_person,"Anne Cross, University of Pittsbugh, ORCID 0000-0003-1707-253X"
-collection_lastupdated_email,anne.cross@pitt.edu
+collection_lastupdated_date,2020-03-11
+collection_lastupdated_person,"Lucie Contamin, University of Pittsburgh"
+collection_lastupdated_email,contamin@pitt.edu
