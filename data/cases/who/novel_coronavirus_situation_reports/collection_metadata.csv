@@ -1,8 +1,10 @@
-﻿collection_ID,novel_coronavirus_situation_reports
+collection_ID,novel_coronavirus_situation_reports
 collection_title_en,Novel Coronavirus (2019-nCoV) situation reports
 collection_title_original,Novel Coronavirus (2019-nCoV) situation reports
 collection_path_repository,COVID-19\data\cases\who\novel_coronavirus_situation_reports
 collection_language,English
+collection_type,cases counts
+collection_spatial_coverage,Global
 collection_creator_name,World Health Organization
 collection_creator_contact,NA
 collection_publisher,World Health Organization
@@ -69,5 +71,10 @@ related_object_path,NA
 relation_description,NA
 curation _notes,NA
 collection_lastupdated_date,2020-03-11
+<<<<<<< HEAD
 collection_lastupdated_person,"Anne Cross, University of Pittsbugh, ORCID 0000-0003-1707-253X"
 collection_lastupdated_email,anne.cross@pitt.edu
+=======
+collection_lastupdated_person,"Lucie Contamin, University of Pittsburgh"
+collection_lastupdated_email,contamin@pitt.edu
+>>>>>>> origin

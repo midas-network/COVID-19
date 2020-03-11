@@ -17,8 +17,9 @@ collection_members.3,2020-01-25_Report_3_Transmissibility.pdf
 collection_members.4,2020-02-10_Report_4_Severity.pdf
 collection_members.5,2020-02-15_Report_5_Phylogenetic_Analysis.pdf
 collection_members.6,2020-02-21-Report_6_Sensitivity_Surveillance.pdf
+collection_members.7,2020-03-09-Report_7_Estimating_Prevalence.pdf
 collection_first_report_date,2020-01-17
-collection_last_report_date,2020-02-21
+collection_last_report_date,2020-03-09
 collection_license,NA
 collection_access,PDF that can be read online or downloaded
 related_object_id.1,
@@ -34,6 +35,6 @@ related_object_id.6,international_cases_2020_21_02.csv
 related_object_path.6,COVID-19/documents/reports/model_reports/china/reports_imperial_college
 relation_description.6,Data on international cases
 curation _notes,Data attached to report 4
-collection_lastupdated_date,2020-02-21
+collection_lastupdated_date,2020-03-11
 collection_lastupdated_person,"Alice Arcury-Quandt, University of Pittsburgh, 0000-0001-7295-5939"
 collection_lastupdated_email,aea56@pitt.edu
