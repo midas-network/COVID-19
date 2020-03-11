@@ -61,6 +61,8 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |Yes|2.68|2.47|2.86|NA|Global|2019-12-31|2020-01-28|2020-01-31|[Wu, J. et. al.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext)|
 |Yes|2.24|1.96|2.55|China|Wuhan City|2020-01-10|2020-01-24|2020-01-27|[Zhao, S., et. al.](https://www.clinicalkey.com/#!/content/playContent/1-s2.0-S1201971220300539?scrollTo=%23top)|
 |Yes|0.3|0.17|0.44|China|Wuhan City|2020-01-09|2020-01-11|2020-01-22|[Wu, P., et. al.](https://eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.3.2000044#r16)|
+|No|1.27|1.19|1.36|Singapore|NA|2019-12-31|2020-02-26|2020-03-08|[Ganyani, T., et. al.](https://www.medrxiv.org/content/10.1101/2020.03.05.20031815v1)|
+|No|1.59|1.42|1.78|China|Tianjin|2019-12-31|2020-02-27|2020-03-08|[Ganyani, T., et. al.](https://www.medrxiv.org/content/10.1101/2020.03.05.20031815v1)|
 |No|4.8|3.36|6.67|China|Mainland China|2020-01-11|2020-01-16|2020-03-03|[Anastassopoulou, C., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.11.20022186v3)|
 |No|4.6|3.56|5.65|China|Mainland China|2020-01-11|2020-01-17|2020-03-03|[Anastassopoulou, C., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.11.20022186v3)|
 |No|5.14|4.25|6.03|China|Mainland China|2020-01-11|2020-01-18|2020-03-03|[Anastassopoulou, C., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.11.20022186v3)|
@@ -91,6 +93,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 ## Effective reproduction number
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
+|No|1.5|1.4|1.6|South Korea|2020-01-20|2020-02-26|2020-03-02|[Shim, E., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.27.20028829v2)|
 |No|3.6|NA|NA|China|Wuhan|2019-12-08|2020-01-22|2020-02-18|[Zhang, B., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.16.20023770v1)|
 |No|1.55|NA|NA|China|Wuhan|2020-01-23|2020-02-13|2020-02-18|[Zhang, B., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.16.20023770v1)|
 |No|1.08|NA|NA|China|Wuhan|2020-02-14|NA|2020-02-18|[Zhang, B., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.16.20023770v1)|
@@ -128,6 +131,12 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |---|---|---|---|---|---|---|---|---|---|
 |No|1.94|1.25|6.71|NA|Global|2020-01-01|2020-01-22|2020-01-28|[Read, J., et. al.](https://www.medrxiv.org/content/10.1101/2020.01.23.20018549v2)|
 
+## Generation time
+|Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
+|---|---|---|---|---|---|---|---|---|---|
+|No|5.2|3.78|6.78|Singapore|NA|2019-12-31|2020-02-26|2020-03-08|[Ganyani, T., et. al.](https://www.medrxiv.org/content/10.1101/2020.03.05.20031815v1)|
+|No|3.95|3.01|4.91|China|Tianjin|2019-12-31|2020-02-27|2020-03-08|[Ganyani, T., et. al.](https://www.medrxiv.org/content/10.1101/2020.03.05.20031815v1)|
+
 ## Dispersion rate
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
@@ -154,12 +163,15 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 ## Growth rate
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
+|No|0.6|0.5|0.7|South Korea|NA|2020-01-20|2020-02-26|2020-03-02|[Shim, E., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.27.20028829v2)|
 |No|0.29|0.21|0.37|China|NA|2019-12-31|2020-01-29|2020-02-11|[Sanche, S., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.07.20021154v1)|
 |No|0.14|0.12|0.15|China|NA|2020-01-30|2020-02-10|2020-02-11|[Sanche, S., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.07.20021154v1)|
 
 ## Serial Interval
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
+|No|3.95|-4.47|12.51|China|Tianjin|2019-12-31|2020-02-27|2020-03-08|[Ganyani, T., et. al.](https://www.medrxiv.org/content/10.1101/2020.03.05.20031815v1)|
+|No|5.21|-3.35|13.94|Singapore|NA|2019-12-31|2020-02-26|2020-03-08|[Ganyani, T., et. al.](https://www.medrxiv.org/content/10.1101/2020.03.05.20031815v1)|
 |No|4.56|2.69|6.42|Singapore|NA|2020-01-19|2020-02-26|2020-03-06|[Tindale, L., et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20029983v1)|
 |No|4.22|3.43|5.01|China|Tianjin|2020-01-21|2020-02-22|2020-03-06|[Tindale, L., et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20029983v1)|
 
