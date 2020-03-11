@@ -4,8 +4,64 @@ collection_title_en,hubey_early_deaths_2020_07_02
 collection_title_original,hubey_early_deaths_2020_07_02
 collection_path_repository,COVID-19/data/cases/china/death_count_imperial_college/
 collection_language,English
-collection_creator_name,"Neil Ferguson, Imperial College London"
-collection_creator_contact,neil.ferguson@imperial.ac.uk
+collection_type,cases counts
+collection_spatial_coverage,Hubei Province
+collection_creator_name.1,Dorigatti I
+collection_creator_name.2,Okell L
+collection_creator_name.3,Cori A
+collection_creator_name.4,Imai  N
+collection_creator_name.5,Baguelin M
+collection_creator_name.6,Bhatia S
+collection_creator_name.7,Boonyasiri A
+collection_creator_name.8,Cucunubá Z
+collection_creator_name.9,Cuomo-Dannenburg G
+collection_creator_name.10,FitzJohn R
+collection_creator_name.11,Fu H
+collection_creator_name.12,Gaythorpe K 
+collection_creator_name.13,Hamlet A
+collection_creator_name.14,Hinsley W
+collection_creator_name.15,Hong N
+collection_creator_name.16,Kwun M
+collection_creator_name.17,Laydon D
+collection_creator_name.18,Nedjati-Gilani G
+collection_creator_name.19,Riley S
+collection_creator_name.20,van Elsland S
+collection_creator_name.21,Volz E
+collection_creator_name.22,Wang H
+collection_creator_name.23,Wang Y
+collection_creator_name.24,Walters C 
+collection_creator_name.25,Xi X
+collection_creator_name.26,Donnelly C
+collection_creator_name.27,Ghani A
+collection_creator_name.28,Ferguson N
+collection_creator_contact.1,NA
+collection_creator_contact.2,NA
+collection_creator_contact.3,NA
+collection_creator_contact.4,NA
+collection_creator_contact.5,NA
+collection_creator_contact.6,NA
+collection_creator_contact.7,NA
+collection_creator_contact.8,NA
+collection_creator_contact.9,NA
+collection_creator_contact.10,NA
+collection_creator_contact.11,NA
+collection_creator_contact.12,NA
+collection_creator_contact.13,NA
+collection_creator_contact.14,NA
+collection_creator_contact.15,NA
+collection_creator_contact.16,NA
+collection_creator_contact.17,NA
+collection_creator_contact.18,NA
+collection_creator_contact.19,NA
+collection_creator_contact.20,NA
+collection_creator_contact.21,NA
+collection_creator_contact.22,NA
+collection_creator_contact.23,NA
+collection_creator_contact.24,NA
+collection_creator_contact.25,NA
+collection_creator_contact.26,NA
+collection_creator_contact.27,NA
+collection_creator_contact.28,neil.ferguson@imperial.ac.uk
 collection_publisher,"Neil Ferguson, Imperial College London"
 collection_description,"Data attached to report 4 from Modeling reports published periodically by Imperial College, data on the characteristics of 39 cases who died from 201i-nCov infection in Hubei Province were collated from different websites."
 collection_URL_original,https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/
@@ -20,6 +76,6 @@ related_object_id.1,2020-01-17_Report_4_Severity.pdf
 related_object_path.1,COVID-19/Documents/Reports/model_reports/reports_imperial_college
 relation_description.1,Modeling reports published by Imperial College
 curation _notes,
-collection_lastupdated_date,2020-02-13
+collection_lastupdated_date,2020-03-11
 collection_lastupdated_person,"Lucie Contamin, University of Pittsburgh"
 collection_lastupdated_email,contamin@pitt.edu

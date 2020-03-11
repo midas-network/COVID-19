@@ -3,8 +3,22 @@ collection_title_en,The role of absolute humidity on transmission rate of the CO
 collection_title_original,The role of absolute humidity on transmission rate of the COVID-19 outbreak
 collection_path_repository,COVID-19\data\data_from_papers\dataset_luo-et-al_202002
 collection_language,English
-collection_creator_name,"Wei Luo, Maimuna S Majumder, Dianbo Liu, Canelle Poirier, Kenneth D Mandl, Marc Lipsitch, Mauricio Santillana"
-collection_creator_contact,"Mauricio Santillana, msantill@g.harvard.edu"
+collection_type,data from papers
+collection_spatial_coverage,China
+collection_creator_name.1,Luo W
+collection_creator_name.2,Majumder MS
+collection_creator_name.3,Liu D
+collection_creator_name.4,Poirier C
+collection_creator_name.5,Mand Kdl
+collection_creator_name.6,Lipsitch M
+collection_creator_name.7,Santillana M
+collection_creator_contact.1,NA
+collection_creator_contact.2,NA
+collection_creator_contact.3,NA
+collection_creator_contact.4,NA
+collection_creator_contact.5,NA
+collection_creator_contact.6,NA
+collection_creator_contact.7,msantill@g.harvard.edu
 collection_publisher,MedRxiv
 collection_description,"Dataset associated with the article: “The role of absolute humidity on transmission rates of the COVID-19 outbreak”. The dataset include: Epidemiological data as daily cumulative confirmed incidence data from the Johns Hopking Center for S Science and System website from January 23, 2020 to February 10, 2020; Estimation of a proxy for the reproduction number based on the cumulative incidence data for each province; Weather data as monthly values of temperature and absolute humidity data in January 2020 for each provincial capital in China from World Weather Online; Demographic data as the population density in 2014 and the latitude and longitude of each provincial capital."
 collection_URL_original, https://doi.org/10.1101/2020.02.12.20022467
@@ -19,6 +33,6 @@ related_object_id,"17 February 2020 - Luo W, Majumder MS, Liu D, et al. The role
 related_object_path,https://github.com/midas-network/COVID-19/wiki/Documents
 relation_description,Article describing the analysis and methods for this dataset
 curation _notes,NA
-collection_lastupdated_date,2020-02-20
+collection_lastupdated_date,2020-03-11
 collection_lastupdated_person,"Lucie Contamin, University of Pittsburgh"
 collection_lastupdated_email,contamin@pitt.edu
