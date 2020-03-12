@@ -26,8 +26,8 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|365|346|393|China|Guangzhou|2020-01-21|2020-02-14|2020-02-20|[Fu, X., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.16.20023564v2)|
 |No|430|407|461|China|Shenzhen|2020-01-21|2020-02-14|2020-02-20|[Fu, X., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.16.20023564v2)|
 |No|45000|NA|NA|China|Wuhan|2019-12-31|2020-02-12|2020-02-19|[Zhang, L., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.16.20023804v1)|
-|No|2868.7 +/- 1739.0|NA|NA|China|Wuhan|2019-12-31|2020-01-23|2020-02-18|[Zhou, G., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.14.20023168v1)|
-|No|52185.4 +/- 31621.4|NA|NA|China|Wuhan|2020-01-23|2020-02-12|2020-02-18|[Zhou, G., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.14.20023168v1)|
+|No|2868.7|1129.7|4607.7|China|Wuhan|2019-12-31|2020-01-23|2020-02-18|[Zhou, G., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.14.20023168v1)|
+|No|52185.4|20564|83806.8|China|Wuhan|2020-01-23|2020-02-12|2020-02-18|[Zhou, G., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.14.20023168v1)|
 |No|453|NA|NA|China|Wuhan|2019-12-08|2020-01-22|2020-02-18|[Zhang, B., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.16.20023770v1)|
 |No|6333|NA|NA|China|Wuhan|2020-01-23|2020-02-13|2020-02-18|[Zhang, B., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.16.20023770v1)|
 |No|24333|NA|NA|China|Wuhan|2020-02-14|NA|2020-02-18|[Zhang, B., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.16.20023770v1)|
@@ -120,8 +120,11 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |---|---|---|---|---|---|---|---|---|---|
 |Yes|5.1|2.2|11.5|NA|Global|2019-12-31|2020-02-24|2020-02-10|[Lauer, S., et. al.](https://annals.org/aim/fullarticle/2762808/incubation-period-coronavirus-disease-2019-covid-19-from-publicly-reported)|
 |Yes|4.8|2.5|9.2|China|Excluding Wuhan|2019-12-01|2020-02-04|2020-02-04|[Lauer, S., etl al.](https://annals.org/aim/fullarticle/2762808/incubation-period-coronavirus-disease-2019-covid-19-from-publicly-reported)|
+|No|6.6|1.8|11.4|Singapore|NA|2020-01-19|2020-02-26|2020-03-06|[Tindale, L., et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20029983v1)|
+|No|5.4|0.9|9.9|China|Tianjin|2020-01-21|2020-02-22|2020-03-06|[Tindale, L., et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20029983v1)|
 |No|7.1|6.1|8.3|Singapore|NA|2020-01-19|2020-02-26|2020-03-6|[Tindale, L., et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20029983v1)|
 |No|9.0|7.92|10.2|China|Tianjin|2020-01-21|2020-02-22|2020-03-06|[Tindale, L., et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20029983v1)|
+|No|4.2|3.5|5.1|China|NA|2019-12-31|2020-02-10|2020-02-11|[Sanche, S., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.07.20021154v1)|
 |No|6.4|5.6|7.7|NA|Global|2020-01-20|2020-01-28|2020-01-28|[Backer, J., et. al.](https://www.medrxiv.org/content/medrxiv/early/2020/01/30/2020.01.27.20018986.full.pdf)
 |No|4.6|3.3|5.7|China|Excluding Wuhan|2019-12-31|2020-01-25|2020-01-28|[Linton, N., et. al.](https://www.medrxiv.org/content/medrxiv/early/2020/01/28/2020.01.26.20018754.full.pdf)|
 |No|5.0|4.1|5.8|China|Including Wuhan|2019-12-31|2020-01-25|2020-01-28|[Linton, N., et. al.](https://www.medrxiv.org/content/medrxiv/early/2020/01/28/2020.01.26.20018754.full.pdf)|
@@ -181,14 +184,6 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|4.56|2.69|6.42|Singapore|NA|2020-01-19|2020-02-26|2020-03-06|[Tindale, L., et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20029983v1)|
 |No|4.22|3.43|5.01|China|Tianjin|2020-01-21|2020-02-22|2020-03-06|[Tindale, L., et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20029983v1)|
 
-# Outpatient Care
-## Time from exposure to symptom onset
-|Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
-|---|---|---|---|---|---|---|---|---|---|
-|No|6.6 +/- 4.8|NA|NA|Singapore|NA|2020-01-19|2020-02-26|2020-03-06|[Tindale, L., et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20029983v1)|
-|No|5.4 +/- 4.5|NA|NA|China|Tianjin|2020-01-21|2020-02-22|2020-03-06|[Tindale, L., et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20029983v1)|
-|No|4.2|3.5|5.1|China|NA|2019-12-31|2020-02-10|2020-02-11|[Sanche, S., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.07.20021154v1)|
-
 ## Time from symptom onset to recovery
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
@@ -208,14 +203,14 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 ## Time from symptom onset to hospitalization
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
-|No|5.9 +/- 5.1|NA|NA|Singapore|NA|2020-01-19|2020-02-26|2020-03-06|[Tindale, L., et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20029983v1)|
+|No|5.9|0.8|11|Singapore|NA|2020-01-19|2020-02-26|2020-03-06|[Tindale, L., et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20029983v1)|
 |No|2.7|1.6|4.1|China|NA|2019-12-31|2020-01-25|2020-01-28|[Linton, N., et. al.](https://www.medrxiv.org/content/medrxiv/early/2020/01/28/2020.01.26.20018754.full.pdf)|
 
 
 ## Time from hospitalization to discharge
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
-|No|13.3 +/- 6|Singapore|NA|2020-01-19|2020-02-26|2020-03-06|[Tindale, L., et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20029983v1)|
+|No|13.3|7.3|19.3|Singapore|NA|2020-01-19|2020-02-26|2020-03-06|[Tindale, L., et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20029983v1)|
 |No|11.5|8.0|17.3|China|NA|2019-12-31|2020-02-10|2020-02-11|[Sanche, S., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.07.20021154v1)|
 
 ## Proportion of hospitalized cases admitted to ICU
