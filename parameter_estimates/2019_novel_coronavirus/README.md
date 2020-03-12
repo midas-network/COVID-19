@@ -149,6 +149,8 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
 |Yes|0.092|0.05|0.2|Japan|NA|2020-01-22|2020-01-29|2020-02-04|[Nishiura, H., et. al.](https://www.ncbi.nlm.nih.gov/pubmed/32033064)|
+|No|0.44|0.37|0.5|Japan|NA|NA|2020-02-28|2020-03-10|[Omori, R., et. al.](https://www.medrxiv.org/content/10.1101/2020.03.09.20033183v1
+)|
 |No|0.1959|0.1436|0.3558|China|Mainland China|2019-12-01|2020-02-05|2020-02-11|[Chinazzi, M., et. al.-lab](https://www.medrxiv.org/content/10.1101/2020.02.09.20021261v1)|
 |No|0.029|0.013|0.080|China|Wuhan|2019-12-10|2020-01-27|2020-02-19|[Famulare, M., et. al.](https://institutefordiseasemodeling.github.io/nCoV-public/analyses/first_adjusted_mortality_estimates_and_risk_assessment/2019-nCoV-preliminary_age_and_time_adjusted_mortality_rates_and_pandemic_risk_assessment.html)|
 |No|0.05|0.036|0.074|NA|Global|2020-01-01|2020-01-22|2020-01-28|[Read, J., et. al.](https://www.medrxiv.org/content/10.1101/2020.01.23.20018549v2)|
