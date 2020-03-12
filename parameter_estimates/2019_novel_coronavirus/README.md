@@ -61,6 +61,8 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |Yes|2.68|2.47|2.86|NA|Global|2019-12-31|2020-01-28|2020-01-31|[Wu, J. et. al.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext)|
 |Yes|2.24|1.96|2.55|China|Wuhan City|2020-01-10|2020-01-24|2020-01-27|[Zhao, S., et. al.](https://www.clinicalkey.com/#!/content/playContent/1-s2.0-S1201971220300539?scrollTo=%23top)|
 |Yes|0.3|0.17|0.44|China|Wuhan City|2020-01-09|2020-01-11|2020-01-22|[Wu, P., et. al.](https://eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.3.2000044#r16)|
+|No|3.6|3.2|4.2|Iran|NA|2020-02-19|2020-02-29|2020-03-10|[Muniz-Rodriguez,K., et. al.](https://www.medrxiv.org/content/10.1101/2020.03.08.20030643v1.article-metrics)|
+|No|3.58|1.29|8.46|Iran|NA|2020-02-19|2020-02-29|2020-03-10|[Muniz-Rodriguez, K., et. al.](https://www.medrxiv.org/content/10.1101/2020.03.08.20030643v1.article-metrics)|
 |No|1.27|1.19|1.36|Singapore|NA|2019-12-31|2020-02-26|2020-03-08|[Ganyani, T., et. al.](https://www.medrxiv.org/content/10.1101/2020.03.05.20031815v1)|
 |No|1.59|1.42|1.78|China|Tianjin|2019-12-31|2020-02-27|2020-03-08|[Ganyani, T., et. al.](https://www.medrxiv.org/content/10.1101/2020.03.05.20031815v1)|
 |No|4.8|3.36|6.67|China|Mainland China|2020-01-11|2020-01-16|2020-03-03|[Anastassopoulou, C., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.11.20022186v3)|
@@ -156,6 +158,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |---|---|---|---|---|---|---|---|---|---|
 |Yes|7.31|6.26|9.66|NA|Global|2019-12-31|2020-01-23|2020-02-13|[Du, Z., et. al.](https://www.medrxiv.org/content/10.1101/2020.01.28.20019299v3.full.pdf)|
 |Yes|6.4|5.8|7.1|NA|Global|2019-12-31|2020-01-28|2020-01-31|[Wu, J. et. al.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext)|
+|No|1.2|1.05|1.44|Iran|NA|2020-02-19|2020-02-29|2020-03-10|[Muniz-Rodriguez, K., et. al.](https://www.medrxiv.org/content/10.1101/2020.03.08.20030643v1.article-metrics)|
 |No|4.6|3.0|9.3|NA|Diamond Princess Cruise Ship|2020-01-20|2020-02-20|2020-03-02|[Zhao et al.](https://www.medrxiv.org/content/10.1101/2020.02.26.20028449v2)|
 |No|4.6|4.2|5.1|NA|Global|2019-12-01|2020-02-07|2020-02-11|[Chinazzi, M., et. al.-lab](https://www.medrxiv.org/content/10.1101/2020.02.09.20021261v1)|
 |No|2.4|NA|NA|China|Hubei province|2020-01-20|2020-02-02|2020-02-06|[Muniz-Rodriguez, K., et. al.](https://www.medrxiv.org/content/medrxiv/early/2020/02/06/2020.02.05.20020750.full.pdf)|
@@ -163,6 +166,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 ## Growth rate
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
+|No|0.85|0.69|1.0|Iran|NA|2020-02-19|2020-02-29|2020-03-10|[Muniz-Rodriguez, K., et. al.](https://www.medrxiv.org/content/10.1101/2020.03.08.20030643v1.article-metrics)|
 |No|0.6|0.5|0.7|South Korea|NA|2020-01-20|2020-02-26|2020-03-02|[Shim, E., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.27.20028829v2)|
 |No|0.29|0.21|0.37|China|NA|2019-12-31|2020-01-29|2020-02-11|[Sanche, S., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.07.20021154v1)|
 |No|0.14|0.12|0.15|China|NA|2020-01-30|2020-02-10|2020-02-11|[Sanche, S., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.07.20021154v1)|
