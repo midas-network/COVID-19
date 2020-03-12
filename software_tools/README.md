@@ -90,25 +90,25 @@
 
 ## <a id="modeling">Modeling
 
-### [NobBS: Nowcasting by Bayesian Smoothing](https://www.medrxiv.org/content/10.1101/663823)
+### [NobBS: Nowcasting by Bayesian Smoothing](https://github.com/sarahhbellum/NobBS)
 * Curation status: published
 * Created by: McGough S (sfm341@mail.harvard.edu), Johansson M (mjohansson@cdc.gov), Lipsitch M (mlipsitc@hsph.harvard.edu), Menzies N (nmenzies@hsph.harvard.edu) 
 * Description: NobBS is Bayesian approach to estimate the number of occurred-but-not-yet-reported cases from incomplete, time-stamped reporting data for disease outbreaks. NobBS learns the reporting delay distribution and the time evolution of the epidemic curve to produce smoothed nowcasts in both stable and time-varying case reporting settings.
 * Last updated: 2020-03-11
 
-### [A stochastic model for the transmission of 2019-nCov in Wuhan](http://2019-coronavirus-tracker.com/stochastic.html)
+### [A stochastic model for the transmission of 2019-nCov in Wuhan](https://github.com/CEIDatUGA/ncov-wuhan-stochastic-model)
 * Curation status: published
 * Created by: The Center for the Ecology of Infectious Diseases (CEID) at the University of Georgia
 * Description: Stochastic model to better understand the transmission of 2019-nCov in Hubei (primarily Wuhan). The model includes several features of the Wuhan outbreak that are absent from most compartmental models that otherwise confound the interpretation of data, including time-varying rates of case detection, patient isolation, and case notification.
 * Last updated: 2020-03-11
 
-### [Estimation of the effective reproduction number of COVID-19 outside China](http://2019-coronavirus-tracker.com/reff-outside.html)
+### [Estimation of the effective reproduction number of COVID-19 outside China](https://github.com/CEIDatUGA/ncov-Reff-outside-China)
 * Curation status: published
 * Created by: The Center for the Ecology of Infectious Diseases (CEID) at the University of Georgia
 * Description: Estimation of effective reproduction number outside China. Estimates of the effective reproduction number outside China are calculated from the fraction of known exported cases that have led to secondary chains of transmission.
 * Last updated: 2020-03-11
 
-### [eSIR: Extended state-space SIR models](https://www.medrxiv.org/content/10.1101/2020.02.29.20029421v1)
+### [eSIR: Extended state-space SIR models](https://github.com/lilywang1988/eSIR)
 * Curation status: published
 * Created by: Song Lab, University of Michigan
 * Description: An implementation of extended state-space SIR models developed by Song Lab at UM school of Public Health
