@@ -1,9 +1,9 @@
-﻿collection_ID,cumulative_cases_dxy
+collection_ID,cumulative_cases_dxy
 collection_title_en,Number of cumulative cases by Chinese prefecture from DXY.cn
 collection_title_original,Number of cumulative cases by Chinese prefecture from DXY.cn
 collection_path_repository,COVID-19\data\cases\china\cumulative_cases_dxy
 collection_language,English
-collection_type,cases counts
+collection_type,case counts
 collection_spatial_coverage,China
 collection_creator_name,DXY.cn
 collection_creator_contact,

@@ -1,9 +1,9 @@
-﻿collection_ID,novel_coronavirus_situation_reports
+collection_ID,novel_coronavirus_situation_reports
 collection_title_en,Novel Coronavirus (2019-nCoV) situation reports
 collection_title_original,Novel Coronavirus (2019-nCoV) situation reports
 collection_path_repository,COVID-19\data\cases\who\novel_coronavirus_situation_reports
 collection_language,English
-collection_type,cases counts
+collection_type,case counts
 collection_spatial_coverage,Global
 collection_creator_name,World Health Organization
 collection_creator_contact,NA
