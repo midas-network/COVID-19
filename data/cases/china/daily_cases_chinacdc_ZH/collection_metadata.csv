@@ -1,9 +1,9 @@
-﻿collection_ID,daily_cases_chinacdc_ZH
+collection_ID,daily_cases_chinacdc_ZH
 collection_title_en,Distribution of new coronavirus pneumonia
 collection_title_original,新型冠状病毒肺炎疫情分布
 collection_path_repository,COVID-19\data\cases\china\daily_cases_chinacdc_ZH
 collection_language,Chinese
-collection_type,cases counts
+collection_type,case counts
 collection_spatial_coverage,China
 collection_creator_name,China CDC
 collection_creator_contact,NA
