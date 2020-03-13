@@ -1,9 +1,9 @@
-﻿collection_ID,ontario_situation_updates
+collection_ID,ontario_situation_updates
 collection_title_en,"The 2019 Novel Coronavirus (2019-nCoV), Status of cases in Ontario"
 collection_title_original,"The 2019 Novel Coronavirus (2019-nCoV), Status of cases in Ontario"
 collection_path_repository,COVID-19\data\cases\canada\ontario_situation_updates
 collection_language,English
-collection_type,cases counts
+collection_type,case counts
 collection_spatial_coverage,Ontario
 collection_creator_name,Ontario Ministry of Health
 collection_creator_contact,https://www.ontario.ca/feedback/contact-us?id=25811&nid=130423
