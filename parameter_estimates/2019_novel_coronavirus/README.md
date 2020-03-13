@@ -87,7 +87,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 ## Effective reproduction number
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
-|No|1.5|1.4|1.6|South Korea|2020-01-20|2020-02-26|2020-03-02|[Shim, E., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.27.20028829v2)|
+|No|1.5|1.4|1.6|South Korea|NA|2020-01-20|2020-02-26|2020-03-02|[Shim, E., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.27.20028829v2)|
 |No|3.6|NA|NA|China|Wuhan|2019-12-08|2020-01-22|2020-02-18|[Zhang, B., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.16.20023770v1)|
 |No|1.55|NA|NA|China|Wuhan|2020-01-23|2020-02-13|2020-02-18|[Zhang, B., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.16.20023770v1)|
 |No|1.08|NA|NA|China|Wuhan|2020-02-14|NA|2020-02-18|[Zhang, B., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.16.20023770v1)|
@@ -128,8 +128,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
 |Yes|0.092|0.05|0.2|Japan|NA|2020-01-22|2020-01-29|2020-02-04|[Nishiura, H., et. al.](https://www.ncbi.nlm.nih.gov/pubmed/32033064)|
-|No|0.44|0.37|0.5|Japan|NA|NA|2020-02-28|2020-03-10|[Omori, R., et. al.](https://www.medrxiv.org/content/10.1101/2020.03.09.20033183v1
-)|
+|No|0.44|0.37|0.5|Japan|NA|NA|2020-02-28|2020-03-10|[Omori, R., et. al.](https://www.medrxiv.org/content/10.1101/2020.03.09.20033183v1)|
 |No|0.1959|0.1436|0.3558|China|Mainland China|2019-12-01|2020-02-05|2020-02-11|[Chinazzi, M., et. al.-lab](https://www.medrxiv.org/content/10.1101/2020.02.09.20021261v1)|
 |No|0.029|0.013|0.080|China|Wuhan|2019-12-10|2020-01-27|2020-02-19|[Famulare, M., et. al.](https://institutefordiseasemodeling.github.io/nCoV-public/analyses/first_adjusted_mortality_estimates_and_risk_assessment/2019-nCoV-preliminary_age_and_time_adjusted_mortality_rates_and_pandemic_risk_assessment.html)|
 
