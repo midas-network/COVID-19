@@ -1,4 +1,4 @@
-collection_ID,novel_coronavirus_situation_reports
+﻿collection_ID,novel_coronavirus_situation_reports
 collection_title_en,Novel Coronavirus (2019-nCoV) situation reports
 collection_title_original,Novel Coronavirus (2019-nCoV) situation reports
 collection_path_repository,COVID-19\data\cases\who\novel_coronavirus_situation_reports
@@ -11,7 +11,7 @@ collection_publisher,World Health Organization
 collection_description,"Daily summary of global number of nCoV cases, per province in China and by country, including cases with travel history to China. Reports include guidance on response and update on response activities. Report format and content changes over time. Reports may be replaced by updated versions with error corrections, indicated by ""Erratum"" in the title or a -v2, or v3 , etc. in the file name."
 collection_URL_original,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports
 collection_format,PDF narrative and tables
-collection_number_files,52
+collection_number_files,53
 collection_members.1,20200121-sitrep-1-2019-ncov.pdf
 collection_members.2,20200122-sitrep-2-2019-ncov.pdf
 collection_members.3,20200123-sitrep-3-2019-ncov.pdf
@@ -64,14 +64,15 @@ collection_members.49,20200309-sitrep-49-covid-19.pdf
 collection_members.50,20200310-sitrep-50-covid-19.pdf
 collection_members.51,20200311-sitrep-51-covid-19.pdf
 collection_members.52,20200312-sitrep-52-covid-19.pdf
+collection_members.53,20200313-sitrep-53-covid-19.pdf
 collection_first_report_date,2020-01-21
-collection_last_report_date,2020-03-12
+collection_last_report_date,2020-03-13
 collection_license,NA
 collection_access,Download links to PDF reports
 related_object_id,NA
 related_object_path,NA
 relation_description,NA
 curation_notes,NA
-collection_lastupdated_date,2020-03-13
+collection_lastupdated_date,2020-03-14
 collection_lastupdated_person,"Anne Cross, University of Pittsbugh, ORCID 0000-0003-1707-253X"
 collection_lastupdated_email,anne.cross@pitt.edu
