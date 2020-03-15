@@ -11,7 +11,7 @@ collection_publisher,"Ministry of Public Health, Department of Disease Control"
 collection_description,"Daily updates in narrative and tables on international cases and Thailand situation. Thai situation includes patients screened or under investigation, confirmed, hospitalized, recovered, and deaths"
 collection_URL_original,https://ddc.moph.go.th/viralpneumonia/eng/situation.php
 collection_format,PDF narrative and tables
-collection_number_files,59
+collection_number_files,60
 collection_members.1,situation-no11-140163.pdf
 collection_members.2,situation-no12-150163.pdf
 collection_members.3,situation-no13-160163.pdf
@@ -72,14 +72,15 @@ collection_members.57,situation-no66-090363.pdf
 collection_members.58,situation-no67-100363.pdf
 collection_members.59,situation-no68-110363.pdf
 collection_members.60,situation-no69-120363.pdf
+collection_members.61,situation-no70-130363.pdf
 collection_first_report_date,2020-01-14
-collection_last_report_date,2020-03-12
+collection_last_report_date,2020-03-13
 collection_license,NA
 collection_access,PDF download links
 related_object_id,moh_situation_updates_TH
 related_object_path,COVID-19\data\cases\thailand\moh_situation_updates_TH
 relation_description,Thai version of files
 curation _notes,NA
-collection_lastupdated_date,2020-03-14
+collection_lastupdated_date,2020-03-15
 collection_lastupdated_person,"Anne Cross, University of Pittsbugh, ORCID 0000-0003-1707-253X"
 collection_lastupdated_email,anne.cross@pitt.edu

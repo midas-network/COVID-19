@@ -11,7 +11,7 @@ collection_publisher,Hong Kong Center for Health Protection
 collection_description,Table with line lists of confirmed cases reported in Hong Kong since 31 December 2019. Link to current report online without historical reports listed.
 collection_URL_original,https://www.chp.gov.hk/files/pdf/enhanced_sur_pneumonia_wuhan_eng.pdf
 collection_format,PDF
-collection_number_files,36
+collection_number_files,37
 collection_members.1,enhanced_sur_pneumonia_wuhan_eng_2020-02-08.pdf
 collection_members.2,enhanced_sur_pneumonia_wuhan_eng_2020-02-09.pdf
 collection_members.3,enhanced_sur_pneumonia_wuhan_eng_2020-02-10.pdf
@@ -48,14 +48,15 @@ collection_members.33,enhanced_sur_pneumonia_wuhan_eng_2020-03-11.pdf
 collection_members.34,enhanced_sur_pneumonia_wuhan_eng_2020-03-12.pdf
 collection_members.35,enhanced_sur_pneumonia_wuhan_eng_2020-03-13.pdf
 collection_members.36,enhanced_sur_pneumonia_wuhan_eng_2020-03-14.pdf
+collection_members.37,enhanced_sur_pneumonia_wuhan_eng_2020-03-15.pdf
 collection_first_report_date,2020-01-23
-collection_last_report_date,2020-03-14
+collection_last_report_date,2020-03-15
 collection_license,NA
 collection_access,Download link to PDF
 related_object_id,NA
 related_object_path,NA
 relation_description,NA
 curation _notes,NA
-collection_lastupdated_date,2020-03-14
+collection_lastupdated_date,2020-03-15
 collection_lastupdated_person,"Anne Cross, University of Pittsbugh, ORCID 0000-0003-1707-253X"
 collection_lastupdated_email,anne.cross@pitt.edu
