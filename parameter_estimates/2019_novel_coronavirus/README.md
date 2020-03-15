@@ -9,7 +9,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |---|---|---|---|---|---|---|---|---|---|
 |Yes|75815|37304|130330|China|Wuhan|2019-12-01|2020-01-25|2020-01-31|[Wu, J. et. al.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext)|
 |No|180000|45000|760000|China|Mainland China|2020-01-11|2020-02-29|2020-03-03|[Anastassopoulou, C., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.11.20022186v3)|
-|No|3066|2046|3441|NA|Diamond Princess Cruise Ship|2020-01-20|2020-02-20|2020-03-02|[Zhao, S., et al.](https://www.medrxiv.org/content/10.1101/2020.02.26.20028449v2)|
+|No|3066|2046|3441|Cruise Ship|Diamond Princess Cruise Ship|2020-01-20|2020-02-20|2020-03-02|[Zhao, S., et al.](https://www.medrxiv.org/content/10.1101/2020.02.26.20028449v2)|
 |No|79467|71576|93855|China|Mainland China|2020-01-21|2020-02-14|2020-02-20|[Fu, X., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.16.20023564v2)|
 |No|64261|58223|77895|China|Hubei|2020-01-21|2020-02-14|2020-02-20|[Fu, X., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.16.20023564v2)|
 |No|46607|40812|57678|China|Wuhan|2020-01-21|2020-02-14|2020-02-20|[Fu, X., et. al.](https://www.medrxiv.org/content/10.1101/2020.02.16.20023564v2)|
@@ -121,7 +121,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 ## Dispersion rate
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
-|No|44|6|88|NA|Diamond Princess Cruise Ship|2020-01-2-|2020-02-20|2020-03-02|[Zhao et al.](https://www.medrxiv.org/content/10.1101/2020.02.26.20028449v2)|
+|No|44|6|88|Cruise Ship|Diamond Princess Cruise Ship|2020-01-2-|2020-02-20|2020-03-02|[Zhao et al.](https://www.medrxiv.org/content/10.1101/2020.02.26.20028449v2)|
 |No|0.54|0.014|6.95|China|Wuhan City|2019-11-27|2020-01-18|2020-01-23|[Riou, J., et. al.](https://www.biorxiv.org/content/10.1101/2020.01.23.917351v1.full.pdf)|
 
 ## Ascertainment rate
@@ -136,7 +136,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start date|End date|Published date|Source|
 |---|---|---|---|---|---|---|---|---|---|
 |No|1.2|1.05|1.44|Iran|NA|2020-02-19|2020-02-29|2020-03-10|[Muniz-Rodriguez, K., et. al.](https://www.medrxiv.org/content/10.1101/2020.03.08.20030643v1.article-metrics)|
-|No|4.6|3.0|9.3|NA|Diamond Princess Cruise Ship|2020-01-20|2020-02-20|2020-03-02|[Zhao et al.](https://www.medrxiv.org/content/10.1101/2020.02.26.20028449v2)|
+|No|4.6|3.0|9.3|Cruise Ship|Diamond Princess Cruise Ship|2020-01-20|2020-02-20|2020-03-02|[Zhao et al.](https://www.medrxiv.org/content/10.1101/2020.02.26.20028449v2)|
 |No|2.4|NA|NA|China|Hubei province|2020-01-20|2020-02-02|2020-02-06|[Muniz-Rodriguez, K., et. al.](https://www.medrxiv.org/content/medrxiv/early/2020/02/06/2020.02.05.20020750.full.pdf)|
 
 ## Growth rate
