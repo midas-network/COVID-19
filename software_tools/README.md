@@ -1,4 +1,5 @@
-[Software catalog](https://github.com/midas-network/COVID-19/blob/master/software_tools/software_catalog.csv)
+## Announcement: This readme page will be removed on 23 March 2020. Visit the [MIDAS Online COVID-19 Portal](https://midasnetwork.us/covid-19/) to [navigate and search software tools](https://midasnetwork.us/covid-19/#resources). This GitHub repository will be used to share the [computable (CSV format) software catalog only](https://github.com/midas-network/COVID-19/blob/master/software_tools/software_catalog.csv). 
+
 
 |Contents|
 | ----- |
