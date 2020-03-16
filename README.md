@@ -21,7 +21,7 @@ We highly encourage community member to contribute to COVID-19 repository and we
 |-------|------|---|
 |[Matt Biggerstaff](https://midasnetwork.us/people/matthew-biggerstaff/)|Centers for Disease Control|[Parameter estimates](https://github.com/midas-network/COVID-19/tree/master/parameter_estimates/2019_novel_coronavirus)| 
 |[Cécile Viboud](https://midasnetwork.us/people/cecile-viboud/)|Fogarty International Center|[Parameter estimates](https://github.com/midas-network/COVID-19/tree/master/parameter_estimates/2019_novel_coronavirus)| 
-|[John Drake](https://midasnetwork.us/people/john-drake/)|University of Georgia|Data ressources used by the CEID Coronavirus Working Group|
+|[John Drake](https://midasnetwork.us/people/john-drake/)|University of Georgia|Data resources used by the CEID Coronavirus Working Group|
 |[Sang Woo Park](https://twitter.com/sang_woo_park)|Princeton University|[Line listing on South Korean data sets](https://github.com/midas-network/COVID-19/tree/master/data/cases/south%20korea/line_list_park_github)| 
 |[Caitlin Rivers](https://midasnetwork.us/people/caitlin-rivers/)|Johns Hopkins University|[Parameter estimates](https://github.com/midas-network/COVID-19/tree/master/parameter_estimates/2019_novel_coronavirus)| 
 |[Matthew Malishev](https://darwinanddavis.github.io/DataPortfolio/)|Emory University|[Parameter estimates](https://github.com/midas-network/COVID-19/tree/master/parameter_estimates/2019_novel_coronavirus)| 
@@ -29,7 +29,7 @@ We highly encourage community member to contribute to COVID-19 repository and we
 |[Matteo Chinazzi](https://midasnetwork.us/people/matteo-chinazzi/)|MOBS Lab|[Parameter estimates](https://github.com/midas-network/COVID-19/tree/master/parameter_estimates/2019_novel_coronavirus)| 
 |[Shi Chen](https://publichealth.uncc.edu/directory/shi-chen)|University of North Carolina|[Parameter estimates](https://github.com/midas-network/COVID-19/tree/master/parameter_estimates/2019_novel_coronavirus)| 
 |[Mauricio Santillana](https://midasnetwork.us/people/mauricio-santillana-guzman/)|Harvard University|[Parameter estimates](https://github.com/midas-network/COVID-19/tree/master/parameter_estimates/2019_novel_coronavirus) and [data associated](https://github.com/midas-network/COVID-19/tree/master/data/data_from_papers/dataset_luo-et-al_202002/)| 
-|[Kaiyuan Sun](http://misms.net/staff/sun/)|National Institutes of Health|[Data ressources](https://github.com/midas-network/COVID-19/tree/master/data/cases/china/cumulative_cases_DXY)
+|[Kaiyuan Sun](http://misms.net/staff/sun/)|National Institutes of Health|[Data resources](https://github.com/midas-network/COVID-19/tree/master/data/cases/china/cumulative_cases_DXY)
  
 ## Data
 ### <ins>[Data Curation Tracker](https://github.com/midas-network/COVID-19/wiki/Data-curation-tracker)</ins>
