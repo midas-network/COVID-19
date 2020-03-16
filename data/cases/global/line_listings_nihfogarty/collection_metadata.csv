@@ -11,7 +11,7 @@ collection_publisher,"Kaiyuan Sun, NIH Fogarty"
 collection_description,2019 Novel Coronavirus line listings obtained exclusively from DXY.cn by manual data entry. DXY.cn (DīngXiāngYuán) is an online community for medical professionals and news sharing of medical importance. DXY.cn provides a curated list of broadcasts for 2019 nCoV case reports from official Chinese sources: https://3g.dxy.cn/newh5/view/pneumonia
 collection_URL_original,https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/edit#gid=1187587451
 collection_format,Google Sheet 
-collection_number_files,42
+collection_number_files,44
 collection_members.1,2020_01_28_1800EST_linelist_NIHFogarty.csv
 collection_members.2,2020_01_29_1800EST_linelist_NIHFogarty.csv
 collection_members.3,2020_01_30_1800EST_linelist_NIHFogarty.csv
@@ -54,14 +54,16 @@ collection_members.39,2020_03_11_1800EST_linelist_NIHFogarty.csv
 collection_members.40,2020_03_12_1800EST_linelist_NIHFogarty.csv
 collection_members.41,2020_03_13_1800EST_linelist_NIHFogarty.csv
 collection_members.42,2020_03_14_1800EST_linelist_NIHFogarty.csv
+collection_members.43,2020_03_15_1800EST_linelist_NIHFogarty.csv
+collection_members.44,2020_03_16_1800EST_linelist_NIHFogarty.csv
 collection_first_report_date,2020-01-13
-collection_last_report_date,2020-03-12
+collection_last_report_date,2020-03-13
 collection_license,NA
 collection_access,Google Sheet that can be downloaded
 related_object_id,NA
 related_object_path,NA
 relation_description,NA
 curation_notes,NA
-collection_lastupdated_date,2020-03-14
+collection_lastupdated_date,2020-03-16
 collection_lastupdated_person,"Anne Cross, University of Pittsbugh, ORCID 0000-0003-1707-253X"
 collection_lastupdated_email,anne.cross@pitt.edu
