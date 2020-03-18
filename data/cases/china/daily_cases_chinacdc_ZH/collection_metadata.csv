@@ -11,7 +11,7 @@ collection_publisher,China CDC
 collection_description,"2019 Novel Coronavirus cumulative cases daily reported by province. Data source is the National Health and provincial health committees, including Hong Kong, Macao and Taiwan. The data are extracted everyday at 16:04 EST."
 collection_URL_original,http://2019ncov.chinacdc.cn/2019-nCoV/
 collection_format,CSV
-collection_number_files,65
+collection_number_files,66
 collection_members.1,2020-01-10_zh.csv
 collection_members.2,2020-01-11_zh.csv
 collection_members.3,2020-01-12_zh.csv
@@ -77,14 +77,15 @@ collection_members.62,2020-03-13_zh.csv
 collection_members.63,2020-03-14_zh.csv
 collection_members.64,2020-03-15_zh.csv
 collection_members.65,2020-03-16_zh.csv
+collection_members.66,2020-03-17_zh.csv
 collection_first_report_date,2020-01-10
-collection_last_report_date,2020-03-16
+collection_last_report_date,2020-03-17
 collection_license,NA
 collection_access,Web page that can be viewed and read
 related_object_id,daily_cases_chinacdc_EN
 related_object_path,COVID-19\data\cases\china\daily_cases_chinacdc_EN
 relation_description,English translation of files
 curation _notes,NA
-collection_lastupdated_date,2020-03-17
+collection_lastupdated_date,2020-03-18
 collection_lastupdated_person,"Anne Cross, University of Pittsbugh, ORCID 0000-0003-1707-253X"
 collection_lastupdated_email,anne.cross@pitt.edu
