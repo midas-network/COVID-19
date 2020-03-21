@@ -1,4 +1,4 @@
-## Announcement: This readme page will be removed on 23 March 2020. Visit the [MIDAS Online COVID-19 Portal](https://midasnetwork.us/covid-19/) to [navigate and search parameter estimates](https://midasnetwork.us/covid-19/#resources). This GitHub repository will be used to share the [computable (CSV format) parameter estimate listing only](https://github.com/midas-network/COVID-19/blob/master/parameter_estimates/2019_novel_coronavirus/estimates.csv). 
+## Also visit the [MIDAS Online COVID-19 Portal](https://midasnetwork.us/covid-19/) to [navigate and search parameter estimates](https://midasnetwork.us/covid-19/#resources). This GitHub repository will be used to share the [computable (CSV format) parameter estimate listing only](https://github.com/midas-network/COVID-19/blob/master/parameter_estimates/2019_novel_coronavirus/estimates.csv). 
 
 [Data Guide for Parameter Estimates](https://github.com/midas-network/COVID-19/blob/master/information_for_contributors/parameter_estimates_data_guide_v1.1_18Feb2020.csv)  
 [List of Parameters](https://github.com/midas-network/COVID-19/blob/master/information_for_contributors/parameter_list_v1.1_19Feb2020.csv)
