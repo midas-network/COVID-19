@@ -13,7 +13,7 @@ This repository serves as a central platform to share computable information (in
 The MIDAS Coordination Center maintains a dedicated mailing list for updates and news about COVID-19 modeling research. To join the mailing list, complete the [online request form](https://midasnetwork.us/covid-19-signup/). 
 
 ### Community contributions
-We highly encourage community member to contribute to COVID-19 repository. Community contributsion are acknowledged here.
+We highly encourage community member to contribute to COVID-19 repository. Community contributions are acknowledged here.
 
 |Name|Affiliation|Contribution| 
 |-------|------|---|
