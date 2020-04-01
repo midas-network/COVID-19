@@ -164,6 +164,169 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|0.6|0.5|0.7|South Korea|Unspecified|2020-01-20|2020-02-26|2020-03-02|[Shim E. et al.](https://www.medrxiv.org/content/10.1101/2020.02.27.20028829v2)|
 |No|0.85|0.69|1|Iran|Unspecified|2020-02-19|2020-02-29|2020-03-10|[Muniz-Rodriguez K. et al.](https://doi.org/10.1101/2020.03.08.20030643)|
 |No|1.1|0.4|2|Singapore|NA|2020-01-21|2020-03-05|2020-03-12|[Amna Tariq et al.](https://www.medrxiv.org/content/10.1101/2020.02.21.20026435v4)|
+|No|0.43|Unspecified|Unspecified|USA|New York-Newark-Jersey City, NY-NJ-PA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.25|Unspecified|Unspecified|USA|Los Angeles-Long Beach-Anaheim, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.36|Unspecified|Unspecified|USA|Chicago-Naperville-Elgin, IL-IN-WI|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.3|Unspecified|Unspecified|USA|Dallas-Fort Worth-Arlington, TX|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.23|Unspecified|Unspecified|USA|Houston-The Woodlands-Sugar Land, TX|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.31|Unspecified|Unspecified|USA|Miami-Fort Lauderdale-Pompano Beach, FL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.28|Unspecified|Unspecified|USA|Philadelphia-Camden-Wilmington, PA-NJ-DE-MD|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.22|Unspecified|Unspecified|USA|Washington-Arlington-Alexandria, DC-VA-MD-WV|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.26|Unspecified|Unspecified|USA|Atlanta-Sandy Springs-Alpharetta, GA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.21|Unspecified|Unspecified|USA|Longview, TX|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.33|Unspecified|Unspecified|USA|Phoenix-Mesa-Chandler, AZ|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.18|Unspecified|Unspecified|USA|Boston-Cambridge-Newton, MA-NH|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.18|Unspecified|Unspecified|USA|San Francisco-Oakland-Berkeley, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.18|Unspecified|Unspecified|USA|Riverside-San Bernardino-Ontario, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.4|Unspecified|Unspecified|USA|Oklahoma City, OK|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.49|Unspecified|Unspecified|USA|Detroit-Warren-Dearborn, MI|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.14|Unspecified|Unspecified|USA|Seattle-Tacoma-Bellevue, WA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.4|Unspecified|Unspecified|USA|St. Louis, MO-IL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.32|Unspecified|Unspecified|USA|San Diego-Chula Vista-Carlsbad, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.24|Unspecified|Unspecified|USA|Minneapolis-St. Paul-Bloomington, MN-WI|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.3|Unspecified|Unspecified|USA|Baltimore-Columbia-Towson, MD|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.36|Unspecified|Unspecified|USA|Tampa-St. Petersburg-Clearwater, FL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.23|Unspecified|Unspecified|USA|Denver-Aurora-Lakewood, CO|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.39|Unspecified|Unspecified|USA|Orlando-Kissimmee-Sanford, FL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.23|Unspecified|Unspecified|USA|Portland-Vancouver-Hillsboro, OR-WA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.4|Unspecified|Unspecified|USA|Charlotte-Concord-Gastonia, NC-SC|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.43|Unspecified|Unspecified|USA|San Antonio-New Braunfels, TX|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.26|Unspecified|Unspecified|USA|Las Vegas-Henderson-Paradise, NV|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.14|Unspecified|Unspecified|USA|Sacramento-Roseville-Folsom, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.32|Unspecified|Unspecified|USA|Cleveland-Elyria, OH|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.13|Unspecified|Unspecified|USA|San Jose-Sunnyvale-Santa Clara, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.29|Unspecified|Unspecified|USA|Indianapolis-Carmel-Anderson, IN|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.37|Unspecified|Unspecified|USA|Pittsburgh, PA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.32|Unspecified|Unspecified|USA|Kansas City, MO-KS|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.4|Unspecified|Unspecified|USA|Columbus, OH|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.3|Unspecified|Unspecified|USA|Providence-Warwick, RI-MA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.43|Unspecified|Unspecified|USA|Milwaukee-Waukesha, WI|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.28|Unspecified|Unspecified|USA|Jacksonville, FL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.31|Unspecified|Unspecified|USA|Nashville-Davidson–Murfreesboro–Franklin, TN|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.35|Unspecified|Unspecified|USA|Austin-Round Rock-Georgetown, TX|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.21|Unspecified|Unspecified|USA|Raleigh-Cary, NC|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.46|Unspecified|Unspecified|USA|Hartford-East Hartford-Middletown, CT|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.3|Unspecified|Unspecified|USA|Louisville/Jefferson County, KY-IN|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.26|Unspecified|Unspecified|USA|Knoxville, TN|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.23|Unspecified|Unspecified|USA|Oxnard-Thousand Oaks-Ventura, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.25|Unspecified|Unspecified|USA|Tucson, AZ|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.25|Unspecified|Unspecified|USA|Grand Rapids-Kentwood, MI|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.24|Unspecified|Unspecified|USA|Fresno, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.36|Unspecified|Unspecified|USA|Urban Honolulu, HI|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.4|Unspecified|Unspecified|USA|Rochester, NY|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.48|Unspecified|Unspecified|USA|Memphis, TN-MS-AR|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.39|Unspecified|Unspecified|USA|Birmingham-Hoover, AL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.35|Unspecified|Unspecified|USA|Bridgeport-Stamford-Norwalk, CT|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.13|Unspecified|Unspecified|USA|Omaha-Council Bluffs, NE-IA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.35|Unspecified|Unspecified|USA|Albany-Schenectady-Troy, NY|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.21|Unspecified|Unspecified|USA|El Paso, TX|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.33|Unspecified|Unspecified|USA|Worcester, MA-CT|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.22|Unspecified|Unspecified|USA|Northport-Sarasota-Bradenton, FL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.22|Unspecified|Unspecified|USA|Albuquerque, NM|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.4|Unspecified|Unspecified|USA|Charleston-North Charleston, SC|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.3|Unspecified|Unspecified|USA|Columbia, SC|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.46|Unspecified|Unspecified|USA|Allentown-Bethlehem-Easton, PA-NJ|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.21|Unspecified|Unspecified|USA|Stockton, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.27|Unspecified|Unspecified|USA|Cape Coral-Fort Myers, FL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.45|Unspecified|Unspecified|USA|Colorado Springs, CO|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.46|Unspecified|Unspecified|USA|Poughkeepsie-Newburgh-Middletown, NY|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.16|Unspecified|Unspecified|USA|Tulsa, OK|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.29|Unspecified|Unspecified|USA|Madison, WI|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.15|Unspecified|Unspecified|USA|Modesto, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.35|Unspecified|Unspecified|USA|Youngstown-Warren-Boardman, OH-PA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.35|Unspecified|Unspecified|USA|Akron, OH|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.15|Unspecified|Unspecified|USA|Deltona-Daytona Beach-Ormond Beach, FL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.21|Unspecified|Unspecified|USA|Wichita, KS|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.41|Unspecified|Unspecified|USA|Durham-Chapel Hill, NC|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.26|Unspecified|Unspecified|USA|Fayetteville, NC|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.29|Unspecified|Unspecified|USA|Santa Rosa-Petaluma, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.3|Unspecified|Unspecified|USA|Richmond, VA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.3|Unspecified|Unspecified|USA|Myrtle Beach-Conway-North Myrtle Beach, SC-NC|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.25|Unspecified|Unspecified|USA|Visalia, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.17|Unspecified|Unspecified|USA|Lexington-Fayette, KY|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.13|Unspecified|Unspecified|USA|Harrisburg-Carlisle, PA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.21|Unspecified|Unspecified|USA|Reno, NV|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.29|Unspecified|Unspecified|USA|Boise City, ID|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.37|Unspecified|Unspecified|USA|Huntsville, AL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.27|Unspecified|Unspecified|USA|Winston-Salem, NC|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.14|Unspecified|Unspecified|USA|Vallejo, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.27|Unspecified|Unspecified|USA|Salem, OR|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.2|Unspecified|Unspecified|USA|Canton-Massillon, OH|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.32|Unspecified|Unspecified|USA|Chattanooga, TN-GA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.43|Unspecified|Unspecified|USA|Jackson, MS|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.28|Unspecified|Unspecified|USA|Naples-Marco Island, FL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.34|Unspecified|Unspecified|USA|Lansing-East Lansing, MI|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.28|Unspecified|Unspecified|USA|Ann Arbor, MI|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.4|Unspecified|Unspecified|USA|Trenton-Princeton, NJ|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.3|Unspecified|Unspecified|USA|Killeen-Temple, TX|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.31|Unspecified|Unspecified|USA|Ogden-Clearfield, UT|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.42|Unspecified|Unspecified|USA|Fort Collins, CO|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.28|Unspecified|Unspecified|USA|Springfield, MO|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.19|Unspecified|Unspecified|USA|Montgomery, AL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.34|Unspecified|Unspecified|USA|South Bend-Mishawaka, IN-MI|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.12|Unspecified|Unspecified|USA|Spartanburg, SC|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.31|Unspecified|Unspecified|USA|Greeley, CO|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.28|Unspecified|Unspecified|USA|Utica-Roma, NY|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.21|Unspecified|Unspecified|USA|Virginia Beach-Norfolk-Newport News, VA-NC|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.2|Unspecified|Unspecified|USA|Olympia-Lacey-Tumwater, WA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.11|Unspecified|Unspecified|USA|Santa Cruz-Watsonville, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.38|Unspecified|Unspecified|USA|Crestview-Fort Walton B each-Destin, FL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.38|Unspecified|Unspecified|USA|Gainesville, FL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.21|Unspecified|Unspecified|USA|Bremerton-Silverdale-Port Orchard, WA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.05|Unspecified|Unspecified|USA|Sioux Falls, SD|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.24|Unspecified|Unspecified|USA|Yakima, WA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.16|Unspecified|Unspecified|USA|Binghamton, NY|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.19|Unspecified|Unspecified|USA|Tuscaloosa, AL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.13|Unspecified|Unspecified|USA|Hereford, TX|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.13|Unspecified|Unspecified|USA|Tyler, TX|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.31|Unspecified|Unspecified|USA|Bellingham, WA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.22|Unspecified|Unspecified|USA|Lebanon, NH-VT|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.34|Unspecified|Unspecified|USA|Burlington-South Burlington, VT|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.12|Unspecified|Unspecified|USA|St. Cloud, MN|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.29|Unspecified|Unspecified|USA|Rochester, MN|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.2|Unspecified|Unspecified|USA|Racine, WI|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.13|Unspecified|Unspecified|USA|Bend, OR|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.18|Unspecified|Unspecified|USA|Torrington, CT|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.14|Unspecified|Unspecified|USA|El Centro, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.13|Unspecified|Unspecified|USA|Punta Gorda, FL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.18|Unspecified|Unspecified|USA|Kingston, NY|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.11|Unspecified|Unspecified|USA|Iowa City, IA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.23|Unspecified|Unspecified|USA|Billings, MT|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.26|Unspecified|Unspecified|USA|East Stroudsburg, PA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.15|Unspecified|Unspecified|USA|Pueblo, CO|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.21|Unspecified|Unspecified|USA|Madera, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.16|Unspecified|Unspecified|USA|Santa Fe, NM|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.17|Unspecified|Unspecified|USA|Hattiesburg, MS|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.4|Unspecified|Unspecified|USA|Albany, GA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.12|Unspecified|Unspecified|USA|Pittsfield, MA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.29|Unspecified|Unspecified|USA|Mount Vernon-Anacortes, WA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.09|Unspecified|Unspecified|USA|Albany-Lebanon, OR|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.21|Unspecified|Unspecified|USA|Morristown, TN|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.18|Unspecified|Unspecified|USA|Valdosta, GA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.09|Unspecified|Unspecified|USA|Sheboygan, WI|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.33|Unspecified|Unspecified|USA|Bozeman, MT|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.13|Unspecified|Unspecified|USA|Lewiston-Auburn, ME|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.06|Unspecified|Unspecified|USA|Fond du Lac, WI|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.1|Unspecified|Unspecified|USA|Rome, GA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.18|Unspecified|Unspecified|USA|Oak Harbor, WA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.2|Unspecified|Unspecified|USA|Kokomo, IN|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.11|Unspecified|Unspecified|USA|Glenwood Springs, CO|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.13|Unspecified|Unspecified|USA|Minot, ND|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.36|Unspecified|Unspecified|USA|Heber, UT|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.09|Unspecified|Unspecified|USA|Kapaa, HI|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.12|Unspecified|Unspecified|USA|Calhoun, GA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.27|Unspecified|Unspecified|USA|Picayune, MS|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.18|Unspecified|Unspecified|USA|Edwards, CO|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.05|Unspecified|Unspecified|USA|Ellensburg, WA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.19|Unspecified|Unspecified|USA|Cedartown, GA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.25|Unspecified|Unspecified|USA|Riverton, WY|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.25|Unspecified|Unspecified|USA|Greenwood, MS|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.1|Unspecified|Unspecified|USA|Bennington, VT|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.05|Unspecified|Unspecified|USA|Mount Sterling, KY|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.18|Unspecified|Unspecified|USA|Breckenridge, CO|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.16|Unspecified|Unspecified|USA|Sheridan, WY|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.13|Unspecified|Unspecified|USA|Steamboat Springs, CO|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
+|No|0.3|Unspecified|Unspecified|USA|Huron, SD|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
 
 ## Incubation Period
 
