@@ -1,0 +1,7 @@
+collection_ID,data_field_code,data_field_name,full_name_en,full_name_original,description,format,unit,information_update_date,informatin_update_person,information_update_email
+nytime_covid19_data,NCD1,date,date,date,Date of the reported cumulative number of cases and deaths,date,NA,2020-03-30,Lucie Contamin,contamin@pitt.edu
+nytime_covid19_data,NCD2,county,county,county,"Name of the county in English. In some instances, data from multiple counties or other non-county geographies are reported as a single county. In this case the FIPS information will be empty",text,NA,2020-03-30,Lucie Contamin,contamin@pitt.edu
+nytime_covid19_data,NCD3,state,state,state,Name of the state in English,text,NA,2020-03-30,Lucie Contamin,contamin@pitt.edu
+nytime_covid19_data,NCD4,fips,fips,fips,Numeric FIPS state code,numeric,NA,2020-03-30,Lucie Contamin,contamin@pitt.edu
+nytime_covid19_data,NCD5,cases,cases,cases,"Confirmed cases are patients who test positive for the coronavirus. A case is counted as confirmed when it is reported by a federal, state, territorial or local government agency.",numeric,NA,2020-03-30,Lucie Contamin,contamin@pitt.edu
+nytime_covid19_data,NCD6,deaths,deaths,deaths,Number of people that die,numeric,NA,2020-03-30,Lucie Contamin,contamin@pitt.edu
