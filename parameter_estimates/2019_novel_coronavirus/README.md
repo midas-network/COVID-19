@@ -50,6 +50,114 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|3.6|3.2|4.2|Iran|Unspecified|2020-02-19|2020-02-29|2020-03-10|[Muniz-Rodriguez K. et al.](https://doi.org/10.1101/2020.03.08.20030643)|
 |No|3.58|1.29|8.46|Iran|Unspecified|2020-02-19|2020-02-29|2020-03-10|[Muniz-Rodriguez K. et al.](https://doi.org/10.1101/2020.03.08.20030643)|
 |No|2.5|2.43|2.55|Japan|Unspecified|2020-01-14|2020-03-08|2020-03-16|[Sugishita Y. et al.](https://www.medrxiv.org/content/10.1101/2020.03.12.20035220v1)|
+|No|2.37|Unspecified|Unspecified|Afghanistan|Unspecified|Unspecified|2020-05-15|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.51|Unspecified|Unspecified|Albania|Unspecified|Unspecified|2020-04-17|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.36|Unspecified|Unspecified|Algeria|Unspecified|Unspecified|2020-05-04|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.72|Unspecified|Unspecified|Andorra|Unspecified|Unspecified|2020-05-02|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.42|Unspecified|Unspecified|Argentina|Unspecified|Unspecified|2020-05-04|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.6|Unspecified|Unspecified|Armenia|Unspecified|Unspecified|2020-04-17|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.65|Unspecified|Unspecified|Australia|Unspecified|Unspecified|2020-04-23|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.59|Unspecified|Unspecified|Austria|Unspecified|Unspecified|2020-07-25|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.23|Unspecified|Unspecified|Azerbaijan|Unspecified|Unspecified|2020-04-28|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.01|Unspecified|Unspecified|Bahrain|Unspecified|Unspecified|2020-04-09|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.55|Unspecified|Unspecified|Belgium|Unspecified|Unspecified|2020-04-18|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.14|Unspecified|Unspecified|Bosnia and Herzegovina|Unspecified|Unspecified|2020-04-28|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.7|Unspecified|Unspecified|Brazil|Unspecified|Unspecified|2020-05-08|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.48|Unspecified|Unspecified|Brunei Darussalam|Unspecified|Unspecified|2020-04-16|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.25|Unspecified|Unspecified|Bulgaria|Unspecified|Unspecified|2020-04-24|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.3|Unspecified|Unspecified|Burkina Faso|Unspecified|Unspecified|2020-05-06|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.67|Unspecified|Unspecified|Canada|Unspecified|Unspecified|2020-04-23|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.62|Unspecified|Unspecified|Chile|Unspecified|Unspecified|2020-04-23|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.28|Unspecified|Unspecified|China|Unspecified|Unspecified|2020-04-03|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.41|Unspecified|Unspecified|Colombia|Unspecified|Unspecified|2020-05-21|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.27|Unspecified|Unspecified|Costa Rica|Unspecified|Unspecified|2020-04-23|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.55|Unspecified|Unspecified|Côte d'Ivoire|Unspecified|Unspecified|2020-05-10|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.67|Unspecified|Unspecified|Croatia|Unspecified|Unspecified|2020-04-20|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.29|Unspecified|Unspecified|Cyprus|Unspecified|Unspecified|2020-04-18|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.45|Unspecified|Unspecified|Czech Republic|Unspecified|Unspecified|2020-04-18|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.41|Unspecified|Unspecified|Denmark|Unspecified|Unspecified|2020-04-15|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.54|Unspecified|Unspecified|Dominican Republic|Unspecified|Unspecified|2020-04-20|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.53|Unspecified|Unspecified|Ecuador|Unspecified|Unspecified|2020-04-26|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.3|Unspecified|Unspecified|Egypt|Unspecified|Unspecified|2020-04-24|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.68|Unspecified|Unspecified|Estonia|Unspecified|Unspecified|2020-06-24|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.07|Unspecified|Unspecified|Faroe Islands|Unspecified|Unspecified|2020-04-09|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.2|Unspecified|Unspecified|Finland|Unspecified|Unspecified|2020-04-26|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|3.61|Unspecified|Unspecified|France|Unspecified|Unspecified|2020-04-19|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.72|Unspecified|Unspecified|Germany|Unspecified|Unspecified|2020-04-21|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.53|Unspecified|Unspecified|Ghana|Unspecified|Unspecified|2020-05-05|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.27|Unspecified|Unspecified|Greece|Unspecified|Unspecified|2020-04-19|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.27|Unspecified|Unspecified|Hungary|Unspecified|Unspecified|2020-04-27|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.15|Unspecified|Unspecified|Iceland|Unspecified|Unspecified|2020-04-16|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.41|Unspecified|Unspecified|India|Unspecified|Unspecified|2020-05-09|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.43|Unspecified|Unspecified|Indonesia|Unspecified|Unspecified|2020-05-13|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|3.55|Unspecified|Unspecified|Iran|Unspecified|Unspecified|2020-04-11|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.86|Unspecified|Unspecified|Iraq|Unspecified|Unspecified|2020-04-22|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.59|Unspecified|Unspecified|Ireland|Unspecified|Unspecified|2020-04-29|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.78|Unspecified|Unspecified|Israel|Unspecified|Unspecified|2020-04-25|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.67|Unspecified|Unspecified|Italy|Unspecified|Unspecified|2020-04-18|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|3.22|Unspecified|Unspecified|Japan|Unspecified|Unspecified|2020-05-24|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.28|Unspecified|Unspecified|Jordan|Unspecified|Unspecified|2020-05-10|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.33|Unspecified|Unspecified|Kazakhstan|Unspecified|Unspecified|2020-05-04|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.31|Unspecified|Unspecified|Korea|Unspecified|Unspecified|2020-04-08|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|1.68|Unspecified|Unspecified|Kuwait|Unspecified|Unspecified|2020-04-20|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.23|Unspecified|Unspecified|Latvia|Unspecified|Unspecified|2020-04-28|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.2|Unspecified|Unspecified|Lebanon|Unspecified|Unspecified|2020-04-25|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.73|Unspecified|Unspecified|Lithuania|Unspecified|Unspecified|2020-06-10|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.44|Unspecified|Unspecified|Luxembourg|Unspecified|Unspecified|2020-04-20|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.39|Unspecified|Unspecified|Malaysia|Unspecified|Unspecified|2020-04-17|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.22|Unspecified|Unspecified|Malta|Unspecified|Unspecified|2020-05-26|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.36|Unspecified|Unspecified|Mexico|Unspecified|Unspecified|2020-06-17|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.28|Unspecified|Unspecified|Moldova|Unspecified|Unspecified|2020-04-23|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.41|Unspecified|Unspecified|Morocco|Unspecified|Unspecified|2020-05-15|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.61|Unspecified|Unspecified|Netherlands|Unspecified|Unspecified|2020-04-25|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.62|Unspecified|Unspecified|New Zealand|Unspecified|Unspecified|2020-04-20|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.67|Unspecified|Unspecified|North Macedonia|Unspecified|Unspecified|2020-05-17|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.34|Unspecified|Unspecified|Norway|Unspecified|Unspecified|2020-04-17|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.21|Unspecified|Unspecified|Oman|Unspecified|Unspecified|2020-04-18|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.35|Unspecified|Unspecified|Pakistan|Unspecified|Unspecified|2020-05-13|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.64|Unspecified|Unspecified|Panama|Unspecified|Unspecified|2020-04-24|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.29|Unspecified|Unspecified|Peru|Unspecified|Unspecified|2020-05-01|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.35|Unspecified|Unspecified|Philippines|Unspecified|Unspecified|2020-05-09|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.51|Unspecified|Unspecified|Poland|Unspecified|Unspecified|2020-04-24|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.66|Unspecified|Unspecified|Portugal|Unspecified|Unspecified|2020-05-05|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.46|Unspecified|Unspecified|Qatar|Unspecified|Unspecified|2020-04-17|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.65|Unspecified|Unspecified|Réunion|Unspecified|Unspecified|2020-04-27|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.52|Unspecified|Unspecified|Romania|Unspecified|Unspecified|2020-04-18|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.52|Unspecified|Unspecified|Russia|Unspecified|Unspecified|2020-05-14|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.14|Unspecified|Unspecified|San Marino|Unspecified|Unspecified|2020-06-04|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.47|Unspecified|Unspecified|Saudi Arabia|Unspecified|Unspecified|2020-04-27|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.34|Unspecified|Unspecified|Senegal|Unspecified|Unspecified|2020-04-29|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.25|Unspecified|Unspecified|Serbia|Unspecified|Unspecified|2020-04-21|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|3.15|Unspecified|Unspecified|Singapore|Unspecified|Unspecified|2020-04-16|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.27|Unspecified|Unspecified|Slovakia|Unspecified|Unspecified|2020-04-25|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.76|Unspecified|Unspecified|Slovenia|Unspecified|Unspecified|2020-04-25|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.7|Unspecified|Unspecified|South Africa|Unspecified|Unspecified|2020-05-10|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.66|Unspecified|Unspecified|Spain|Unspecified|Unspecified|2020-04-22|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.28|Unspecified|Unspecified|Sri Lanka|Unspecified|Unspecified|2020-04-23|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.21|Unspecified|Unspecified|Sweden|Unspecified|Unspecified|2020-07-23|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.64|Unspecified|Unspecified|Switzerland|Unspecified|Unspecified|2020-04-24|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.32|Unspecified|Unspecified|Thailand|Unspecified|Unspecified|2020-05-15|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.69|Unspecified|Unspecified|The United Kingdom|Unspecified|Unspecified|2020-05-02|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.38|Unspecified|Unspecified|Tunisia|Unspecified|Unspecified|2020-04-28|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|3.11|Unspecified|Unspecified|Turkey|Unspecified|Unspecified|2020-05-06|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.69|Unspecified|Unspecified|Ukraine|Unspecified|Unspecified|2020-05-03|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.21|Unspecified|Unspecified|United Arab Emirates|Unspecified|Unspecified|2020-04-23|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.82|Unspecified|Unspecified|United States|Unspecified|Unspecified|2020-05-07|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.64|Unspecified|Unspecified|Uruguay|Unspecified|Unspecified|2020-04-26|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.42|Unspecified|Unspecified|Venezuela|Unspecified|Unspecified|2020-04-21|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2.31|Unspecified|Unspecified|Viet Nam|Unspecified|Unspecified|2020-04-17|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|5.25|Unspecified|Unspecified|Brazil|Unspecified|2020-02-26|2020-03-25|2020-03-30|[Crokidakis N. et al.](https://arxiv.org/abs/2003.12150v1)|
+|No|3.15|1.71|5.21|China|Hunan|2020-01-23|Unspecified|2020-03-20|[Wangping J. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038570v1)|
+|No|4.1|2.15|6.77|Italy|Unspecified|2020-03-09|Unspecified|2020-03-20|[Wangping J. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038570v1)|
+|No|3.26|1.83|5.34|Italy|Unspecified|2020-03-05|Unspecified|2020-03-20|[Wangping J. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038570v1)|
+|No|4.24|2.44|6.61|Italy|Unspecified|2020-03-15|Unspecified|2020-03-20|[Wangping J. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038570v1)|
+|No|3.1|2.9|3.2|Italy|Lombardy|2020-01-14|2020-03-08|2020-03-20|[Cereda D. et al.](http://arxiv.org/abs/2003.09320)|
+|No|2.5|2.1|2.8|Italy|Bergamo|2020-01-14|2020-03-08|2020-03-20|[Cereda D. et al.](http://arxiv.org/abs/2003.09320)|
+|No|2.3|1.9|2.7|Italy|Codogno|2020-01-14|2020-03-08|2020-03-20|[Cereda D. et al.](http://arxiv.org/abs/2003.09320)|
+|No|3.1|2.9|3.2|Italy|Cremona|2020-01-14|2020-03-08|2020-03-20|[Cereda D. et al.](http://arxiv.org/abs/2003.09320)|
+|No|3.8|3.5|4.2|China|mainland China|2020-01-10|2020-01-23|2020-03-13|[Tang B. et al.](https://www.medrxiv.org/content/10.1101/2020.03.09.20033464v1)|
+|No|3|2.6|3.3|China|Guangdong|2020-01-19|2020-01-31|2020-03-13|[Tang B. et al.](https://www.medrxiv.org/content/10.1101/2020.03.09.20033464v1)|
+|No|2.6|2.5|2.7|South Korea|Unspecified|2020-01-23|2020-03-02|2020-03-13|[Tang B. et al.](https://www.medrxiv.org/content/10.1101/2020.03.09.20033464v1)|
 
 ## Cumulative Case Count
 
@@ -103,6 +211,115 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|8000000|720000|37000000|China|mainland China|2020-01-11|2020-02-29|2020-03-03|[Anastassopoulou C. et al.](https://www.medrxiv.org/content/10.1101/2020.02.11.20022186v3)|
 |Yes|13118|2974|23435|China|Wuhan|2020-01-10|2020-01-23|2020-03-16|[Li R. et al.](https://science.sciencemag.org/content/early/2020/03/13/science.abb3221)|
 |Yes|16829|3797|30271|China|nationwide|2020-01-10|2020-01-23|2020-03-16|[Li R. et al.](https://science.sciencemag.org/content/early/2020/03/13/science.abb3221)|
+|No|749911|561598|2814499|NA|Europe|Unspecified|Unspecified|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|184722|178414|206180|NA|Asia|Unspecified|Unspecified|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|420685|239546|5788917|NA|North America|Unspecified|Unspecified|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|52686|44867|104299|NA|South America|Unspecified|Unspecified|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|7247|5273|17720|NA|Oceania|Unspecified|Unspecified|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|27272|22879|49825|NA|Africa|Unspecified|Unspecified|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|537|Unspecified|Unspecified|Afghanistan|Unspecified|Unspecified|2020-05-15|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|400|Unspecified|Unspecified|Albania|Unspecified|Unspecified|2020-04-17|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|1389|Unspecified|Unspecified|Algeria|Unspecified|Unspecified|2020-05-04|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|690|Unspecified|Unspecified|Andorra|Unspecified|Unspecified|2020-05-02|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2715|Unspecified|Unspecified|Argentina|Unspecified|Unspecified|2020-05-04|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|599|Unspecified|Unspecified|Armenia|Unspecified|Unspecified|2020-04-17|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|7247|Unspecified|Unspecified|Australia|Unspecified|Unspecified|2020-04-23|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|18671|Unspecified|Unspecified|Austria|Unspecified|Unspecified|2020-07-25|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|428|Unspecified|Unspecified|Azerbaijan|Unspecified|Unspecified|2020-04-28|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|524|Unspecified|Unspecified|Bahrain|Unspecified|Unspecified|2020-04-09|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|15097|Unspecified|Unspecified|Belgium|Unspecified|Unspecified|2020-04-18|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|678|Unspecified|Unspecified|Bosnia and Herzegovina|Unspecified|Unspecified|2020-04-28|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|25424|Unspecified|Unspecified|Brazil|Unspecified|Unspecified|2020-05-08|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|249|Unspecified|Unspecified|Brunei Darussalam|Unspecified|Unspecified|2020-04-16|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|1199|Unspecified|Unspecified|Bulgaria|Unspecified|Unspecified|2020-04-24|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|1218|Unspecified|Unspecified|Burkina Faso|Unspecified|Unspecified|2020-05-06|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|13468|Unspecified|Unspecified|Canada|Unspecified|Unspecified|2020-04-23|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|5258|Unspecified|Unspecified|Chile|Unspecified|Unspecified|2020-04-23|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|85166|Unspecified|Unspecified|China|Unspecified|Unspecified|2020-04-03|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|3744|Unspecified|Unspecified|Colombia|Unspecified|Unspecified|2020-05-21|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|821|Unspecified|Unspecified|Costa Rica|Unspecified|Unspecified|2020-04-23|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|1319|Unspecified|Unspecified|Côte d'Ivoire|Unspecified|Unspecified|2020-05-10|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|1273|Unspecified|Unspecified|Croatia|Unspecified|Unspecified|2020-04-20|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|438|Unspecified|Unspecified|Cyprus|Unspecified|Unspecified|2020-04-18|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|5218|Unspecified|Unspecified|Czech Republic|Unspecified|Unspecified|2020-04-18|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|3555|Unspecified|Unspecified|Denmark|Unspecified|Unspecified|2020-04-15|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2017|Unspecified|Unspecified|Dominican Republic|Unspecified|Unspecified|2020-04-20|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|5191|Unspecified|Unspecified|Ecuador|Unspecified|Unspecified|2020-04-26|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|844|Unspecified|Unspecified|Egypt|Unspecified|Unspecified|2020-04-24|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|838|Unspecified|Unspecified|Estonia|Unspecified|Unspecified|2020-06-24|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|226|Unspecified|Unspecified|Faroe Islands|Unspecified|Unspecified|2020-04-09|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|1702|Unspecified|Unspecified|Finland|Unspecified|Unspecified|2020-04-26|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|63851|Unspecified|Unspecified|France|Unspecified|Unspecified|2020-04-19|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|105903|Unspecified|Unspecified|Germany|Unspecified|Unspecified|2020-04-21|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|4488|Unspecified|Unspecified|Ghana|Unspecified|Unspecified|2020-05-05|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|1496|Unspecified|Unspecified|Greece|Unspecified|Unspecified|2020-04-19|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|1084|Unspecified|Unspecified|Hungary|Unspecified|Unspecified|2020-04-27|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|1524|Unspecified|Unspecified|Iceland|Unspecified|Unspecified|2020-04-16|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|3326|Unspecified|Unspecified|India|Unspecified|Unspecified|2020-05-09|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|4638|Unspecified|Unspecified|Indonesia|Unspecified|Unspecified|2020-05-13|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|45932|Unspecified|Unspecified|Iran|Unspecified|Unspecified|2020-04-11|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|668|Unspecified|Unspecified|Iraq|Unspecified|Unspecified|2020-04-22|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|5707|Unspecified|Unspecified|Ireland|Unspecified|Unspecified|2020-04-29|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|10740|Unspecified|Unspecified|Israel|Unspecified|Unspecified|2020-04-25|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|127283|Unspecified|Unspecified|Italy|Unspecified|Unspecified|2020-04-18|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|1737|Unspecified|Unspecified|Japan|Unspecified|Unspecified|2020-05-24|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|949|Unspecified|Unspecified|Jordan|Unspecified|Unspecified|2020-05-10|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2329|Unspecified|Unspecified|Kazakhstan|Unspecified|Unspecified|2020-05-04|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|10451|Unspecified|Unspecified|Korea|Unspecified|Unspecified|2020-04-08|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|295|Unspecified|Unspecified|Kuwait|Unspecified|Unspecified|2020-04-20|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|600|Unspecified|Unspecified|Latvia|Unspecified|Unspecified|2020-04-28|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|786|Unspecified|Unspecified|Lebanon|Unspecified|Unspecified|2020-04-25|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|1069|Unspecified|Unspecified|Lithuania|Unspecified|Unspecified|2020-06-10|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|4316|Unspecified|Unspecified|Luxembourg|Unspecified|Unspecified|2020-04-20|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|4296|Unspecified|Unspecified|Malaysia|Unspecified|Unspecified|2020-04-17|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|310|Unspecified|Unspecified|Malta|Unspecified|Unspecified|2020-05-26|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|4308|Unspecified|Unspecified|Mexico|Unspecified|Unspecified|2020-06-17|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|775|Unspecified|Unspecified|Moldova|Unspecified|Unspecified|2020-04-23|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2397|Unspecified|Unspecified|Morocco|Unspecified|Unspecified|2020-05-15|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|20893|Unspecified|Unspecified|Netherlands|Unspecified|Unspecified|2020-04-25|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2102|Unspecified|Unspecified|New Zealand|Unspecified|Unspecified|2020-04-20|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|486|Unspecified|Unspecified|North Macedonia|Unspecified|Unspecified|2020-05-17|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|7002|Unspecified|Unspecified|Norway|Unspecified|Unspecified|2020-04-17|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|230|Unspecified|Unspecified|Oman|Unspecified|Unspecified|2020-04-18|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|4939|Unspecified|Unspecified|Pakistan|Unspecified|Unspecified|2020-05-13|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2854|Unspecified|Unspecified|Panama|Unspecified|Unspecified|2020-04-24|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|3992|Unspecified|Unspecified|Peru|Unspecified|Unspecified|2020-05-01|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2972|Unspecified|Unspecified|Philippines|Unspecified|Unspecified|2020-05-09|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|5586|Unspecified|Unspecified|Poland|Unspecified|Unspecified|2020-04-24|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|13108|Unspecified|Unspecified|Portugal|Unspecified|Unspecified|2020-05-05|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|819|Unspecified|Unspecified|Qatar|Unspecified|Unspecified|2020-04-17|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|429|Unspecified|Unspecified|Réunion|Unspecified|Unspecified|2020-04-27|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|3413|Unspecified|Unspecified|Romania|Unspecified|Unspecified|2020-04-18|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|6774|Unspecified|Unspecified|Russia|Unspecified|Unspecified|2020-05-14|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|311|Unspecified|Unspecified|San Marino|Unspecified|Unspecified|2020-06-04|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|4335|Unspecified|Unspecified|Saudi Arabia|Unspecified|Unspecified|2020-04-27|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|280|Unspecified|Unspecified|Senegal|Unspecified|Unspecified|2020-04-29|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|1481|Unspecified|Unspecified|Serbia|Unspecified|Unspecified|2020-04-21|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|847|Unspecified|Unspecified|Singapore|Unspecified|Unspecified|2020-04-16|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|879|Unspecified|Unspecified|Slovakia|Unspecified|Unspecified|2020-04-25|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|1168|Unspecified|Unspecified|Slovenia|Unspecified|Unspecified|2020-04-25|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|13614|Unspecified|Unspecified|South Africa|Unspecified|Unspecified|2020-05-10|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|152539|Unspecified|Unspecified|Spain|Unspecified|Unspecified|2020-04-22|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|200|Unspecified|Unspecified|Sri Lanka|Unspecified|Unspecified|2020-04-23|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|3974|Unspecified|Unspecified|Sweden|Unspecified|Unspecified|2020-07-23|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|28290|Unspecified|Unspecified|Switzerland|Unspecified|Unspecified|2020-04-24|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|5112|Unspecified|Unspecified|Thailand|Unspecified|Unspecified|2020-05-15|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|41228|Unspecified|Unspecified|The United Kingdom|Unspecified|Unspecified|2020-05-02|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|1723|Unspecified|Unspecified|Tunisia|Unspecified|Unspecified|2020-04-28|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|76824|Unspecified|Unspecified|Turkey|Unspecified|Unspecified|2020-05-06|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|10285|Unspecified|Unspecified|Ukraine|Unspecified|Unspecified|2020-05-03|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|643|Unspecified|Unspecified|United Arab Emirates|Unspecified|Unspecified|2020-04-23|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|400892|Unspecified|Unspecified|United States|Unspecified|Unspecified|2020-05-07|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|2030|Unspecified|Unspecified|Uruguay|Unspecified|Unspecified|2020-04-26|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|657|Unspecified|Unspecified|Venezuela|Unspecified|Unspecified|2020-04-21|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|211|Unspecified|Unspecified|Viet Nam|Unspecified|Unspecified|2020-04-17|2020-04-01|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038224v2)|
+|No|3988|786|9065|China|Hunan|2020-01-23|Unspecified|2020-03-20|[Wangping J. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038570v1)|
+|No|30086|7920|81869|Italy|Unspecified|2020-03-09|Unspecified|2020-03-20|[Wangping J. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038570v1)|
+|No|10636|2357|23326|Italy|Unspecified|2020-03-05|Unspecified|2020-03-20|[Wangping J. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038570v1)|
+|No|44993|16676|96759|Italy|Unspecified|2020-03-15|Unspecified|2020-03-20|[Wangping J. et al.](https://www.medrxiv.org/content/10.1101/2020.03.18.20038570v1)|
+|No|1294|390|3034|Italy|Unspecified|Unspecified|2020-03-04|2020-03-13|[Jombart T. et al.](https://www.medrxiv.org/content/10.1101/2020.03.10.20033761v1)|
+|No|202|95|823|Spain|Unspecified|Unspecified|2020-03-04|2020-03-13|[Jombart T. et al.](https://www.medrxiv.org/content/10.1101/2020.03.10.20033761v1)|
+|No|592|177|1705|France|Unspecified|Unspecified|2020-03-04|2020-03-13|[Jombart T. et al.](https://www.medrxiv.org/content/10.1101/2020.03.10.20033761v1)|
 
 ## Date Of Emergence
 
@@ -125,6 +342,11 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|2.4|Unspecified|Unspecified|China|Hubei|2020-01-20|2020-02-02|2020-02-06|[Muniz-Rodriguez K. et al.](https://www.medrxiv.org/content/medrxiv/early/2020/02/06/2020.02.05.20020750.full.pdf)|
 |No|4.6|3|9.3|Cruise Ship|Diamond Princess|2020-01-20|2020-02-20|2020-03-02|[Zhao S. et al.](https://www.medrxiv.org/content/10.1101/2020.02.26.20028449v2)|
 |No|1.2|1.05|1.44|Iran|Unspecified|2020-02-19|2020-02-29|2020-03-10|[Muniz-Rodriguez K. et al.](https://doi.org/10.1101/2020.03.08.20030643)|
+|No|2.72|Unspecified|Unspecified|Brazil|Unspecified|2020-02-26|2020-03-25|2020-03-30|[Crokidakis N. et al.](https://arxiv.org/abs/2003.12150v1)|
+|No|2.6|2.2|3|Italy|Lombardy|2020-01-14|2020-03-08|2020-03-20|[Cereda D. et al.](http://arxiv.org/abs/2003.09320)|
+|No|3.1|2.2|5.4|Italy|Bergamo|2020-01-14|2020-03-08|2020-03-20|[Cereda D. et al.](http://arxiv.org/abs/2003.09320)|
+|No|3.5|2.7|4.8|Italy|Codogno|2020-01-14|2020-03-08|2020-03-20|[Cereda D. et al.](http://arxiv.org/abs/2003.09320)|
+|No|3.4|2.5|5|Italy|Cremona|2020-01-14|2020-03-08|2020-03-20|[Cereda D. et al.](http://arxiv.org/abs/2003.09320)|
 
 ## Effective Reproduction Number
 
@@ -164,169 +386,6 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|0.6|0.5|0.7|South Korea|Unspecified|2020-01-20|2020-02-26|2020-03-02|[Shim E. et al.](https://www.medrxiv.org/content/10.1101/2020.02.27.20028829v2)|
 |No|0.85|0.69|1|Iran|Unspecified|2020-02-19|2020-02-29|2020-03-10|[Muniz-Rodriguez K. et al.](https://doi.org/10.1101/2020.03.08.20030643)|
 |No|1.1|0.4|2|Singapore|NA|2020-01-21|2020-03-05|2020-03-12|[Amna Tariq et al.](https://www.medrxiv.org/content/10.1101/2020.02.21.20026435v4)|
-|No|0.43|Unspecified|Unspecified|USA|New York-Newark-Jersey City, NY-NJ-PA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.25|Unspecified|Unspecified|USA|Los Angeles-Long Beach-Anaheim, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.36|Unspecified|Unspecified|USA|Chicago-Naperville-Elgin, IL-IN-WI|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.3|Unspecified|Unspecified|USA|Dallas-Fort Worth-Arlington, TX|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.23|Unspecified|Unspecified|USA|Houston-The Woodlands-Sugar Land, TX|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.31|Unspecified|Unspecified|USA|Miami-Fort Lauderdale-Pompano Beach, FL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.28|Unspecified|Unspecified|USA|Philadelphia-Camden-Wilmington, PA-NJ-DE-MD|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.22|Unspecified|Unspecified|USA|Washington-Arlington-Alexandria, DC-VA-MD-WV|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.26|Unspecified|Unspecified|USA|Atlanta-Sandy Springs-Alpharetta, GA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.21|Unspecified|Unspecified|USA|Longview, TX|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.33|Unspecified|Unspecified|USA|Phoenix-Mesa-Chandler, AZ|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.18|Unspecified|Unspecified|USA|Boston-Cambridge-Newton, MA-NH|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.18|Unspecified|Unspecified|USA|San Francisco-Oakland-Berkeley, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.18|Unspecified|Unspecified|USA|Riverside-San Bernardino-Ontario, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.4|Unspecified|Unspecified|USA|Oklahoma City, OK|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.49|Unspecified|Unspecified|USA|Detroit-Warren-Dearborn, MI|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.14|Unspecified|Unspecified|USA|Seattle-Tacoma-Bellevue, WA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.4|Unspecified|Unspecified|USA|St. Louis, MO-IL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.32|Unspecified|Unspecified|USA|San Diego-Chula Vista-Carlsbad, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.24|Unspecified|Unspecified|USA|Minneapolis-St. Paul-Bloomington, MN-WI|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.3|Unspecified|Unspecified|USA|Baltimore-Columbia-Towson, MD|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.36|Unspecified|Unspecified|USA|Tampa-St. Petersburg-Clearwater, FL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.23|Unspecified|Unspecified|USA|Denver-Aurora-Lakewood, CO|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.39|Unspecified|Unspecified|USA|Orlando-Kissimmee-Sanford, FL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.23|Unspecified|Unspecified|USA|Portland-Vancouver-Hillsboro, OR-WA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.4|Unspecified|Unspecified|USA|Charlotte-Concord-Gastonia, NC-SC|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.43|Unspecified|Unspecified|USA|San Antonio-New Braunfels, TX|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.26|Unspecified|Unspecified|USA|Las Vegas-Henderson-Paradise, NV|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.14|Unspecified|Unspecified|USA|Sacramento-Roseville-Folsom, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.32|Unspecified|Unspecified|USA|Cleveland-Elyria, OH|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.13|Unspecified|Unspecified|USA|San Jose-Sunnyvale-Santa Clara, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.29|Unspecified|Unspecified|USA|Indianapolis-Carmel-Anderson, IN|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.37|Unspecified|Unspecified|USA|Pittsburgh, PA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.32|Unspecified|Unspecified|USA|Kansas City, MO-KS|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.4|Unspecified|Unspecified|USA|Columbus, OH|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.3|Unspecified|Unspecified|USA|Providence-Warwick, RI-MA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.43|Unspecified|Unspecified|USA|Milwaukee-Waukesha, WI|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.28|Unspecified|Unspecified|USA|Jacksonville, FL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.31|Unspecified|Unspecified|USA|Nashville-Davidson–Murfreesboro–Franklin, TN|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.35|Unspecified|Unspecified|USA|Austin-Round Rock-Georgetown, TX|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.21|Unspecified|Unspecified|USA|Raleigh-Cary, NC|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.46|Unspecified|Unspecified|USA|Hartford-East Hartford-Middletown, CT|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.3|Unspecified|Unspecified|USA|Louisville/Jefferson County, KY-IN|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.26|Unspecified|Unspecified|USA|Knoxville, TN|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.23|Unspecified|Unspecified|USA|Oxnard-Thousand Oaks-Ventura, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.25|Unspecified|Unspecified|USA|Tucson, AZ|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.25|Unspecified|Unspecified|USA|Grand Rapids-Kentwood, MI|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.24|Unspecified|Unspecified|USA|Fresno, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.36|Unspecified|Unspecified|USA|Urban Honolulu, HI|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.4|Unspecified|Unspecified|USA|Rochester, NY|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.48|Unspecified|Unspecified|USA|Memphis, TN-MS-AR|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.39|Unspecified|Unspecified|USA|Birmingham-Hoover, AL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.35|Unspecified|Unspecified|USA|Bridgeport-Stamford-Norwalk, CT|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.13|Unspecified|Unspecified|USA|Omaha-Council Bluffs, NE-IA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.35|Unspecified|Unspecified|USA|Albany-Schenectady-Troy, NY|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.21|Unspecified|Unspecified|USA|El Paso, TX|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.33|Unspecified|Unspecified|USA|Worcester, MA-CT|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.22|Unspecified|Unspecified|USA|Northport-Sarasota-Bradenton, FL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.22|Unspecified|Unspecified|USA|Albuquerque, NM|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.4|Unspecified|Unspecified|USA|Charleston-North Charleston, SC|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.3|Unspecified|Unspecified|USA|Columbia, SC|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.46|Unspecified|Unspecified|USA|Allentown-Bethlehem-Easton, PA-NJ|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.21|Unspecified|Unspecified|USA|Stockton, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.27|Unspecified|Unspecified|USA|Cape Coral-Fort Myers, FL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.45|Unspecified|Unspecified|USA|Colorado Springs, CO|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.46|Unspecified|Unspecified|USA|Poughkeepsie-Newburgh-Middletown, NY|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.16|Unspecified|Unspecified|USA|Tulsa, OK|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.29|Unspecified|Unspecified|USA|Madison, WI|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.15|Unspecified|Unspecified|USA|Modesto, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.35|Unspecified|Unspecified|USA|Youngstown-Warren-Boardman, OH-PA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.35|Unspecified|Unspecified|USA|Akron, OH|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.15|Unspecified|Unspecified|USA|Deltona-Daytona Beach-Ormond Beach, FL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.21|Unspecified|Unspecified|USA|Wichita, KS|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.41|Unspecified|Unspecified|USA|Durham-Chapel Hill, NC|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.26|Unspecified|Unspecified|USA|Fayetteville, NC|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.29|Unspecified|Unspecified|USA|Santa Rosa-Petaluma, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.3|Unspecified|Unspecified|USA|Richmond, VA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.3|Unspecified|Unspecified|USA|Myrtle Beach-Conway-North Myrtle Beach, SC-NC|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.25|Unspecified|Unspecified|USA|Visalia, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.17|Unspecified|Unspecified|USA|Lexington-Fayette, KY|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.13|Unspecified|Unspecified|USA|Harrisburg-Carlisle, PA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.21|Unspecified|Unspecified|USA|Reno, NV|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.29|Unspecified|Unspecified|USA|Boise City, ID|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.37|Unspecified|Unspecified|USA|Huntsville, AL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.27|Unspecified|Unspecified|USA|Winston-Salem, NC|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.14|Unspecified|Unspecified|USA|Vallejo, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.27|Unspecified|Unspecified|USA|Salem, OR|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.2|Unspecified|Unspecified|USA|Canton-Massillon, OH|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.32|Unspecified|Unspecified|USA|Chattanooga, TN-GA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.43|Unspecified|Unspecified|USA|Jackson, MS|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.28|Unspecified|Unspecified|USA|Naples-Marco Island, FL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.34|Unspecified|Unspecified|USA|Lansing-East Lansing, MI|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.28|Unspecified|Unspecified|USA|Ann Arbor, MI|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.4|Unspecified|Unspecified|USA|Trenton-Princeton, NJ|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.3|Unspecified|Unspecified|USA|Killeen-Temple, TX|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.31|Unspecified|Unspecified|USA|Ogden-Clearfield, UT|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.42|Unspecified|Unspecified|USA|Fort Collins, CO|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.28|Unspecified|Unspecified|USA|Springfield, MO|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.19|Unspecified|Unspecified|USA|Montgomery, AL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.34|Unspecified|Unspecified|USA|South Bend-Mishawaka, IN-MI|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.12|Unspecified|Unspecified|USA|Spartanburg, SC|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.31|Unspecified|Unspecified|USA|Greeley, CO|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.28|Unspecified|Unspecified|USA|Utica-Roma, NY|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.21|Unspecified|Unspecified|USA|Virginia Beach-Norfolk-Newport News, VA-NC|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.2|Unspecified|Unspecified|USA|Olympia-Lacey-Tumwater, WA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.11|Unspecified|Unspecified|USA|Santa Cruz-Watsonville, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.38|Unspecified|Unspecified|USA|Crestview-Fort Walton B each-Destin, FL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.38|Unspecified|Unspecified|USA|Gainesville, FL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.21|Unspecified|Unspecified|USA|Bremerton-Silverdale-Port Orchard, WA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.05|Unspecified|Unspecified|USA|Sioux Falls, SD|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.24|Unspecified|Unspecified|USA|Yakima, WA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.16|Unspecified|Unspecified|USA|Binghamton, NY|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.19|Unspecified|Unspecified|USA|Tuscaloosa, AL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.13|Unspecified|Unspecified|USA|Hereford, TX|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.13|Unspecified|Unspecified|USA|Tyler, TX|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.31|Unspecified|Unspecified|USA|Bellingham, WA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.22|Unspecified|Unspecified|USA|Lebanon, NH-VT|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.34|Unspecified|Unspecified|USA|Burlington-South Burlington, VT|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.12|Unspecified|Unspecified|USA|St. Cloud, MN|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.29|Unspecified|Unspecified|USA|Rochester, MN|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.2|Unspecified|Unspecified|USA|Racine, WI|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.13|Unspecified|Unspecified|USA|Bend, OR|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.18|Unspecified|Unspecified|USA|Torrington, CT|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.14|Unspecified|Unspecified|USA|El Centro, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.13|Unspecified|Unspecified|USA|Punta Gorda, FL|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.18|Unspecified|Unspecified|USA|Kingston, NY|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.11|Unspecified|Unspecified|USA|Iowa City, IA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.23|Unspecified|Unspecified|USA|Billings, MT|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.26|Unspecified|Unspecified|USA|East Stroudsburg, PA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.15|Unspecified|Unspecified|USA|Pueblo, CO|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.21|Unspecified|Unspecified|USA|Madera, CA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.16|Unspecified|Unspecified|USA|Santa Fe, NM|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.17|Unspecified|Unspecified|USA|Hattiesburg, MS|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.4|Unspecified|Unspecified|USA|Albany, GA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.12|Unspecified|Unspecified|USA|Pittsfield, MA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.29|Unspecified|Unspecified|USA|Mount Vernon-Anacortes, WA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.09|Unspecified|Unspecified|USA|Albany-Lebanon, OR|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.21|Unspecified|Unspecified|USA|Morristown, TN|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.18|Unspecified|Unspecified|USA|Valdosta, GA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.09|Unspecified|Unspecified|USA|Sheboygan, WI|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.33|Unspecified|Unspecified|USA|Bozeman, MT|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.13|Unspecified|Unspecified|USA|Lewiston-Auburn, ME|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.06|Unspecified|Unspecified|USA|Fond du Lac, WI|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.1|Unspecified|Unspecified|USA|Rome, GA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.18|Unspecified|Unspecified|USA|Oak Harbor, WA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.2|Unspecified|Unspecified|USA|Kokomo, IN|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.11|Unspecified|Unspecified|USA|Glenwood Springs, CO|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.13|Unspecified|Unspecified|USA|Minot, ND|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.36|Unspecified|Unspecified|USA|Heber, UT|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.09|Unspecified|Unspecified|USA|Kapaa, HI|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.12|Unspecified|Unspecified|USA|Calhoun, GA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.27|Unspecified|Unspecified|USA|Picayune, MS|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.18|Unspecified|Unspecified|USA|Edwards, CO|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.05|Unspecified|Unspecified|USA|Ellensburg, WA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.19|Unspecified|Unspecified|USA|Cedartown, GA|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.25|Unspecified|Unspecified|USA|Riverton, WY|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.25|Unspecified|Unspecified|USA|Greenwood, MS|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.1|Unspecified|Unspecified|USA|Bennington, VT|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.05|Unspecified|Unspecified|USA|Mount Sterling, KY|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.18|Unspecified|Unspecified|USA|Breckenridge, CO|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.16|Unspecified|Unspecified|USA|Sheridan, WY|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.13|Unspecified|Unspecified|USA|Steamboat Springs, CO|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
-|No|0.3|Unspecified|Unspecified|USA|Huron, SD|2020-03-16|2020-03-23|2020-03-31|[Stier J. et al.](https://arxiv.org/pdf/2003.10376.pdf)|
 
 ## Incubation Period
 
@@ -359,6 +418,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|5.21|-3.35|13.94|Singapore|Unspecified|2019-12-31|2020-02-26|2020-03-08|[Ganyani T. et al.](https://www.medrxiv.org/content/10.1101/2020.03.05.20031815v1)|
 |No|3.95|-4.47|12.51|China|Tianjin|2019-12-31|2020-02-27|2020-03-08|[Ganyani T. et al.](https://www.medrxiv.org/content/10.1101/2020.03.05.20031815v1)|
 |No|6.3|5.2|7.6|China|Shenzhen|2020-01-14|2020-02-12|2020-03-04|[Qifang Bi et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20028423v1.article-info)|
+|No|6.6|0.7|19|Italy|Lombardy|2020-01-14|2020-03-08|2020-03-20|[Cereda D. et al.](http://arxiv.org/abs/2003.09320)|
 
 ## Time From Symptom Onset To Isolation
 
@@ -394,6 +454,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start Date|End Date|Published Date|Source|
 |---|---|---|---|---|---|---|---|---|---|
 |No|5.1|3.5|7.5|China|Unspecified|2019-12-31|2020-01-24|2020-02-17|[Jung S. et al.](http://medrxiv.org/content/early/2020/02/02/2020.01.29.20019547.abstract)|
+|No|7.3|1|20|Italy|Lombardy|2020-01-14|2020-03-08|2020-03-20|[Cereda D. et al.](http://arxiv.org/abs/2003.09320)|
 
 ## Transmission Rate
 
@@ -402,6 +463,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |Yes|1.12|1.04|1.18|China|unspecified|2020-01-10|2020-01-23|2020-03-16|[Li R. et al.](https://science.sciencemag.org/content/early/2020/03/13/science.abb3221)|
 |Yes|0.52|0.39|0.71|China|unspecified|2020-01-24|2020-02-03|2020-03-16|[Li R. et al.](https://science.sciencemag.org/content/early/2020/03/13/science.abb3221)|
 |Yes|0.35|0.27|0.5|China|unspecified|2020-01-24|2020-02-08|2020-03-16|[Li R. et al.](https://science.sciencemag.org/content/early/2020/03/13/science.abb3221)|
+|No|0.315|Unspecified|Unspecified|Brazil|Unspecified|2020-02-26|2020-03-25|2020-03-30|[Crokidakis N. et al.](https://arxiv.org/abs/2003.12150v1)|
 
 # Inpatient Care
 
@@ -434,6 +496,11 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|2.2|Unspecified|Unspecified|China|Tianjin|2020-01-21|2020-02-22|2020-03-06|[Tindale LC. et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20029983v1)|
 |No|0.8-0.9|Unspecified|Unspecified|China|excluding Hubei|2020-01-21|2020-03-01|2020-03-03|[Rui Qi et al.](https://www.medrxiv.org/content/10.1101/2020.02.26.20028076v2)|
 |No|5.4|Unspecified|Unspecified|China|Hubei|2020-01-21|2020-03-01|2020-03-03|[Rui Qi et al.](https://www.medrxiv.org/content/10.1101/2020.02.26.20028076v2)|
+|No|1.20%|0.28%|2.70%|NA|Diamond Princess|2020-01-19|2020-02-20|2020-03-09|[Russell TW. et al.](10.1101/2020.03.05.20031773)|
+|No|18%|7.30%|33%|NA|Diamond Princess|2020-01-19|2020-02-20|2020-03-09|[Russell TW. et al.](10.1101/2020.03.05.20031773)|
+|No|1.10%|0.30%|2.40%|NA|China|Unspecified|2020-03-03|2020-03-09|[Russell TW. et al.](10.1101/2020.03.05.20031773)|
+|No|0.8-0.9|NA|NA|China|excluding Hubei|2020-01-21|2020-03-01|2020-03-03|[Qi R. et al.](https://www.medrxiv.org/content/10.1101/2020.02.26.20028076v2)|
+|No|5.4|NA|NA|China|Hubei|2020-01-21|2020-03-01|2020-03-03|[Qi R. et al.](https://www.medrxiv.org/content/10.1101/2020.02.26.20028076v2)|
 
 ## Proportion Of Hospitalized Cases That Die
 
