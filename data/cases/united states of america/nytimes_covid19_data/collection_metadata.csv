@@ -1,4 +1,4 @@
-collection_ID,nytimes_covid19_data
+﻿collection_ID,nytimes_covid19_data
 collection_title_en,Coronavirus (Covid-19) Data in the United States
 collection_title_original,Coronavirus (Covid-19) Data in the United States
 collection_path_repository,COVID-19\data\cases\united states of america\nytimes_covid19_data
@@ -11,7 +11,7 @@ collection_publisher,The New York Times via nytimes GitHub repository
 collection_description,"Data from The New York Times, based on reports from state and local health agencies. Data files with cumulative counts of coronavirus cases in the United States, at the state and county level, over time. The data are created by compiling time series data from state and local governments and health departments. Data on cumulative coronavirus cases and deaths can be found in two files for states and counties. Each row of data reports cumulative counts based on the best reporting up to the moment they publish an update. Both files contain FIPS codes, a standard geographic identifier, to make it easier for an analyst to combine this data with other data sets like a map file or population data."
 collection_URL_original,https://github.com/nytimes/covid-19-data
 collection_format,CSV files
-collection_number_files,22
+collection_number_files,24
 collection_members.1,20200330_us-counties.csv
 collection_members.2,20200330_us-states.csv
 collection_members.3,20200331_us-counties.csv
@@ -34,14 +34,16 @@ collection_members.19,20200408_us-counties.csv
 collection_members.20,20200408_us-states.csv
 collection_members.21,20200409_us-counties.csv
 collection_members.22,20200409_us-states.csv
+collection_members.23,20200410_us-counties.csv
+collection_members.24,20200410_us-states.csv
 collection_first_report_date,2020-01-21
-collection_last_report_date,2020-04-08
+collection_last_report_date,2020-04-09
 collection_license,https://github.com/nytimes/covid-19-data/blob/master/LICENSE
 collection_access,CSV files copied from the GitHub repository
 related_object_id,NA
 related_object_path,NA
 relation_description,NA
 curation _notes,NA
-collection_lastupdated_date,2020-04-09
-collection_lastupdated_person,"Lucie Contamin, University of Pittsburgh"
-collection_lastupdated_email,contamin@pitt.edu
+collection_lastupdated_date,2020-04-10
+collection_lastupdated_person,"Anne Cross, University of Pittsburgh, ORCID 0000-0003-1707-253X"
+collection_lastupdated_email,anne.cross@pitt.edu
