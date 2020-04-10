@@ -37,7 +37,7 @@ collection_members.22,20200409_us-states.csv
 collection_members.23,20200410_us-counties.csv
 collection_members.24,20200410_us-states.csv
 collection_first_report_date,2020-01-21
-collection_last_report_date,2020-04-10
+collection_last_report_date,2020-04-09
 collection_license,https://github.com/nytimes/covid-19-data/blob/master/LICENSE
 collection_access,CSV files copied from the GitHub repository
 related_object_id,NA
@@ -45,5 +45,5 @@ related_object_path,NA
 relation_description,NA
 curation _notes,NA
 collection_lastupdated_date,2020-04-10
-collection_lastupdated_person,"Anne Cross, University of Pittsbugh, ORCID 0000-0003-1707-253X"
+collection_lastupdated_person,"Anne Cross, University of Pittsburgh, ORCID 0000-0003-1707-253X"
 collection_lastupdated_email,anne.cross@pitt.edu
