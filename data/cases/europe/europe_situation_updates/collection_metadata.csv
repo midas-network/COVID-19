@@ -11,7 +11,7 @@ collection_publisher,European Centre for Disease Prevention and Control
 collection_description,"Daily snapshot of an online table with number of imported and locally acquired cases, updated weekdays update daily at 8:00 CET"
 collection_URL_original,https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea
 collection_format,CSV files
-collection_number_files,57
+collection_number_files,58
 collection_members.1,EU_UK_data_update_2020-02-12_080000_+0100.csv
 collection_members.2,EU_UK_data_update_2020-02-13_080000_+0100.csv
 collection_members.3,EU_UK_data_update_2020-02-14_080000_+0100.csv
@@ -70,14 +70,15 @@ collection_members.55,EU_UK_data_download_2020-04-07_073001_-0400.csv
 collection_members.56,EU_UK_data_download_2020-04-08_073000_-0400.csv
 collection_members.57,EU_UK_data_download_2020-04-09_073000_-0400.csv
 collection_members.58,EU_UK_data_download_2020-04-10_073001_-0400.csv
+collection_members.59,EU_UK_data_download_2020-04-11_073000_-0400.csv
 collection_first_report_date,2020-02-12
-collection_last_report_date,2020-04-10
+collection_last_report_date,2020-04-11
 collection_license,NA
 collection_access,Web page that can be viewed and read
 related_object_id,NA
 related_object_path,NA
 relation_description,NA
 curation _notes,NA
-collection_lastupdated_date,2020-04-10
-collection_lastupdated_person,"Anne Cross, University of Pittsbugh, ORCID 0000-0003-1707-253X"
+collection_lastupdated_date,2020-04-11
+collection_lastupdated_person,"Anne Cross, University of Pittsburgh, ORCID 0000-0003-1707-253X"
 collection_lastupdated_email,anne.cross@pitt.edu
