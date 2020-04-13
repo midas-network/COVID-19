@@ -158,6 +158,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|3.8|3.5|4.2|China|mainland China|2020-01-10|2020-01-23|2020-03-13|[Tang B. et al.](https://www.medrxiv.org/content/10.1101/2020.03.09.20033464v1)|
 |No|3|2.6|3.3|China|Guangdong|2020-01-19|2020-01-31|2020-03-13|[Tang B. et al.](https://www.medrxiv.org/content/10.1101/2020.03.09.20033464v1)|
 |No|2.6|2.5|2.7|South Korea|Unspecified|2020-01-23|2020-03-02|2020-03-13|[Tang B. et al.](https://www.medrxiv.org/content/10.1101/2020.03.09.20033464v1)|
+|No|2.55|2.15|2.93|Algeria|Unspecified|2020-02-25|2020-03-22|2020-03-27|[Hamidouche M. et al.](https://doi.org/10.1101/2020.03.20.20039891)|
 
 ## Cumulative Case Count
 
@@ -472,6 +473,9 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start Date|End Date|Published Date|Source|
 |---|---|---|---|---|---|---|---|---|---|
 |No|0.05|Unspecified|Unspecified|China|Wuhan|2019-12-31|2020-02-18|2020-02-18|[Zhou G. et al.](https://www.medrxiv.org/content/10.1101/2020.02.14.20023168v1)|
+|Yes|0|Unspecified|Unspecified|China|Xian Eighth Hospital in Shaanxi, China|2020-01-31|2020-02-16|2020-04-06|[Han Y. et al.](https://onlinelibrary-wiley-com.pitt.idm.oclc.org/doi/abs/10.1002/jmv.25835)|
+|Yes|0.117647059|Unspecified|Unspecified|Singapore|Singapore|2020-01-18|2020-02-10|2020-03-28|[Pung R. et al.](doi: 10.1016/S0140-6736(20)30528-6)|
+|Yes|0.26087|Unspecified|Unspecified|China|Wuhan City|2020-01-01|2020-02-03|2020-02-07|[Wang D. et al.](https://jamanetwork-com.pitt.idm.oclc.org/journals/jama/fullarticle/2761044)|
 
 ## Time From Hospitalization To Recovery
 
@@ -486,6 +490,10 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |---|---|---|---|---|---|---|---|---|---|
 |No|2.7|1.6|4.1|China|Unspecified|2019-12-31|2020-01-25|2020-01-28|[Linton NM. et al.](https://www.medrxiv.org/content/medrxiv/early/2020/01/28/2020.01.26.20018754.full.pdf)|
 |No|5.9|0.8|11|Singapore|Unspecified|2020-01-19|2020-02-26|2020-03-06|[Tindale LC. et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20029983v1)|
+|Yes|3.5|Unspecified|Unspecified|United States|Washington State|2020-02-20|2020-03-05|2020-03-19|[Arentz M. et al.](https://jamanetwork-com.pitt.idm.oclc.org/journals/jama/fullarticle/2763485)|
+|Yes|5|3|12|China|Xian Eighth Hospital in Shaanxi, China|2020-01-31|2020-02-16|2020-04-06|[Han Y. et al.](https://onlinelibrary-wiley-com.pitt.idm.oclc.org/doi/abs/10.1002/jmv.25835)|
+|Yes|4|3|9|Singapore|Singapore|2020-01-18|2020-02-10|2020-03-28|[Pung R. et al.](doi: 10.1016/S0140-6736(20)30528-6)|
+|Yes|7|4|8|China|Wuhan City|2020-01-01|2020-02-03|2020-02-07|[Wang D. et al.](https://jamanetwork-com.pitt.idm.oclc.org/journals/jama/fullarticle/2761044)|
 
 # Deaths
 
@@ -508,6 +516,11 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |---|---|---|---|---|---|---|---|---|---|
 |Yes|0.14|0.039|0.32|China|China|Unspecified|2020-01-21|2020-01-21|[Wu P. et al.](https://eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.3.2000044)|
 |No|33|29|37|China|Wuhan|2019-12-10|2020-01-27|2020-02-04|[Famulare et al.](https://institutefordiseasemodeling.github.io/nCoV-public/analyses/first_adjusted_mortality_estimates_and_risk_assessment/2019-nCoV-preliminary_age_and_time_adjusted_mortality_rates_and_pandemic_risk_assessment.html)|
+|Yes|0.523809524|Unspecified|Unspecified|United States|Washington State|2020-02-20|2020-03-05|2020-03-19|[Arentz M. et al.](https://jamanetwork-com.pitt.idm.oclc.org/journals/jama/fullarticle/2763485)|
+|Yes|0|Unspecified|Unspecified|China|Xian Eighth Hospital in Shaanxi, China|2020-01-31|2020-02-16|2020-04-06|[Han Y. et al.](https://onlinelibrary-wiley-com.pitt.idm.oclc.org/doi/abs/10.1002/jmv.25835)|
+|Yes|0|Unspecified|Unspecified|Singapore|Singapore|2020-01-18|2020-02-10|2020-03-28|[Pung R. et al.](doi: 10.1016/S0140-6736(20)30528-6)|
+|Yes|0|Unspecified|Unspecified|China|Wuhan City|2020-01-24|2020-02-24|2020-03-19|[Sun D et al.]()|
+|Yes|0.043478|Unspecified|Unspecified|China|Wuhan City|2020-01-01|2020-02-03|2020-02-07|[Wang D. et al.](https://jamanetwork-com.pitt.idm.oclc.org/journals/jama/fullarticle/2761044)|
 
 ## Proportion Of Symptomatics That Die
 
