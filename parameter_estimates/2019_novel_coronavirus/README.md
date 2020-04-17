@@ -1,7 +1,7 @@
 ## Also visit the [MIDAS Online COVID-19 Portal](https://midasnetwork.us/covid-19/) to [navigate and search parameter estimates](https://midasnetwork.us/covid-19/#resources). This GitHub repository will be used to share the [computable (CSV format) parameter estimate listing only](https://github.com/midas-network/COVID-19/blob/master/parameter_estimates/2019_novel_coronavirus/estimates.csv). 
 
 [Data Guide for Parameter Estimates](https://github.com/midas-network/COVID-19/blob/master/information_for_contributors/parameter_estimates_data_guide_v1.1_18Feb2020.csv)
-[List of Parameters](https://github.com/midas-network/COVID-19/blob/master/information_for_contributors/parameter_list_v1.1_19Feb2020.csv)
+[List of Parameters](https://github.com/midas-network/COVID-19/blob/master/information_for_contributors/parameter_list_v1.2_17April2020.csv)
 
 The first column indicates if a value was peer-reviewed positively (Yes) or negatively (No). Values that have not been peer-reviewed yet are also categorized under (No); specific indication of negative or N/A peer-review and the location of the peer review can be viewed in the [parameter csv file](https://github.com/midas-network/COVID-19/blob/master/parameter_estimates/2019_novel_coronavirus/estimates.csv).
 
@@ -420,6 +420,19 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |Yes|4.2|3.5|5.1|China|Unspecified|2020-01-15|2020-01-20|2020-04-08|[Sanche S. et al.](https://wwwnc.cdc.gov/eid/article/26/7/20-0282_article)|
 |Yes|5.2|1.8|12.4|China|Mainland China excluding Hubei|2020-12-24|2020-02-14|2020-04-02|[Zhang J. et al.](https://www.ncbi.nlm.nih.gov/pubmed/32247326)|
 
+## Reporting Rate
+
+|Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start Date|End Date|Published Date|Source|
+|---|---|---|---|---|---|---|---|---|---|
+|Yes|75.00%|60.00%|69.00%|China|unspecified|2020-01-24|2020-02-03|2020-03-16|[Li R. et al.](https://science.sciencemag.org/content/early/2020/03/13/science.abb3221)|
+
+## Secondary Attack Rate
+
+|Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start Date|End Date|Published Date|Source|
+|---|---|---|---|---|---|---|---|---|---|
+|No|14.9|12.1|18.2|China|Shenzhen|2020-01-14|2020-02-12|2020-03-04|[Qifang Bi et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20028423v1.article-info)|
+|No|9.6|7.9|11.8|China|Shenzhen|2020-01-14|2020-02-12|2020-03-04|[Qifang Bi et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20028423v1.article-info)|
+
 ## Serial Interval
 
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start Date|End Date|Published Date|Source|
@@ -484,7 +497,19 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 
 # Inpatient Care
 
-## Proportion Of Hospitalized Cases Admitted To Icu
+## Duration Of Hospitalization
+
+|Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start Date|End Date|Published Date|Source|
+|---|---|---|---|---|---|---|---|---|---|
+|Yes|10|7|14|China|Wuhan City|2020-01-01|2020-02-03|2020-02-07|[Wang D. et al.](https://jamanetwork-com.pitt.idm.oclc.org/journals/jama/fullarticle/2761044)|
+
+## Duration Of ICU Stay
+
+|Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start Date|End Date|Published Date|Source|
+|---|---|---|---|---|---|---|---|---|---|
+|Yes|9|6|13|Italy|Lombary Region|2020-02-20|2020-03-18|2020-04-06|[Grasselli G. et al.](10.1001/jama.2020.5394)|
+
+## Proportion Of Hospitalized Cases Admitted To ICU
 
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start Date|End Date|Published Date|Source|
 |---|---|---|---|---|---|---|---|---|---|
@@ -493,6 +518,56 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |Yes|0.117647059|Unspecified|Unspecified|Singapore|Singapore|2020-01-18|2020-02-10|2020-03-28|[Pung R. et al.](doi: 10.1016/S0140-6736(20)30528-6)|
 |Yes|0.26087|Unspecified|Unspecified|China|Wuhan City|2020-01-01|2020-02-03|2020-02-07|[Wang D. et al.](https://jamanetwork-com.pitt.idm.oclc.org/journals/jama/fullarticle/2761044)|
 
+## Proportion Of Hospitalized Cases On Extracorporeal Membrane Oxygenation (ECMO)
+
+|Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start Date|End Date|Published Date|Source|
+|---|---|---|---|---|---|---|---|---|---|
+|Yes|0|Unspecified|Unspecified|China|Xian Eighth Hospital in Shaanxi, China|2020-01-31|2020-02-16|2020-04-06|[Han Y. et al.](https://onlinelibrary-wiley-com.pitt.idm.oclc.org/doi/abs/10.1002/jmv.25835)|
+|Yes|0.028986|Unspecified|Unspecified|China|Wuhan City|2020-01-01|2020-02-03|2020-02-07|[Wang D. et al.](https://jamanetwork-com.pitt.idm.oclc.org/journals/jama/fullarticle/2761044)|
+
+## Proportion Of Hospitalized Cases On Mechanical Ventilation
+
+|Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start Date|End Date|Published Date|Source|
+|---|---|---|---|---|---|---|---|---|---|
+|Yes|0.714285714|Unspecified|Unspecified|United States|Washington State|2020-02-20|2020-03-05|2020-03-19|[Arentz M. et al.](https://jamanetwork-com.pitt.idm.oclc.org/journals/jama/fullarticle/2763485)|
+|Yes|0|Unspecified|Unspecified|China|Xian Eighth Hospital in Shaanxi, China|2020-01-31|2020-02-16|2020-04-06|[Han Y. et al.](https://onlinelibrary-wiley-com.pitt.idm.oclc.org/doi/abs/10.1002/jmv.25835)|
+|Yes|0.25|Unspecified|Unspecified|China|Wuhan City|2020-01-24|2020-02-24|2020-03-19|[Sun D et al.]()|
+|Yes|0.123188|Unspecified|Unspecified|China|Wuhan City|2020-01-01|2020-02-03|2020-02-07|[Wang D. et al.](https://jamanetwork-com.pitt.idm.oclc.org/journals/jama/fullarticle/2761044)|
+
+## Proportion Of Hospitalized Cases Treated With Antibiotics
+
+|Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start Date|End Date|Published Date|Source|
+|---|---|---|---|---|---|---|---|---|---|
+|Yes|0.625|Unspecified|Unspecified|China|Wuhan City|2020-01-24|2020-02-24|2020-03-19|[Sun D et al.]()|
+|Yes|1|Unspecified|Unspecified|China|Wuhan City|2020-01-01|2020-02-03|2020-02-07|[Wang D. et al.](https://jamanetwork-com.pitt.idm.oclc.org/journals/jama/fullarticle/2761044)|
+
+## Proportion Of Hospitalized Cases Treated With Antivirals
+
+|Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start Date|End Date|Published Date|Source|
+|---|---|---|---|---|---|---|---|---|---|
+|Yes|0|Unspecified|Unspecified|China|Xian Eighth Hospital in Shaanxi, China|2020-01-31|2020-02-16|2020-04-06|[Han Y. et al.](https://onlinelibrary-wiley-com.pitt.idm.oclc.org/doi/abs/10.1002/jmv.25835)|
+|Yes|0.235294118|Unspecified|Unspecified|Singapore|Singapore|2020-01-18|2020-02-10|2020-03-28|[Pung R. et al.](doi: 10.1016/S0140-6736(20)30528-6)|
+|Yes|1|Unspecified|Unspecified|China|Wuhan City|2020-01-24|2020-02-24|2020-03-19|[Sun D et al.]()|
+|Yes|0.898551|Unspecified|Unspecified|China|Wuhan City|2020-01-01|2020-02-03|2020-02-07|[Wang D. et al.](https://jamanetwork-com.pitt.idm.oclc.org/journals/jama/fullarticle/2761044)|
+
+## Proportion Of ICU Cases On Extracorporeal Membrane Oxygenation (ECMO)
+
+|Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start Date|End Date|Published Date|Source|
+|---|---|---|---|---|---|---|---|---|---|
+|Yes|0.01|0.003|0.02|Italy|Lombary Region|2020-02-20|2020-03-18|2020-04-06|[Grasselli G. et al.](10.1001/jama.2020.5394)|
+
+## Proportion Of ICU Cases On Mechanical Ventilation
+
+|Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start Date|End Date|Published Date|Source|
+|---|---|---|---|---|---|---|---|---|---|
+|Yes|0.88|0.87|0.9|Italy|Lombary Region|2020-02-20|2020-03-18|2020-04-06|[Grasselli G. et al.](10.1001/jama.2020.5394)|
+
+## Proportion Of Infections Acquired In Hospital Settings
+
+|Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start Date|End Date|Published Date|Source|
+|---|---|---|---|---|---|---|---|---|---|
+|Yes|0.413043|Unspecified|Unspecified|China|Wuhan City|2020-01-01|2020-02-03|2020-02-07|[Wang D. et al.](https://jamanetwork-com.pitt.idm.oclc.org/journals/jama/fullarticle/2761044)|
+
 ## Time From Hospitalization To Recovery
 
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start Date|End Date|Published Date|Source|
@@ -500,6 +575,18 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|11.5|8|17.3|China|Unspecified|2019-12-31|2020-02-10|2020-02-11|[Sanche S. et al.](https://www.medrxiv.org/content/10.1101/2020.02.07.20021154v1)|
 |No|13.3|7.3|19.3|Singapore|Unspecified|2020-01-19|2020-02-26|2020-03-06|[Tindale LC. et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20029983v1)|
 |Yes|11.5|9|17.3|China|Unspecified|2020-01-15|2020-01-20|2020-04-08|[Sanche S. et al.](https://wwwnc.cdc.gov/eid/article/26/7/20-0282_article)|
+
+## Time From Symptom Onset To ARDS
+
+|Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start Date|End Date|Published Date|Source|
+|---|---|---|---|---|---|---|---|---|---|
+|Yes|8|6|12|China|Wuhan City|2020-01-01|2020-02-03|2020-02-07|[Wang D. et al.](https://jamanetwork-com.pitt.idm.oclc.org/journals/jama/fullarticle/2761044)|
+
+## Time From Symptom Onset To Dyspena
+
+|Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start Date|End Date|Published Date|Source|
+|---|---|---|---|---|---|---|---|---|---|
+|Yes|5|1|10|China|Wuhan City|2020-01-01|2020-02-03|2020-02-07|[Wang D. et al.](https://jamanetwork-com.pitt.idm.oclc.org/journals/jama/fullarticle/2761044)|
 
 ## Time From Symptom Onset To Hospitalization
 
@@ -517,6 +604,19 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |Yes|4.4|0|14|China|Mainland China excluding Hubei|2020-12-24|2020-01-27|2020-04-02|[Zhang J. et al.](https://www.ncbi.nlm.nih.gov/pubmed/32247326)|
 |Yes|2.6|0|9|China|Mainland China excluding Hubei|2020-01-28|2020-02-17|2020-04-02|[Zhang J. et al.](https://www.ncbi.nlm.nih.gov/pubmed/32247326)|
 
+## Time From Symptom Onset To ICU Admission
+
+|Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start Date|End Date|Published Date|Source|
+|---|---|---|---|---|---|---|---|---|---|
+|Yes|10|6|12|China|Wuhan City|2020-01-01|2020-02-03|2020-02-07|[Wang D. et al.](https://jamanetwork-com.pitt.idm.oclc.org/journals/jama/fullarticle/2761044)|
+
+## Time From Symptom Onset To PCR Confirmation
+
+|Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start Date|End Date|Published Date|Source|
+|---|---|---|---|---|---|---|---|---|---|
+|No|3.18|2.65|3.76|China|Shenzhen|2020-01-14|2020-02-12|2020-03-04|[Qifang Bi et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20028423v1.article-info)|
+|No|5.46|4.99|5.92|China|Shenzhen|2020-01-14|2020-02-12|2020-03-04|[Qifang Bi et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20028423v1.article-info)|
+
 # Deaths
 
 ## Case Fatality Rate
@@ -532,6 +632,26 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|0.8-0.9|NA|NA|China|excluding Hubei|2020-01-21|2020-03-01|2020-03-03|[Qi R. et al.](https://www.medrxiv.org/content/10.1101/2020.02.26.20028076v2)|
 |No|5.4|NA|NA|China|Hubei|2020-01-21|2020-03-01|2020-03-03|[Qi R. et al.](https://www.medrxiv.org/content/10.1101/2020.02.26.20028076v2)|
 
+## Case Fatality Ratio
+
+|Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start Date|End Date|Published Date|Source|
+|---|---|---|---|---|---|---|---|---|---|
+|No|0.023|Unspecified|Unspecified|China|Unspecified|Unspecified|2020-02-11|2020-04-02|[Dudel C. et al.](https://www.medrxiv.org/content/10.1101/2020.03.31.20048397v1)|
+|No|0.04|Unspecified|Unspecified|France|Unspecified|Unspecified|2020-03-24|2020-04-02|[Dudel C. et al.](https://www.medrxiv.org/content/10.1101/2020.03.31.20048397v1)|
+|No|0.086|Unspecified|Unspecified|Spain|Unspecified|Unspecified|2020-03-16|2020-04-02|[Dudel C. et al.](https://www.medrxiv.org/content/10.1101/2020.03.31.20048397v1)|
+|No|0.016|Unspecified|Unspecified|South Korea|Unspecified|Unspecified|2020-03-30|2020-04-02|[Dudel C. et al.](https://www.medrxiv.org/content/10.1101/2020.03.31.20048397v1)|
+|No|0.106|Unspecified|Unspecified|Italy|Unspecified|Unspecified|2020-03-29|2020-04-02|[Dudel C. et al.](https://www.medrxiv.org/content/10.1101/2020.03.31.20048397v1)|
+|No|0.017|Unspecified|Unspecified|United States|Unspecified|Unspecified|2020-03-16|2020-04-02|[Dudel C. et al.](https://www.medrxiv.org/content/10.1101/2020.03.31.20048397v1)|
+|No|0.012|Unspecified|Unspecified|United States|New York|Unspecified|2020-03-24|2020-04-02|[Dudel C. et al.](https://www.medrxiv.org/content/10.1101/2020.03.31.20048397v1)|
+|No|0.007|Unspecified|Unspecified|Germany|Unspecified|Unspecified|2020-03-29|2020-04-02|[Dudel C. et al.](https://www.medrxiv.org/content/10.1101/2020.03.31.20048397v1)|
+|No|0.0048|Unspecified|Unspecified|South Korea|Unspecified|2020-01-23|2020-03-13|2020-03-29|[Lv B. et al.](https://www.medrxiv.org/content/10.1101/2020.03.26.20038075v1)|
+|No|0.017|Unspecified|Unspecified|Japan|Unspecified|2020-01-23|2020-03-13|2020-03-29|[Lv B. et al.](https://www.medrxiv.org/content/10.1101/2020.03.26.20038075v1)|
+|No|0.043|Unspecified|Unspecified|Iran|Unspecified|2020-01-23|2020-03-13|2020-03-29|[Lv B. et al.](https://www.medrxiv.org/content/10.1101/2020.03.26.20038075v1)|
+|No|0.066|Unspecified|Unspecified|Italy|Unspecified|2020-01-23|2020-03-13|2020-03-29|[Lv B. et al.](https://www.medrxiv.org/content/10.1101/2020.03.26.20038075v1)|
+|No|0.029|Unspecified|Unspecified|United States|Unspecified|2020-01-23|2020-03-13|2020-03-29|[Lv B. et al.](https://www.medrxiv.org/content/10.1101/2020.03.26.20038075v1)|
+|No|0.021|Unspecified|Unspecified|France|Unspecified|2020-01-23|2020-03-13|2020-03-29|[Lv B. et al.](https://www.medrxiv.org/content/10.1101/2020.03.26.20038075v1)|
+|No|0.028|Unspecified|Unspecified|Spain|Unspecified|2020-01-23|2020-03-13|2020-03-29|[Lv B. et al.](https://www.medrxiv.org/content/10.1101/2020.03.26.20038075v1)|
+
 ## Proportion Of Hospitalized Cases That Die
 
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start Date|End Date|Published Date|Source|
@@ -543,6 +663,13 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |Yes|0|Unspecified|Unspecified|Singapore|Singapore|2020-01-18|2020-02-10|2020-03-28|[Pung R. et al.](doi: 10.1016/S0140-6736(20)30528-6)|
 |Yes|0|Unspecified|Unspecified|China|Wuhan City|2020-01-24|2020-02-24|2020-03-19|[Sun D et al.]()|
 |Yes|0.043478|Unspecified|Unspecified|China|Wuhan City|2020-01-01|2020-02-03|2020-02-07|[Wang D. et al.](https://jamanetwork-com.pitt.idm.oclc.org/journals/jama/fullarticle/2761044)|
+
+## Proportion Of ICU Patients That Die
+
+|Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start Date|End Date|Published Date|Source|
+|---|---|---|---|---|---|---|---|---|---|
+|Yes|0.26|0.23|0.28|Italy|Lombary Region|2020-02-20|2020-03-18|2020-04-06|[Grasselli G. et al.](10.1001/jama.2020.5394)|
+|Yes|0.166667|Unspecified|Unspecified|China|Wuhan City|2020-01-01|2020-02-03|2020-02-07|[Wang D. et al.](https://jamanetwork-com.pitt.idm.oclc.org/journals/jama/fullarticle/2761044)|
 
 ## Proportion Of Symptomatics That Die
 
