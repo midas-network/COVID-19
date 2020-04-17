@@ -321,12 +321,15 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|1294|390|3034|Italy|Unspecified|Unspecified|2020-03-04|2020-03-13|[Jombart T. et al.](https://www.medrxiv.org/content/10.1101/2020.03.10.20033761v1)|
 |No|202|95|823|Spain|Unspecified|Unspecified|2020-03-04|2020-03-13|[Jombart T. et al.](https://www.medrxiv.org/content/10.1101/2020.03.10.20033761v1)|
 |No|592|177|1705|France|Unspecified|Unspecified|2020-03-04|2020-03-13|[Jombart T. et al.](https://www.medrxiv.org/content/10.1101/2020.03.10.20033761v1)|
+|No|400|80|1300|United States|Washington|2020-01-15|2020-03-01|2020-04-06|[Bedford T. et al.](https://www.medrxiv.org/content/10.1101/2020.04.02.20051417v1.full.pdf)|
+|No|9200000|8000000|10100000|United States|Unspecified|2020-03-15|Unspecified|2020-04-03|[Silverman JD. et al.](https://www.medrxiv.org/content/10.1101/2020.04.01.20050542v1)|
 
 ## Date Of Emergence
 
 |Peer Review|Value|Lower Bound|Upper Bound|Country|Location|Start Date|End Date|Published Date|Source|
 |---|---|---|---|---|---|---|---|---|---|
 |No|Unspecified|2020-11-19|2020-12-19|China|Wuhan City|Unspecified|Unspecified|2020-01-23|[Neher R. et al.](https://nextstrain.org/narratives/ncov/sit-rep/2020-01-23)|
+|No|2020-02-01|2020-01-18|2020-02-09|United States|Washington|2020-02-20|2020-03-15|2020-04-06|[Bedford T. et al.](https://www.medrxiv.org/content/10.1101/2020.04.02.20051417v1.full.pdf)|
 
 ## Dispersion
 
@@ -348,6 +351,10 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|3.1|2.2|5.4|Italy|Bergamo|2020-01-14|2020-03-08|2020-03-20|[Cereda D. et al.](http://arxiv.org/abs/2003.09320)|
 |No|3.5|2.7|4.8|Italy|Codogno|2020-01-14|2020-03-08|2020-03-20|[Cereda D. et al.](http://arxiv.org/abs/2003.09320)|
 |No|3.4|2.5|5|Italy|Cremona|2020-01-14|2020-03-08|2020-03-20|[Cereda D. et al.](http://arxiv.org/abs/2003.09320)|
+|Yes|2.7|2.3|3.3|China|Unspecified|2020-01-15|2020-01-20|2020-04-08|[Sanche S. et al.](https://wwwnc.cdc.gov/eid/article/26/7/20-0282_article)|
+|No|3.4|2.4|5.1|United States|Washington|2020-02-20|2020-03-15|2020-04-06|[Bedford T. et al.](https://www.medrxiv.org/content/10.1101/2020.04.02.20051417v1.full.pdf)|
+|No|2.52|2.519|2.521|United States|Unspecified|2020-01-15|Unspecified|2020-04-03|[Silverman JD. et al.](https://www.medrxiv.org/content/10.1101/2020.04.01.20050542v1)|
+|No|2.455|2.454|2.456|United States|Unspecified|2020-01-15|Unspecified|2020-04-03|[Silverman JD. et al.](https://www.medrxiv.org/content/10.1101/2020.04.01.20050542v1)|
 
 ## Effective Reproduction Number
 
@@ -387,6 +394,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|0.6|0.5|0.7|South Korea|Unspecified|2020-01-20|2020-02-26|2020-03-02|[Shim E. et al.](https://www.medrxiv.org/content/10.1101/2020.02.27.20028829v2)|
 |No|0.85|0.69|1|Iran|Unspecified|2020-02-19|2020-02-29|2020-03-10|[Muniz-Rodriguez K. et al.](https://doi.org/10.1101/2020.03.08.20030643)|
 |No|1.1|0.4|2|Singapore|NA|2020-01-21|2020-03-05|2020-03-12|[Amna Tariq et al.](https://www.medrxiv.org/content/10.1101/2020.02.21.20026435v4)|
+|Yes|0.27|0.21|0.29|China|Unspecified|2020-01-15|2020-01-20|2020-04-08|[Sanche S. et al.](https://wwwnc.cdc.gov/eid/article/26/7/20-0282_article)|
 
 ## Incubation Period
 
@@ -409,6 +417,8 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|8.13|7.37|8.91|China|Unspecified|2020-01-12|2020-01-23|2020-03-10|[Qin J. et al.](https://www.medrxiv.org/content/10.1101/2020.03.06.20032417v1)|
 |No|8.62|8.02|9.28|China|Unspecified|2020-01-12|2020-01-23|2020-03-10|[Qin J. et al.](https://www.medrxiv.org/content/10.1101/2020.03.06.20032417v1)|
 |No|4.8|4.2|5.4|China|Shenzhen|2020-01-14|2020-02-12|2020-03-04|[Qifang Bi et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20028423v1.article-info)|
+|Yes|4.2|3.5|5.1|China|Unspecified|2020-01-15|2020-01-20|2020-04-08|[Sanche S. et al.](https://wwwnc.cdc.gov/eid/article/26/7/20-0282_article)|
+|Yes|5.2|1.8|12.4|China|Mainland China excluding Hubei|2020-12-24|2020-02-14|2020-04-02|[Zhang J. et al.](https://www.ncbi.nlm.nih.gov/pubmed/32247326)|
 
 ## Serial Interval
 
@@ -420,6 +430,9 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|3.95|-4.47|12.51|China|Tianjin|2019-12-31|2020-02-27|2020-03-08|[Ganyani T. et al.](https://www.medrxiv.org/content/10.1101/2020.03.05.20031815v1)|
 |No|6.3|5.2|7.6|China|Shenzhen|2020-01-14|2020-02-12|2020-03-04|[Qifang Bi et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20028423v1.article-info)|
 |No|6.6|0.7|19|Italy|Lombardy|2020-01-14|2020-03-08|2020-03-20|[Cereda D. et al.](http://arxiv.org/abs/2003.09320)|
+|No|4.95|-0.29|10.19|China|Unspecified|2020-01-20|2020-02-19|2020-03-30|[Xu X. et al.](https://www.medrxiv.org/content/10.1101/2020.03.02.20029868v2.full.pdf)|
+|No|5.19|-0.09|10.47|China|Unspecified|2020-01-20|2020-02-19|2020-03-30|[Xu X. et al.](https://www.medrxiv.org/content/10.1101/2020.03.02.20029868v2.full.pdf)|
+|Yes|5.1|1.3|11.6|China|Mainland China excluding Hubei|2020-12-24|2020-02-17|2020-04-02|[Zhang J. et al.](https://www.ncbi.nlm.nih.gov/pubmed/32247326)|
 
 ## Time From Symptom Onset To Isolation
 
@@ -456,6 +469,9 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |---|---|---|---|---|---|---|---|---|---|
 |No|5.1|3.5|7.5|China|Unspecified|2019-12-31|2020-01-24|2020-02-17|[Jung S. et al.](http://medrxiv.org/content/early/2020/02/02/2020.01.29.20019547.abstract)|
 |No|7.3|1|20|Italy|Lombardy|2020-01-14|2020-03-08|2020-03-20|[Cereda D. et al.](http://arxiv.org/abs/2003.09320)|
+|Yes|7.4|1|18|China|Mainland China excluding Hubei|2020-12-24|2020-02-17|2020-04-02|[Zhang J. et al.](https://www.ncbi.nlm.nih.gov/pubmed/32247326)|
+|Yes|8.9|2|19.8|China|Mainland China excluding Hubei|2020-12-24|2020-01-27|2020-04-02|[Zhang J. et al.](https://www.ncbi.nlm.nih.gov/pubmed/32247326)|
+|Yes|5.4|1|12|China|Mainland China excluding Hubei|2020-01-28|2020-02-17|2020-04-02|[Zhang J. et al.](https://www.ncbi.nlm.nih.gov/pubmed/32247326)|
 
 ## Transmission Rate
 
@@ -483,6 +499,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |---|---|---|---|---|---|---|---|---|---|
 |No|11.5|8|17.3|China|Unspecified|2019-12-31|2020-02-10|2020-02-11|[Sanche S. et al.](https://www.medrxiv.org/content/10.1101/2020.02.07.20021154v1)|
 |No|13.3|7.3|19.3|Singapore|Unspecified|2020-01-19|2020-02-26|2020-03-06|[Tindale LC. et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20029983v1)|
+|Yes|11.5|9|17.3|China|Unspecified|2020-01-15|2020-01-20|2020-04-08|[Sanche S. et al.](https://wwwnc.cdc.gov/eid/article/26/7/20-0282_article)|
 
 ## Time From Symptom Onset To Hospitalization
 
@@ -494,6 +511,11 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |Yes|5|3|12|China|Xian Eighth Hospital in Shaanxi, China|2020-01-31|2020-02-16|2020-04-06|[Han Y. et al.](https://onlinelibrary-wiley-com.pitt.idm.oclc.org/doi/abs/10.1002/jmv.25835)|
 |Yes|4|3|9|Singapore|Singapore|2020-01-18|2020-02-10|2020-03-28|[Pung R. et al.](doi: 10.1016/S0140-6736(20)30528-6)|
 |Yes|7|4|8|China|Wuhan City|2020-01-01|2020-02-03|2020-02-07|[Wang D. et al.](https://jamanetwork-com.pitt.idm.oclc.org/journals/jama/fullarticle/2761044)|
+|Yes|5.5|4.6|6.6|China|Unspecified|Unspecified|2020-01-18|2020-04-08|[Sanche S. et al.](https://wwwnc.cdc.gov/eid/article/26/7/20-0282_article)|
+|Yes|1.5|1.2|1.9|China|Unspecified|2020-01-19|2020-01-30|2020-04-08|[Sanche S. et al.](https://wwwnc.cdc.gov/eid/article/26/7/20-0282_article)|
+|Yes|3.8|0|12|China|Mainland China excluding Hubei|2020-12-24|2020-02-17|2020-04-02|[Zhang J. et al.](https://www.ncbi.nlm.nih.gov/pubmed/32247326)|
+|Yes|4.4|0|14|China|Mainland China excluding Hubei|2020-12-24|2020-01-27|2020-04-02|[Zhang J. et al.](https://www.ncbi.nlm.nih.gov/pubmed/32247326)|
+|Yes|2.6|0|9|China|Mainland China excluding Hubei|2020-01-28|2020-02-17|2020-04-02|[Zhang J. et al.](https://www.ncbi.nlm.nih.gov/pubmed/32247326)|
 
 # Deaths
 
@@ -538,6 +560,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |---|---|---|---|---|---|---|---|---|---|
 |No|8.3|6.4|10.5|China|Unspecified|2019-12-31|2020-01-25|2020-01-28|[Linton NM. et al.](https://www.medrxiv.org/content/medrxiv/early/2020/01/28/2020.01.26.20018754.full.pdf)|
 |No|11.2|8.7|14.9|China|Unspecified|2019-12-31|2020-02-10|2020-02-11|[Sanche S. et al.](https://www.medrxiv.org/content/10.1101/2020.02.07.20021154v1)|
+|Yes|11.2|8.7|14.9|China|Unspecified|2020-01-15|2020-01-20|2020-04-08|[Sanche S. et al.](https://wwwnc.cdc.gov/eid/article/26/7/20-0282_article)|
 
 ## Time From Symptom Onset To Death
 
@@ -546,3 +569,4 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|22.3|18|82|China|Mainland China|2019-12-31|2020-01-21|2020-02-10|[Dorigatt I. et al.](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/)|
 |No|13.8|11.8|16|China|Unspecified|2019-12-31|2020-01-25|2020-01-28|[Linton NM. et al.](https://www.medrxiv.org/content/medrxiv/early/2020/01/28/2020.01.26.20018754.full.pdf)|
 |No|15.2|13.1|17.7|China|Unspecified|2019-12-31|2020-01-24|2020-02-17|[Jung S. et al.](http://medrxiv.org/content/early/2020/02/02/2020.01.29.20019547.abstract)|
+|Yes|16.1|13.1|20.2|China|Unspecified|2020-01-15|2020-01-20|2020-04-08|[Sanche S. et al.](https://wwwnc.cdc.gov/eid/article/26/7/20-0282_article)|
