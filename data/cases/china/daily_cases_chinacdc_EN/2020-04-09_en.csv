@@ -1,0 +1,35 @@
+﻿province,Add Suspect,Cumulative Suspect,New diagnosis,Cumulative diagnosis,Added death,Cumulative death
+Beijing,0,1,0,588,0,8
+Tianjin,0,4,1,182,0,3
+Hebei Province,0,0,0,327,0,6
+Shanxi Province,0,2,2,168,0,0
+Inner Mongolia Autonomous Region,2,37,2,128,0,1
+Liaoning Province,0,0,0,144,0,2
+Jilin Province,0,0,0,98,0,1
+Heilongjiang Province,0,0,29,638,0,13
+Shanghai,1,9,3,555,0,7
+Jiangsu Province,0,0,0,651,0,0
+Zhejiang Province,0,0,0,1267,0,1
+Anhui Province,0,0,0,991,0,6
+Fujian Province,0,0,0,351,0,1
+Jiangxi Province,0,0,0,937,0,1
+Shandong Province,0,0,0,783,0,7
+Henan Province,0,0,0,1276,0,22
+Hubei Province,0,0,0,67803,1,3216
+Hunan Province,0,0,0,1019,0,4
+Guangdong Province,0,0,5,1544,0,8
+Guangxi Zhuang Autonomous Region,0,0,0,254,0,2
+Hainan,0,0,0,168,0,6
+Chongqing,0,0,0,579,0,6
+Sichuan Province,0,0,0,560,0,3
+Guizhou Province,0,0,0,147,0,2
+Yunnan Province,0,0,0,184,0,2
+Tibet Autonomous Region,0,0,0,1,0,0
+Shaanxi Province,0,0,0,256,0,3
+Gansu province,0,0,0,139,0,2
+Qinghai Province,0,0,0,18,0,0
+Ningxia Hui Autonomous Region,0,0,0,75,0,0
+Xinjiang Uygur Autonomous Region,0,0,0,76,0,3
+Taiwan Province,0,0,1,380,0,5
+Hong Kong Special Administrative Region,0,0,13,973,0,4
+Macau Special Administrative Region,0,0,0,45,0,0

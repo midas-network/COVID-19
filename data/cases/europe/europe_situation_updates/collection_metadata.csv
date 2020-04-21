@@ -3,13 +3,15 @@ collection_title_en,"Situation update for the EU/EEA, the UK and Switzerland"
 collection_title_original,"Situation update for the EU/EEA, the UK and Switzerland"
 collection_path_repository,COVID-19\data\cases\europe\europe_situation_updates
 collection_language,English
+collection_type,case counts
+collection_spatial_coverage,Europe
 collection_creator_name,European Centre for Disease Prevention and Control
 collection_creator_contact,https://www.ecdc.europa.eu/en/about-us/contact-ecdc
 collection_publisher,European Centre for Disease Prevention and Control
 collection_description,"Daily snapshot of an online table with number of imported and locally acquired cases, updated weekdays update daily at 8:00 CET"
 collection_URL_original,https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea
 collection_format,CSV files
-collection_number_files,24
+collection_number_files,67
 collection_members.1,EU_UK_data_update_2020-02-12_080000_+0100.csv
 collection_members.2,EU_UK_data_update_2020-02-13_080000_+0100.csv
 collection_members.3,EU_UK_data_update_2020-02-14_080000_+0100.csv
@@ -34,14 +36,58 @@ collection_members.21,EU_UK_data_download_2020-03-05_073001_-0500.csv
 collection_members.22,EU_UK_data_download_2020-03-06_073001_-0500.csv
 collection_members.23,EU_UK_data_download_2020-03-07_073000_-0500.csv
 collection_members.24,EU_UK_data_download_2020-03-08_073000_-0400.csv
+collection_members.25,EU_UK_data_download_2020-03-09_073001_-0400.csv
+collection_members.26,EU_UK_data_download_2020-03-10_073000_-0400.csv
+collection_members.27,EU_UK_data_download_2020-03-11_073000_-0400.csv
+collection_members.28,EU_UK_data_download_2020-03-11_084251_-0400.csv
+collection_members.29,EU_UK_data_download_2020-03-12_073001_-0400.csv
+collection_members.30,EU_UK_data_download_2020-03-13_073001_-0400.csv
+collection_members.31,EU_UK_data_download_2020-03-14_073000_-0400.csv
+collection_members.32,EU_UK_data_download_2020-03-15_073000_-0400.csv
+collection_members.33,EU_UK_data_download_2020-03-16_073000_-0400.csv
+collection_members.34,EU_UK_data_download_2020-03-17_073000_-0400.csv
+collection_members.35,EU_UK_data_download_2020-03-18_073001_-0400.csv
+collection_members.36,EU_UK_data_download_2020-03-19_073000_-0400.csv
+collection_members.37,EU_UK_data_download_2020-03-20_073001_-0400.csv
+collection_members.38,EU_UK_data_download_2020-03-21_073000_-0400.csv
+collection_members.39,EU_UK_data_download_2020-03-22_073000_-0400.csv
+collection_members.40,EU_UK_data_download_2020-03-23_073000_-0400.csv
+collection_members.41,EU_UK_data_download_2020-03-24_073001_-0400.csv
+collection_members.42,EU_UK_data_download_2020-03-25_073000_-0400.csv
+collection_members.43,EU_UK_data_download_2020-03-26_073000_-0400.csv
+collection_members.44,EU_UK_data_download_2020-03-27_073000_-0400.csv
+collection_members.45,EU_UK_data_download_2020-03-28_073001_-0400.csv
+collection_members.46,EU_UK_data_download_2020-03-29_073000_-0400.csv
+collection_members.47,EU_UK_data_download_2020-03-30_073001_-0400.csv
+collection_members.48,EU_UK_data_download_2020-03-31_073000_-0400.csv
+collection_members.49,EU_UK_data_download_2020-04-01_073000_-0400.csv
+collection_members.50,EU_UK_data_download_2020-04-02_073000_-0400.csv
+collection_members.51,EU_UK_data_download_2020-04-03_073001_-0400.csv
+collection_members.52,EU_UK_data_download_2020-04-04_073000_-0400.csv
+collection_members.53,EU_UK_data_download_2020-04-05_073001_-0400.csv
+collection_members.54,EU_UK_data_download_2020-04-06_073000_-0400.csv
+collection_members.55,EU_UK_data_download_2020-04-07_073001_-0400.csv
+collection_members.56,EU_UK_data_download_2020-04-08_073000_-0400.csv
+collection_members.57,EU_UK_data_download_2020-04-09_073000_-0400.csv
+collection_members.58,EU_UK_data_download_2020-04-10_073001_-0400.csv
+collection_members.59,EU_UK_data_download_2020-04-11_073000_-0400.csv
+collection_members.60,EU_UK_data_download_2020-04-12_073000_-0400.csv
+collection_members.61,EU_UK_data_download_2020-04-13_073000_-0400.csv
+collection_members.62,EU_UK_data_download_2020-04-14_073000_-0400.csv
+collection_members.63,EU_UK_data_download_2020-04-15_073000_-0400.csv
+collection_members.64,EU_UK_data_download_2020-04-16_073000_-0400.csv
+collection_members.65,EU_UK_data_download_2020-04-17_073001_-0400.csv
+collection_members.66,EU_UK_data_download_2020-04-18_073000_-0400.csv
+collection_members.67,EU_UK_data_download_2020-04-19_073001_-0400.csv
+collection_members.68,EU_UK_data_download_2020-04-20_073000_-0400.csv
 collection_first_report_date,2020-02-12
-collection_last_report_date,2020-03-08
+collection_last_report_date,2020-04-20
 collection_license,NA
 collection_access,Web page that can be viewed and read
 related_object_id,NA
 related_object_path,NA
 relation_description,NA
 curation _notes,NA
-collection_lastupdated_date,2020-03-08
-collection_lastupdated_person,"Anne Cross, University of Pittsbugh, ORCID 0000-0003-1707-253X"
+collection_lastupdated_date,2020-04-20
+collection_lastupdated_person,"Anne Cross, University of Pittsburgh, ORCID 0000-0003-1707-253X"
 collection_lastupdated_email,anne.cross@pitt.edu

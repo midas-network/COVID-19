@@ -1,0 +1,70 @@
+﻿<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Centre for Health Protection 衞生防護中心</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<style>
+			body {
+				font-family: "Arial", "Helvetica", "sans-serif", "新細明體","細明體";
+				font-size: 100%;
+				margin-left: 20px;
+			}
+			
+			a:link {
+				color: #0000FF;
+			}
+
+			a:visited {
+				color: #0000FF;
+			}
+
+			a:hover {
+				color: #FF0000;
+			}
+
+			a:active {
+				color: #FF0000;
+			}
+
+			p {
+				font-size: 100%;
+				font-weight: bold;
+				text-align: left;
+			}
+			
+			.eng {
+				letter-spacing: 1px;
+				font-size: 2vw;
+			}
+			
+			.chi {		
+				letter-spacing: 5px;
+				font-size: 2vw;
+			}	
+
+
+			@media only screen and (max-width:620px) {
+			  /* For mobile phones: */
+			  	.eng {
+					letter-spacing: 1px;
+					font-size: 4vw;
+				}
+			
+				.chi {		
+					letter-spacing: 5px;
+					font-size: 4vw;
+				}	
+			}			
+		</style>			
+	</head>
+	<body> 
+		<img src="/images/chp_bilingual_logo.png" alt="Centre for Health Protection 衞生防護中心">
+		<br/>
+		<p class="chi">對不起，我們找不到你要的網頁。<br/>返回 <a href="https://www.chp.gov.hk/tc/index.html">衞生防護中心網站</a></p>
+		<br/>
+		<p class="chi">对不起，我们找不到你要的网页。<br/>返回 <a href="https://www.chp.gov.hk/sc/index.html">卫生防护中心网站</a></p>
+		<br/>
+		<p class="eng">Sorry, the page you requested cannot be found.<br/>Back to <a href="https://www.chp.gov.hk/en/index.html">CHP Website</a></p>
+		<br/>
+	</body>
+</html>

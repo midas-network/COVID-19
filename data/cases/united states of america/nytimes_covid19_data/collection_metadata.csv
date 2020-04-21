@@ -1,0 +1,69 @@
+﻿collection_ID,nytimes_covid19_data
+collection_title_en,Coronavirus (Covid-19) Data in the United States
+collection_title_original,Coronavirus (Covid-19) Data in the United States
+collection_path_repository,COVID-19\data\cases\united states of america\nytimes_covid19_data
+collection_language,English
+collection_type,case counts
+collection_spatial_coverage,Unites States of America
+collection_creator_name,The New York Times
+collection_creator_contact,covid-data@nytimes.com
+collection_publisher,The New York Times via nytimes GitHub repository
+collection_description,"Data from The New York Times, based on reports from state and local health agencies. Data files with cumulative counts of coronavirus cases in the United States, at the state and county level, over time. The data are created by compiling time series data from state and local governments and health departments. Data on cumulative coronavirus cases and deaths can be found in two files for states and counties. Each row of data reports cumulative counts based on the best reporting up to the moment they publish an update. Both files contain FIPS codes, a standard geographic identifier, to make it easier for an analyst to combine this data with other data sets like a map file or population data."
+collection_URL_original,https://github.com/nytimes/covid-19-data
+collection_format,CSV files
+collection_number_files,44
+collection_members.1,20200330_us-counties.csv
+collection_members.2,20200330_us-states.csv
+collection_members.3,20200331_us-counties.csv
+collection_members.4,20200331_us-states.csv
+collection_members.5,20200401_us-counties.csv
+collection_members.6,20200401_us-states.csv
+collection_members.7,20200402_us-counties.csv
+collection_members.8,20200402_us-states.csv
+collection_members.9,20200403_us-counties.csv
+collection_members.10,20200403_us-states.csv
+collection_members.11,20200404_us-counties.csv
+collection_members.12,20200404_us-states.csv
+collection_members.13,20200405_us-counties.csv
+collection_members.14,20200405_us-states.csv
+collection_members.15,20200406_us-counties.csv
+collection_members.16,20200406_us-states.csv
+collection_members.17,20200407_us-counties.csv
+collection_members.18,20200407_us-states.csv
+collection_members.19,20200408_us-counties.csv
+collection_members.20,20200408_us-states.csv
+collection_members.21,20200409_us-counties.csv
+collection_members.22,20200409_us-states.csv
+collection_members.23,20200410_us-counties.csv
+collection_members.24,20200410_us-states.csv
+collection_members.25,20200411_us-counties.csv
+collection_members.26,20200411_us-states.csv
+collection_members.27,20200412_us-counties.csv
+collection_members.28,20200412_us-states.csv
+collection_members.29,20200413_us-counties.csv
+collection_members.30,20200413_us-states.csv
+collection_members.31,20200414_us-counties.csv
+collection_members.32,20200414_us-states.csv
+collection_members.33,20200415_us-counties.csv
+collection_members.34,20200415_us-states.csv
+collection_members.35,20200416_us-counties.csv
+collection_members.36,20200416_us-states.csv
+collection_members.37,20200417_us-counties.csv
+collection_members.38,20200417_us-states.csv
+collection_members.39,20200418_us-counties.csv
+collection_members.40,20200418_us-states.csv
+collection_members.41,20200419_us-counties.csv
+collection_members.42,20200419_us-states.csv
+collection_members.43,20200420_us-counties.csv
+collection_members.44,20200420_us-states.csv
+collection_first_report_date,2020-01-21
+collection_last_report_date,2020-04-19
+collection_license,https://github.com/nytimes/covid-19-data/blob/master/LICENSE
+collection_access,CSV files copied from the GitHub repository
+related_object_id,NA
+related_object_path,NA
+relation_description,NA
+curation _notes,NA
+collection_lastupdated_date,2020-04-20
+collection_lastupdated_person,"Anne Cross, University of Pittsburgh, ORCID 0000-0003-1707-253X"
+collection_lastupdated_email,anne.cross@pitt.edu

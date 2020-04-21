@@ -3,13 +3,15 @@ collection_title_en,Number of cumulative cases by Chinese prefecture from DXY.cn
 collection_title_original,Number of cumulative cases by Chinese prefecture from DXY.cn
 collection_path_repository,COVID-19\data\cases\china\cumulative_cases_dxy
 collection_language,English
-collection_creator_name.1,DXY.cn
-collection_creator_contact.1,
+collection_type,case counts
+collection_spatial_coverage,China
+collection_creator_name,DXY.cn
+collection_creator_contact,
 collection_publisher,DXY.cn
 collection_description,"2019 Novel Coronavirus cumulative cases daily reported by prefecture level  from the website DXY.cn which collect public data from National Health Commission, provincial health commission, provincial governments, Hong Kong official channel, Macao official channel and Taiwan official channel. The data are extracted everyday at 16:00 EST. The name of the prefecture, province and country are translated by using Google Translate."
 collection_URL_original, https://ncov.dxy.cn/ncovh5/view/pneumonia
 collection_format,csv
-collection_number_files,34
+collection_number_files,77
 collection_members.1,table_getAreaStat_en_2020-02-04.csv
 collection_members.2,table_getAreaStat_en_2020-02-05.csv
 collection_members.3,table_getAreaStat_en_2020-02-06.csv
@@ -44,14 +46,57 @@ collection_members.31,table_getAreaStat_en_2020-03-05.csv
 collection_members.32,table_getAreaStat_en_2020-03-06.csv
 collection_members.33,table_getAreaStat_en_2020-03-07.csv
 collection_members.34,table_getAreaStat_en_2020-03-08.csv
+collection_members.35,table_getAreaStat_en_2020-03-09.csv
+collection_members.36,table_getAreaStat_en_2020-03-10.csv
+collection_members.37,table_getAreaStat_en_2020-03-11.csv
+collection_members.38,table_getAreaStat_en_2020-03-12.csv
+collection_members.39,table_getAreaStat_en_2020-03-13.csv
+collection_members.40,table_getAreaStat_en_2020-03-14.csv
+collection_members.41,table_getAreaStat_en_2020-03-15.csv
+collection_members.42,table_getAreaStat_en_2020-03-16.csv
+collection_members.43,table_getAreaStat_en_2020-03-17.csv
+collection_members.44,table_getAreaStat_en_2020-03-18.csv
+collection_members.45,table_getAreaStat_en_2020-03-19.csv
+collection_members.46,table_getAreaStat_en_2020-03-20.csv
+collection_members.47,table_getAreaStat_en_2020-03-21.csv
+collection_members.48,table_getAreaStat_en_2020-03-22.csv
+collection_members.49,table_getAreaStat_en_2020-03-23.csv
+collection_members.50,table_getAreaStat_en_2020-03-24.csv
+collection_members.51,table_getAreaStat_en_2020-03-25.csv
+collection_members.52,table_getAreaStat_en_2020-03-26.csv
+collection_members.53,table_getAreaStat_en_2020-03-27.csv
+collection_members.54,table_getAreaStat_en_2020-03-28.csv
+collection_members.55,table_getAreaStat_en_2020-03-29.csv
+collection_members.56,table_getAreaStat_en_2020-03-30.csv
+collection_members.57,table_getAreaStat_en_2020-03-31.csv
+collection_members.58,table_getAreaStat_en_2020-04-01.csv
+collection_members.59,table_getAreaStat_en_2020-04-02.csv
+collection_members.60,table_getAreaStat_en_2020-04-03.csv
+collection_members.61,table_getAreaStat_en_2020-04-04.csv
+collection_members.62,table_getAreaStat_en_2020-04-05.csv
+collection_members.63,table_getAreaStat_en_2020-04-06.csv
+collection_members.64,table_getAreaStat_en_2020-04-07.csv
+collection_members.65,table_getAreaStat_en_2020-04-08.csv
+collection_members.66,table_getAreaStat_en_2020-04-09.csv
+collection_members.67,table_getAreaStat_en_2020-04-10.csv
+collection_members.68,table_getAreaStat_en_2020-04-11.csv
+collection_members.69,table_getAreaStat_en_2020-04-12.csv
+collection_members.70,table_getAreaStat_en_2020-04-13.csv
+collection_members.71,table_getAreaStat_en_2020-04-14.csv
+collection_members.72,table_getAreaStat_en_2020-04-15.csv
+collection_members.73,table_getAreaStat_en_2020-04-16.csv
+collection_members.74,table_getAreaStat_en_2020-04-17.csv
+collection_members.75,table_getAreaStat_en_2020-04-18.csv
+collection_members.76,table_getAreaStat_en_2020-04-19.csv
+collection_members.77,table_getAreaStat_en_2020-04-20.csv
 collection_first_report_date,2020-02-04
-collection_last_report_date,2020-03-08
+collection_last_report_date,2020-04-20
 collection_license,NA
 collection_access,HTML files that can be viewed and read
 related_object_id,
 related_object_path,
 relation_description,
 curation_notes,"Some place names might need to be translated in English, quality check in process"
-collection_lastupdated_date,2020-03-08
-collection_lastupdated_person,"Anne Cross, University of Pittsbugh, ORCID 0000-0003-1707-253X"
+collection_lastupdated_date,2020-04-20
+collection_lastupdated_person,"Anne Cross, University of Pittsburgh, ORCID 0000-0003-1707-253X"
 collection_lastupdated_email,anne.cross@pitt.edu
