@@ -9,10 +9,10 @@ collection_publisher,alphamodel Github account
 collection_description,"Singapore COVID-19 data from multiple data sources (zaobao.sg, MOH). The repository is auto updating every 10 minutes."
 collection_URL_original,https://github.com/alphamodel/COVID-19-SG
 collection_format,Github repository
-collection_number_files,
+collection_number_files,0
 collection_members,NA
 collection_first_report_date,2020-03-04
-collection_last_report_date,-
+collection_last_report_date,NA
 collection_license,NA
 collection_access,Open Github repository that can be downloaded
 related_object_id,NA
