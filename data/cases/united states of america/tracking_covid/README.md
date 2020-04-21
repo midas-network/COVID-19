@@ -13,7 +13,7 @@
 |collection_URL_original|https://covidtracking.com/|
 |collection_format|CSV files|
 |collection_number_files|0|
-|collection_members.1|20200330_us-counties.csv|
+|collection_members|20200330_us-counties.csv|
 |collection_first_report_date|NA|
 |collection_last_report_date|NA|
 |collection_license|NA|

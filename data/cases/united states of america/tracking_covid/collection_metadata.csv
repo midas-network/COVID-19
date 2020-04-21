@@ -12,7 +12,7 @@ collection_description,"The COVID Tracking Project, launched from The Atlantic, 
 collection_URL_original,https://covidtracking.com/
 collection_format,CSV files
 collection_number_files,0
-collection_members.1,NA
+collection_members,NA
 collection_first_report_date,NA
 collection_last_report_date,NA
 collection_license,NA
