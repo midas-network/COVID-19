@@ -1,0 +1,26 @@
+collection_ID,singapore_github
+collection_title_en,Datasets for COVID-19 in Singapore and Malaysia
+collection_title_original,Datasets for COVID-19 in Singapore and Malaysia
+collection_path_repository,COVID-19\data\cases\singapore\singapore_github
+collection_language,Chinese and English
+collection_type,case counts
+collection_spatial_coverage,"Singapore, Malaysia"
+collection_creator_name,alphamodel
+collection_creator_contact,support@urbandotsolution.com
+collection_publisher,alphamodel Github account
+collection_description,"This repository collects Singapore and Malaysia COVID-19 data from multiple data sources such as zaobao.sg and MOH. The updating frequency is 10 minutes. New files for each day are created at 9 AM SGT. From April 7th, daily files are created at 1 AM SGT for more frequent checking of the status. From April 19th, daily files are created at 12 AM SGT because two days' press releases were updated after 12 AM SGT."
+collection_URL_original,https://github.com/alphamodel/COVID-19-SG
+collection_format,Github repository
+collection_number_files,0
+collection_members,NA
+collection_first_report_date,2020-03-04
+collection_last_report_date,NA
+collection_license,NA
+collection_access,Open Github repository that can be downloaded
+related_object_id,NA
+related_object_path,NA
+relation_description,NA
+curation_notes,NA
+collection_lastupdated_date,2020-04-21
+collection_lastupdated_person,"Lucie Contamin, University of Pittsburgh"
+collection_lastupdated_email,contamin@pitt.edu
