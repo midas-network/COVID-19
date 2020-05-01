@@ -16,7 +16,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|0.1959|0.1436|0.3558|Unspecified|China|mainland China|2019-12-01|2020-02-05|2020-02-11|[Chinazzi M. et al.](https://www.medrxiv.org/content/10.1101/2020.02.09.20021261v1)|
 |No|1|0.6|2|Unspecified|China|Wuhan|2019-12-10|2020-01-27|2020-02-04|[Famulare et al.](https://institutefordiseasemodeling.github.io/nCoV-public/analyses/first_adjusted_mortality_estimates_and_risk_assessment/2019-nCoV-preliminary_age_and_time_adjusted_mortality_rates_and_pandemic_risk_assessment.html)|
 |Yes|0.092|0.05|0.2|Unspecified|Japan|Unspecified|2020-01-22|2020-01-29|2020-02-04|[Nishiura H. et al.](https://www.ncbi.nlm.nih.gov/pubmed/32033064)|
-|No|0.44|0.37|0.5|Unspecified|Japan|Unspecified|Unspecified|2020-28-02|2020-03-10|[Omori R. et al.](https://www.medrxiv.org/content/10.1101/2020.03.09.20033183v1)|
+|No|0.44|0.37|0.5|Unspecified|Japan|Unspecified|Unspecified|2020-02-28|2020-03-10|[Omori R. et al.](https://www.medrxiv.org/content/10.1101/2020.03.09.20033183v1)|
 
 ## Basic Reproduction Number
 
