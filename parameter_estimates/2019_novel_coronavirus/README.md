@@ -161,6 +161,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|2.6|2.5|2.7|Unspecified|South Korea|Unspecified|2020-01-23|2020-03-02|2020-03-13|[Tang B. et al.](https://www.medrxiv.org/content/10.1101/2020.03.09.20033464v1)|
 |No|2.55|2.15|2.93|Unspecified|Algeria|Unspecified|2020-02-25|2020-03-22|2020-03-27|[Hamidouche M. et al.](https://doi.org/10.1101/2020.03.20.20039891)|
 |No|Unspecified|4|7.1|Unspecified|global|Unspecified|2020-01-20|2020-04-10|2020-04-15|[Ke R. et al.](https://www.medrxiv.org/content/10.1101/2020.04.04.20050427v2)|
+|No|3.6|3.49|3.84|Unspecified|Italy|Unspecified|2020-02-22|2020-03-08|2020-04-23|[Gatto M. et al.](https://www.pnas.org/content/early/2020/04/22/2004978117#T2)|
 
 ## Cumulative Case Count
 
@@ -419,6 +420,108 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|0.34|0.31|0.37|Unspecified|United States|New York|2020-03-04|2020-03-31|2020-04-14|[Bliznashki S. et al.](https://www.medrxiv.org/content/10.1101/2020.04.05.20054577)|
 |No|0.23|0.21|0.25|Unspecified|United States|New York|2020-03-04|2020-03-31|2020-04-14|[Bliznashki S. et al.](https://www.medrxiv.org/content/10.1101/2020.04.05.20054577)|
 |No|0.2|0.18|0.23|Unspecified|United States|New York|2020-03-04|2020-03-31|2020-04-14|[Bliznashki S. et al.](https://www.medrxiv.org/content/10.1101/2020.04.05.20054577)|
+|No|0.14|Unspecified|Unspecified|Unspecified|Algeria|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.09|Unspecified|Unspecified|Unspecified|Algeria|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.08|Unspecified|Unspecified|Unspecified|Argentina|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.04|Unspecified|Unspecified|Unspecified|Argentina|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.18|Unspecified|Unspecified|Unspecified|Australia|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.1|Unspecified|Unspecified|Unspecified|Australia|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.23|Unspecified|Unspecified|Unspecified|Austria|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.1|Unspecified|Unspecified|Unspecified|Austria|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.28|Unspecified|Unspecified|Unspecified|Belgium|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.08|Unspecified|Unspecified|Unspecified|Belgium|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.28|Unspecified|Unspecified|Unspecified|Brazil|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.06|Unspecified|Unspecified|Unspecified|Brazil|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.27|Unspecified|Unspecified|Unspecified|Canada|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.05|Unspecified|Unspecified|Unspecified|Canada|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.2|Unspecified|Unspecified|Unspecified|Chile|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.05|Unspecified|Unspecified|Unspecified|Chile|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.1|Unspecified|Unspecified|Unspecified|Colombia|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.1|Unspecified|Unspecified|Unspecified|Colombia|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.19|Unspecified|Unspecified|Unspecified|Czechia|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.1|Unspecified|Unspecified|Unspecified|Czechia|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.08|Unspecified|Unspecified|Unspecified|Denmark|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.08|Unspecified|Unspecified|Unspecified|Denmark|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.1|Unspecified|Unspecified|Unspecified|Dominican Republic|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.01|Unspecified|Unspecified|Unspecified|Dominican Republic|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.13|Unspecified|Unspecified|Unspecified|Ecuador|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.1|Unspecified|Unspecified|Unspecified|Ecuador|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.08|Unspecified|Unspecified|Unspecified|Egypt|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.03|Unspecified|Unspecified|Unspecified|Egypt|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.06|Unspecified|Unspecified|Unspecified|Finland|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.06|Unspecified|Unspecified|Unspecified|Finland|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.26|Unspecified|Unspecified|Unspecified|France|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.1|Unspecified|Unspecified|Unspecified|France|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.29|Unspecified|Unspecified|Unspecified|Germany|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.1|Unspecified|Unspecified|Unspecified|Germany|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.05|Unspecified|Unspecified|Unspecified|Greece|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.09|Unspecified|Unspecified|Unspecified|Greece|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.17|Unspecified|Unspecified|Unspecified|India|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.08|Unspecified|Unspecified|Unspecified|India|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.1|Unspecified|Unspecified|Unspecified|Indonesia|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.09|Unspecified|Unspecified|Unspecified|Indonesia|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.16|Unspecified|Unspecified|Unspecified|Iran|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.1|Unspecified|Unspecified|Unspecified|Iran|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.14|Unspecified|Unspecified|Unspecified|Ireland|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.14|Unspecified|Unspecified|Unspecified|Ireland|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.25|Unspecified|Unspecified|Unspecified|Israel|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.08|Unspecified|Unspecified|Unspecified|Israel|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.23|Unspecified|Unspecified|Unspecified|Italy|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.1|Unspecified|Unspecified|Unspecified|Italy|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.04|Unspecified|Unspecified|Unspecified|Japan|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.13|Unspecified|Unspecified|Unspecified|Japan|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.07|Unspecified|Unspecified|Unspecified|Luxembourg|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.1|Unspecified|Unspecified|Unspecified|Luxembourg|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.14|Unspecified|Unspecified|Unspecified|Malaysia|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.07|Unspecified|Unspecified|Unspecified|Malaysia|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.12|Unspecified|Unspecified|Unspecified|Mexico|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.03|Unspecified|Unspecified|Unspecified|Mexico|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.21|Unspecified|Unspecified|Unspecified|Netherlands|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.1|Unspecified|Unspecified|Unspecified|Netherlands|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.13|Unspecified|Unspecified|Unspecified|Norway|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.08|Unspecified|Unspecified|Unspecified|Norway|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.07|Unspecified|Unspecified|Unspecified|Pakistan|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.05|Unspecified|Unspecified|Unspecified|Pakistan|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.08|Unspecified|Unspecified|Unspecified|Panama|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.1|Unspecified|Unspecified|Unspecified|Panama|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.13|Unspecified|Unspecified|Unspecified|Peru|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.13|Unspecified|Unspecified|Unspecified|Peru|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.12|Unspecified|Unspecified|Unspecified|Philippines|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.01|Unspecified|Unspecified|Unspecified|Philippines|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.11|Unspecified|Unspecified|Unspecified|Poland|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.1|Unspecified|Unspecified|Unspecified|Poland|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.21|Unspecified|Unspecified|Unspecified|Portugal|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.1|Unspecified|Unspecified|Unspecified|Portugal|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.03|Unspecified|Unspecified|Unspecified|Qatar|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.16|Unspecified|Unspecified|Unspecified|Qatar|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.24|Unspecified|Unspecified|Unspecified|Romania|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.06|Unspecified|Unspecified|Unspecified|Romania|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.2|Unspecified|Unspecified|Unspecified|Russia|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.13|Unspecified|Unspecified|Unspecified|Russia|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.09|Unspecified|Unspecified|Unspecified|Saudi Arabia|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.09|Unspecified|Unspecified|Unspecified|Saudi Arabia|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.12|Unspecified|Unspecified|Unspecified|Serbia|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.12|Unspecified|Unspecified|Unspecified|Serbia|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.1|Unspecified|Unspecified|Unspecified|Singapore|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.09|Unspecified|Unspecified|Unspecified|Singapore|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.03|Unspecified|Unspecified|Unspecified|South Africa|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.03|Unspecified|Unspecified|Unspecified|South Africa|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.25|Unspecified|Unspecified|Unspecified|Spain|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.08|Unspecified|Unspecified|Unspecified|Spain|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.11|Unspecified|Unspecified|Unspecified|Sweden|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.1|Unspecified|Unspecified|Unspecified|Sweden|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.22|Unspecified|Unspecified|Unspecified|Switzerland|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.1|Unspecified|Unspecified|Unspecified|Switzerland|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.19|Unspecified|Unspecified|Unspecified|Thailand|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.1|Unspecified|Unspecified|Unspecified|Thailand|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.2|Unspecified|Unspecified|Unspecified|Turkey|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.02|Unspecified|Unspecified|Unspecified|Turkey|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.18|Unspecified|Unspecified|Unspecified|United Arab Emirates|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.06|Unspecified|Unspecified|Unspecified|United Arab Emirates|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.3|Unspecified|Unspecified|Unspecified|United Kingdom|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.04|Unspecified|Unspecified|Unspecified|United Kingdom|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.29|Unspecified|Unspecified|Unspecified|United States|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|-0.07|Unspecified|Unspecified|Unspecified|United States|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
 
 ## Incubation Period
 
@@ -523,6 +626,108 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |Yes|0.52|0.39|0.71|Unspecified|China|unspecified|2020-01-24|2020-02-03|2020-03-16|[Li R. et al.](https://science.sciencemag.org/content/early/2020/03/13/science.abb3221)|
 |Yes|0.35|0.27|0.5|Unspecified|China|unspecified|2020-01-24|2020-02-08|2020-03-16|[Li R. et al.](https://science.sciencemag.org/content/early/2020/03/13/science.abb3221)|
 |No|0.315|Unspecified|Unspecified|Unspecified|Brazil|Unspecified|2020-02-26|2020-03-25|2020-03-30|[Crokidakis N. et al.](https://arxiv.org/abs/2003.12150v1)|
+|No|0.34|Unspecified|Unspecified|Unspecified|Algeria|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.01|Unspecified|Unspecified|Unspecified|Algeria|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.22|Unspecified|Unspecified|Unspecified|Argentina|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.05|Unspecified|Unspecified|Unspecified|Argentina|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.44|Unspecified|Unspecified|Unspecified|Australia|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.01|Unspecified|Unspecified|Unspecified|Australia|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.57|Unspecified|Unspecified|Unspecified|Austria|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.01|Unspecified|Unspecified|Unspecified|Austria|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.69|Unspecified|Unspecified|Unspecified|Belgium|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.01|Unspecified|Unspecified|Unspecified|Belgium|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.7|Unspecified|Unspecified|Unspecified|Brazil|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.03|Unspecified|Unspecified|Unspecified|Brazil|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.68|Unspecified|Unspecified|Unspecified|Canada|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.04|Unspecified|Unspecified|Unspecified|Canada|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.49|Unspecified|Unspecified|Unspecified|Chile|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.04|Unspecified|Unspecified|Unspecified|Chile|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.26|Unspecified|Unspecified|Unspecified|Colombia|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.01|Unspecified|Unspecified|Unspecified|Colombia|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.45|Unspecified|Unspecified|Unspecified|Czechia|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.01|Unspecified|Unspecified|Unspecified|Czechia|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.22|Unspecified|Unspecified|Unspecified|Denmark|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.22|Unspecified|Unspecified|Unspecified|Denmark|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.26|Unspecified|Unspecified|Unspecified|Dominican Republic|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.1|Unspecified|Unspecified|Unspecified|Dominican Republic|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.32|Unspecified|Unspecified|Unspecified|Ecuador|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.01|Unspecified|Unspecified|Unspecified|Ecuador|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.22|Unspecified|Unspecified|Unspecified|Egypt|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.14|Unspecified|Unspecified|Unspecified|Egypt|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.18|Unspecified|Unspecified|Unspecified|Finland|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.18|Unspecified|Unspecified|Unspecified|Finland|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.64|Unspecified|Unspecified|Unspecified|France|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.01|Unspecified|Unspecified|Unspecified|France|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.73|Unspecified|Unspecified|Unspecified|Germany|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.01|Unspecified|Unspecified|Unspecified|Germany|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.18|Unspecified|Unspecified|Unspecified|Greece|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.01|Unspecified|Unspecified|Unspecified|Greece|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.41|Unspecified|Unspecified|Unspecified|India|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.21|Unspecified|Unspecified|Unspecified|India|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.27|Unspecified|Unspecified|Unspecified|Indonesia|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.24|Unspecified|Unspecified|Unspecified|Indonesia|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.39|Unspecified|Unspecified|Unspecified|Iran|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.01|Unspecified|Unspecified|Unspecified|Iran|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.35|Unspecified|Unspecified|Unspecified|Ireland|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.35|Unspecified|Unspecified|Unspecified|Ireland|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.61|Unspecified|Unspecified|Unspecified|Israel|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.02|Unspecified|Unspecified|Unspecified|Israel|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.55|Unspecified|Unspecified|Unspecified|Italy|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.01|Unspecified|Unspecified|Unspecified|Italy|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.16|Unspecified|Unspecified|Unspecified|Japan|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.32|Unspecified|Unspecified|Unspecified|Japan|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.2|Unspecified|Unspecified|Unspecified|Luxembourg|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.01|Unspecified|Unspecified|Unspecified|Luxembourg|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.34|Unspecified|Unspecified|Unspecified|Malaysia|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.02|Unspecified|Unspecified|Unspecified|Malaysia|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.31|Unspecified|Unspecified|Unspecified|Mexico|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.15|Unspecified|Unspecified|Unspecified|Mexico|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.52|Unspecified|Unspecified|Unspecified|Netherlands|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.01|Unspecified|Unspecified|Unspecified|Netherlands|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.32|Unspecified|Unspecified|Unspecified|Norway|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.02|Unspecified|Unspecified|Unspecified|Norway|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.2|Unspecified|Unspecified|Unspecified|Pakistan|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.04|Unspecified|Unspecified|Unspecified|Pakistan|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.22|Unspecified|Unspecified|Unspecified|Panama|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.01|Unspecified|Unspecified|Unspecified|Panama|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.31|Unspecified|Unspecified|Unspecified|Peru|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.31|Unspecified|Unspecified|Unspecified|Peru|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.31|Unspecified|Unspecified|Unspecified|Philippines|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.11|Unspecified|Unspecified|Unspecified|Philippines|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.28|Unspecified|Unspecified|Unspecified|Poland|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.01|Unspecified|Unspecified|Unspecified|Poland|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.5|Unspecified|Unspecified|Unspecified|Portugal|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.01|Unspecified|Unspecified|Unspecified|Portugal|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.06|Unspecified|Unspecified|Unspecified|Qatar|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.38|Unspecified|Unspecified|Unspecified|Qatar|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.59|Unspecified|Unspecified|Unspecified|Romania|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.03|Unspecified|Unspecified|Unspecified|Romania|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.47|Unspecified|Unspecified|Unspecified|Russia|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.32|Unspecified|Unspecified|Unspecified|Russia|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.24|Unspecified|Unspecified|Unspecified|Saudi Arabia|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.24|Unspecified|Unspecified|Unspecified|Saudi Arabia|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.29|Unspecified|Unspecified|Unspecified|Serbia|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.29|Unspecified|Unspecified|Unspecified|Serbia|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.26|Unspecified|Unspecified|Unspecified|Singapore|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.24|Unspecified|Unspecified|Unspecified|Singapore|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.15|Unspecified|Unspecified|Unspecified|South Africa|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.15|Unspecified|Unspecified|Unspecified|South Africa|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.6|Unspecified|Unspecified|Unspecified|Spain|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.01|Unspecified|Unspecified|Unspecified|Spain|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.28|Unspecified|Unspecified|Unspecified|Sweden|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.01|Unspecified|Unspecified|Unspecified|Sweden|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.53|Unspecified|Unspecified|Unspecified|Switzerland|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.01|Unspecified|Unspecified|Unspecified|Switzerland|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.45|Unspecified|Unspecified|Unspecified|Thailand|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.01|Unspecified|Unspecified|Unspecified|Thailand|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.49|Unspecified|Unspecified|Unspecified|Turkey|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.12|Unspecified|Unspecified|Unspecified|Turkey|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.44|Unspecified|Unspecified|Unspecified|United Arab Emirates|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.19|Unspecified|Unspecified|Unspecified|United Arab Emirates|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.76|Unspecified|Unspecified|Unspecified|United Kingdom|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.05|Unspecified|Unspecified|Unspecified|United Kingdom|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.72|Unspecified|Unspecified|Unspecified|United States|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|No|0.02|Unspecified|Unspecified|Unspecified|United States|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
 
 # Inpatient Care
 
