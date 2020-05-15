@@ -390,6 +390,15 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |Yes|3.46|Unspecified|Unspecified|Unspecified|China|Jiangxi|2020-01-21|2020-02-12|2020-04-10|[Maier BF. et al.](https://science.sciencemag.org/content/early/2020/04/07/science.abb4557)|
 |Yes|1.75|Unspecified|Unspecified|Unspecified|China|Jiangsu|2020-01-21|2020-02-12|2020-04-10|[Maier BF. et al.](https://science.sciencemag.org/content/early/2020/04/07/science.abb4557)|
 |Yes|1.36|Unspecified|Unspecified|Unspecified|China|Chongqing|2020-01-21|2020-02-12|2020-04-10|[Maier BF. et al.](https://science.sciencemag.org/content/early/2020/04/07/science.abb4557)|
+|Yes|2.9|2.67|3.14|Unspecified|Spain|Unspecified|2020-02-26|2020-03-06|2020-04-30|[Caicedo-Ochoa Y. et al.](https://pubmed.ncbi.nlm.nih.gov/32360941/)|
+|Yes|2.83|2.7|2.96|Unspecified|Italy|Unspecified|2020-02-22|2020-03-02|2020-04-30|[Caicedo-Ochoa Y. et al.](https://pubmed.ncbi.nlm.nih.gov/32360941/)|
+|Yes|3.95|3.7|4.21|Unspecified|Ecuador|Unspecified|2020-03-14|2020-03-24|2020-04-30|[Caicedo-Ochoa Y. et al.](https://pubmed.ncbi.nlm.nih.gov/32360941/)|
+|Yes|3.67|3.25|4.13|Unspecified|Panama|Unspecified|2020-03-13|2020-03-23|2020-04-30|[Caicedo-Ochoa Y. et al.](https://pubmed.ncbi.nlm.nih.gov/32360941/)|
+|Yes|2.91|2.6|3.23|Unspecified|Brazil|Unspecified|2020-03-09|2020-03-19|2020-04-30|[Caicedo-Ochoa Y. et al.](https://pubmed.ncbi.nlm.nih.gov/32360941/)|
+|Yes|2.67|2.45|2.89|Unspecified|Chile|Unspecified|2020-03-15|2020-03-25|2020-04-30|[Caicedo-Ochoa Y. et al.](https://pubmed.ncbi.nlm.nih.gov/32360941/)|
+|Yes|2.67|2.38|2.98|Unspecified|Colombia|Unspecified|2020-03-15|2020-03-25|2020-04-30|[Caicedo-Ochoa Y. et al.](https://pubmed.ncbi.nlm.nih.gov/32360941/)|
+|Yes|2.36|2.11|2.63|Unspecified|Peru|Unspecified|2020-03-13|2020-03-23|2020-04-30|[Caicedo-Ochoa Y. et al.](https://pubmed.ncbi.nlm.nih.gov/32360941/)|
+|Yes|2.42|2.14|2.72|Unspecified|Mexico|Unspecified|2020-03-12|2020-03-22|2020-04-30|[Caicedo-Ochoa Y. et al.](https://pubmed.ncbi.nlm.nih.gov/32360941/)|
 
 ## Generation Time
 
