@@ -11,7 +11,7 @@ collection_publisher,The New York Times via nytimes GitHub repository
 collection_description,"Data from The New York Times, based on reports from state and local health agencies. Data files with cumulative counts of coronavirus cases in the United States, at the state and county level, over time. The data are created by compiling time series data from state and local governments and health departments. Data on cumulative coronavirus cases and deaths can be found in two files for states and counties. Each row of data reports cumulative counts based on the best reporting up to the moment they publish an update. Both files contain FIPS codes, a standard geographic identifier, to make it easier for an analyst to combine this data with other data sets like a map file or population data."
 collection_URL_original,https://github.com/nytimes/covid-19-data
 collection_format,CSV files
-collection_number_files,94
+collection_number_files,106
 collection_members.1,20200330_us-counties.csv
 collection_members.2,20200330_us-states.csv
 collection_members.3,20200331_us-counties.csv
@@ -106,14 +106,26 @@ collection_members.91,20200514_us-counties.csv
 collection_members.92,20200514_us-states.csv
 collection_members.93,20200515_us-counties.csv
 collection_members.94,20200515_us-states.csv
+collection_members.95,20200516_us-counties.csv
+collection_members.96,20200516_us-states.csv
+collection_members.97,20200517_us-counties.csv
+collection_members.98,20200517_us-states.csv
+collection_members.99,20200518_us-counties.csv
+collection_members.100,20200518_us-states.csv
+collection_members.101,20200519_us-counties.csv
+collection_members.102,20200519_us-states.csv
+collection_members.103,20200520_us-counties.csv
+collection_members.104,20200520_us-states.csv
+collection_members.105,20200521_us-counties.csv
+collection_members.106,20200521_us-states.csv
 collection_first_report_date,2020-01-21
-collection_last_report_date,2020-05-14
+collection_last_report_date,2020-05-20
 collection_license,https://github.com/nytimes/covid-19-data/blob/master/LICENSE
 collection_access,CSV files copied from the GitHub repository
 related_object_id,NA
 related_object_path,NA
 relation_description,NA
 curation _notes,NA
-collection_lastupdated_date,2020-05-15
+collection_lastupdated_date,2020-05-21
 collection_lastupdated_person,"Anne Cross, University of Pittsburgh, ORCID 0000-0003-1707-253X"
 collection_lastupdated_email,anne.cross@pitt.edu
