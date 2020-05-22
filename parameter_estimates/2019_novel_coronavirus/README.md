@@ -162,6 +162,11 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|2.55|2.15|2.93|Unspecified|Algeria|Unspecified|2020-02-25|2020-03-22|2020-03-27|[Hamidouche M. et al.](https://doi.org/10.1101/2020.03.20.20039891)|
 |No|Unspecified|4|7.1|Unspecified|global|Unspecified|2020-01-20|2020-04-10|2020-04-15|[Ke R. et al.](https://www.medrxiv.org/content/10.1101/2020.04.04.20050427v2)|
 |No|3.6|3.49|3.84|Unspecified|Italy|Unspecified|2020-02-22|2020-03-08|2020-04-23|[Gatto M. et al.](https://www.pnas.org/content/early/2020/04/22/2004978117#T2)|
+|No|3.56|Unspecified|Unspecified|Unspecified|France|Unspecified|2020-02-15|2020-03-11|2020-05-01|[Unlu E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.27.20079962v1)|
+|Yes|2.36|Unspecified|Unspecified|Unspecified|United States|CRI|2020-03-02|2020-03-25|2020-05-18|[Turk PJ. et al.](https://pubmed.ncbi.nlm.nih.gov/32427104/?from_term=%28%28%28COVID-19+OR+%282019nCoV%29%29+AND+%28%22serial+interval%22+OR+%22doubling+time%22%29%29%29&from_sort=date&from_pos=1)|
+|Yes|1.79|Unspecified|Unspecified|Unspecified|United States|North Carolina|2020-03-02|2020-03-25|2020-05-18|[Turk PJ. et al.](https://pubmed.ncbi.nlm.nih.gov/32427104/?from_term=%28%28%28COVID-19+OR+%282019nCoV%29%29+AND+%28%22serial+interval%22+OR+%22doubling+time%22%29%29%29&from_sort=date&from_pos=1)|
+|Yes|1.33|Unspecified|Unspecified|Unspecified|United States|CRI|2020-03-26|2020-04-07|2020-05-18|[Turk PJ. et al.](https://pubmed.ncbi.nlm.nih.gov/32427104/?from_term=%28%28%28COVID-19+OR+%282019nCoV%29%29+AND+%28%22serial+interval%22+OR+%22doubling+time%22%29%29%29&from_sort=date&from_pos=1)|
+|Yes|1.34|Unspecified|Unspecified|Unspecified|United States|North Carolina|2020-03-26|2020-04-07|2020-05-18|[Turk PJ. et al.](https://pubmed.ncbi.nlm.nih.gov/32427104/?from_term=%28%28%28COVID-19+OR+%282019nCoV%29%29+AND+%28%22serial+interval%22+OR+%22doubling+time%22%29%29%29&from_sort=date&from_pos=1)|
 
 ## Cumulative Case Count
 
@@ -358,6 +363,10 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|3.4|2.4|5.1|Unspecified|United States|Washington|2020-02-20|2020-03-15|2020-04-06|[Bedford T. et al.](https://www.medrxiv.org/content/10.1101/2020.04.02.20051417v1.full.pdf)|
 |No|2.52|2.519|2.521|Unspecified|United States|Unspecified|2020-01-15|Unspecified|2020-04-03|[Silverman JD. et al.](https://www.medrxiv.org/content/10.1101/2020.04.01.20050542v1)|
 |No|2.455|2.454|2.456|Unspecified|United States|Unspecified|2020-01-15|Unspecified|2020-04-03|[Silverman JD. et al.](https://www.medrxiv.org/content/10.1101/2020.04.01.20050542v1)|
+|Yes|2.56|2.11|3.25|Unspecified|United States|CRI|2020-03-02|2020-03-25|2020-05-18|[Turk PJ. et al.](https://pubmed.ncbi.nlm.nih.gov/32427104/?from_term=%28%28%28COVID-19+OR+%282019nCoV%29%29+AND+%28%22serial+interval%22+OR+%22doubling+time%22%29%29%29&from_sort=date&from_pos=1)|
+|Yes|2.94|2.33|4|Unspecified|United States|North Carolina|2020-03-02|2020-03-25|2020-05-18|[Turk PJ. et al.](https://pubmed.ncbi.nlm.nih.gov/32427104/?from_term=%28%28%28COVID-19+OR+%282019nCoV%29%29+AND+%28%22serial+interval%22+OR+%22doubling+time%22%29%29%29&from_sort=date&from_pos=1)|
+|Yes|4.7|3.77|6.22|Unspecified|United States|CRI|2020-03-02|2020-04-07|2020-05-18|[Turk PJ. et al.](https://pubmed.ncbi.nlm.nih.gov/32427104/?from_term=%28%28%28COVID-19+OR+%282019nCoV%29%29+AND+%28%22serial+interval%22+OR+%22doubling+time%22%29%29%29&from_sort=date&from_pos=1)|
+|Yes|4.01|3.43|4.83|Unspecified|United States|North Carolina|2020-03-02|2020-04-07|2020-05-18|[Turk PJ. et al.](https://pubmed.ncbi.nlm.nih.gov/32427104/?from_term=%28%28%28COVID-19+OR+%282019nCoV%29%29+AND+%28%22serial+interval%22+OR+%22doubling+time%22%29%29%29&from_sort=date&from_pos=1)|
 
 ## Effective Reproduction Number
 
@@ -399,6 +408,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |Yes|2.67|2.38|2.98|Unspecified|Colombia|Unspecified|2020-03-15|2020-03-25|2020-04-30|[Caicedo-Ochoa Y. et al.](https://pubmed.ncbi.nlm.nih.gov/32360941/)|
 |Yes|2.36|2.11|2.63|Unspecified|Peru|Unspecified|2020-03-13|2020-03-23|2020-04-30|[Caicedo-Ochoa Y. et al.](https://pubmed.ncbi.nlm.nih.gov/32360941/)|
 |Yes|2.42|2.14|2.72|Unspecified|Mexico|Unspecified|2020-03-12|2020-03-22|2020-04-30|[Caicedo-Ochoa Y. et al.](https://pubmed.ncbi.nlm.nih.gov/32360941/)|
+|No|0.76|Unspecified|Unspecified|Unspecified|France|Unspecified|2020-03-12|2020-05-01|2020-05-01|[Unlu E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.27.20079962v1)|
 
 ## Generation Time
 
@@ -555,6 +565,8 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|4.8|4.2|5.4|Unspecified|China|Shenzhen|2020-01-14|2020-02-12|2020-03-04|[Qifang Bi et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20028423v1.article-info)|
 |Yes|4.2|3.5|5.1|Unspecified|China|Unspecified|2020-01-15|2020-01-20|2020-04-08|[Sanche S. et al.](https://wwwnc.cdc.gov/eid/article/26/7/20-0282_article)|
 |Yes|5.2|1.8|12.4|Unspecified|China|Mainland China excluding Hubei|2020-12-24|2020-02-14|2020-04-02|[Zhang J. et al.](https://www.ncbi.nlm.nih.gov/pubmed/32247326)|
+|No|6.4|4.89|8.5|Unspecified|Vietnam|Unspecified|2020-01-23|2020-04-13|2020-05-15|[Bui LV. et al.](https://www.medrxiv.org/content/10.1101/2020.05.09.20096800v1)|
+|No|5.1|Unspecified|Unspecified|Unspecified|France|Unspecified|2020-02-15|2020-05-01|2020-05-01|[Unlu E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.27.20079962v1)|
 
 ## Reporting Rate
 
