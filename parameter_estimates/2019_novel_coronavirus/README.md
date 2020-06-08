@@ -167,6 +167,30 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |Yes|1.79|Unspecified|Unspecified|Unspecified|United States|North Carolina|2020-03-02|2020-03-25|2020-05-18|[Turk PJ. et al.](https://pubmed.ncbi.nlm.nih.gov/32427104/?from_term=%28%28%28COVID-19+OR+%282019nCoV%29%29+AND+%28%22serial+interval%22+OR+%22doubling+time%22%29%29%29&from_sort=date&from_pos=1)|
 |Yes|1.33|Unspecified|Unspecified|Unspecified|United States|CRI|2020-03-26|2020-04-07|2020-05-18|[Turk PJ. et al.](https://pubmed.ncbi.nlm.nih.gov/32427104/?from_term=%28%28%28COVID-19+OR+%282019nCoV%29%29+AND+%28%22serial+interval%22+OR+%22doubling+time%22%29%29%29&from_sort=date&from_pos=1)|
 |Yes|1.34|Unspecified|Unspecified|Unspecified|United States|North Carolina|2020-03-26|2020-04-07|2020-05-18|[Turk PJ. et al.](https://pubmed.ncbi.nlm.nih.gov/32427104/?from_term=%28%28%28COVID-19+OR+%282019nCoV%29%29+AND+%28%22serial+interval%22+OR+%22doubling+time%22%29%29%29&from_sort=date&from_pos=1)|
+|No|2.3|2|2.5|Unspecified|Peru|Lima|2020-02-29|2020-03-15|2020-05-12|[Munayco CV. et al.](https://www.sciencedirect.com/science/article/pii/S2468042720300130?via%3Dihub#tbl1)|
+|No|1.15|Unspecified|Unspecified|Unspecified|India|Unspecified|2020-03-03|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
+|No|1.11|Unspecified|Unspecified|Unspecified|India|Maharashtra|2020-03-11|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
+|No|1.58|Unspecified|Unspecified|Unspecified|India|Gujrat|2020-03-20|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
+|No|3.1|Unspecified|Unspecified|Unspecified|India|Tamil Nadu|2020-03-18|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
+|No|1.19|Unspecified|Unspecified|Unspecified|India|Delhi|2020-03-03|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
+|No|1.72|Unspecified|Unspecified|Unspecified|India|Rajasthan|2020-03-03|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
+|No|1.68|Unspecified|Unspecified|Unspecified|India|Madhya Pradesh|2020-03-22|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
+|No|1.77|Unspecified|Unspecified|Unspecified|India|Uttar Pradesh|2020-03-04|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
+|No|1.96|Unspecified|Unspecified|Unspecified|India|West Bengal|2020-03-19|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
+|No|1.12|Unspecified|Unspecified|Unspecified|India|Andhra Pradesh|2020-03-19|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
+|No|1.28|Unspecified|Unspecified|Unspecified|India|Punjab|2020-03-18|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
+|No|2.44|Unspecified|Unspecified|Unspecified|India|Telangana|2020-03-14|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
+|No|1.41|Unspecified|Unspecified|Unspecified|India|Jammu and Kashmir|2020-03-13|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
+|No|1.09|Unspecified|Unspecified|Unspecified|India|Karnataka|2020-03-12|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
+|No|7.92|Unspecified|Unspecified|Unspecified|India|Bihar|2020-03-23|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
+|No|2.55|Unspecified|Unspecified|Unspecified|India|Kerala|2020-03-05|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
+|No|1.74|Unspecified|Unspecified|Unspecified|India|Odisha|2020-03-21|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
+|No|1.86|Unspecified|Unspecified|Unspecified|India|Jharkhand|2020-04-02|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
+|No|1.87|Unspecified|Unspecified|Unspecified|India|Tripura|2020-04-10|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
+|No|1.03|Unspecified|Unspecified|Unspecified|India|Uttarakhand|2020-03-20|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
+|No|3.44|Unspecified|Unspecified|Unspecified|India|Assam|2020-04-01|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
+|No|3.23|Unspecified|Unspecified|Unspecified|India|Himachal Pradesh|2020-03-22|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
+|No|1.23|Unspecified|Unspecified|Unspecified|India|Chhattisgarh|2020-03-24|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
 
 ## Cumulative Case Count
 
@@ -541,6 +565,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|-0.04|Unspecified|Unspecified|Unspecified|United Kingdom|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
 |No|0.29|Unspecified|Unspecified|Unspecified|United States|Unspecified|2019-12-31|Unspecified|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
 |No|-0.07|Unspecified|Unspecified|Unspecified|United States|Unspecified|Unspecified|2020-04-16|2020-04-26|[Romero-Severson E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.18.20070771v2)|
+|Yes|0.168|0.159|0.178|Unspecified|United States|Unspecified|2020-03-21|2020-04-04|2020-05-15|[Chen D. et al.](https://ghrp.biomedcentral.com/articles/10.1186/s41256-020-00152-5)|
 
 ## Incubation Period
 
