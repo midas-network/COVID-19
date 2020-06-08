@@ -160,14 +160,15 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|3|2.6|3.3|Unspecified|China|Guangdong|2020-01-19|2020-01-31|2020-03-13|[Tang B. et al.](https://www.medrxiv.org/content/10.1101/2020.03.09.20033464v1)|
 |No|2.6|2.5|2.7|Unspecified|South Korea|Unspecified|2020-01-23|2020-03-02|2020-03-13|[Tang B. et al.](https://www.medrxiv.org/content/10.1101/2020.03.09.20033464v1)|
 |No|2.55|2.15|2.93|Unspecified|Algeria|Unspecified|2020-02-25|2020-03-22|2020-03-27|[Hamidouche M. et al.](https://doi.org/10.1101/2020.03.20.20039891)|
+|Yes|5.7|3.8|8.9|Unspecified|China|Unspecified|2020-01-15|2020-01-20|2020-04-08|[Sanche S. et al.](https://wwwnc.cdc.gov/eid/article/26/7/20-0282_article)|
 |No|Unspecified|4|7.1|Unspecified|global|Unspecified|2020-01-20|2020-04-10|2020-04-15|[Ke R. et al.](https://www.medrxiv.org/content/10.1101/2020.04.04.20050427v2)|
-|No|3.6|3.49|3.84|Unspecified|Italy|Unspecified|2020-02-22|2020-03-08|2020-04-23|[Gatto M. et al.](https://www.pnas.org/content/early/2020/04/22/2004978117#T2)|
+|Yes|3.6|3.49|3.84|Unspecified|Italy|Unspecified|2020-02-22|2020-03-08|2020-04-23|[Gatto M. et al.](https://www.pnas.org/content/early/2020/04/22/2004978117#T2)|
 |No|3.56|Unspecified|Unspecified|Unspecified|France|Unspecified|2020-02-15|2020-03-11|2020-05-01|[Unlu E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.27.20079962v1)|
 |Yes|2.36|Unspecified|Unspecified|Unspecified|United States|CRI|2020-03-02|2020-03-25|2020-05-18|[Turk PJ. et al.](https://pubmed.ncbi.nlm.nih.gov/32427104/?from_term=%28%28%28COVID-19+OR+%282019nCoV%29%29+AND+%28%22serial+interval%22+OR+%22doubling+time%22%29%29%29&from_sort=date&from_pos=1)|
 |Yes|1.79|Unspecified|Unspecified|Unspecified|United States|North Carolina|2020-03-02|2020-03-25|2020-05-18|[Turk PJ. et al.](https://pubmed.ncbi.nlm.nih.gov/32427104/?from_term=%28%28%28COVID-19+OR+%282019nCoV%29%29+AND+%28%22serial+interval%22+OR+%22doubling+time%22%29%29%29&from_sort=date&from_pos=1)|
 |Yes|1.33|Unspecified|Unspecified|Unspecified|United States|CRI|2020-03-26|2020-04-07|2020-05-18|[Turk PJ. et al.](https://pubmed.ncbi.nlm.nih.gov/32427104/?from_term=%28%28%28COVID-19+OR+%282019nCoV%29%29+AND+%28%22serial+interval%22+OR+%22doubling+time%22%29%29%29&from_sort=date&from_pos=1)|
 |Yes|1.34|Unspecified|Unspecified|Unspecified|United States|North Carolina|2020-03-26|2020-04-07|2020-05-18|[Turk PJ. et al.](https://pubmed.ncbi.nlm.nih.gov/32427104/?from_term=%28%28%28COVID-19+OR+%282019nCoV%29%29+AND+%28%22serial+interval%22+OR+%22doubling+time%22%29%29%29&from_sort=date&from_pos=1)|
-|No|2.3|2|2.5|Unspecified|Peru|Lima|2020-02-29|2020-03-15|2020-05-12|[Munayco CV. et al.](https://www.sciencedirect.com/science/article/pii/S2468042720300130?via%3Dihub#tbl1)|
+|Yes|2.3|2|2.5|Unspecified|Peru|Lima|2020-02-29|2020-03-15|2020-05-12|[Munayco CV. et al.](https://www.sciencedirect.com/science/article/pii/S2468042720300130?via%3Dihub#tbl1)|
 |No|1.15|Unspecified|Unspecified|Unspecified|India|Unspecified|2020-03-03|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
 |No|1.11|Unspecified|Unspecified|Unspecified|India|Maharashtra|2020-03-11|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
 |No|1.58|Unspecified|Unspecified|Unspecified|India|Gujrat|2020-03-20|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
@@ -191,6 +192,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|3.44|Unspecified|Unspecified|Unspecified|India|Assam|2020-04-01|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
 |No|3.23|Unspecified|Unspecified|Unspecified|India|Himachal Pradesh|2020-03-22|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
 |No|1.23|Unspecified|Unspecified|Unspecified|India|Chhattisgarh|2020-03-24|2020-05-12|2020-05-19|[Jakhar M. et al.](https://www.medrxiv.org/content/10.1101/2020.05.14.20101725v1)|
+|No|4.06|1.86|6.73|Unspecified|United States|Unspecified|2020-01-21|2020-03-21|2020-05-22|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.05.07.20094086v2)|
 
 ## Cumulative Case Count
 
@@ -433,6 +435,12 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |Yes|2.36|2.11|2.63|Unspecified|Peru|Unspecified|2020-03-13|2020-03-23|2020-04-30|[Caicedo-Ochoa Y. et al.](https://pubmed.ncbi.nlm.nih.gov/32360941/)|
 |Yes|2.42|2.14|2.72|Unspecified|Mexico|Unspecified|2020-03-12|2020-03-22|2020-04-30|[Caicedo-Ochoa Y. et al.](https://pubmed.ncbi.nlm.nih.gov/32360941/)|
 |No|0.76|Unspecified|Unspecified|Unspecified|France|Unspecified|2020-03-12|2020-05-01|2020-05-01|[Unlu E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.27.20079962v1)|
+|Yes|1.85|0.6|2.3|Unspecified|Italy|Marche|2020-02-26|2020-04-20|2020-05-10|[Chinatalapudi N. et al.](https://www.ijidonline.com/article/S1201-9712(20)30336-2/fulltext)|
+|Yes|2.49|1.1|4.5|Unspecified|Italy|Pesaro and Urbano|2020-02-26|2020-04-20|2020-05-10|[Chinatalapudi N. et al.](https://www.ijidonline.com/article/S1201-9712(20)30336-2/fulltext)|
+|Yes|2.16|1|4|Unspecified|Italy|Ancona|2020-02-26|2020-04-20|2020-05-10|[Chinatalapudi N. et al.](https://www.ijidonline.com/article/S1201-9712(20)30336-2/fulltext)|
+|Yes|1.51|0.75|2.75|Unspecified|Italy|Fermo|2020-02-26|2020-04-20|2020-05-10|[Chinatalapudi N. et al.](https://www.ijidonline.com/article/S1201-9712(20)30336-2/fulltext)|
+|Yes|1.14|1|1.6|Unspecified|Italy|Ascoli Piceno|2020-02-26|2020-04-20|2020-05-10|[Chinatalapudi N. et al.](https://www.ijidonline.com/article/S1201-9712(20)30336-2/fulltext)|
+|Yes|1.79|1|3.5|Unspecified|Italy|Macerata|2020-02-26|2020-04-20|2020-05-10|[Chinatalapudi N. et al.](https://www.ijidonline.com/article/S1201-9712(20)30336-2/fulltext)|
 
 ## Generation Time
 
@@ -592,6 +600,8 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |Yes|5.2|1.8|12.4|Unspecified|China|Mainland China excluding Hubei|2020-12-24|2020-02-14|2020-04-02|[Zhang J. et al.](https://www.ncbi.nlm.nih.gov/pubmed/32247326)|
 |No|6.4|4.89|8.5|Unspecified|Vietnam|Unspecified|2020-01-23|2020-04-13|2020-05-15|[Bui LV. et al.](https://www.medrxiv.org/content/10.1101/2020.05.09.20096800v1)|
 |No|5.1|Unspecified|Unspecified|Unspecified|France|Unspecified|2020-02-15|2020-05-01|2020-05-01|[Unlu E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.27.20079962v1)|
+|No|8.41|6.64|9.42|Unspecified|United States|Unspecified|2020-01-21|2020-03-21|2020-05-22|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.05.07.20094086v2)|
+|No|10.69|10.02|11.74|Unspecified|United States|Unspecified|2020-03-22|2020-04-13|2020-05-22|[Liu Q. et al.](https://www.medrxiv.org/content/10.1101/2020.05.07.20094086v2)|
 
 ## Reporting Rate
 
@@ -605,11 +615,11 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |---|---|---|---|---|---|---|---|---|---|---|
 |No|14.9|12.1|18.2|Unspecified|China|Shenzhen|2020-01-14|2020-02-12|2020-03-04|[Qifang Bi et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20028423v1.article-info)|
 |No|9.6|7.9|11.8|Unspecified|China|Shenzhen|2020-01-14|2020-02-12|2020-03-04|[Qifang Bi et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20028423v1.article-info)|
-|No|77.00%|63.00%|83.00%|5-14|Canada|Ontario|Unspecified|Unspecified|2020-04-09|[Tuite AR. et al.](https://www.cmaj.ca/content/cmaj/early/2020/04/09/cmaj.200476.full.pdf)|
-|No|63.00%|48.00%|71.00%|15-49|Canada|Ontario|Unspecified|Unspecified|2020-04-09|[Tuite AR. et al.](https://www.cmaj.ca/content/cmaj/early/2020/04/09/cmaj.200476.full.pdf)|
-|No|50.00%|37.00%|58.00%|0-5|Canada|Ontario|Unspecified|Unspecified|2020-04-09|[Tuite AR. et al.](https://www.cmaj.ca/content/cmaj/early/2020/04/09/cmaj.200476.full.pdf)|
-|No|47.00%|34.00%|55.00%|50-69|Canada|Ontario|Unspecified|Unspecified|2020-04-09|[Tuite AR. et al.](https://www.cmaj.ca/content/cmaj/early/2020/04/09/cmaj.200476.full.pdf)|
-|No|30.00%|21.00%|36.00%|70-130|Canada|Ontario|Unspecified|Unspecified|2020-04-09|[Tuite AR. et al.](https://www.cmaj.ca/content/cmaj/early/2020/04/09/cmaj.200476.full.pdf)|
+|Yes|77.00%|63.00%|83.00%|5-14|Canada|Ontario|Unspecified|Unspecified|2020-04-09|[Tuite AR. et al.](https://www.cmaj.ca/content/cmaj/early/2020/04/09/cmaj.200476.full.pdf)|
+|Yes|63.00%|48.00%|71.00%|15-49|Canada|Ontario|Unspecified|Unspecified|2020-04-09|[Tuite AR. et al.](https://www.cmaj.ca/content/cmaj/early/2020/04/09/cmaj.200476.full.pdf)|
+|Yes|50.00%|37.00%|58.00%|0-5|Canada|Ontario|Unspecified|Unspecified|2020-04-09|[Tuite AR. et al.](https://www.cmaj.ca/content/cmaj/early/2020/04/09/cmaj.200476.full.pdf)|
+|Yes|47.00%|34.00%|55.00%|50-69|Canada|Ontario|Unspecified|Unspecified|2020-04-09|[Tuite AR. et al.](https://www.cmaj.ca/content/cmaj/early/2020/04/09/cmaj.200476.full.pdf)|
+|Yes|30.00%|21.00%|36.00%|70-130|Canada|Ontario|Unspecified|Unspecified|2020-04-09|[Tuite AR. et al.](https://www.cmaj.ca/content/cmaj/early/2020/04/09/cmaj.200476.full.pdf)|
 
 ## Serial Interval
 
