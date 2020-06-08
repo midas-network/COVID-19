@@ -28,6 +28,7 @@ We highly encourage community member to contribute to COVID-19 repository. Commu
 |[Shi Chen](https://publichealth.uncc.edu/directory/shi-chen)|University of North Carolina|[Parameter estimates](https://github.com/midas-network/COVID-19/tree/master/parameter_estimates/2019_novel_coronavirus)| 
 |[Mauricio Santillana](https://midasnetwork.us/people/mauricio-santillana-guzman/)|Harvard University|[Parameter estimates](https://github.com/midas-network/COVID-19/tree/master/parameter_estimates/2019_novel_coronavirus) and [data associated](https://github.com/midas-network/COVID-19/tree/master/data/data_from_papers/dataset_luo-et-al_202002/)| 
 |[Kaiyuan Sun](http://misms.net/staff/sun/)|National Institutes of Health|[Data resources](https://github.com/midas-network/COVID-19/tree/master/data/cases/china/cumulative_cases_DXY)
+|[Shifu Chen](https://scholar.google.com/citations?hl=en&user=tW47uPIAAAAJ)|HaploX Biotechnology|[Software resources](https://github.com/midas-network/COVID-19/tree/master/software_tools)|
  
 ## Data
 ### <ins>[Data Catalog](https://github.com/midas-network/COVID-19/wiki/Data-catalog)</ins>

@@ -8,10 +8,10 @@ collection_spatial_coverage,Unites States of America
 collection_creator_name,The New York Times
 collection_creator_contact,covid-data@nytimes.com
 collection_publisher,The New York Times via nytimes GitHub repository
-collection_description,"Data from The New York Times, based on reports from state and local health agencies. Data files with cumulative counts of coronavirus cases in the United States, at the state and county level, over time. The data are created by compiling time series data from state and local governments and health departments. Data on cumulative coronavirus cases and deaths can be found in two files for states and counties. Each row of data reports cumulative counts based on the best reporting up to the moment they publish an update. Both files contain FIPS codes, a standard geographic identifier, to make it easier for an analyst to combine this data with other data sets like a map file or population data."
+collection_description,"Data from The New York Times, based on reports from state and local health agencies. Data files with cumulative counts of coronavirus cases in the United States, at the state and county level, over time. The data are created by compiling time series data from state and local governments and health departments. Data on cumulative coronavirus cases and deaths can be found in two files for states and counties. Starting from 2020-06-02, the cumulative number of cases and deaths will also be available at country level (files named “us”). Each row of data reports cumulative counts based on the best reporting up to the moment they publish an update. Both files contain FIPS codes, a standard geographic identifier, to make it easier for an analyst to combine this data with other data sets like a map file or population data."
 collection_URL_original,https://github.com/nytimes/covid-19-data
 collection_format,CSV files
-collection_number_files,120
+collection_number_files,146
 collection_members.1,20200330_us-counties.csv
 collection_members.2,20200330_us-states.csv
 collection_members.3,20200331_us-counties.csv
@@ -132,14 +132,40 @@ collection_members.117,20200527_us-counties.csv
 collection_members.118,20200527_us-states.csv
 collection_members.119,20200528_us-counties.csv
 collection_members.120,20200528_us-states.csv
+collection_members.121,20200529_us-counties.csv
+collection_members.122,20200529_us-states.csv
+collection_members.123,20200530_us-counties.csv
+collection_members.124,20200530_us-states.csv
+collection_members.125,20200531_us-counties.csv
+collection_members.126,20200531_us-states.csv
+collection_members.127,20200601_us-counties.csv
+collection_members.128,20200601_us-states.csv
+collection_members.129,20200602_us-counties.csv
+collection_members.130,20200602_us-states.csv
+collection_members.131,20200602_us.csv
+collection_members.132,20200603_us-counties.csv
+collection_members.133,20200603_us-states.csv
+collection_members.134,20200603_us.csv
+collection_members.135,20200604_us-counties.csv
+collection_members.136,20200604_us-states.csv
+collection_members.137,20200604_us.csv
+collection_members.138,20200605_us-counties.csv
+collection_members.139,20200605_us-states.csv
+collection_members.140,20200605_us.csv
+collection_members.141,20200606_us-counties.csv
+collection_members.142,20200606_us-states.csv
+collection_members.143,20200606_us.csv
+collection_members.144,20200607_us-counties.csv
+collection_members.145,20200607_us-states.csv
+collection_members.146,20200607_us.csv
 collection_first_report_date,2020-01-21
-collection_last_report_date,2020-05-27
+collection_last_report_date,2020-06-06
 collection_license,https://github.com/nytimes/covid-19-data/blob/master/LICENSE
 collection_access,CSV files copied from the GitHub repository
 related_object_id,NA
 related_object_path,NA
 relation_description,NA
 curation _notes,NA
-collection_lastupdated_date,2020-05-28
+collection_lastupdated_date,2020-06-07
 collection_lastupdated_person,"Anne Cross, University of Pittsburgh, ORCID 0000-0003-1707-253X"
 collection_lastupdated_email,anne.cross@pitt.edu
