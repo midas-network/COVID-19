@@ -434,7 +434,7 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |Yes|2.67|2.38|2.98|Unspecified|Colombia|Unspecified|2020-03-15|2020-03-25|2020-04-30|[Caicedo-Ochoa Y. et al.](https://pubmed.ncbi.nlm.nih.gov/32360941/)|
 |Yes|2.36|2.11|2.63|Unspecified|Peru|Unspecified|2020-03-13|2020-03-23|2020-04-30|[Caicedo-Ochoa Y. et al.](https://pubmed.ncbi.nlm.nih.gov/32360941/)|
 |Yes|2.42|2.14|2.72|Unspecified|Mexico|Unspecified|2020-03-12|2020-03-22|2020-04-30|[Caicedo-Ochoa Y. et al.](https://pubmed.ncbi.nlm.nih.gov/32360941/)|
-|No|0.76|Unspecified|Unspecified|Unspecified|France|Unspecified|2020-03-12|2020-05-01|2020-05-01|[Unlu E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.27.20079962v1)|
+|No|0.74|Unspecified|Unspecified|Unspecified|France|Unspecified|2020-03-12|2020-05-01|2020-05-01|[Unlu E. et al.](https://www.medrxiv.org/content/10.1101/2020.04.27.20079962v1)|
 |Yes|1.85|0.6|2.3|Unspecified|Italy|Marche|2020-02-26|2020-04-20|2020-05-10|[Chinatalapudi N. et al.](https://www.ijidonline.com/article/S1201-9712(20)30336-2/fulltext)|
 |Yes|2.49|1.1|4.5|Unspecified|Italy|Pesaro and Urbano|2020-02-26|2020-04-20|2020-05-10|[Chinatalapudi N. et al.](https://www.ijidonline.com/article/S1201-9712(20)30336-2/fulltext)|
 |Yes|2.16|1|4|Unspecified|Italy|Ancona|2020-02-26|2020-04-20|2020-05-10|[Chinatalapudi N. et al.](https://www.ijidonline.com/article/S1201-9712(20)30336-2/fulltext)|
