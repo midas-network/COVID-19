@@ -925,9 +925,9 @@ The first column indicates if a value was peer-reviewed positively (Yes) or nega
 |No|2.2|Unspecified|Unspecified|Unspecified|China|Tianjin|2020-01-21|2020-02-22|2020-03-06|[Tindale LC. et al.](https://www.medrxiv.org/content/10.1101/2020.03.03.20029983v1)|
 |No|0.8-0.9|Unspecified|Unspecified|Unspecified|China|excluding Hubei|2020-01-21|2020-03-01|2020-03-03|[Rui Qi et al.](https://www.medrxiv.org/content/10.1101/2020.02.26.20028076v2)|
 |No|5.4|Unspecified|Unspecified|Unspecified|China|Hubei|2020-01-21|2020-03-01|2020-03-03|[Rui Qi et al.](https://www.medrxiv.org/content/10.1101/2020.02.26.20028076v2)|
-|No|1.20%|0.28%|2.70%|Unspecified|NA|Diamond Princess|2020-01-19|2020-02-20|2020-03-09|[Russell TW. et al.](10.1101/2020.03.05.20031773)|
-|No|18%|7.30%|33%|70-130|NA|Diamond Princess|2020-01-19|2020-02-20|2020-03-09|[Russell TW. et al.](10.1101/2020.03.05.20031773)|
-|No|1.10%|0.30%|2.40%|Unspecified|NA|China|Unspecified|2020-03-03|2020-03-09|[Russell TW. et al.](10.1101/2020.03.05.20031773)|
+|No|2.6%|0.89%|6.7%|Unspecified|NA|Diamond Princess|2020-01-19|2020-02-20|2020-03-26|[Russell TW. et al.](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.12.2000256#html_fulltext)|
+|No|13%|5.2%|26%|70-130|NA|Diamond Princess|2020-01-19|2020-02-20|2020-03-26|[Russell TW. et al.](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.12.2000256#html_fulltext)|
+|No|1.20%|0.30%|3.1%|Unspecified|NA|China|Unspecified|2020-03-03|2020-03-26|[Russell TW. et al.](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.12.2000256#html_fulltext)|
 |No|0.8-0.9|NA|NA|Unspecified|China|excluding Hubei|2020-01-21|2020-03-01|2020-03-03|[Qi R. et al.](https://www.medrxiv.org/content/10.1101/2020.02.26.20028076v2)|
 |No|5.4|NA|NA|Unspecified|China|Hubei|2020-01-21|2020-03-01|2020-03-03|[Qi R. et al.](https://www.medrxiv.org/content/10.1101/2020.02.26.20028076v2)|
 
