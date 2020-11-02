@@ -1,8 +1,6 @@
 EU/EEA and the UK,Sum of Cases,Sum of Deaths,14-day cumulative number of COVID-19 cases per 100 000,14-day cumulative number of COVID-19 deaths per 100 000
 France,1413915,   37 019,771.3,5.3
-Spain,"
-1185678
-",   35 878,530.7,4.5
+Spain,1185678,   35 878,530.7,4.5
 United_Kingdom,1034914,   46 717,468.9,4.6
 Italy,  709 335,   38 826,488.9,3.8
 Germany,  545 027,   10 530,215.3,0.9
@@ -24,9 +22,9 @@ Greece,   40 929,    635,145.1,1.2
 Slovenia,   35 649,    236,1081.5,3.6
 Norway,   19 563,    282,64.3,0.1
 Luxembourg,   18 782,    160,1325.3,4.4
-Finland,   16 291,    358,52.0,0.1
+Finland,   16 291,    358,52,0.1
 Lithuania,   15 719,    166,293.4,1.9
-Malta,   6 182,    64,385.0,3.8
+Malta,   6 182,    64,385,3.8
 Latvia,   6 136,    74,139.9,1.7
 Estonia,   4 985,    73,68.5,0.4
 Iceland,   4 890,    12,233.9,0.3
