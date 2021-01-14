@@ -10,6 +10,6 @@ collection_creator_contact 	NA
 collection_publisher 	Apple inc
 collection_description 	Provides Mobility Trend data.
 collection_URL_original 	https://covid19-static.cdn-apple.com/covid19-mobility-data/current/v3/index.json
-collection_format 	CSV files
+collection_format 	GZ files
 collection_number_files 	1
-collection_members.1 	global_applemobility-2020-01-14.csv
+collection_members.1 	apple_mobility_US.csv.gz
