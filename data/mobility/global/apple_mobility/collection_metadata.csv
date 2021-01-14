@@ -1,1 +1,15 @@
-
+collection_ID 	apple_mobility
+collection_title_en 	COVID-19 Mobility Trend Reports
+collection_title_original 	COVID-19 Mobility Trend Reports
+collection_path_repository 	COVID-19\mobility\global\apple_mobility
+collection_language 	English
+collection_type 	mobility data
+collection_spatial_coverage 	Global
+collection_creator_name 	Apple inc
+collection_creator_contact 	NA
+collection_publisher 	Apple inc
+collection_description 	Provides Mobility Trend data.
+collection_URL_original 	https://covid19-static.cdn-apple.com/covid19-mobility-data/current/v3/index.json
+collection_format 	CSV files
+collection_number_files 	1
+collection_members.1 	global_applemobility-2020-01-14.csv
