@@ -1,0 +1,15 @@
+collection_ID 	COVID-19 India
+collection_title_en 	COVID-19 India Reports
+collection_title_original 	COVID-19 India Reports
+collection_path_repository 	COVID-19\data\cases\India
+collection_language 	English
+collection_type 	Case counts
+collection_spatial_coverage 	India
+collection_creator_name 	COVID19 India
+collection_creator_contact 	NA
+collection_publisher 	COVID19 India
+collection_description 	COVID-19 case counts
+collection_URL_original 	https://www.covid19india.org
+collection_format 	GZ files
+collection_number_files 	1
+collection_members.1 	covid19_India.csv.gz
