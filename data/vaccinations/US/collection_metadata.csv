@@ -1,1 +1,17 @@
-
+collection_ID 	covid19_US_vaccination
+collection_title_en 	COVID-19 US Vaccination Report
+collection_title_original 	COVID-19 US Vaccination Report
+collection_path_repository 	COVID-19\vaccinations\US
+collection_language 	English
+collection_type 	vaccination data
+collection_spatial_coverage 	US
+collection_creator_name 	Centers for Civic Impact(JHU)
+collection_creator_contact 	NA
+collection_publisher 	Centers for Civic Impact(JHU)
+collection_description 	Provides US COVID-19 vaccination report
+collection_URL_original 	https://github.com/govex/COVID-19
+collection_format 	GZ files
+collection_number_files 	1
+collection_members.1 	vaccine_US_timeline.csv.gz
+collection_lastupdated_person 	Manoj, Researcher, Pace University
+collection_lastupdated_email 	mgithub40@gmail.com
