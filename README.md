@@ -2,6 +2,12 @@
 
 # MIDAS 2019 Novel Coronavirus Repository
 </br>
+</br>
+</br>
+</br>
+</br>
+
+We will be transitioning this GitHub repository to an online repository on the MIDAS website in the next months. We will not be accepting GitHub Pull requests or other contributions to this repository. If you'd like to point us to datasets, software, or other useful information, please post an issue and we'll aim to include the resource in the forthcoming MIDAS data portal. 
 
 ## New MIDAS Online Portal for COVID-19 Modeling Research
 The MIDAS Coordination Center released an [online portal for COVID-19 modeling research](https://midasnetwork.us/covid-19/). The portal improves navigation and search of COVID-19 information. Moving forward we will use the online portal as landing page for COVID-19 data and information and the COVID-19 GitHub repository for sharing of computable (CSV) files with data, parameter estimates, software, and metadata. All community contribution functionality of this repository will be maintained, so continue to send [pull requests](https://github.com/midas-network/COVID-19/wiki/Information-for-Contributors) or [issues](https://github.com/midas-network/COVID-19/issues) for questions or contributions! 
@@ -42,9 +48,6 @@ Software tools for data-processing, modeling, and visualizations will be include
 
 ## <ins>[Documents](https://github.com/midas-network/COVID-19/wiki/Documents)</ins>
 All documents relevant to COVID-19 are posted in this section. Documents are mostly organized by country or by topic. Pre-prints and peer-reviewd manuscripts are posted with links to external webpages only while all other documents are also stored in this repository as collections in the [documents folder](https://github.com/midas-network/COVID-19/tree/master/documents). Add new documents by submitting an [issue](https://github.com/midas-network/COVID-19/issues) with the document information. *Given the large number of COVID-19 papers being published, we will continue to update COVID-19 modeling papers only. 
-
-## <ins>[Information for Contributors](https://github.com/midas-network/COVID-19/wiki/Information-for-Contributors)</ins>
-Anybody can contribute to this repository through pull requests. Community members are encouraged to contribute new data and findings, and help make this repository increasingly complete and useful. This section includes detailed instructions for pull requests and templates for metadata, data guides, and other files formats and content standards. Email questions@midasnetwork.us in case of questions or ideas.
 
 ## <a id="userinfo"></a>Information for Users
 Many people have contributed to the creation of this repository and of its content. Please cite the creators of data or other content listed in the respective metadata if you use any of their contributions. Also cite this repository as the source for those contributions as per the following suggested citation: "Creators of object, name of object, Retrieved from: MIDAS 2019 Novel Coronavirus GitHub Repository, URL. Accessed date"
