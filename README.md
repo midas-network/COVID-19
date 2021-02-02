@@ -2,6 +2,8 @@
 
 # MIDAS 2019 Novel Coronavirus Repository
 </br>
+</br>
+</br>
 We will be transitioning this GitHub repository to an online repository on the MIDAS website in the next months. We will not be accepting GitHub Pull requests or other contributions to this repository. If you'd like to point us to datasets, software, or other useful information, please post an issue and we'll aim to include the resource in the forthcoming MIDAS data portal. 
 
 ## New MIDAS Online Portal for COVID-19 Modeling Research
