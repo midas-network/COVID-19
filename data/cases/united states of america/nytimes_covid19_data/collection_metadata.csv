@@ -11,7 +11,7 @@ collection_publisher,The New York Times via nytimes GitHub repository
 collection_description,"Data from The New York Times, based on reports from state and local health agencies. Data files with cumulative counts of coronavirus cases in the United States, at the state and county level, over time. The data are created by compiling time series data from state and local governments and health departments. Data on cumulative coronavirus cases and deaths can be found in two files for states and counties. Starting from 2020-06-02, the cumulative number of cases and deaths will also be available at country level (files named “us”). Each row of data reports cumulative counts based on the best reporting up to the moment they publish an update. Both files contain FIPS codes, a standard geographic identifier, to make it easier for an analyst to combine this data with other data sets like a map file or population data."
 collection_URL_original,https://github.com/nytimes/covid-19-data
 collection_format,CSV files
-collection_number_files,1757
+collection_number_files,1760
 collection_members.1,20200330_us-counties.csv
 collection_members.2,20200330_us-states.csv
 collection_members.3,20200331_us-counties.csv
@@ -1769,14 +1769,17 @@ collection_members.1754,20211125_us.csv
 collection_members.1755,20211126_us-counties.csv
 collection_members.1756,20211126_us-states.csv
 collection_members.1757,20211126_us.csv
+collection_members.1758,20211127_us-counties.csv
+collection_members.1759,20211127_us-states.csv
+collection_members.1760,20211127_us.csv
 collection_first_report_date,2020-01-21
-collection_last_report_date,2021-11-25
+collection_last_report_date,2021-11-26
 collection_license,https://github.com/nytimes/covid-19-data/blob/master/LICENSE
 collection_access,CSV files copied from the GitHub repository
 related_object_id,NA
 related_object_path,NA
 relation_description,NA
 curation _notes,NA
-collection_lastupdated_date,2021-11-26
+collection_lastupdated_date,2021-11-27
 collection_lastupdated_person,"Anne Cross, University of Pittsburgh, ORCID 0000-0003-1707-253X"
 collection_lastupdated_email,anne.cross@pitt.edu
