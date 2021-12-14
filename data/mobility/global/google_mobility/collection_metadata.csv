@@ -11,7 +11,7 @@ collection_publisher,Google
 collection_description,"These Community Mobility Reports aim to provide insights into what has changed in response to policies aimed at combating COVID-19. The reports chart movement trends over time by geography, across different categories of places such as retail and recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential. Changes for each day are compared to a baseline value for that day of the week: the baseline is the median value, for the corresponding day of the week, during the 5-week period Jan 3–Feb 6, 2020."
 collection_URL_original,https://www.google.com/covid19/mobility/
 collection_format,CSV and ZIP files
-collection_number_files,86
+collection_number_files,87
 collection_members.1,Global_Mobility_Report_20200421.csv
 collection_members.2,Global_Mobility_Report_20200428.csv
 collection_members.3,Global_Mobility_Report_20200505.csv
@@ -98,14 +98,15 @@ collection_members.83,Global_Mobility_Report_20211116.csv.zip
 collection_members.84,Global_Mobility_Report_20211123.csv.zip
 collection_members.85,Global_Mobility_Report_20211130.csv.zip
 collection_members.86,Global_Mobility_Report_20211207.csv.zip
+collection_members.87,Global_Mobility_Report_20211214.csv.zip
 collection_first_report_date,2020-02-15
-collection_last_report_date,2021-12-03
+collection_last_report_date,2021-12-10
 collection_license,https://policies.google.com/terms
 collection_access,Download links
 related_object_id,NA
 related_object_path,NA
 relation_description,NA
 curation _notes,NA
-collection_lastupdated_date,2021-12-07
+collection_lastupdated_date,2021-12-14
 collection_lastupdated_person,"Anne Cross, University of Pittsburgh, ORCID 0000-0003-1707-253X"
 collection_lastupdated_email,anne.cross@pitt.edu
