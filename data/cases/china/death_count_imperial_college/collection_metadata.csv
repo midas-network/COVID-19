@@ -64,13 +64,13 @@ collection_creator_contact.27,NA
 collection_creator_contact.28,neil.ferguson@imperial.ac.uk
 collection_publisher,"Neil Ferguson, Imperial College London"
 collection_description,"Data attached to report 4 from Modeling reports published periodically by Imperial College, data on the characteristics of 39 cases who died from 201i-nCov infection in Hubei Province were collated from different websites."
-collection_URL_original,https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/
+collection_URL_original,https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/covid-19-reports/
 collection_format,csv
 collection_number_files,1
 collection_members.1,hubei_early_deaths_2020_07_02.csv
 collection_first_report_date,2020-01-09
 collection_last_report_date,2020-01-24
-collection_license,NA
+collection_license,https://creativecommons.org/licenses/by-nc-nd/4.0/
 collection_access,csv file that can be downloaded
 related_object_id.1,2020-01-17_Report_4_Severity.pdf
 related_object_path.1,COVID-19/Documents/Reports/model_reports/reports_imperial_college
