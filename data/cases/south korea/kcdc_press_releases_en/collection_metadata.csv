@@ -9,7 +9,7 @@ collection_creator_name,Korean Centers for Disease Control
 collection_creator_contact,NA
 collection_publisher,Korean Centers for Disease Control
 collection_description,"Narrative updates and some tabular data about confirmed nCoV cases in South Korea, and information about cases under investigation. Content and file titles vary. "
-collection_URL_original,https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030
+collection_URL_original,http://ncov.mohw.go.kr/en/tcmBoardList.do?pageIndex=2&brdId=12&brdGubun=125&board_id=&search_item=1&search_content=
 collection_format,PDF
 collection_number_files,127
 collection_members.1,Press_Release_(1.20).pdf
