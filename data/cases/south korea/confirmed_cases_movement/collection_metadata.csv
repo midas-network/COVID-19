@@ -34,7 +34,7 @@ collection_members.19,Korean_movement_2020-02-22.csv
 collection_members.20,Korean_movement_2020-02-23.csv
 collection_first_report_date,2020-01-19
 collection_last_report_date,2020-02-23
-collection_license,NA
+collection_license,https://www.kogl.or.kr/info/licenseType1.do
 collection_access,Webpage for viewing
 related_object_id.1,English-GoogleTranslate-webpage_snpshot_2020-02-08.pdf
 related_object_path.1,COVID-19\data\cases\south korea\confirmed_cases_movement
