@@ -4,10 +4,9 @@
 </br>
 </br>
 </br>
-We will be transitioning this GitHub repository to an online repository on the MIDAS website in the next months. We will not be accepting GitHub Pull requests or other contributions to this repository. If you'd like to point us to datasets, software, or other useful information, please post an issue and we'll aim to include the resource in the forthcoming MIDAS data portal. 
 
-## New MIDAS Online Portal for COVID-19 Modeling Research
-The MIDAS Coordination Center released an [online portal for COVID-19 modeling research](https://midasnetwork.us/covid-19/). The portal improves navigation and search of COVID-19 information. Moving forward we will use the online portal as landing page for COVID-19 data and information and the COVID-19 GitHub repository for sharing of computable (CSV) files with data, parameter estimates, software, and metadata. All community contribution functionality of this repository will be maintained, so continue to send [pull requests](https://github.com/midas-network/COVID-19/wiki/Information-for-Contributors) or [issues](https://github.com/midas-network/COVID-19/issues) for questions or contributions! 
+This GitHub only contains historical data. We have transitioned this GitHub repository to an [online data catalog](https://midasnetwork.us/catalog/) on the MIDAS website. We will not be accepting GitHub Pull requests or other contributions to this repository. If you'd like to point us to datasets, software, or other useful information, please let us know by contacting the [MIDAS Coordination Center](mailto:questions@midasnetwork.us). 
+
 
 ### Introduction 
 This repository serves as a central platform to share computable information (in CSV format) relevant for modeling of the COVID-19 outbreak. The [MIDAS Coordination Center (MCC)](https://midasnetwork.us/mcc/) has created and will maintain it in collaboration with the broader modeling community. Community members are encouraged to contribute resources to the repository and thus support the overall COVID-19 research effort. See [Information for Contributors](https://github.com/midas-network/COVID-19/wiki/Information-for-Contributors) for guidance on how to contribute material. Contact questions@midasnetwork.us for any questions or ideas for improvements, or to send/request any material to be included. 
